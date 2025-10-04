@@ -1,5 +1,5 @@
 # sports-stats-analysis
-Data analysis project based on sports-reference.com statistics. Includes data collection, cleaning, exploration, and modeling of team performance with clustering, trend analysis, and match outcome prediction.
+Проект анализа данных с сайта sports-reference.com. Включает сбор, очистку и исследование статистики команд, анализ динамики результатов, кластеризацию и прогноз исходов матчей.
 
 # Sports Reference Analysis
 
