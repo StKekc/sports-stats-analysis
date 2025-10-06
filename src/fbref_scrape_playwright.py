@@ -13,6 +13,7 @@ import pathlib
 import time
 from typing import List, Optional, Tuple
 from io import StringIO
+from bs4 import BeautifulSoup
 
 import pandas as pd
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
@@ -51,25 +52,55 @@ def biggest_table(html: str) -> pd.DataFrame:
     return tbl
 
 def detect_standings_and_teamstats(html: str) -> Tuple[Optional[pd.DataFrame], Optional[pd.DataFrame]]:
-    dfs = pd.read_html(StringIO(html), flavor="lxml")
-    standings, teamstats = None, None
+    def tidy(df: Optional[pd.DataFrame]) -> Optional[pd.DataFrame]:
+        if df is None:
+            return None
+        df = df.loc[:, ~df.columns.duplicated()].dropna(how="all").reset_index(drop=True)
+        df.columns = (
+            pd.Index(df.columns)
+            .map(str).str.strip().str.lower()
+            .str.replace(" ", "_").str.replace("%","pct").str.replace("/","_").str.replace("-", "_", regex=False)
+        )
+        df.columns = ["".join(ch for ch in c if ch.isalnum() or ch == "_") for c in df.columns]
+        return df
 
-    # standings — ищем W/D/L/PTS
-    for df in dfs:
-        cols = set(map(lambda x: str(x).lower(), df.columns))
-        if {"w", "d", "l"}.issubset(cols) or {"wins", "draws", "losses"}.issubset(cols) or "pts" in cols or "points" in cols:
-            standings = df.loc[:, ~df.columns.duplicated()].dropna(how="all").reset_index(drop=True)
+    def table_to_df(tag) -> pd.DataFrame:
+        return pd.read_html(StringIO(str(tag)), flavor="lxml")[0]
+
+    soup = BeautifulSoup(html, "lxml")
+
+    # 1) Standings по id (надёжно), иначе — по заголовкам (W/D/L/PTS)
+    standings_df = None
+    st_tag = soup.find("table", id=lambda x: x and "standings" in x.lower())
+    if st_tag is None:
+        for t in soup.find_all("table"):
+            headers = [th.get_text(strip=True).lower() for th in t.select("thead th")]
+            if {"w","d","l"}.issubset(set(headers)) and ("pts" in headers or "points" in headers):
+                st_tag = t
+                break
+    if st_tag is not None:
+        standings_df = table_to_df(st_tag)
+
+    # 2) Team Standard Stats по точному id
+    teamstats_df = None
+    ts_ids = ["stats_squads_standard_for", "stats_squads_standard"]  # запасной вариант
+    ts_tag = None
+    for tid in ts_ids:
+        ts_tag = soup.find("table", id=tid)
+        if ts_tag:
             break
+    if ts_tag is None:
+        # Фоллбэк: ищем таблицу с метриками Sh/SoT/xG и без W/D/L
+        keys = {"sh", "sot", "xg", "xga", "g", "ast", "cmp", "att", "tkl", "int"}
+        for t in soup.find_all("table"):
+            headers = [th.get_text(strip=True).lower() for th in t.select("thead th")]
+            if len(set(headers) & keys) >= 3 and not {"w","d","l"}.issubset(set(headers)):
+                ts_tag = t
+                break
+    if ts_tag is not None:
+        teamstats_df = table_to_df(ts_tag)
 
-    # team standard stats — ищем ключевые метрики
-    keys = {"sh", "sot", "g", "ast", "xg", "xga", "cmp", "att", "tkl", "int"}
-    best_score, best_df = -1, None
-    for df in dfs:
-        cols = set(map(lambda x: str(x).lower(), df.columns))
-        score = len(cols & keys)
-        if score > best_score and df.shape[1] >= 6:
-            best_score, best_df = score, df
-    teamstats = best_df
+    return tidy(standings_df), tidy(teamstats_df)
 
     def tidy(x: Optional[pd.DataFrame]) -> Optional[pd.DataFrame]:
         if x is None:
@@ -90,6 +121,7 @@ def get_page_html(p, url: str, wait_selector: str = "table") -> str:
     # Явное ожидание таблиц с классом 'stats_table' (FBref их так размечает)
     try:
         p.wait_for_selector("table.stats_table", timeout=90_000)
+        time.sleep(5)
     except PWTimeout:
         print(f"[WARN] Timeout waiting for tables on {url}, saving anyway")
     time.sleep(2.5)  # небольшая "человеческая" пауза
