@@ -8,7 +8,7 @@ FBref (EPL 2024/25) сбор через реальный браузер (Playwri
 
 Сохраняет CSV в: data/raw/fbref/epl_2024-2025/
 """
-
+import re
 import pathlib
 import time
 from typing import List, Optional, Tuple
@@ -37,32 +37,89 @@ def save_csv(df: pd.DataFrame, path: pathlib.Path):
     print(f"[OK] saved {path.relative_to(BASE_DIR)}  rows={len(df)}  cols={len(df.columns)}")
 
 def biggest_table(html: str) -> pd.DataFrame:
-    tables = pd.read_html(StringIO(html), flavor="lxml")  # <-- просто tables =
+    tables = pd.read_html(StringIO(html), flavor="lxml")
     tbl = max(tables, key=lambda t: (t.shape[0], t.shape[1]))
-    tbl = tbl.loc[:, ~tbl.columns.duplicated()].dropna(how="all").reset_index(drop=True)
-    tbl.columns = (
-        pd.Index(tbl.columns)
-        .map(str).str.strip().str.lower()
-        .str.replace(" ", "_")
-        .str.replace("%", "pct")
-        .str.replace("/", "_")
-        .str.replace("-", "_", regex=False)
-    )
-    tbl.columns = ["".join(ch for ch in c if ch.isalnum() or ch == "_") for c in tbl.columns]
+    tbl = flatten_and_normalize_columns(tbl)
     return tbl
 
+def flatten_and_normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Сплющивает MultiIndex-колонки FBref.
+    - Берём нижний ярлык +, при необходимости, метку секции.
+    - Для секции 'Per 90 Minutes' добавляем суффикс _per90.
+    - Гарантируем уникальность имён (без потери per90-колонок).
+    """
+    df = df.copy()
+
+    def norm(s: str) -> str:
+        s = s.strip().lower()
+        s = s.replace("g+a", "g_plus_a").replace("g+apk", "g_plus_a_pk")
+        s = s.replace("per 90 minutes", "per90")
+        s = re.sub(r"[^\w]+", "_", s)
+        s = re.sub(r"_+", "_", s).strip("_")
+        return s
+
+    names = []
+    if isinstance(df.columns, pd.MultiIndex):
+        # сформируем «базовые» и «секционные» метки
+        raw_names = []
+        sect_tags  = []
+        for tup in df.columns:
+            parts = [str(x) for x in tup]
+            # последний непустой как базовый
+            base = ""
+            for x in reversed(parts):
+                if x and str(x).strip() and not str(x).lower().startswith("unnamed"):
+                    base = x
+                    break
+            # первый непустой "верхний" как секция
+            sect = ""
+            for x in parts:
+                if x and str(x).strip() and not str(x).lower().startswith("unnamed"):
+                    sect = x
+                    break
+            raw_names.append(base)
+            sect_tags.append(sect)
+
+        # нормализация и первичная разметка
+        prim = [norm(n) for n in raw_names]
+        sect_norm = [norm(s) for s in sect_tags]
+
+        # для per90 делаем суффикс, для дубликатов — добавляем метку секции
+        seen = {}
+        for i, (pname, sname) in enumerate(zip(prim, sect_norm)):
+            candidate = pname
+            if "per90" in sname:
+                candidate = f"{pname}_per90"
+            # если имя уже встречалось, добавим секцию как префикс/суффикс
+            if candidate in seen:
+                # компактные теги секций
+                tag_map = {
+                    "playing_time": "pt",
+                    "performance": "perf",
+                    "expected": "exp",
+                    "progression": "prog",
+                    "per90": "per90",
+                }
+                tag = tag_map.get(sname, sname[:6] or "sec")
+                candidate = f"{pname}_{tag}"
+            seen[candidate] = True
+            names.append(candidate)
+
+        df.columns = names
+    else:
+        df.columns = [norm(str(c)) for c in df.columns]
+
+    # убираем дубликаты (теперь их быть не должно) и пустые строки
+    df = df.loc[:, ~df.columns.duplicated()].dropna(how="all").reset_index(drop=True)
+    return df
+
 def detect_standings_and_teamstats(html: str) -> Tuple[Optional[pd.DataFrame], Optional[pd.DataFrame]]:
-    def tidy(df: Optional[pd.DataFrame]) -> Optional[pd.DataFrame]:
-        if df is None:
+    def tidy(x: Optional[pd.DataFrame]) -> Optional[pd.DataFrame]:
+        if x is None:
             return None
-        df = df.loc[:, ~df.columns.duplicated()].dropna(how="all").reset_index(drop=True)
-        df.columns = (
-            pd.Index(df.columns)
-            .map(str).str.strip().str.lower()
-            .str.replace(" ", "_").str.replace("%","pct").str.replace("/","_").str.replace("-", "_", regex=False)
-        )
-        df.columns = ["".join(ch for ch in c if ch.isalnum() or ch == "_") for c in df.columns]
-        return df
+        x = flatten_and_normalize_columns(x)
+        return x
 
     def table_to_df(tag) -> pd.DataFrame:
         return pd.read_html(StringIO(str(tag)), flavor="lxml")[0]
