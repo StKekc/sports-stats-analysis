@@ -1,0 +1,38 @@
+# Основная конфигурация лиг для сбора данных с FBref
+
+leagues:
+  epl:
+    name: "Premier League"
+    comp_id: 9
+    country: "England"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+
+  laliga:
+    name: "La Liga"
+    comp_id: 12
+    country: "Spain"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+
+  bundesliga:
+    name: "Bundesliga"
+    comp_id: 20
+    country: "Germany"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
