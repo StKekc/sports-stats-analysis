@@ -20,6 +20,10 @@ from playwright.sync_api import TimeoutError as PWTimeout
 from modules.data_extraction.fbref_scraper import FBrefScraper
 from modules.data_reception.fbref_parser import biggest_table, detect_standings_and_teamstats
 from modules.config_loader import load_league_config
+from modules.data_reception.fbref_parser import (
+    biggest_table, detect_standings_and_teamstats,
+    find_players_stats_url, parse_players_standard_table
+)
 
 
 def save_csv(df: pd.DataFrame, path: pathlib.Path):
@@ -95,6 +99,25 @@ def main():
                     save_csv(teamstats, out_dir / "team_standard_stats.csv")
                 else:
                     print("[WARN] team standard stats not detected")
+
+                # 2️⃣a) Players — стандартная статистика игроков
+                try:
+                    players_url = find_players_stats_url(html_season)
+                    if players_url:
+                        print(f"[EXTRACTION] players stats: {players_url}")
+                        html_players = scraper.get_page_html(players_url)
+                        (out_dir / "players_page.html").write_text(html_players, encoding="utf-8")
+
+                        print("[RECEPTION] parse players standard stats…")
+                        players_df = parse_players_standard_table(html_players)
+                        if players_df is not None and len(players_df):
+                            save_csv(players_df, out_dir / "player_standard_stats.csv")
+                        else:
+                            print("[WARN] players standard stats not detected")
+                    else:
+                        print("[WARN] players stats url not found on season page")
+                except Exception as e:
+                    print(f"[ERROR] players page failed ({season}): {e}")
 
             except Exception as e:
                 print(f"[ERROR] season page failed ({season}): {e}")
