@@ -128,3 +128,22 @@ def detect_standings_and_teamstats(html: str) -> Tuple[Optional[pd.DataFrame], O
 
     return tidy(standings_df), tidy(teamstats_df)
 
+
+def find_players_stats_url(html: str) -> str | None:
+    """Ищет на странице сезона ссылку на таблицу 'Standard Stats — Players'."""
+    soup = BeautifulSoup(html, "lxml")
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        text = (a.get_text() or "").strip().lower()
+        if "/comps/" in href and ("players" in href or "stats" in href) and "standard" in text:
+            return "https://fbref.com" + href if href.startswith("/") else href
+    return None
+
+
+def parse_players_standard_table(html: str) -> pd.DataFrame | None:
+    """Возвращает таблицу со стандартной статистикой игроков."""
+    try:
+        df = biggest_table(html)
+        return df
+    except Exception:
+        return None
