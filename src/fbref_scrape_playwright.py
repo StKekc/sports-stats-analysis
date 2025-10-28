@@ -25,6 +25,17 @@ from modules.data_reception.fbref_parser import (
     find_players_stats_url, parse_players_standard_table
 )
 
+PLAYER_CATEGORIES = {
+    "standard":      ("stats",           "Standard-Stats"),
+    "shooting":      ("shooting",        "Shooting"),
+    "passing":       ("passing",         "Passing"),
+    "passing_types": ("passing_types",   "Passing-Types"),
+    "defense":       ("defense",         "Defensive-Actions"),
+    "possession":    ("possession",      "Possession"),
+    "misc":          ("misc",            "Misc"),
+    "keepers":       ("keepers",         "Goalkeeping"),
+    "keepers_adv":   ("keepersadv",     "Advanced-Goalkeeping"),
+}
 
 def save_csv(df: pd.DataFrame, path: pathlib.Path):
     """Сохранение CSV с логом размера"""
@@ -32,20 +43,17 @@ def save_csv(df: pd.DataFrame, path: pathlib.Path):
     df.to_csv(path, index=False, encoding="utf-8")
     print(f"[OK] saved {path.relative_to(BASE_DIR)}  rows={len(df)}  cols={len(df.columns)}")
 
-
 def urls_for_season(comp_id: int, league_name: str, season: str) -> tuple[str, str]:
     """Вернёт (fixtures_url, season_stats_url) для заданного сезона"""
     fixtures = f"https://fbref.com/en/comps/{comp_id}/{season}/schedule/{season}-{league_name}-Scores-and-Fixtures"
     season_stats = f"https://fbref.com/en/comps/{comp_id}/{season}/{season}-{league_name}-Stats"
     return fixtures, season_stats
 
-
 def out_dir_for(league_code: str, season: str) -> pathlib.Path:
     """Папка для выгрузки CSV конкретного сезона"""
     d = BASE_DIR / "data" / "raw" / "fbref" / f"{league_code}_{season}"
     d.mkdir(parents=True, exist_ok=True)
     return d
-
 
 def main():
     # === аргумент командной строки ===
@@ -119,11 +127,47 @@ def main():
                 except Exception as e:
                     print(f"[ERROR] players page failed ({season}): {e}")
 
+                # 2️⃣b) Расширенные статы игроков (shooting, passing, defense, и т.д.)
+                try:
+                    # Нам нужно сгенерировать URLы для каждой категории
+                    # Логика такая же, как в fbref_scrape_players_extended.py:
+                    # https://fbref.com/en/comps/{comp_id}/{season}/{slug}/{season}-{league-slug}-Stats
+
+                    league_slug = name.replace(" ", "-")  # как ты уже делал для fixtures_url раньше
+
+                    for cat, (slug, nice_name) in PLAYER_CATEGORIES.items():
+                        # пример для shooting:
+                        # https://fbref.com/en/comps/9/2023-2024/shooting/2023-2024-Premier-League-Stats
+                        cat_url = (
+                            f"https://fbref.com/en/comps/{comp_id}/{season}/{slug}/"
+                            f"{season}-{league_slug}-Stats"
+                        )
+
+                        print(f"[EXTRACT EXT] {cat}: {cat_url}")
+                        try:
+                            html_cat = scraper.get_page_html(cat_url)
+                            (out_dir / f"players_{cat}_page.html").write_text(html_cat, encoding="utf-8")
+
+                            # Парсим таблицу
+                            df_cat = biggest_table(html_cat)
+
+                            if df_cat is None or len(df_cat) == 0:
+                                print(f"[WARN] {cat}: empty or not parsed")
+                                continue
+
+                            # Сохраняем
+                            save_csv(df_cat, out_dir / f"player_{cat}_stats.csv")
+
+                        except Exception as e:
+                            print(f"[ERROR] failed extended {cat} for {season}: {e}")
+
+                except Exception as e:
+                    print(f"[ERROR] extended player stats block failed ({season}): {e}")
+
             except Exception as e:
                 print(f"[ERROR] season page failed ({season}): {e}")
 
     print(f"\n[DONE] Сбор {name} ({league_code}) завершён!")
-
 
 if __name__ == "__main__":
     BASE_DIR = pathlib.Path(__file__).resolve().parents[1]

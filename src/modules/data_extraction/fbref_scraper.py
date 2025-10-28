@@ -4,7 +4,6 @@
 import time
 from playwright.sync_api import Page, sync_playwright, TimeoutError as PWTimeout
 
-
 class FBrefScraper:
     # класс для загрузки страниц FBref через Playwright
     
@@ -71,7 +70,6 @@ class FBrefScraper:
         time.sleep(2.5)  # пауза чтобы не забанили
         return self.page.content()
 
-
 def get_page_html(page: Page, url: str, wait_selector: str = "table") -> str:
     # вспомогательная функция для загрузки
     page.goto(url, wait_until="domcontentloaded", timeout=90_000)
@@ -84,4 +82,3 @@ def get_page_html(page: Page, url: str, wait_selector: str = "table") -> str:
     
     time.sleep(2.5)
     return page.content()
-

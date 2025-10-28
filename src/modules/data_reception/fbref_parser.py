@@ -7,13 +7,113 @@ from io import StringIO
 import pandas as pd
 from bs4 import BeautifulSoup
 
+def _extract_biggest_table_from_html(html: str) -> pd.DataFrame | None:
+    """
+    Собирает все <table> из переданного html (как строки),
+    парсит их через read_html и возвращает ту, у которой максимум строк.
+    Возвращает уже приведённую flatten_and_normalize_columns(df).
+    """
+    soup = BeautifulSoup(html, "lxml")
+
+    candidates = []
+    for tbl in soup.find_all("table"):
+        try:
+            df = pd.read_html(StringIO(str(tbl)), flavor="lxml")[0]
+        except Exception:
+            continue
+        if df is not None and len(df):
+            df = flatten_and_normalize_columns(df)
+            candidates.append(df)
+
+    if not candidates:
+        return None
+
+    candidates.sort(key=lambda d: (d.shape[0], d.shape[1]), reverse=True)
+    return candidates[0]
+
+
+def _extract_biggest_table_from_html_comments(html: str) -> pd.DataFrame | None:
+    """
+    FBref иногда прячет гигантские таблицы внутри <!-- ... -->,
+    и браузер потом уже на странице их 'раскрывает' JS-ом.
+    Playwright .content() может вернуть исходник с этими комментариями,
+    и обычный парс этого не увидит.
+
+    Здесь мы вручную перебираем все <!-- ... --> блоки,
+    ищем внутри <table> и вытаскиваем самую большую таблицу так же,
+    как в _extract_biggest_table_from_html.
+    """
+    comment_tables = []
+
+    # вытащим все куски внутри <!-- ... -->
+    for m in re.finditer(r"<!--(.*?)-->", html, flags=re.DOTALL):
+        block = m.group(1)
+        if "<table" not in block.lower():
+            continue
+        try:
+            df = _extract_biggest_table_from_html(block)
+        except Exception:
+            df = None
+        if df is not None and len(df):
+            comment_tables.append(df)
+
+    if not comment_tables:
+        return None
+
+    comment_tables.sort(key=lambda d: (d.shape[0], d.shape[1]), reverse=True)
+    return comment_tables[0]
+
+
+# Меняю на новое временно
+# def biggest_table(html: str) -> pd.DataFrame:
+#     # берем самую большую таблицу из HTML
+#     tables = pd.read_html(StringIO(html), flavor="lxml")
+#     tbl = max(tables, key=lambda t: (t.shape[0], t.shape[1]))
+#     tbl = flatten_and_normalize_columns(tbl)
+#     return tbl
 
 def biggest_table(html: str) -> pd.DataFrame:
-    # берем самую большую таблицу из HTML
-    tables = pd.read_html(StringIO(html), flavor="lxml")
-    tbl = max(tables, key=lambda t: (t.shape[0], t.shape[1]))
-    tbl = flatten_and_normalize_columns(tbl)
-    return tbl
+    """
+    Возвращает основную (самую большую по числу строк) таблицу со страницы.
+
+    Логика:
+    1. Пытаемся достать таблицу из обычного HTML.
+    2. Если нашли, но она подозрительно маленькая (<100 строк),
+       пробуем достать таблицу из скрытых <!-- ... --> блоков и,
+       если она больше — берём её.
+    3. Если вообще не нашли обычную таблицу — сразу пытаемся взять из комментариев.
+
+    В конце обязательно прогоняем flatten_and_normalize_columns.
+    """
+    # 1. обычные таблицы
+    main_df = None
+    try:
+        main_df = _extract_biggest_table_from_html(html)
+    except Exception:
+        main_df = None
+
+    # 2. таблицы внутри комментариев
+    comment_df = None
+    try:
+        comment_df = _extract_biggest_table_from_html_comments(html)
+    except Exception:
+        comment_df = None
+
+    # кейс: нет вообще ничего обычного, но есть коммент-таблица
+    if (main_df is None or len(main_df) == 0) and comment_df is not None and len(comment_df):
+        return comment_df.reset_index(drop=True)
+
+    # кейс: обычная таблица есть, но короткая (типа MLS 2025: 30 строк)
+    if main_df is not None and len(main_df) and len(main_df) < 100:
+        if comment_df is not None and len(comment_df) > len(main_df):
+            return comment_df.reset_index(drop=True)
+
+    # дефолт: возвращаем то, что нашли первым способом
+    if main_df is not None and len(main_df):
+        return main_df.reset_index(drop=True)
+
+    # если вообще пусто — вернуть пустой df (чтобы не падать)
+    return pd.DataFrame()
 
 
 def flatten_and_normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
