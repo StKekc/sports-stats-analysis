@@ -12,6 +12,8 @@ FBref сбор через реальный браузер (Playwright):
     PYTHONPATH=src python3 src/fbref_scrape_playwright.py bundesliga
 """
 
+import time
+import random
 import sys
 import pathlib
 import pandas as pd
@@ -166,6 +168,11 @@ def main():
 
             except Exception as e:
                 print(f"[ERROR] season page failed ({season}): {e}")
+            
+            # в самом конце обработки сезона:
+            chill = random.uniform(8.0, 15.0)
+            print(f"[COOLDOWN] пауза {chill:.1f}с перед следующим сезоном…")
+            time.sleep(chill)
 
     print(f"\n[DONE] Сбор {name} ({league_code}) завершён!")
 
