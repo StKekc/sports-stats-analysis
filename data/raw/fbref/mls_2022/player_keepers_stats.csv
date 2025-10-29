@@ -1,0 +1,66 @@
+rk,player,nation,pos,squad,age,born,mp,starts,min,90s,ga,ga90,sota,saves,save,w,d,l,cs,cs_perf,pkatt,pka,pksv,pkm,save_penalt,matches
+1,Max Anchor,ca CAN,GK,Vancouver W'caps,17,2004,1,1,90,1.0,2,2.00,6,4,66.7,0,0,1,0,0.0,0,0,0,0,,Matches
+2,Matt Bersano,us USA,GK,SJ Earthquakes,29,1992,2,1,135,1.5,3,2.00,9,6,66.7,0,1,0,0,0.0,0,0,0,0,,Matches
+3,David Bingham,us USA,GK,Portland Timbers,32,1989,2,2,180,2.0,3,1.50,13,10,76.9,0,2,0,0,0.0,0,0,0,0,,Matches
+4,Andre Blake,jm JAM,GK,Philadelphia Union,31,1990,34,34,3060,34.0,26,0.76,126,99,82.5,19,10,5,15,44.1,5,4,1,0,20.0,Matches
+5,Isaac Boehmer,us USA,GK,Vancouver W'caps,20,2001,3,2,225,2.5,4,1.60,12,8,75.0,0,1,1,0,0.0,1,1,0,0,0.0,Matches
+6,Jonathan Bond,eng ENG,GK,LA Galaxy,28,1993,34,34,3060,34.0,51,1.50,141,89,68.1,14,8,12,7,20.6,7,6,1,0,14.3,Matches
+7,Alex Bono,us USA,GK,Toronto FC,27,1994,24,24,2160,24.0,42,1.75,125,84,68.0,7,6,11,3,12.5,2,2,0,0,0.0,Matches
+8,Chris Brady,us USA,GK,Chicago Fire,17,2004,1,1,90,1.0,1,1.00,5,4,80.0,0,1,0,0,0.0,0,0,0,0,,Matches
+9,Sebastian Breza,ca CAN,GK,CF Montréal,23,1998,23,23,2070,23.0,38,1.65,86,49,61.6,13,2,8,3,13.0,5,5,0,0,0.0,Matches
+10,Drake Callender,us USA,GK,Inter Miami,24,1997,24,24,2160,24.0,37,1.54,114,78,69.3,11,5,8,4,16.7,3,2,0,1,0.0,Matches
+11,Roman Celentano,us USA,GK,FC Cincinnati,21,2000,27,27,2430,27.0,42,1.56,127,83,70.9,10,12,5,5,18.5,7,5,2,0,28.6,Matches
+12,Steve Clark,us USA,GK,Houston Dynamo,35,1986,33,33,2905,32.3,48,1.49,150,103,72.0,10,6,17,6,18.2,8,6,1,1,14.3,Matches
+13,Stefan Cleveland,us USA,GK,Seattle Sounders,27,1994,7,7,630,7.0,8,1.14,36,28,77.8,1,2,4,1,14.3,0,0,0,0,,Matches
+14,Carlos Coronel,py PAR,GK,NY Red Bulls,25,1996,33,33,2970,33.0,39,1.18,112,73,66.1,15,8,10,8,24.2,1,1,0,0,0.0,Matches
+15,Maxime Crépeau,ca CAN,GK,LAFC,27,1994,33,33,2970,33.0,36,1.09,110,76,69.1,21,4,8,9,27.3,2,2,0,0,0.0,Matches
+16,Cody Cropper,us USA,GK,Vancouver W'caps,28,1993,15,14,1236,13.7,24,1.75,52,28,59.6,6,4,4,5,35.7,3,3,0,0,0.0,Matches
+17,Clément Diop,sn SEN,GK,Inter Miami,28,1993,3,3,270,3.0,7,2.33,11,4,36.4,0,1,2,1,33.3,0,0,0,0,,Matches
+18,Earl Edwards Jr.,us USA,GK,NE Revolution,30,1992,4,4,360,4.0,8,2.00,17,9,52.9,1,1,2,1,25.0,0,0,0,0,,Matches
+19,Stefan Frei,ch SUI,GK,Seattle Sounders,35,1986,27,27,2430,27.0,38,1.41,123,84,74.0,11,3,13,5,18.5,7,6,1,0,14.3,Matches
+20,Pedro Gallese,pe PER,GK,Orlando City,31,1990,32,32,2880,32.0,47,1.47,126,79,65.9,14,5,13,9,28.1,4,4,0,0,0.0,Matches
+21,Raúl Gudiño,mx MEX,GK,Atlanta Utd,25,1996,6,6,495,5.5,7,1.27,14,7,78.6,2,1,3,2,33.3,4,4,0,0,0.0,Matches
+22,Brad Guzan,us USA,GK,Atlanta Utd,37,1984,7,7,612,6.8,9,1.32,23,14,65.2,3,2,2,1,14.3,1,1,0,0,0.0,Matches
+23,Bill Hamid,us USA,GK,D.C. United,31,1990,10,10,858,9.5,16,1.68,49,34,67.3,3,2,5,2,20.0,0,0,0,0,,Matches
+24,Thomas Hasal,ca CAN,GK,Vancouver W'caps,22,1999,17,17,1509,16.8,27,1.61,76,47,65.8,6,2,9,4,23.5,3,1,2,0,66.7,Matches
+25,Aljaž Ivačič,si SVN,GK,Portland Timbers,28,1993,32,32,2880,32.0,50,1.56,160,111,69.4,11,11,10,6,18.8,2,1,1,0,50.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+26,Sean Johnson,us USA,GK,NYCFC,32,1989,34,34,3060,34.0,41,1.21,119,80,66.4,16,7,11,14,41.2,1,1,0,0,0.0,Matches
+27,Kristijan Kahlina,hr CRO,GK,Charlotte,29,1992,31,31,2790,31.0,48,1.55,144,97,69.4,12,3,16,7,22.6,4,4,0,0,0.0,Matches
+28,Alec Kann,us USA,GK,FC Cincinnati,31,1990,7,7,630,7.0,14,2.00,34,20,64.7,2,1,4,1,14.3,3,2,1,0,33.3,Matches
+29,Jon Kempin,us USA,GK,D.C. United,28,1993,2,2,180,2.0,5,2.50,11,6,54.5,1,0,1,0,0.0,0,0,0,0,,Matches
+30,Brad Knighton,us USA,GK,NE Revolution,36,1985,4,4,360,4.0,8,2.00,20,13,60.0,1,0,3,0,0.0,0,0,0,0,,Matches
+31,Zac MacMath,us USA,GK,Real Salt Lake,30,1991,34,34,3060,34.0,45,1.32,147,99,73.5,12,11,11,10,29.4,9,6,3,0,33.3,Matches
+32,J.T. Marcinkowski,us USA,GK,SJ Earthquakes,24,1997,33,33,2925,32.5,66,2.03,177,111,66.1,8,10,15,4,12.1,6,6,0,0,0.0,Matches
+33,George Marks,us USA,GK,Charlotte,22,1999,1,1,90,1.0,2,2.00,3,1,33.3,0,0,1,0,0.0,0,0,0,0,,Matches
+34,Nick Marsman,nl NED,GK,Inter Miami,31,1990,7,7,630,7.0,12,1.71,31,19,67.7,3,0,4,1,14.3,2,2,0,0,0.0,Matches
+35,Jimmy Maurer,us USA,GK,FC Dallas,33,1988,2,2,180,2.0,3,1.50,8,5,75.0,1,0,1,0,0.0,1,1,0,0,0.0,Matches
+36,John McCarthy,us USA,GK,LAFC,29,1992,1,1,90,1.0,2,2.00,6,4,100.0,0,0,1,0,0.0,2,2,0,0,0.0,Matches
+37,Kendall McIntosh,us USA,GK,Sporting KC,28,1994,2,2,180,2.0,2,1.00,10,8,80.0,1,0,1,1,50.0,0,0,0,0,,Matches
+38,Ryan Meara,us USA,GK,NY Red Bulls,31,1990,1,1,90,1.0,2,2.00,4,2,50.0,0,0,1,0,0.0,0,0,0,0,,Matches
+39,Tim Melia,us USA,GK,Sporting KC,35,1986,21,21,1852,20.6,34,1.65,79,44,59.5,5,4,12,4,19.0,3,2,1,0,33.3,Matches
+40,Tyler Miller,us USA,GK,Minnesota Utd,28,1993,3,2,225,2.5,3,1.20,11,8,72.7,0,2,0,0,0.0,0,0,0,0,,Matches
+41,Michael Nelson,us USA,GK,Houston Dynamo,26,1995,2,1,155,1.7,8,4.65,13,5,38.5,0,0,1,0,0.0,0,0,0,0,,Matches
+42,David Ochoa,us USA,GK,D.C. United,21,2001,9,9,810,9.0,17,1.89,48,31,64.6,1,2,6,2,22.2,1,0,1,0,100.0,Matches
+43,Maarten Paes,id IDN,GK,FC Dallas,23,1998,32,32,2880,32.0,34,1.06,125,89,76.0,13,11,8,8,25.0,6,4,2,0,33.3,Matches
+44,Elliot Panicco,us USA,GK,Nashville SC,25,1996,2,2,180,2.0,3,1.50,10,7,80.0,1,1,0,0,0.0,1,1,0,0,0.0,Matches
+45,James Pantemis,ca CAN,GK,CF Montréal,24,1997,11,11,990,11.0,12,1.09,37,26,70.3,7,3,1,4,36.4,1,1,0,0,0.0,Matches
+46,Đorđe Petrović,rs SRB,GK,NE Revolution,22,1999,21,21,1890,21.0,27,1.29,110,80,82.7,6,8,7,7,33.3,12,8,4,0,33.3,Matches
+47,John Pulskamp,us USA,GK,Sporting KC,20,2001,12,11,1028,11.4,18,1.58,49,31,67.3,5,3,3,3,27.3,3,2,1,0,33.3,Matches
+48,Spencer Richey,us USA,GK,Chicago Fire,29,1992,1,1,90,1.0,2,2.00,4,2,50.0,1,0,0,0,0.0,0,0,0,0,,Matches
+49,Rocco Ríos Novo,ar ARG,GK,Atlanta Utd,19,2002,16,15,1395,15.5,27,1.74,67,40,61.2,4,5,6,2,13.3,1,1,0,0,0.0,Matches
+50,Abraham Rodriguez,us USA,GK,Colorado Rapids,19,2002,1,0,46,0.5,3,5.87,5,2,60.0,0,0,0,0,,1,1,0,0,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+51,Rafael Romo,ve VEN,GK,D.C. United,31,1990,14,13,1212,13.5,33,2.45,81,48,63.0,2,2,9,2,15.4,4,3,1,0,25.0,Matches
+52,Eloy Room,cw CUW,GK,Columbus Crew,32,1989,34,34,3060,34.0,41,1.21,142,103,73.2,10,16,8,9,26.5,4,3,0,1,0.0,Matches
+53,Bobby Shuttleworth,us USA,GK,Atlanta Utd,34,1987,7,6,558,6.2,11,1.77,21,10,47.6,1,2,3,1,16.7,0,0,0,0,,Matches
+54,Pablo Sisniega,mx MEX,GK,Charlotte,26,1995,2,2,180,2.0,2,1.00,9,7,77.8,1,0,1,1,50.0,0,0,0,0,,Matches
+55,Gaga Slonina,us USA,GK,Chicago Fire,17,2004,32,32,2880,32.0,45,1.41,124,80,67.7,9,8,15,12,37.5,5,5,0,0,0.0,Matches
+56,Dayne St. Clair,ca CAN,GK,Minnesota Utd,24,1997,32,32,2835,31.5,48,1.52,153,108,71.2,14,4,14,5,15.6,5,4,1,0,20.0,Matches
+57,Mason Stajduhar,us USA,GK,Orlando City,24,1997,2,2,180,2.0,6,3.00,14,9,71.4,0,1,1,0,0.0,2,2,0,0,0.0,Matches
+58,Brad Stuver,us USA,GK,Austin,30,1991,31,31,2708,30.1,42,1.40,139,96,73.4,16,8,7,8,25.8,7,5,2,0,28.6,Matches
+59,Andrew Tarbell,us USA,GK,Austin,28,1993,4,3,352,3.9,7,1.79,22,15,68.2,0,0,3,0,0.0,0,0,0,0,,Matches
+60,Matt Turner,us USA,GK,NE Revolution,27,1994,5,5,450,5.0,7,1.40,15,8,53.3,2,3,0,1,20.0,0,0,0,0,,Matches
+61,Quentin Westberg,us USA,GK,Toronto FC,35,1986,10,10,900,10.0,24,2.40,59,35,61.0,2,1,7,0,0.0,2,1,1,0,50.0,Matches
+62,Joe Willis,us USA,GK,Nashville SC,33,1988,32,32,2880,32.0,38,1.19,136,96,76.5,12,10,10,9,28.1,8,6,2,0,25.0,Matches
+63,William Yarbrough,us USA,GK,Colorado Rapids,32,1989,34,34,3014,33.5,54,1.61,153,98,70.6,11,10,13,9,26.5,10,9,1,0,10.0,Matches

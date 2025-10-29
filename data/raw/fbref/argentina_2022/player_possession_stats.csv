@@ -1,0 +1,916 @@
+rk,player,nation,pos,squad,age,born,90s,touches,def_pen,def_3rd,mid_3rd,att_3rd,att_pen,live,att,succ,succ_take_o,tkld,tkld_take_o,carries,totdist,prgdist,prgc,1_3,cpa,mis,dis,rec,prgr,matches
+1,Luciano Abecasis,ar ARG,DF,Banfield,31,1990,12.8,757,37,199,354,214,11,757,40,18,45.0,21,52.5,325,2368,1094,40,22,1,22,11,354,66,Matches
+2,Ramón Ábila,ar ARG,FW,Colón,32,1989,21.8,552,16,19,170,364,129,551,41,12,29.3,27,65.9,335,1288,556,25,17,21,50,27,431,155,Matches
+3,Gonzalo Abrego,ar ARG,MF,Godoy Cruz,22,2000,18.9,876,31,157,528,204,18,876,37,22,59.5,14,37.8,349,1719,747,16,18,0,31,24,436,54,Matches
+4,Jonás Acevedo,ar ARG,MF,Patronato,24,1997,19.9,1132,10,95,542,519,36,1130,88,36,40.9,46,52.3,690,4418,1669,53,54,10,74,63,783,135,Matches
+5,Lucas Acevedo,ar ARG,DF,Colón,30,1991,6.6,328,72,220,91,18,15,328,1,1,100.0,0,0.0,119,632,306,2,0,0,3,2,146,2,Matches
+6,Nelson Acevedo,ar ARG,MF,Godoy Cruz,33,1988,9.7,519,18,129,362,34,0,519,14,8,57.1,5,35.7,227,1002,479,4,3,1,9,6,250,1,Matches
+7,Guillermo Acosta,ar ARG,MF,Atlé Tucumán,33,1988,24.7,1524,72,460,971,113,5,1524,30,14,46.7,14,46.7,689,3622,1899,26,10,1,26,18,811,20,Matches
+8,Lautaro Acosta,ar ARG,"FW,MF",Lanús,33,1988,19.5,773,22,116,379,287,62,773,55,17,30.9,33,60.0,389,2559,1218,36,32,12,50,17,497,119,Matches
+9,Gustavo Adrián Ramírez,py PAR,"FW,MF",Rosario Central,31,1990,1.5,47,2,3,23,21,5,47,1,1,100.0,0,0.0,28,159,70,2,3,0,4,1,35,8,Matches
+10,Luis Advíncula,pe PER,DF,Boca Juniors,31,1990,20.0,1223,40,336,667,229,7,1223,29,13,44.8,12,41.4,661,3065,1529,25,23,1,22,21,718,47,Matches
+11,Facundo Aguero,ar ARG,DF,Unión,27,1995,9.5,467,79,265,178,25,14,467,0,0,,0,,209,986,538,3,0,0,4,2,241,2,Matches
+12,Alan Aguerre,ar ARG,GK,Talleres,31,1990,5.0,181,141,181,0,0,0,181,0,0,,0,,89,542,316,0,0,0,0,0,69,0,Matches
+13,Brian Aguilar,ar ARG,DF,Lanús,18,2003,1.4,91,11,50,36,6,2,91,1,0,0.0,1,100.0,46,185,72,0,0,0,0,0,48,2,Matches
+14,Felipe Aguilar,co COL,DF,Lanús,29,1993,4.2,234,38,147,82,6,3,234,1,1,100.0,0,0.0,81,428,275,3,0,0,2,0,110,3,Matches
+15,Braian Aguirre,ar ARG,"DF,MF",Lanús,21,2000,15.7,1168,31,344,523,319,21,1168,80,32,40.0,46,57.5,525,3112,1720,51,33,8,30,14,601,91,Matches
+16,Brian Aguirre,ar ARG,"FW,MF",Newell's OB,18,2003,7.7,337,2,36,137,180,15,337,51,17,33.3,25,49.0,196,1875,861,28,28,8,35,11,211,48,Matches
+17,Manuel Agustín Duarte,ar ARG,"MF,FW",Defensa y Just,20,2001,13.2,657,12,82,358,230,16,657,56,21,37.5,30,53.6,389,2463,1276,33,32,5,41,24,396,47,Matches
+18,Jorge Agustín Rodríguez,ar ARG,MF,Estudiantes–LP,26,1995,22.4,1645,65,386,1157,120,7,1645,19,14,73.7,4,21.1,769,3067,1539,15,8,1,20,14,917,15,Matches
+19,Gabriel Alanís,ar ARG,"FW,MF",Defensa y Just,27,1994,17.1,733,38,184,294,272,45,733,65,26,40.0,32,49.2,356,2210,960,25,21,13,43,23,371,98,Matches
+20,Lucas Albertengo,ar ARG,"FW,MF",Defensa y Just,31,1991,8.0,351,6,36,173,147,37,351,17,3,17.6,13,76.5,192,651,249,9,5,5,39,20,248,46,Matches
+21,Carlos Alcaraz,ar ARG,MF,Racing Club,19,2002,11.3,691,15,89,413,197,36,691,57,19,33.3,36,63.2,364,1961,865,23,22,3,25,16,465,59,Matches
+22,Brahian Alemán,uy URU,MF,Gimnasia–LP,32,1989,23.1,1464,49,207,795,485,27,1461,72,37,51.4,28,38.9,725,3529,1510,35,38,6,70,57,845,68,Matches
+23,Brian Alexis Leizza,ar ARG,DF,Tigre,21,2000,8.6,467,61,268,188,12,5,467,2,2,100.0,0,0.0,212,1151,700,8,2,0,6,1,266,1,Matches
+24,Rodrigo Aliendro,ar ARG,MF,Colón,30,1991,3.2,192,9,47,110,39,3,192,17,12,70.6,5,29.4,102,663,424,9,7,1,6,5,108,4,Matches
+25,Rodrigo Aliendro,ar ARG,MF,River Plate,30,1991,6.5,455,11,49,276,134,15,455,17,10,58.8,6,35.3,234,1023,541,9,5,1,17,12,297,34,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+26,Tadeo Allende,ar ARG,"MF,FW",Godoy Cruz,22,1999,15.6,706,27,102,296,325,35,706,69,31,44.9,35,50.7,356,2129,931,33,21,4,57,34,470,117,Matches
+27,Facundo Almada,ar ARG,DF,Rosario Central,23,1998,17.7,985,120,573,387,26,14,985,1,1,100.0,0,0.0,536,2461,1192,3,4,2,11,2,558,4,Matches
+28,Facundo Altamirano,ar ARG,GK,Patronato,25,1996,25.0,805,664,796,9,0,0,805,0,0,,0,,400,2293,1599,0,0,0,0,0,231,0,Matches
+29,Fabio Álvarez,ar ARG,"MF,FW",Talleres,29,1993,2.8,173,1,16,100,57,7,173,6,3,50.0,3,50.0,88,442,205,2,4,0,7,9,129,18,Matches
+30,Francisco Álvarez,ar ARG,DF,Patronato,21,2000,8.9,403,53,229,167,13,8,403,4,2,50.0,2,50.0,144,718,397,5,1,0,3,3,129,0,Matches
+31,Juan Álvarez,ar ARG,"MF,FW",Colón,25,1996,8.0,388,4,42,192,162,22,388,26,15,57.7,9,34.6,226,1552,635,22,14,6,20,13,245,70,Matches
+32,Julián Álvarez,ar ARG,FW,River Plate,22,2000,4.3,264,1,8,72,190,20,264,18,12,66.7,6,33.3,146,832,355,8,10,1,13,6,175,43,Matches
+33,Milton Álvarez,ar ARG,GK,Independiente,33,1989,17.0,440,378,438,2,0,0,440,0,0,,0,,190,1372,897,0,0,0,1,0,97,0,Matches
+34,Gonzalo Álvez,ar ARG,FW,Talleres,18,2003,3.7,127,1,14,58,56,13,127,2,1,50.0,1,50.0,62,366,151,5,4,1,12,5,70,20,Matches
+35,Jonatan Álvez,uy URU,FW,Unión,33,1988,7.6,243,4,7,89,148,47,241,9,3,33.3,6,66.7,118,500,222,11,8,5,23,9,175,37,Matches
+36,Abel Amaya,ar ARG,DF,Banfield,19,2002,1.0,51,2,12,22,17,0,51,0,0,,0,,22,107,43,2,2,0,3,1,25,4,Matches
+37,Guillermo de Amores,uy URU,GK,Lanús,27,1994,2.5,90,81,90,0,0,0,90,0,0,,0,,40,234,126,0,0,0,1,0,27,0,Matches
+38,Federico Andrada,ar ARG,MF,Atlé Tucumán,27,1994,0.3,7,0,1,2,4,0,7,1,0,0.0,1,100.0,6,34,16,2,1,0,0,0,6,3,Matches
+39,Juan Andrada,ar ARG,MF,Godoy Cruz,27,1995,17.6,966,42,203,682,91,6,966,31,15,48.4,15,48.4,454,2402,1119,22,13,2,24,19,476,17,Matches
+40,Federico Andueza,uy URU,DF,Sarmiento,24,1997,20.9,756,162,436,299,28,17,756,2,0,0.0,2,100.0,242,1067,546,6,4,1,5,1,255,1,Matches
+41,Mariano Andújar,ar ARG,GK,Estudiantes–LP,38,1983,25.0,884,680,874,11,0,0,884,3,3,100.0,0,0.0,424,2311,1526,0,0,0,1,1,310,0,Matches
+42,Fabián Ángel,co COL,MF,Newell's OB,21,2001,0.3,16,0,5,10,1,0,16,0,0,,0,,9,10,7,0,0,0,1,0,7,1,Matches
+43,Miguel Ángel Torrén,ar ARG,DF,Arg Juniors,33,1988,19.5,1388,159,794,569,36,3,1386,6,4,66.7,1,16.7,669,3600,2314,11,2,0,4,1,734,1,Matches
+44,Alejo Antilef,ar ARG,"MF,FW",Arsenal,23,1998,2.5,140,3,16,94,32,1,140,4,3,75.0,1,25.0,76,338,153,4,4,0,4,8,90,4,Matches
+45,Gabriel Aranda,ar ARG,DF,Boca Juniors,20,2001,5.0,254,29,129,125,2,2,254,0,0,,0,,152,722,369,1,0,0,0,0,176,1,Matches
+46,Carlos Arce,ar ARG,MF,Barracas Central,31,1990,20.5,981,95,290,582,125,1,981,6,4,66.7,2,33.3,261,871,210,1,2,0,21,13,308,7,Matches
+47,Cristian Arce,ar ARG,GK,Barracas Central,28,1993,5.1,154,129,154,0,0,0,154,0,0,,0,,72,506,390,0,0,0,0,0,34,0,Matches
+48,Pablo Argañaraz,ar ARG,FW,Cen. Córdoba–SdE,23,1998,0.8,34,0,3,23,9,0,34,5,2,40.0,3,60.0,21,123,48,0,1,0,4,1,26,5,Matches
+49,Gabriel Arias,cl CHI,GK,Racing Club,34,1987,14.0,370,317,365,5,0,0,370,0,0,,0,,158,894,613,0,1,1,0,0,109,0,Matches
+50,Junior Arias,uy URU,FW,Barracas Central,28,1993,0.9,27,0,0,9,18,10,27,1,1,100.0,0,0.0,15,36,27,1,0,1,4,0,18,5,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+51,Joaquín Ariel Novillo,ar ARG,DF,Colón,23,1998,6.5,301,48,191,103,9,2,301,3,2,66.7,1,33.3,136,753,463,4,2,0,1,1,159,1,Matches
+52,Franco Armani,ar ARG,GK,River Plate,35,1986,24.0,622,575,620,2,0,0,622,0,0,,0,,270,1195,788,0,0,0,0,0,194,0,Matches
+53,Blas Armoa,py PAR,"FW,MF",Tigre,21,2000,7.3,240,0,12,80,153,42,240,15,7,46.7,8,53.3,154,1000,466,20,8,8,20,6,185,73,Matches
+54,Martin Aruga,ar ARG,DF,Patronato,23,1998,0.4,21,4,10,6,5,0,21,1,0,0.0,1,100.0,7,10,3,0,0,0,1,0,8,1,Matches
+55,Gonzalo Asis,ar ARG,DF,Independiente,25,1996,0.1,17,1,6,7,4,1,17,0,0,,0,,5,27,14,1,1,0,3,0,7,2,Matches
+56,Julián Aude,ar ARG,DF,Lanús,18,2003,10.3,651,28,194,321,146,4,651,33,15,45.5,15,45.5,305,2149,1108,21,21,0,18,1,335,30,Matches
+57,Gabriel Ávalos,py PAR,FW,Arg Juniors,31,1990,17.3,637,19,28,298,312,91,636,22,6,27.3,14,63.6,308,1192,361,13,10,6,44,27,486,128,Matches
+58,Gastón Ávila,ar ARG,DF,Boca Juniors,20,2001,1.0,84,2,36,41,7,2,84,0,0,,0,,46,200,118,1,0,0,0,0,63,1,Matches
+59,Tomás Badaloni,ar ARG,FW,Godoy Cruz,21,2000,7.1,242,5,10,121,112,28,242,9,1,11.1,8,88.9,108,380,127,4,3,0,23,14,177,35,Matches
+60,Cristian Báez,py PAR,DF,Rosario Central,31,1990,22.0,1310,108,677,575,67,12,1310,5,2,40.0,0,0.0,636,3499,2255,11,14,0,11,2,713,4,Matches
+61,Andrés Balanta,co COL,"MF,DF",Atlé Tucumán,22,2000,0.8,25,1,12,11,2,0,25,0,0,,0,,8,27,5,0,0,0,2,1,5,0,Matches
+62,Franco Baldassarra,ar ARG,MF,Platense,23,1998,5.5,383,6,49,280,63,1,383,6,2,33.3,4,66.7,231,1139,504,8,9,1,6,5,237,6,Matches
+63,Agustín Baldi,ar ARG,MF,Tigre,19,2002,2.4,118,11,49,68,4,0,118,3,1,33.3,2,66.7,55,218,105,2,2,0,3,2,53,0,Matches
+64,Guillermo Balzi,ar ARG,MF,Newell's OB,20,2001,7.8,433,7,55,239,144,21,433,20,10,50.0,8,40.0,219,1510,755,22,17,3,15,13,255,40,Matches
+65,Neri Bandiera,ar ARG,"FW,MF",Barracas Central,32,1989,19.6,665,20,69,230,370,58,665,50,11,22.0,36,72.0,370,1877,675,36,13,15,68,36,483,138,Matches
+66,Tiago Banega,ar ARG,MF,Patronato,22,1999,7.7,467,22,114,261,101,15,467,34,21,61.8,13,38.2,182,906,440,13,10,2,17,2,236,20,Matches
+67,Nahuel Banegas,ar ARG,"DF,FW",Cen. Córdoba–SdE,25,1996,1.0,77,10,30,31,19,2,77,4,2,50.0,2,50.0,28,199,106,4,3,0,3,0,29,4,Matches
+68,Brandon Barbas,ar ARG,FW,Platense,20,2001,0.1,9,0,1,3,6,0,9,0,0,,0,,6,37,26,0,0,0,1,0,6,2,Matches
+69,Esequiel Barco,ar ARG,"MF,FW",River Plate,22,1999,13.6,807,5,46,380,398,49,807,78,49,62.8,20,25.6,547,4102,2013,75,55,21,34,21,636,143,Matches
+70,Adam Bareiro,py PAR,FW,San Lorenzo,25,1996,23.4,851,20,44,427,389,99,846,43,15,34.9,27,62.8,413,1699,545,13,13,7,64,43,615,119,Matches
+71,Juan Barinaga,ar ARG,MF,Patronato,21,2000,3.5,233,3,33,141,62,3,233,8,6,75.0,2,25.0,107,538,275,7,3,0,3,5,136,5,Matches
+72,José Barreto,ar ARG,FW,Patronato,21,2000,0.9,39,2,2,17,21,7,39,0,0,,0,,24,66,21,0,2,0,3,0,36,8,Matches
+73,Sergio Barreto,ar ARG,DF,Independiente,22,1999,24.8,1302,162,690,568,48,33,1302,0,0,,0,,548,2378,1401,1,3,0,6,1,623,2,Matches
+74,Alan Barrionuevo,ar ARG,DF,Cen. Córdoba–SdE,25,1997,3.3,141,25,82,58,2,2,141,3,3,100.0,0,0.0,51,312,125,2,0,0,3,3,49,1,Matches
+75,Nahuel Barrios,ar ARG,"FW,MF",San Lorenzo,23,1998,14.9,843,3,117,423,331,26,843,109,42,38.5,58,53.2,518,3872,1672,60,47,11,49,42,540,110,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+76,Pier Barrios,ar ARG,DF,Godoy Cruz,31,1990,21.4,1037,113,454,432,159,26,1037,11,8,72.7,2,18.2,361,1810,784,17,13,1,19,7,422,27,Matches
+77,Augusto Batalla,ar ARG,GK,San Lorenzo,25,1996,18.0,517,436,509,8,0,0,517,1,1,100.0,0,0.0,228,1472,787,0,0,0,0,0,130,0,Matches
+78,Enmerson Batalla,co COL,"FW,MF",Patronato,20,2001,0.7,31,0,4,12,17,5,31,3,1,33.3,2,66.7,14,87,55,1,2,1,4,0,17,2,Matches
+79,Damián Batallini,ar ARG,"MF,FW",Independiente,25,1996,16.0,765,5,89,319,372,29,765,53,21,39.6,22,41.5,429,3033,1419,48,38,2,44,37,468,129,Matches
+80,Jonathan Bay,ar ARG,DF,Cen. Córdoba–SdE,28,1993,17.8,962,65,286,487,193,10,962,32,17,53.1,15,46.9,371,1670,680,9,12,0,28,13,376,45,Matches
+81,Matías Bazzo,ar ARG,FW,Gimnasia–LP,20,2001,0.1,3,0,0,1,2,0,3,0,0,,0,,2,2,1,0,0,0,0,0,3,0,Matches
+82,Tomás Belmonte,ar ARG,MF,Lanús,23,1998,16.3,859,33,195,513,155,34,859,21,9,42.9,11,52.4,339,1402,547,5,5,2,26,14,438,23,Matches
+83,Lucas Beltrán,ar ARG,FW,Colón,20,2001,1.0,30,1,1,12,17,4,30,3,2,66.7,1,33.3,21,79,36,1,2,1,2,1,26,6,Matches
+84,Lucas Beltrán,ar ARG,FW,River Plate,20,2001,13.2,531,9,19,226,289,57,531,36,16,44.4,19,52.8,307,1281,500,16,15,4,49,29,399,92,Matches
+85,Gastón Benavídez,ar ARG,DF,Talleres,26,1995,15.8,946,42,230,480,248,15,946,11,4,36.4,7,63.6,376,2289,1226,39,23,3,20,6,428,82,Matches
+86,Darío Benedetto,ar ARG,FW,Boca Juniors,31,1990,12.0,302,16,21,133,152,37,301,10,6,60.0,3,30.0,182,770,238,7,10,3,29,12,219,62,Matches
+87,Leandro Benegas,cl CHI,FW,Independiente,33,1988,21.2,526,17,35,219,274,91,526,28,10,35.7,16,57.1,257,1364,401,17,13,5,62,20,354,84,Matches
+88,Guillermo Benítez,ar ARG,DF,Huracán,28,1993,4.5,236,11,49,111,77,2,236,7,3,42.9,4,57.1,94,411,180,7,4,2,4,3,112,25,Matches
+89,Jorge Benítez,py PAR,FW,Platense,29,1992,11.2,413,23,40,199,179,39,413,19,10,52.6,6,31.6,197,905,268,9,10,3,36,12,287,48,Matches
+90,Marcelo Benitez,ar ARG,MF,Rosario Central,31,1991,6.1,392,7,55,232,110,6,392,15,5,33.3,10,66.7,217,996,382,4,4,1,9,7,250,19,Matches
+91,Marcos Benítez,ar ARG,MF,Newell's OB,20,2001,0.2,9,0,1,7,1,0,9,0,0,,0,,3,10,7,0,1,0,0,0,4,0,Matches
+92,Gonzalo Bergessio,ar ARG,FW,Platense,37,1984,4.0,132,11,14,67,51,15,131,4,0,0.0,4,100.0,64,269,88,4,1,3,8,9,98,15,Matches
+93,Alexandro Bernabei,ar ARG,DF,Lanús,21,2000,0.8,63,1,21,26,20,2,63,7,2,28.6,5,71.4,37,220,148,3,4,1,3,0,35,4,Matches
+94,Christian Bernardi,ar ARG,"MF,FW",Colón,31,1990,23.5,1133,18,148,598,418,54,1133,88,41,46.6,42,47.7,613,4115,2087,57,45,4,54,44,700,127,Matches
+95,Nicolás Bertolo,ar ARG,"MF,FW",Banfield,36,1986,2.9,152,2,19,70,69,16,152,21,8,38.1,11,52.4,103,863,444,13,10,2,13,5,92,21,Matches
+96,Lucas Besozzi,ar ARG,"MF,FW",Cen. Córdoba–SdE,19,2003,4.3,233,2,30,120,92,5,233,36,15,41.7,17,47.2,154,1135,561,23,16,2,17,6,156,35,Matches
+97,Gonzalo Bettini,ar ARG,DF,Sarmiento,29,1992,22.5,1071,99,431,436,214,9,1071,19,8,42.1,10,52.6,347,1531,845,14,19,1,20,6,358,38,Matches
+98,Bruno Bianchi,ar ARG,DF,Atlé Tucumán,32,1989,25.0,1342,213,825,487,34,16,1342,10,7,70.0,3,30.0,609,2923,1607,4,3,0,11,3,699,5,Matches
+99,Mariano Bíttolo,ar ARG,DF,Arg Juniors,31,1990,8.0,524,14,117,256,154,11,524,8,5,62.5,3,37.5,192,722,343,8,9,2,15,2,280,35,Matches
+100,Jonathan Blanco,ar ARG,MF,Barracas Central,34,1987,4.0,183,10,63,106,16,0,183,4,1,25.0,3,75.0,45,189,46,0,1,0,5,2,61,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+101,Lautaro Blanco,ar ARG,DF,Rosario Central,22,1999,25.0,1578,56,384,665,542,17,1578,50,21,42.0,28,56.0,693,4538,2560,108,47,5,33,13,809,155,Matches
+102,Nicolás Blandi,ar ARG,FW,San Lorenzo,32,1990,1.1,28,3,3,11,14,4,28,1,0,0.0,1,100.0,14,55,5,1,0,1,1,2,22,6,Matches
+103,Brian Blando,ar ARG,FW,Lanús,26,1995,8.2,245,6,10,115,122,28,245,20,8,40.0,9,45.0,133,662,299,20,6,4,32,7,176,57,Matches
+104,Brian Blasi,ar ARG,DF,Barracas Central,25,1996,7.7,354,26,125,169,64,4,354,8,2,25.0,5,62.5,95,449,167,1,3,0,7,3,118,6,Matches
+105,Lucas Blondel,ch SUI,DF,Tigre,25,1996,25.6,1718,69,471,844,431,16,1718,69,35,50.7,33,47.8,717,3969,2320,50,41,6,47,36,811,82,Matches
+106,Mauro Bogado,ar ARG,MF,Platense,36,1985,1.6,75,3,17,44,14,1,75,1,1,100.0,0,0.0,31,113,40,2,0,1,5,4,45,1,Matches
+107,Luciano Boggio,it ITA,MF,Lanús,22,1999,12.1,657,13,91,372,203,18,657,21,18,85.7,2,9.5,287,1766,796,18,17,3,29,12,349,36,Matches
+108,Enrique Bologna,ar ARG,GK,Banfield,39,1982,7.0,197,172,197,0,0,0,197,0,0,,0,,92,555,435,0,0,0,0,0,66,0,Matches
+109,Patricio Boolsen,ar ARG,DF,Aldosivi,24,1998,13.4,793,93,432,351,17,10,793,6,5,83.3,1,16.7,420,2245,1359,8,4,0,10,4,431,0,Matches
+110,Miguel Borja,co COL,FW,River Plate,29,1993,10.9,370,9,18,160,195,64,370,11,4,36.4,6,54.5,175,706,302,11,7,5,30,9,272,84,Matches
+111,Mauro Boselli,ar ARG,FW,Estudiantes–LP,36,1985,18.5,451,14,24,233,198,61,449,14,3,21.4,11,78.6,203,554,166,3,9,2,22,8,326,73,Matches
+112,Walter Bou,ar ARG,"FW,MF",Vélez Sarsfield,28,1993,11.9,589,4,48,300,255,32,585,37,20,54.1,13,35.1,326,1560,676,14,16,2,32,27,374,66,Matches
+113,Walter Bou,ar ARG,MF,Defensa y Just,28,1993,3.8,176,4,19,98,62,5,176,11,4,36.4,7,63.6,114,496,215,7,8,0,12,10,126,16,Matches
+114,Agustín Bouzat,ar ARG,MF,Vélez Sarsfield,27,1994,1.0,59,0,12,20,27,7,59,4,0,0.0,4,100.0,33,185,61,4,4,2,2,3,30,10,Matches
+115,Diego Braghieri,ar ARG,DF,Lanús,34,1987,8.8,615,57,325,274,20,11,615,3,2,66.7,1,33.3,344,1970,1380,10,1,1,2,2,410,2,Matches
+116,Malcom Braida,ar ARG,"MF,DF",San Lorenzo,24,1997,13.1,739,40,185,363,201,18,739,32,12,37.5,15,46.9,281,1476,734,25,15,2,39,17,333,58,Matches
+117,Julián Brea,ar ARG,MF,Sarmiento,22,1999,7.6,272,3,52,99,128,22,272,40,15,37.5,24,60.0,163,1364,704,26,15,7,19,16,154,39,Matches
+118,Néstor Breitenbruch,ar ARG,DF,Godoy Cruz,26,1995,10.8,615,30,207,297,114,12,615,10,4,40.0,5,50.0,260,1321,672,11,7,0,7,6,268,35,Matches
+119,Norberto Briasco,am ARM,FW,Boca Juniors,25,1996,1.7,55,0,5,26,25,2,55,4,1,25.0,3,75.0,31,228,59,2,4,0,9,5,37,10,Matches
+120,Elías Brítez,ar ARG,"MF,DF",Aldosivi,20,2001,4.2,197,5,34,115,48,4,197,6,2,33.3,3,50.0,110,562,301,8,3,2,10,4,134,14,Matches
+121,Emanuel Brítez,ar ARG,DF,Unión,29,1992,4.3,181,27,106,66,12,7,181,1,1,100.0,0,0.0,76,307,186,1,2,0,2,1,76,3,Matches
+122,Miguel Brizuela,ar ARG,DF,Vélez Sarsfield,25,1997,9.9,657,74,344,299,17,9,657,0,0,,0,,363,1775,1013,3,2,0,4,1,410,1,Matches
+123,Lucas Brochero,ar ARG,"MF,FW",Arsenal,23,1999,4.6,251,7,29,113,114,15,251,15,6,40.0,9,60.0,117,833,382,19,11,4,17,9,141,36,Matches
+124,Jorge Broun,ar ARG,GK,Rosario Central,35,1986,5.0,183,139,180,3,0,0,183,0,0,,0,,105,597,412,0,0,0,0,0,81,0,Matches
+125,Nahuel Brunet,ar ARG,"DF,FW",Godoy Cruz,21,2000,0.3,6,3,4,2,0,0,6,0,0,,0,,1,2,1,0,0,0,0,0,2,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+126,Leonel Bucca,ar ARG,MF,Unión,22,1999,3.3,158,9,50,94,19,2,158,4,3,75.0,1,25.0,63,322,123,1,2,0,8,4,70,3,Matches
+127,Julio Buffarini,ar ARG,DF,Talleres,33,1988,11.6,745,34,225,352,177,10,744,17,7,41.2,8,47.1,324,1636,765,16,9,1,22,18,365,47,Matches
+128,Ezequiel Bullaude,ar ARG,"FW,MF",Godoy Cruz,21,2000,12.0,541,8,31,265,257,36,541,76,38,50.0,36,47.4,315,2041,809,30,23,9,34,31,379,102,Matches
+129,Facundo Buonanotte,ar ARG,"MF,FW",Rosario Central,17,2004,20.3,987,14,110,516,391,66,987,127,61,48.0,57,44.9,553,3663,1637,47,42,15,80,56,588,103,Matches
+130,Valentín Burgoa,ar ARG,"MF,FW",Godoy Cruz,22,2000,6.6,357,1,37,177,151,7,357,38,20,52.6,17,44.7,205,1516,780,22,22,2,14,7,235,38,Matches
+131,Leonardo Burián,uy URU,GK,Colón,38,1984,4.0,114,106,114,0,0,0,114,0,0,,0,,63,363,302,0,0,0,0,0,34,0,Matches
+132,Leonardo Burián,uy URU,GK,Vélez Sarsfield,38,1984,11.5,343,289,342,1,0,0,343,0,0,,0,,163,858,520,0,0,0,0,1,145,0,Matches
+133,Abel Bustos,ar ARG,MF,Cen. Córdoba–SdE,22,1999,0.7,29,7,11,15,3,0,29,2,0,0.0,1,50.0,14,74,43,0,0,0,2,0,20,1,Matches
+134,Rodrigo Cabral,ar ARG,"FW,MF",Huracán,21,2000,15.5,663,2,71,287,319,41,663,54,23,42.6,22,40.7,374,2356,981,38,28,6,53,31,418,113,Matches
+135,Yonathan Cabral,ar ARG,DF,Lanús,29,1992,11.0,507,64,283,214,14,8,507,1,0,0.0,1,100.0,219,1370,836,1,1,0,3,2,258,0,Matches
+136,Alejandro Cabrera,ar ARG,MF,Banfield,29,1992,18.5,1361,81,422,822,141,15,1361,47,28,59.6,17,36.2,660,3053,1192,9,10,0,25,12,698,9,Matches
+137,Elías Cabrera,ar ARG,FW,Vélez Sarsfield,18,2003,0.1,3,0,1,2,0,0,3,0,0,,0,,4,19,2,0,0,0,0,1,1,0,Matches
+138,Iván Cabrera,ar ARG,DF,Arsenal,18,2003,0.1,11,0,5,6,0,0,11,0,0,,0,,5,42,19,0,0,0,1,0,6,0,Matches
+139,Javier Cabrera,uy URU,"DF,FW",Arg Juniors,29,1992,18.3,913,18,156,356,409,48,913,30,10,33.3,17,56.7,466,2061,846,29,11,9,35,18,570,176,Matches
+140,Maicol Cabrera,uy URU,"FW,MF",Huracán,25,1996,1.0,36,0,0,13,23,5,36,0,0,,0,,14,54,40,1,0,0,3,0,30,8,Matches
+141,Víctor Cabrera,ar ARG,DF,Tigre,28,1993,18.5,1082,123,663,390,38,12,1082,13,6,46.2,7,53.8,544,2910,1747,11,9,0,19,6,582,7,Matches
+142,Juan Cáceres,py PAR,DF,Racing Club,21,2000,0.6,57,1,10,35,14,1,57,0,0,,0,,26,124,87,1,2,0,1,1,34,3,Matches
+143,Tomás Cáceres,ar ARG,"MF,FW",Patronato,22,1999,0.3,26,1,4,12,10,1,26,1,0,0.0,1,100.0,13,65,7,0,1,0,3,1,13,1,Matches
+144,Diego Calcaterra,ar ARG,MF,San Lorenzo,20,2001,0.0,3,0,1,2,0,0,3,0,0,,0,,1,13,1,0,0,0,0,0,3,0,Matches
+145,Brian Calderara,ar ARG,"DF,MF",Barracas Central,23,1998,16.6,948,42,332,423,208,7,948,70,36,51.4,30,42.9,338,2157,926,30,19,5,32,11,303,32,Matches
+146,Franco Calderón,ar ARG,DF,Unión,23,1998,22.0,1077,145,605,440,42,29,1077,4,1,25.0,2,50.0,456,2041,988,5,5,1,10,1,529,9,Matches
+147,Franco Camargo,ar ARG,DF,Platense,21,2000,5.4,282,18,95,150,41,4,282,5,3,60.0,0,0.0,116,731,310,5,5,1,7,6,116,7,Matches
+148,Facundo Cambeses,ar ARG,GK,Banfield,24,1997,19.0,541,487,540,1,0,0,541,0,0,,0,,241,1564,920,0,0,0,1,0,158,0,Matches
+149,Marco Campagnaro,ar ARG,"DF,MF",Newell's OB,18,2003,6.2,356,19,110,170,80,7,356,8,4,50.0,4,50.0,152,695,373,7,5,0,6,9,154,24,Matches
+150,Gastón Campi,ar ARG,DF,San Lorenzo,30,1991,7.3,383,63,212,159,16,9,383,1,1,100.0,0,0.0,157,789,458,3,2,0,2,1,185,3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+151,Jorman Campuzano,co COL,MF,Boca Juniors,25,1996,2.2,155,7,37,108,12,2,155,3,1,33.3,2,66.7,96,495,301,4,5,0,1,0,101,2,Matches
+152,Jhonatan Candia,uy URU,"MF,FW",Huracán,26,1995,1.5,60,1,6,34,21,3,60,4,3,75.0,1,25.0,23,91,35,0,0,1,4,2,34,3,Matches
+153,Jhonatan Candia,uy URU,FW,Rosario Central,26,1995,5.0,157,6,11,71,77,22,157,4,3,75.0,1,25.0,80,277,104,4,3,2,17,9,118,26,Matches
+154,Ezequiel Cañete,ar ARG,"MF,FW",Unión,22,1999,8.9,603,14,77,329,213,26,603,37,19,51.4,13,35.1,327,1583,690,12,11,2,23,16,356,41,Matches
+155,Lucas Cano,ar ARG,FW,Arsenal,26,1995,6.1,299,1,31,141,135,20,299,32,14,43.8,15,46.9,173,1001,328,17,9,2,32,19,229,37,Matches
+156,Ramón Cansinos,ar ARG,FW,Cen. Córdoba–SdE,19,2002,0.5,12,0,0,10,2,1,12,1,1,100.0,0,0.0,6,25,4,0,0,0,3,0,8,2,Matches
+157,Héctor Canteros,ar ARG,MF,Platense,32,1989,1.2,92,4,12,52,29,0,92,4,3,75.0,1,25.0,41,171,120,3,1,0,4,1,54,6,Matches
+158,Gustavo Canto,ar ARG,DF,Arsenal,27,1994,13.4,563,94,339,204,28,13,563,3,2,66.7,0,0.0,181,996,453,1,6,0,10,2,175,2,Matches
+159,Manuel Capasso,ar ARG,DF,Atlé Tucumán,25,1996,21.7,1072,180,725,319,31,22,1072,6,2,33.3,3,50.0,475,1854,857,0,4,0,4,1,600,1,Matches
+160,Gabriel Carabajal,ar ARG,"MF,FW",Arg Juniors,30,1991,8.9,472,6,54,249,173,6,472,9,4,44.4,3,33.3,251,1235,472,10,8,1,13,13,320,49,Matches
+161,Johan Carbonero,co COL,"FW,MF",Racing Club,22,1999,8.2,365,1,19,115,234,54,365,50,19,38.0,27,54.0,253,1878,879,32,11,19,36,11,286,122,Matches
+162,Johan Carbonero,co COL,MF,Gimnasia–LP,22,1999,2.5,98,2,12,35,54,7,98,12,8,66.7,4,33.3,75,540,233,7,6,4,10,2,76,26,Matches
+163,Edwin Cardona,co COL,"FW,MF",Racing Club,29,1992,4.3,304,5,28,166,114,10,304,7,6,85.7,1,14.3,188,991,402,10,7,1,6,8,222,37,Matches
+164,Tomás Cardona,ar ARG,DF,Defensa y Just,26,1995,8.8,622,67,325,262,36,8,622,3,1,33.3,1,33.3,333,1933,1190,9,2,0,6,0,351,1,Matches
+165,Agustín Cardozo,ar ARG,MF,Gimnasia–LP,24,1997,26.0,1207,57,295,826,101,7,1207,22,17,77.3,4,18.2,516,2790,1595,19,9,0,27,18,575,8,Matches
+166,Samuel Careaga,ar ARG,"MF,FW",Lanús,19,2002,5.3,293,6,48,164,84,4,293,8,4,50.0,4,50.0,159,811,343,8,6,1,7,5,186,9,Matches
+167,Ramiro Carrera,ar ARG,MF,Atlé Tucumán,28,1993,23.3,1192,53,232,575,398,47,1189,72,37,51.4,32,44.4,543,3370,1785,54,37,7,44,44,693,68,Matches
+168,Lucas Carrizo,ar ARG,DF,Huracán,24,1997,5.2,366,12,91,191,87,1,366,3,1,33.3,2,66.7,154,629,350,9,3,0,6,3,201,23,Matches
+169,Nahuel Casasola,ar ARG,MF,Platense,20,2001,0.9,55,1,9,42,4,0,55,0,0,,0,,15,68,25,0,0,0,0,1,36,0,Matches
+170,Milton Casco,ar ARG,DF,River Plate,33,1988,17.6,1305,34,329,726,261,14,1305,32,13,40.6,18,56.3,635,2892,1631,35,24,1,18,12,763,57,Matches
+171,Santiago Cáseres,ar ARG,MF,Vélez Sarsfield,24,1997,8.1,676,18,180,444,59,2,676,6,5,83.3,1,16.7,393,2084,951,1,5,1,8,4,423,3,Matches
+172,Bryan Castrillón,co COL,"MF,FW",Unión,22,1999,16.1,634,9,98,195,357,56,634,93,37,39.8,45,48.4,367,2852,1587,62,47,17,33,27,370,145,Matches
+173,Alexis Castro,ar ARG,"MF,FW",Tigre,27,1994,17.8,1054,24,160,560,347,37,1054,43,20,46.5,15,34.9,495,2540,1257,36,25,10,53,26,611,88,Matches
+174,Facundo Castro,ar ARG,FW,Barracas Central,25,1996,2.0,61,1,5,26,30,6,61,1,0,0.0,1,100.0,29,96,16,0,1,0,9,3,43,7,Matches
+175,Lucas Castro,ar ARG,MF,Sarmiento,32,1989,20.3,1079,33,245,612,251,26,1079,106,59,55.7,43,40.6,557,2606,1184,25,23,7,53,61,570,66,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+176,Manuel Castro,uy URU,"MF,FW",Estudiantes–LP,26,1995,24.1,1085,15,133,510,463,78,1085,76,27,35.5,47,61.8,586,3700,1767,59,53,7,72,34,659,170,Matches
+177,Nicolás Castro,ar ARG,MF,Patronato,31,1990,18.4,1081,44,202,536,354,18,1081,46,21,45.7,25,54.3,424,2238,1046,28,28,2,32,23,487,40,Matches
+178,Nicolás Castro,ar ARG,MF,Newell's OB,21,2000,0.5,23,1,3,14,6,1,22,3,1,33.3,2,66.7,14,88,29,0,1,0,0,0,14,0,Matches
+179,Santiago Castro,ar ARG,"FW,MF",Vélez Sarsfield,17,2004,5.4,234,7,19,104,113,34,234,13,5,38.5,7,53.8,136,682,230,10,5,5,22,10,169,45,Matches
+180,Tomás Castro,ar ARG,"MF,FW",Godoy Cruz,20,2001,7.5,342,18,52,190,110,12,342,15,7,46.7,6,40.0,173,1051,414,17,18,0,15,15,217,44,Matches
+181,Matías Catalán,cl CHI,DF,Talleres,29,1992,22.6,1425,191,772,618,49,21,1425,17,13,76.5,3,17.6,712,3878,2300,17,12,0,11,5,788,9,Matches
+182,Martín Cauteruccio,uy URU,FW,Aldosivi,34,1987,13.6,397,10,36,190,178,46,395,22,9,40.9,10,45.5,214,862,283,8,8,6,52,18,282,84,Matches
+183,Ivan Cazal,py PAR,"FW,MF",Lanús,22,1999,2.8,122,7,23,56,46,4,122,8,1,12.5,6,75.0,64,417,151,8,6,0,10,8,70,15,Matches
+184,Juan Cazares,ec ECU,"FW,MF",Independiente,29,1992,8.6,553,6,53,280,225,16,553,17,6,35.3,11,64.7,341,1266,515,12,17,3,14,11,405,56,Matches
+185,Emanuel Cecchini,ar ARG,MF,Gimnasia–LP,25,1996,3.4,179,10,42,113,24,1,179,2,1,50.0,1,50.0,59,220,55,0,0,0,4,3,89,5,Matches
+186,Ignacio Cechi,ar ARG,"MF,FW",Lanús,20,2001,0.4,63,0,7,47,11,0,63,1,0,0.0,1,100.0,49,344,185,2,1,0,0,0,52,0,Matches
+187,Ezequiel Centurión,ar ARG,GK,River Plate,24,1997,3.0,99,89,99,0,0,0,99,0,0,,0,,45,263,199,0,0,0,0,0,26,0,Matches
+188,Francisco Cerro,ar ARG,MF,Aldosivi,33,1988,10.3,547,34,148,353,51,1,547,11,4,36.4,6,54.5,279,1338,717,6,8,0,10,6,304,7,Matches
+189,Juan Cerrudo,ar ARG,"MF,FW",Rosario Central,18,2004,3.3,133,1,22,59,56,11,133,13,4,30.8,7,53.8,69,348,158,4,6,1,15,3,65,20,Matches
+190,Ezequiel Cerutti,ar ARG,"FW,MF",San Lorenzo,30,1992,18.6,764,4,74,302,407,55,763,69,31,44.9,29,42.0,497,3388,1194,51,32,9,46,23,541,166,Matches
+191,Tobías Cervera,sy SYR,"FW,MF",Aldosivi,19,2002,3.1,98,2,6,40,52,7,98,9,3,33.3,5,55.6,56,312,109,4,1,3,3,9,67,28,Matches
+192,Tomás Chancalay,ar ARG,"FW,MF",Racing Club,23,1999,6.9,407,3,33,174,208,36,407,36,16,44.4,18,50.0,247,1766,751,24,14,9,22,13,288,69,Matches
+193,Andrés Chávez,ar ARG,FW,Banfield,30,1991,4.3,133,2,8,50,76,21,132,12,0,0.0,8,66.7,77,470,95,4,6,1,15,7,97,27,Matches
+194,Cristian Chávez,ar ARG,FW,Godoy Cruz,34,1987,0.3,16,0,3,8,6,3,16,1,0,0.0,1,100.0,7,10,5,0,0,0,3,0,8,3,Matches
+195,Lautaro Chávez,ar ARG,"MF,FW",Gimnasia–LP,21,2001,5.3,207,5,39,83,90,17,207,25,7,28.0,18,72.0,129,981,271,9,7,4,26,7,123,31,Matches
+196,Lucas Chávez,ar ARG,GK,Huracán,26,1995,27.0,903,663,882,25,0,0,903,1,1,100.0,0,0.0,517,3367,2525,0,0,0,1,0,387,0,Matches
+197,Ignacio Chicco,ar ARG,GK,Colón,25,1996,23.0,771,670,765,6,0,0,771,0,0,,0,,349,2137,1564,0,0,0,1,0,220,0,Matches
+198,Julián Chicco,ar ARG,MF,Colón,24,1998,9.6,534,41,148,341,53,7,534,3,0,0.0,3,100.0,221,1060,516,2,3,0,11,4,268,7,Matches
+199,Cristian Chimino,ar ARG,DF,Arsenal,33,1988,23.2,1233,80,440,517,286,17,1233,26,9,34.6,17,65.4,382,1791,875,20,26,2,28,9,397,46,Matches
+200,Luciano Cingolani,ar ARG,"FW,MF",Newell's OB,20,2001,0.9,55,1,14,18,26,3,55,8,4,50.0,4,50.0,39,335,193,6,2,2,3,1,32,11,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+201,Facundo Cobos,ar ARG,"DF,MF",Patronato,28,1993,13.2,717,44,215,291,217,10,717,15,8,53.3,6,40.0,250,1581,653,32,17,5,16,7,274,49,Matches
+202,Matías Cóccaro,uy URU,FW,Huracán,24,1997,24.6,666,18,28,233,409,131,663,58,17,29.3,34,58.6,336,1526,522,18,12,8,63,37,522,142,Matches
+203,Nicolás Colazo,ar ARG,DF,Gimnasia–LP,31,1990,12.9,837,39,276,379,186,8,837,6,3,50.0,2,33.3,228,995,478,6,6,1,7,3,308,26,Matches
+204,Facundo Colidio,ar ARG,"FW,MF",Tigre,22,2000,22.1,1048,13,76,490,501,82,1048,85,34,40.0,47,55.3,608,3639,1921,65,52,13,76,41,777,167,Matches
+205,Cristian Colmán,py PAR,FW,Barracas Central,27,1994,12.0,443,14,27,180,237,38,443,7,2,28.6,4,57.1,153,480,110,4,3,2,51,11,301,57,Matches
+206,Cristian Colmán,py PAR,FW,Arsenal,27,1994,3.9,150,4,13,59,79,22,150,2,0,0.0,2,100.0,58,290,130,8,3,4,15,4,115,22,Matches
+207,Nazareno Colombo,ar ARG,DF,Defensa y Just,22,1999,25.8,1750,285,1000,675,84,15,1750,30,19,63.3,11,36.7,945,6235,4287,42,11,3,19,7,989,14,Matches
+208,Leandro Contín,ar ARG,FW,Gimnasia–LP,26,1995,3.3,131,6,7,47,79,13,131,6,2,33.3,4,66.7,60,197,59,3,3,1,17,7,93,15,Matches
+209,Rodrigo Contreras,ar ARG,"FW,MF",Platense,26,1995,11.7,456,12,35,209,215,39,456,14,8,57.1,5,35.7,261,983,336,10,10,2,47,28,359,69,Matches
+210,Enzo Copetti,ar ARG,FW,Racing Club,26,1996,23.8,844,23,45,331,471,129,843,26,7,26.9,17,65.4,404,1712,527,26,17,16,83,24,655,151,Matches
+211,Nicolás Cordero,ar ARG,FW,Huracán,22,1999,4.6,215,2,6,94,116,33,215,12,3,25.0,7,58.3,80,451,148,4,2,3,16,10,148,44,Matches
+212,Emanuel Coronel,ar ARG,DF,Banfield,24,1997,22.8,1615,93,499,724,411,18,1615,63,25,39.7,32,50.8,660,3534,1772,46,29,4,52,20,707,87,Matches
+213,Mateo Coronel,ar ARG,"FW,MF",Atlé Tucumán,23,1998,7.7,281,3,14,105,164,28,280,29,9,31.0,18,62.1,162,908,388,13,10,3,35,4,206,80,Matches
+214,Mateo Coronel,ar ARG,"FW,MF",Arg Juniors,23,1998,1.2,53,0,1,26,26,9,53,2,0,0.0,2,100.0,27,124,60,2,2,0,3,0,36,15,Matches
+215,Brandon Cortés,cl CHI,"MF,FW",Boca Juniors,20,2001,0.4,26,0,3,15,9,0,26,1,0,0.0,1,100.0,15,70,34,1,0,0,2,3,21,3,Matches
+216,Ismael Cortéz,ar ARG,DF,Rosario Central,20,2002,7.0,398,22,110,183,108,3,398,18,8,44.4,10,55.6,156,827,484,13,8,0,12,6,160,33,Matches
+217,Claudio Corvalán,ar ARG,DF,Unión,32,1989,13.6,775,83,338,293,155,20,775,11,5,45.5,5,45.5,312,1234,622,15,11,2,12,4,330,32,Matches
+218,Ayrton Costa,ar ARG,"DF,MF",Platense,22,1999,17.7,1139,43,338,528,284,28,1139,33,16,48.5,16,48.5,413,2266,1154,33,30,5,30,22,443,62,Matches
+219,Michael Covea,ve VEN,"FW,MF",Rosario Central,28,1993,1.4,71,0,5,31,35,3,71,5,2,40.0,3,60.0,53,401,139,4,1,2,8,4,58,12,Matches
+220,Franco Cristaldo,ar ARG,MF,Huracán,25,1996,26.7,1604,21,142,861,626,66,1596,60,27,45.0,29,48.3,792,3751,1595,44,36,10,53,43,998,162,Matches
+221,Juan Cruz,ar ARG,"FW,MF",Banfield,22,1999,7.8,271,7,22,117,135,36,271,18,4,22.2,12,66.7,148,810,276,11,6,6,28,14,176,49,Matches
+222,Juan Cruz Kaprof,ar ARG,FW,Cen. Córdoba–SdE,26,1995,3.8,145,3,8,75,63,9,145,12,7,58.3,5,41.7,69,214,43,0,0,0,14,5,101,29,Matches
+223,Juan Cruz Komar,ar ARG,DF,Rosario Central,25,1996,6.3,293,42,175,114,5,4,293,0,0,,0,,136,582,396,2,1,0,2,1,156,0,Matches
+224,Pablo Cuadra,ar ARG,"FW,MF",Banfield,26,1995,5.2,277,2,30,143,111,13,277,32,10,31.3,21,65.6,172,1390,561,22,11,4,17,9,186,46,Matches
+225,Brian Cuello,ar ARG,"FW,MF",Defensa y Just,24,1997,4.3,209,4,33,78,103,12,209,13,4,30.8,9,69.2,121,832,271,6,9,1,14,5,121,38,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+226,Mauricio Cuero,co COL,"MF,FW",Banfield,29,1993,3.3,124,2,20,48,61,6,124,20,5,25.0,8,40.0,85,703,307,10,9,5,15,7,77,24,Matches
+227,Juan Cuesta,co COL,"FW,MF",Aldosivi,19,2002,7.2,314,2,33,110,176,35,314,26,12,46.2,11,42.3,168,1035,444,15,10,8,26,17,197,76,Matches
+228,Agustín Curruhinca,ar ARG,"FW,MF",Huracán,22,2000,0.5,26,0,1,13,13,5,26,8,3,37.5,4,50.0,17,91,48,4,0,1,3,1,13,5,Matches
+229,Jesús Dátolo,ar ARG,MF,Banfield,37,1984,10.0,594,3,47,314,241,18,593,29,14,48.3,13,44.8,336,1869,775,20,29,0,33,21,363,45,Matches
+230,Jonathan David Gómez,ar ARG,"MF,FW",Racing Club,32,1989,11.8,728,10,88,431,220,20,728,38,24,63.2,5,13.2,406,2262,1143,28,25,2,37,10,539,59,Matches
+231,Héctor David Martínez,py PAR,DF,River Plate,24,1998,10.1,850,42,292,498,67,7,850,4,3,75.0,1,25.0,477,2699,1882,17,17,0,4,0,541,6,Matches
+232,Nicolás De La Cruz,uy URU,"MF,FW",River Plate,24,1997,15.8,1224,15,132,766,334,30,1224,45,19,42.2,18,40.0,783,4652,2455,56,34,4,22,13,923,86,Matches
+233,Facundo De La Vega,ar ARG,"FW,MF",Aldosivi,18,2003,1.1,35,0,2,14,19,3,35,3,1,33.3,2,66.7,21,118,40,2,0,1,5,2,27,9,Matches
+234,Pedro De la Vega,ar ARG,MF,Lanús,20,2001,0.2,11,0,3,5,5,0,11,4,3,75.0,1,25.0,5,116,94,3,1,0,0,0,3,1,Matches
+235,Matías De los Santos,uy URU,DF,Vélez Sarsfield,29,1992,16.2,1173,103,526,609,45,17,1173,6,3,50.0,3,50.0,669,4096,2678,19,11,0,12,1,773,1,Matches
+236,Franco Déboli,ar ARG,"FW,MF",Colón,21,2000,1.4,44,2,3,19,22,1,44,7,1,14.3,6,85.7,26,94,21,0,0,0,7,1,32,8,Matches
+237,Gustavo Del Prete,ar ARG,"FW,MF",Estudiantes–LP,25,1996,1.0,46,0,2,23,22,5,46,4,1,25.0,3,75.0,33,206,109,6,5,0,4,5,36,7,Matches
+238,Nicolás Delgadillo,ar ARG,"FW,MF",Platense,24,1997,1.3,62,1,11,13,43,3,62,9,2,22.2,4,44.4,38,304,115,1,5,1,7,5,40,17,Matches
+239,Nicolás Demartini,ar ARG,DF,Tigre,22,1999,5.3,278,32,132,123,23,2,278,4,2,50.0,2,50.0,120,521,296,3,2,1,7,2,122,4,Matches
+240,José Devecchi,ar ARG,GK,Aldosivi,26,1995,26.0,886,708,878,8,0,0,886,1,0,0.0,1,100.0,405,2960,2064,0,0,0,0,0,249,0,Matches
+241,Matías Di Benedetto,ar ARG,DF,Cen. Córdoba–SdE,29,1992,11.0,579,78,301,264,16,14,579,1,1,100.0,0,0.0,259,1216,761,3,0,0,1,2,286,0,Matches
+242,Marco Di Cesare,ar ARG,DF,Arg Juniors,20,2002,6.8,448,61,289,147,14,6,448,0,0,,0,,160,776,459,1,0,1,3,0,218,2,Matches
+243,Francisco Di Franco,ar ARG,"MF,DF",Atlé Tucumán,27,1995,4.4,224,9,67,106,55,5,224,7,4,57.1,3,42.9,102,602,285,6,3,1,15,8,126,13,Matches
+244,Alan Di Pippa,ar ARG,MF,Banfield,21,2000,3.2,203,14,69,119,21,1,203,5,4,80.0,0,0.0,82,493,286,3,4,1,6,2,80,0,Matches
+245,Leonel Di Plácido,ar ARG,DF,Lanús,28,1994,12.9,981,30,288,456,253,11,981,56,24,42.9,28,50.0,394,2550,1521,43,37,3,30,12,470,68,Matches
+246,Alexander Díaz,ar ARG,FW,Arsenal,22,2000,9.3,391,1,22,158,220,34,390,36,16,44.4,15,41.7,257,1303,415,15,15,3,56,35,301,80,Matches
+247,Enzo Díaz,ar ARG,DF,Talleres,26,1995,17.4,1195,59,349,586,287,28,1195,64,36,56.3,25,39.1,592,3640,1997,51,35,3,35,28,623,62,Matches
+248,Franco Díaz,ar ARG,"MF,FW",Vélez Sarsfield,21,2000,2.1,146,2,22,84,43,3,146,13,6,46.2,7,53.8,82,571,333,10,11,2,6,5,99,17,Matches
+249,Leandro Díaz,ar ARG,FW,Estudiantes–LP,29,1992,17.4,624,13,30,273,329,87,623,33,15,45.5,16,48.5,331,1619,690,24,26,8,50,32,495,119,Matches
+250,Paulo Díaz,cl CHI,DF,River Plate,27,1994,10.4,904,95,421,433,57,16,904,6,5,83.3,1,16.7,542,3262,1759,14,7,0,9,4,589,8,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+251,Willer Ditta,co COL,DF,Newell's OB,25,1997,21.1,1095,116,575,469,69,15,1095,19,15,78.9,3,15.8,604,3555,2172,31,14,1,19,4,581,5,Matches
+252,Nicolás Domingo,ar ARG,MF,Banfield,36,1985,14.1,782,49,217,473,95,6,782,15,6,40.0,9,60.0,347,1468,742,7,3,1,26,6,458,18,Matches
+253,Alexis Dominguez,ar ARG,"FW,MF",Gimnasia–LP,25,1996,0.5,16,0,1,6,9,3,16,2,2,100.0,0,0.0,7,58,34,2,1,1,3,0,11,4,Matches
+254,Benjamín Domínguez,ar ARG,MF,Gimnasia–LP,18,2003,9.1,427,1,45,186,207,39,427,51,25,49.0,24,47.1,248,1868,645,27,27,17,48,41,269,82,Matches
+255,Fabricio Domínguez,uy URU,"DF,MF",Racing Club,23,1998,1.2,65,2,18,26,22,3,65,8,4,50.0,4,50.0,33,188,110,3,0,1,4,0,34,8,Matches
+256,Fabricio Domínguez,uy URU,"MF,DF",Defensa y Just,23,1998,5.9,262,4,50,102,115,12,262,30,17,56.7,12,40.0,142,971,544,13,12,5,12,9,148,43,Matches
+257,Jose Domínguez,py PAR,DF,Godoy Cruz,25,1996,12.0,570,79,350,212,13,5,570,11,4,36.4,6,54.5,262,1294,682,3,3,0,7,4,259,1,Matches
+258,Nery Domínguez,ar ARG,DF,Racing Club,31,1990,1.3,114,16,59,53,2,0,114,1,1,100.0,0,0.0,70,400,234,0,0,0,2,0,81,0,Matches
+259,Jalil Elías,sy SYR,"MF,DF",San Lorenzo,25,1996,23.4,1487,46,291,917,294,18,1487,27,10,37.0,17,63.0,702,3229,1579,24,29,1,24,27,868,67,Matches
+260,Edgar Elizalde,uy URU,DF,Independiente,21,2000,14.3,715,49,250,331,139,13,715,9,3,33.3,6,66.7,262,1183,637,12,10,0,7,3,295,20,Matches
+261,Guillermo Enrique,ar ARG,DF,Gimnasia–LP,21,2000,23.4,1196,92,412,521,281,16,1196,60,27,45.0,31,51.7,376,3094,1484,48,43,5,38,12,372,60,Matches
+262,Ramiro Enrique,ar ARG,FW,Banfield,20,2001,22.0,711,27,64,326,332,93,710,69,31,44.9,37,53.6,345,1967,663,27,21,11,70,42,509,125,Matches
+263,Lautaro Escalante,ar ARG,"MF,FW",Defensa y Just,22,1999,1.1,49,2,16,20,13,2,49,2,0,0.0,0,0.0,13,71,46,1,0,1,7,1,18,6,Matches
+264,Ian Escobar,ar ARG,DF,Banfield,25,1996,1.0,62,2,12,36,15,1,62,2,1,50.0,1,50.0,22,127,49,2,4,0,1,0,24,7,Matches
+265,Ian Escobar,ar ARG,DF,Aldosivi,25,1996,10.7,607,29,195,265,152,11,607,9,5,55.6,4,44.4,200,1254,659,27,18,4,23,4,236,43,Matches
+266,Julián Eseiza,ar ARG,DF,Banfield,19,2002,1.6,85,6,24,38,24,1,85,2,0,0.0,2,100.0,41,216,134,3,3,0,2,0,43,4,Matches
+267,Leandro Espejo,ar ARG,FW,Talleres,20,2001,1.9,69,0,7,32,31,5,69,1,0,0.0,1,100.0,34,301,49,2,4,1,7,4,42,15,Matches
+268,Juan Espínola,py PAR,GK,Godoy Cruz,27,1994,1.0,40,36,40,0,0,0,40,0,0,,0,,19,134,93,0,0,0,0,0,9,0,Matches
+269,Marcelo Esponda,ar ARG,MF,Newell's OB,19,2003,4.6,242,8,53,153,39,7,242,6,2,33.3,3,50.0,93,440,271,6,5,2,8,4,126,6,Matches
+270,Juan Esquivel,ar ARG,"FW,MF",Platense,21,2000,7.1,269,1,24,115,141,16,269,60,20,33.3,35,58.3,170,1525,823,26,24,6,33,10,174,50,Matches
+271,Lucas Esquivel,ar ARG,DF,Unión,20,2001,17.2,1083,40,335,466,307,18,1083,55,25,45.5,29,52.7,444,2876,1525,41,29,9,18,13,458,58,Matches
+272,Matías Esquivel,ar ARG,"MF,DF",Talleres,22,1999,4.9,314,3,24,175,121,12,314,22,11,50.0,10,45.5,181,1037,506,19,9,3,21,9,213,29,Matches
+273,Marcelo Estigarribia,ar ARG,FW,Patronato,26,1995,9.0,314,14,26,114,175,49,313,12,7,58.3,5,41.7,140,488,189,9,3,7,21,12,221,57,Matches
+274,Yair Ezequiel Arismendi,ar ARG,"MF,DF",Sarmiento,23,1998,17.8,713,48,217,263,247,29,713,53,16,30.2,35,66.0,300,2140,987,32,23,6,29,24,292,71,Matches
+275,Nicolás Ezequiel Fernández,ar ARG,"MF,DF",San Lorenzo,22,2000,13.9,871,36,267,409,213,9,871,58,28,48.3,27,46.6,385,2537,1281,33,17,5,25,26,367,36,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+276,Frank Fabra,co COL,DF,Boca Juniors,30,1991,21.3,1508,51,363,827,335,32,1508,60,30,50.0,26,43.3,844,4300,2306,57,41,14,23,25,919,102,Matches
+277,Kevin Facundo Gutiérrez,ar ARG,MF,Defensa y Just,24,1997,23.4,1533,52,386,912,263,8,1532,41,22,53.7,17,41.5,784,3677,1642,15,13,2,29,33,857,20,Matches
+278,Lucio Falasco,ar ARG,DF,Aldosivi,17,2004,0.2,14,0,1,8,5,0,14,1,0,0.0,1,100.0,8,36,26,1,1,0,3,1,9,0,Matches
+279,Facundo Farías,ar ARG,"MF,FW",Colón,19,2002,14.2,565,3,46,304,228,28,562,75,35,46.7,36,48.0,395,2608,1266,37,35,7,45,35,406,91,Matches
+280,Brian Farioli,ar ARG,"MF,FW",Colón,23,1998,2.0,123,1,22,60,41,4,123,6,1,16.7,5,83.3,61,298,89,2,0,0,6,2,75,9,Matches
+281,Federico Fattori,ar ARG,MF,Huracán,29,1992,25.9,1828,60,416,1250,174,5,1828,18,6,33.3,9,50.0,881,4098,2194,16,20,2,23,22,1046,22,Matches
+282,Nicolás Femia,ar ARG,MF,Sarmiento,25,1996,0.9,52,3,8,34,10,2,52,0,0,,0,,24,119,43,1,1,0,2,0,26,2,Matches
+283,Damián Fernández,ar ARG,DF,Vélez Sarsfield,21,2001,6.5,470,55,249,217,7,6,470,6,4,66.7,2,33.3,281,1446,882,6,0,0,4,0,286,1,Matches
+284,Enzo Fernández,ar ARG,MF,River Plate,21,2001,5.0,456,2,33,307,118,12,456,10,6,60.0,4,40.0,300,1461,739,16,11,2,9,6,347,26,Matches
+285,Ezequiél Fernández,ar ARG,MF,Tigre,19,2002,21.6,1398,34,338,955,124,12,1398,50,26,52.0,20,40.0,769,3695,1825,23,21,2,27,21,883,21,Matches
+286,Julián Fernández,ar ARG,"FW,MF",Vélez Sarsfield,18,2004,12.5,612,7,81,259,282,24,612,53,20,37.7,27,50.9,333,1988,840,27,24,4,38,22,368,92,Matches
+287,Julián Fernández,ar ARG,MF,Newell's OB,26,1995,13.2,731,24,173,488,75,9,731,8,3,37.5,5,62.5,317,1226,640,6,4,2,10,8,382,9,Matches
+288,Leandro Fernández,ar ARG,"FW,MF",Independiente,30,1991,18.4,906,11,80,375,470,70,904,60,19,31.7,39,65.0,495,2931,1538,48,35,11,50,40,603,169,Matches
+289,Nicolás Fernández,ar ARG,FW,Defensa y Just,25,1996,15.3,569,5,45,255,276,62,569,41,11,26.8,27,65.9,306,1474,530,21,11,12,62,33,403,102,Matches
+290,Román Fernández,ar ARG,MF,Racing Club,16,2005,0.2,12,0,1,4,7,2,12,2,0,0.0,2,100.0,8,48,11,0,0,0,3,1,9,3,Matches
+291,Juan Fernando Garro,ar ARG,"FW,MF",Newell's OB,29,1992,10.2,319,11,51,155,118,23,319,34,13,38.2,20,58.8,179,1278,472,16,11,6,17,20,221,43,Matches
+292,Gianluca Ferrari,ar ARG,DF,Godoy Cruz,24,1997,23.4,1020,140,596,400,28,24,1020,9,5,55.6,4,44.4,422,2057,1137,9,2,2,9,0,441,3,Matches
+293,Cristian Ferreira,ar ARG,"MF,FW",Newell's OB,22,1999,4.2,210,1,19,98,96,4,210,10,2,20.0,8,80.0,132,799,374,9,9,0,13,6,158,15,Matches
+294,Facundo Ferreyra,ar ARG,FW,Independiente,30,1991,6.2,213,6,13,97,105,34,213,8,3,37.5,5,62.5,107,351,93,6,3,2,28,9,159,37,Matches
+295,Luciano Ferreyra,ar ARG,MF,Rosario Central,19,2002,5.2,222,2,15,93,120,18,222,28,12,42.9,16,57.1,128,1015,507,19,12,4,16,13,146,47,Matches
+296,Nicolás Ferreyra,ar ARG,DF,Barracas Central,28,1993,19.0,575,113,319,203,59,41,575,7,4,57.1,3,42.9,172,893,356,1,2,1,12,9,167,6,Matches
+297,Héctor Fértoli,ar ARG,"FW,MF",Talleres,27,1994,4.5,244,3,22,125,98,6,244,10,6,60.0,3,30.0,143,698,255,8,5,1,19,13,183,27,Matches
+298,Jorge Figal,ar ARG,DF,Boca Juniors,27,1994,9.7,652,62,326,303,28,3,652,3,2,66.7,1,33.3,403,2371,1149,5,2,0,7,3,393,8,Matches
+299,Federico Florentin,,"MF,FW",Barracas Central,,,0.3,10,0,3,6,1,0,10,0,0,,0,,5,49,30,1,0,0,1,0,6,1,Matches
+300,Gabriel Florentín,ar ARG,"FW,MF",Arg Juniors,22,1999,2.5,189,0,13,111,68,2,189,3,3,100.0,0,0.0,110,582,249,6,5,0,9,7,150,18,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+301,Jose Florentín,py PAR,MF,Vélez Sarsfield,25,1996,6.4,422,13,90,251,84,12,422,10,6,60.0,4,40.0,211,1180,555,10,10,0,14,7,255,16,Matches
+302,Gonzalo Flores,ar ARG,FW,Tigre,19,2002,0.4,22,0,3,9,10,0,22,5,1,20.0,2,40.0,17,121,29,2,0,0,3,1,20,7,Matches
+303,Agustín Fontana,ar ARG,FW,Defensa y Just,25,1996,4.5,119,4,14,51,54,12,119,2,0,0.0,2,100.0,84,257,50,4,1,1,19,8,93,22,Matches
+304,Ezequiel Forclaz,ar ARG,"FW,MF",Tigre,18,2003,0.5,30,1,6,16,9,1,30,2,1,50.0,1,50.0,20,102,48,2,2,0,2,1,19,3,Matches
+305,Mauro Formica,ar ARG,MF,Colón,33,1988,1.2,47,1,6,25,16,3,47,1,1,100.0,0,0.0,25,110,53,1,1,0,1,0,28,7,Matches
+306,Juan Francisco Apaolaza,ar ARG,"FW,MF",Arsenal,24,1997,6.1,279,12,34,113,135,28,279,7,1,14.3,6,85.7,135,564,189,6,3,2,25,7,191,45,Matches
+307,Alan Franco,ec ECU,"MF,FW",Talleres,23,1998,10.8,493,15,93,324,84,11,493,6,0,0.0,5,83.3,229,1002,538,9,6,1,13,4,314,22,Matches
+308,Enzo Franco,ar ARG,DF,Independiente,18,2004,0.6,23,1,4,14,5,1,23,0,0,,0,,16,70,34,0,0,0,1,0,16,5,Matches
+309,Guillermo Fratta,uy URU,DF,Gimnasia–LP,26,1995,1.5,69,11,39,30,0,0,69,0,0,,0,,26,75,18,0,0,0,0,0,38,0,Matches
+310,Adonis Frías,ar ARG,DF,Defensa y Just,23,1998,17.1,1062,156,589,452,35,13,1061,11,8,72.7,2,18.2,623,3822,2509,23,6,1,12,3,665,7,Matches
+311,Franco Frías,ar ARG,"FW,MF",Rosario Central,19,2002,7.9,230,3,23,85,126,28,230,19,7,36.8,11,57.9,126,836,399,21,11,6,22,12,168,46,Matches
+312,Elías Fugas,ar ARG,DF,Colón,21,2001,1.0,91,11,49,39,4,0,91,2,1,50.0,1,50.0,34,141,99,1,1,0,3,0,42,1,Matches
+313,Nazareno Funez,ar ARG,FW,Newell's OB,20,2001,1.9,83,0,2,37,46,12,83,4,0,0.0,4,100.0,50,281,99,4,3,2,11,16,65,16,Matches
+314,Maximiliano Gagliardo,ar ARG,GK,Barracas Central,38,1983,11.0,348,292,344,4,0,0,348,0,0,,0,,135,1037,723,0,0,0,2,0,53,0,Matches
+315,Matías Galarza,ar ARG,MF,Arg Juniors,19,2002,5.3,371,8,64,238,78,5,371,15,13,86.7,2,13.3,171,950,366,6,11,0,13,8,234,14,Matches
+316,David Gallardo,ar ARG,MF,Sarmiento,24,1997,10.4,393,17,77,179,153,21,393,64,27,42.2,33,51.6,215,2139,1060,35,34,5,33,11,204,40,Matches
+317,Matías Gallegos,ar ARG,FW,Unión,24,1997,4.0,166,6,15,77,78,19,166,6,4,66.7,2,33.3,75,353,65,4,1,1,11,9,108,23,Matches
+318,Martín Galmarini,ar ARG,MF,Tigre,39,1982,0.2,11,0,2,6,3,0,11,0,0,,0,,6,11,3,0,0,0,1,0,5,1,Matches
+319,Giuliano Galoppo,ar ARG,"MF,FW",Banfield,22,1999,6.7,324,5,43,193,90,16,322,11,5,45.5,6,54.5,139,727,342,5,5,0,13,6,199,22,Matches
+320,Jonathan Galván,ar ARG,DF,Huracán,29,1992,5.9,292,26,147,136,10,5,292,0,0,,0,,138,702,346,0,0,0,2,1,161,3,Matches
+321,Jonathan Galván,ar ARG,DF,Racing Club,29,1992,11.7,886,85,433,417,38,13,885,2,1,50.0,1,50.0,450,2521,1378,8,2,0,5,1,528,5,Matches
+322,Tomás Galván,ar ARG,MF,Defensa y Just,21,2000,9.4,452,7,67,271,121,10,452,20,6,30.0,11,55.0,257,1451,720,21,18,6,32,6,289,26,Matches
+323,Lucas Gamba,ar ARG,FW,Rosario Central,34,1987,3.9,152,1,5,52,96,15,151,7,1,14.3,6,85.7,89,366,110,4,4,1,18,8,115,37,Matches
+324,Martín Garay,ar ARG,DF,Atlé Tucumán,22,1999,22.9,1336,60,486,577,286,13,1336,44,22,50.0,20,45.5,562,3186,1761,35,23,4,26,16,613,75,Matches
+325,Nicolás Garayalde,ar ARG,MF,Vélez Sarsfield,22,1999,18.5,1250,29,227,804,237,15,1250,18,8,44.4,10,55.6,563,2171,962,14,22,3,26,25,732,38,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+326,Facundo Garcés,my MAS,DF,Colón,22,1999,21.5,1001,174,623,344,36,14,1001,4,3,75.0,1,25.0,404,2336,1325,5,2,0,13,4,420,6,Matches
+327,Diego García,uy URU,"MF,FW",Patronato,25,1996,4.0,221,6,45,102,78,10,221,20,8,40.0,12,60.0,119,753,366,10,5,5,10,6,121,16,Matches
+328,Eduardo García,ar ARG,MF,San Lorenzo,20,2001,0.2,9,0,0,4,5,1,9,0,0,,0,,2,18,4,1,0,0,1,0,5,3,Matches
+329,Joaquín García,ar ARG,DF,Vélez Sarsfield,20,2001,0.0,0,0,0,0,0,0,0,0,0,,0,,0,0,0,0,0,0,0,0,0,0,Matches
+330,Manuel García,ar ARG,MF,Sarmiento,22,1999,1.6,58,7,20,30,8,2,58,1,0,0.0,1,100.0,14,29,11,0,0,0,2,1,13,0,Matches
+331,Ignacio Gariglio,ar ARG,DF,Arsenal,23,1998,11.1,360,86,231,114,16,9,360,3,1,33.3,2,66.7,110,515,250,3,0,1,6,1,102,2,Matches
+332,Yamil Garnier,ar ARG,MF,Sarmiento,39,1982,0.6,22,3,7,13,2,0,22,0,0,,0,,4,13,0,0,0,0,0,0,8,0,Matches
+333,Benjamín Garré,ar ARG,"FW,MF",Huracán,21,2000,22.8,1130,6,102,517,540,57,1130,99,42,42.4,48,48.5,623,3907,1939,72,45,11,59,33,705,116,Matches
+334,Rodrigo Garro,ar ARG,"MF,FW",Talleres,24,1998,15.7,927,9,61,491,384,28,927,48,16,33.3,30,62.5,480,2502,913,27,26,5,43,24,595,83,Matches
+335,Maximiliano Gatani,ar ARG,MF,Talleres,18,2003,0.1,7,2,4,3,0,0,7,1,0,0.0,1,100.0,0,0,0,0,0,0,0,0,1,0,Matches
+336,Federico Gattoni,ar ARG,DF,San Lorenzo,22,1999,25.0,1355,100,605,718,42,15,1355,12,8,66.7,4,33.3,689,3038,1808,16,6,0,11,16,803,4,Matches
+337,Juan Gauto,ar ARG,"FW,MF",Huracán,17,2004,4.1,147,0,14,71,66,8,147,13,3,23.1,9,69.2,91,621,236,8,11,2,17,10,94,22,Matches
+338,Lautaro Geminiani,ar ARG,DF,Patronato,30,1991,4.7,250,21,89,106,56,6,250,2,0,0.0,2,100.0,76,309,84,4,4,3,9,4,73,8,Matches
+339,Francisco Gerometta,ar ARG,DF,Unión,22,1999,10.1,625,27,226,271,135,3,625,21,7,33.3,13,61.9,198,990,486,15,11,1,14,4,222,35,Matches
+340,Joaquín Gho,ar ARG,MF,Sarmiento,18,2003,0.3,15,2,5,4,6,0,15,0,0,,0,,6,31,9,0,0,0,1,0,4,0,Matches
+341,Juan Giacone,,FW,Talleres,,,2.3,66,4,5,28,33,8,66,0,0,,0,,26,70,25,2,0,0,8,1,41,12,Matches
+342,Justo Giani,ar ARG,"FW,MF",Patronato,22,1999,10.8,557,24,66,260,243,29,556,40,20,50.0,20,50.0,289,1131,423,5,14,2,38,27,344,79,Matches
+343,Agustín Giay,ar ARG,"MF,DF",San Lorenzo,18,2004,15.6,894,23,261,422,225,13,894,50,23,46.0,24,48.0,406,2340,1137,28,17,2,33,20,432,59,Matches
+344,Gastón Gil Romero,ar ARG,MF,Atlé Tucumán,28,1993,3.4,146,12,65,79,3,1,146,1,0,0.0,1,100.0,49,169,64,0,0,0,5,0,63,2,Matches
+345,Federico Gino,uy URU,MF,Platense,28,1993,7.2,352,13,68,236,52,3,352,5,2,40.0,3,60.0,133,515,239,5,4,1,9,3,164,8,Matches
+346,Federico Girotti,ar ARG,FW,Talleres,22,1999,10.3,293,9,14,130,151,46,293,19,6,31.6,13,68.4,163,856,221,11,7,4,31,11,237,59,Matches
+347,Dylan Gissi,ch SUI,DF,Banfield,30,1991,15.8,846,125,489,327,33,13,846,1,0,0.0,0,0.0,338,1485,809,3,2,0,6,1,393,3,Matches
+348,Dylan Glaby,ar ARG,"MF,FW",Barracas Central,25,1996,7.2,377,13,68,203,109,19,377,8,4,50.0,4,50.0,159,638,242,6,8,0,14,9,192,24,Matches
+349,Ian Glavinovich,ar ARG,DF,Newell's OB,20,2001,0.1,7,0,4,1,2,0,7,0,0,,0,,4,36,19,2,0,0,1,0,2,0,Matches
+350,Diego Godín,uy URU,DF,Vélez Sarsfield,35,1986,4.8,334,41,183,147,7,3,334,4,3,75.0,0,0.0,197,938,552,2,1,0,2,2,207,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+351,Fernando Godoy,ar ARG,MF,Huracán,31,1990,0.1,19,0,1,14,4,0,19,0,0,,0,,12,31,22,0,1,0,1,0,13,0,Matches
+352,Leonardo Godoy,ar ARG,DF,Estudiantes–LP,26,1995,20.2,1157,65,344,559,260,19,1157,33,10,30.3,21,63.6,503,2384,1208,25,17,4,19,12,562,77,Matches
+353,Matías Godoy,ar ARG,"FW,MF",Talleres,20,2002,16.6,701,7,85,297,335,64,699,70,21,30.0,44,62.9,418,2830,1121,40,30,16,49,23,477,126,Matches
+354,Paolo Goltz,ar ARG,DF,Colón,36,1985,18.2,960,149,586,331,45,29,960,3,2,66.7,1,33.3,411,2263,1175,5,2,0,9,1,462,5,Matches
+355,Danilo Gómez,ar ARG,MF,Colón,19,2002,0.2,7,0,1,4,2,0,7,1,1,100.0,0,0.0,4,20,4,0,0,0,0,0,5,1,Matches
+356,Elías Gómez,ar ARG,DF,River Plate,27,1994,15.5,1129,40,265,508,364,31,1129,41,19,46.3,19,46.3,574,2885,1540,33,29,5,24,18,648,133,Matches
+357,Gastón Gómez,ar ARG,GK,Racing Club,25,1996,12.0,310,284,310,0,0,0,310,0,0,,0,,141,766,501,0,0,0,0,1,98,0,Matches
+358,Iván Gómez,ar ARG,MF,Platense,24,1997,17.2,869,29,179,531,173,19,869,47,27,57.4,18,38.3,461,2571,1058,20,15,2,36,22,477,17,Matches
+359,José Gómez,ar ARG,DF,Cen. Córdoba–SdE,21,2000,6.0,374,28,150,167,59,5,374,7,5,71.4,2,28.6,124,604,331,6,2,1,7,3,129,15,Matches
+360,Luciano Gómez,ar ARG,MF,Arg Juniors,25,1996,2.5,148,3,19,81,48,8,148,2,1,50.0,0,0.0,91,530,221,5,4,0,8,3,109,15,Matches
+361,Matías Gómez,ar ARG,"MF,FW",Huracán,18,2003,0.3,23,0,0,10,13,2,23,3,0,0.0,3,100.0,11,44,25,0,0,0,2,1,14,2,Matches
+362,Valentín Gómez,ar ARG,DF,Vélez Sarsfield,18,2003,17.6,1233,105,615,580,42,9,1233,8,6,75.0,2,25.0,754,4268,2990,33,20,0,6,5,855,2,Matches
+363,Luciano Gondou,ar ARG,FW,Sarmiento,20,2001,14.5,574,29,67,247,272,69,573,34,12,35.3,15,44.1,277,1831,698,28,23,5,45,31,367,75,Matches
+364,Gonzalo Goñi,ar ARG,DF,Arsenal,23,1998,18.2,591,93,364,205,22,12,591,0,0,,0,,161,754,381,1,2,0,6,1,174,1,Matches
+365,Ángel González,ar ARG,"FW,MF",Lanús,27,1994,3.3,142,0,14,57,72,5,142,17,7,41.2,10,58.8,76,475,211,5,8,0,6,4,103,41,Matches
+366,Ángel González,ar ARG,MF,Estudiantes–LP,27,1994,0.3,14,0,1,4,10,0,14,2,2,100.0,0,0.0,7,132,12,0,0,0,0,0,9,3,Matches
+367,Diego González,ar ARG,MF,Boca Juniors,33,1988,0.1,12,0,1,8,3,2,12,0,0,,0,,3,9,1,0,0,0,0,1,4,0,Matches
+368,Francisco González,ar ARG,"MF,FW",Cen. Córdoba–SdE,24,1997,23.6,1036,16,113,519,426,59,1036,48,16,33.3,30,62.5,539,2916,1460,49,43,12,57,26,642,150,Matches
+369,Francisco González,ar ARG,"FW,MF",Newell's OB,20,2001,15.9,667,12,68,261,351,41,667,31,9,29.0,18,58.1,375,2587,1144,52,27,10,60,28,423,131,Matches
+370,Gonzalo González,,DF,Gimnasia–LP,18,2003,1.6,102,4,40,35,27,0,102,2,0,0.0,2,100.0,32,108,49,1,2,0,2,1,34,3,Matches
+371,Ramiro González Hernández,ar ARG,DF,Platense,31,1990,14.0,660,90,352,294,20,7,660,2,2,100.0,0,0.0,296,1711,1021,4,2,0,6,3,318,3,Matches
+372,Leonel González,ar ARG,DF,Arg Juniors,27,1994,7.9,502,31,249,209,56,4,502,16,12,75.0,4,25.0,266,1293,752,6,4,0,9,3,260,9,Matches
+373,Lucas González,ar ARG,MF,Independiente,21,2000,10.8,478,17,64,263,159,20,478,26,11,42.3,12,46.2,273,1247,501,15,18,2,35,25,323,57,Matches
+374,Matías González,ar ARG,"MF,FW",Banfield,19,2002,10.8,599,1,59,287,263,12,599,76,36,47.4,34,44.7,337,1918,747,18,13,0,37,30,400,74,Matches
+375,Maxi González,ar ARG,MF,Lanús,17,2004,6.9,369,19,107,215,51,11,369,8,3,37.5,4,50.0,161,718,371,6,2,1,9,7,201,9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+376,Leandro González Pirez,ar ARG,DF,River Plate,29,1992,9.0,632,54,296,329,17,9,632,1,1,100.0,0,0.0,320,1653,936,0,7,0,10,2,341,0,Matches
+377,Tomás González,ar ARG,"MF,FW",Unión,18,2003,1.7,117,0,7,45,66,9,117,13,5,38.5,8,61.5,61,503,249,8,6,2,6,4,77,24,Matches
+378,Francisco Grahl,ar ARG,"MF,FW",Cen. Córdoba–SdE,29,1992,1.1,102,2,11,66,25,6,102,1,0,0.0,1,100.0,55,162,66,3,2,1,2,1,76,6,Matches
+379,Manuel Guanini,ar ARG,DF,Sarmiento,25,1996,7.1,264,53,147,107,11,7,264,4,4,100.0,0,0.0,89,490,247,3,2,1,6,3,94,1,Matches
+380,Juan Guasone,it ITA,DF,Patronato,20,2001,13.0,563,113,322,217,26,16,563,4,2,50.0,1,25.0,162,748,497,0,0,0,4,3,179,2,Matches
+381,Gabriel Gudiño,ar ARG,"FW,MF",Huracán,29,1992,5.8,272,5,58,93,125,26,272,25,7,28.0,17,68.0,138,932,437,14,11,3,28,8,151,51,Matches
+382,Sebastián Guerrero,uy URU,"FW,MF",Platense,21,2000,2.3,89,0,3,45,42,6,89,7,1,14.3,6,85.7,59,342,107,5,3,1,11,3,61,22,Matches
+383,Tomás Guidara,ar ARG,DF,Vélez Sarsfield,25,1996,13.2,844,42,286,392,171,6,844,25,7,28.0,15,60.0,369,1615,905,23,21,0,19,10,394,52,Matches
+384,Germán Guiffrey,ar ARG,DF,Gimnasia–LP,24,1997,6.4,309,40,183,122,7,5,309,1,0,0.0,0,0.0,129,596,325,2,1,0,5,1,138,1,Matches
+385,Gabriel Hachen,ar ARG,"MF,FW",Independiente,31,1990,3.3,229,1,29,129,73,4,229,11,5,45.5,6,54.5,151,933,431,14,9,2,12,9,163,15,Matches
+386,Gabriel Hachen,ar ARG,"MF,FW",Defensa y Just,31,1990,1.0,75,2,13,42,20,2,75,4,2,50.0,2,50.0,36,236,154,6,2,1,6,2,44,1,Matches
+387,Gabriel Hauche,ar ARG,FW,Racing Club,35,1986,12.7,582,2,56,275,254,52,582,18,8,44.4,9,50.0,309,1356,542,17,13,9,15,9,463,133,Matches
+388,Agustin Hausch,ar ARG,MF,San Lorenzo,18,2003,0.1,6,0,1,4,1,0,6,0,0,,0,,3,9,0,0,0,0,2,0,2,0,Matches
+389,Fabián Henríquez,ar ARG,MF,Huracán,26,1995,0.1,7,1,5,2,1,0,7,0,0,,0,,2,19,18,0,0,0,0,0,1,0,Matches
+390,Leonardo Heredia,ar ARG,MF,Atlé Tucumán,26,1996,0.8,32,3,4,22,6,2,32,1,1,100.0,0,0.0,13,43,24,0,1,0,3,1,24,5,Matches
+391,Leonardo Heredia,ar ARG,"MF,FW",Estudiantes–LP,26,1996,6.1,325,11,45,195,95,28,325,13,9,69.2,4,30.8,165,1028,544,15,8,3,15,4,229,39,Matches
+392,Javier Hernán García,ar ARG,GK,Boca Juniors,35,1987,3.0,80,66,80,0,0,0,80,1,1,100.0,0,0.0,47,197,91,0,0,0,0,0,33,0,Matches
+393,Gastón Hernández,ar ARG,DF,San Lorenzo,24,1998,18.6,928,80,438,465,33,6,928,15,10,66.7,4,26.7,431,2260,1340,14,11,1,11,4,478,6,Matches
+394,Matías Hernández,ar ARG,MF,San Lorenzo,16,2005,0.0,4,0,0,0,4,0,4,0,0,,0,,4,12,0,0,0,0,0,1,4,2,Matches
+395,Ezequiel Herrera,ar ARG,FW,San Lorenzo,19,2003,0.0,1,0,1,1,0,0,1,1,1,100.0,0,0.0,1,2,2,0,0,0,0,0,1,0,Matches
+396,Franco Herrera,ar ARG,GK,Newell's OB,18,2003,4.0,73,66,73,0,0,0,73,0,0,,0,,28,172,112,0,0,0,0,0,24,0,Matches
+397,Guido Herrera,ar ARG,GK,Talleres,29,1992,22.0,780,650,778,3,1,1,780,1,1,100.0,0,0.0,412,2216,1497,0,0,0,1,0,298,0,Matches
+398,Jonathan Herrera,ar ARG,FW,Patronato,30,1991,11.9,378,10,26,150,205,59,376,21,8,38.1,12,57.1,198,839,254,12,6,5,41,12,275,79,Matches
+399,José Herrera,ar ARG,"FW,DF",Arg Juniors,18,2003,8.2,369,6,37,167,173,24,369,32,13,40.6,18,56.3,204,1151,535,19,11,6,21,13,255,81,Matches
+400,Marcelo Herrera,ar ARG,DF,River Plate,23,1998,15.1,958,30,257,433,274,22,958,13,5,38.5,8,61.5,391,1355,742,12,19,3,13,8,491,106,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+401,Santiago Hezze,ar ARG,MF,Huracán,20,2001,24.9,1538,51,349,994,214,38,1538,36,22,61.1,13,36.1,661,3529,1553,25,13,2,48,24,791,36,Matches
+402,Santiago Hidalgo,ar ARG,MF,Independiente,16,2005,0.8,27,1,4,7,16,4,27,1,0,0.0,1,100.0,9,50,9,1,0,0,1,1,14,4,Matches
+403,Lucas Hoyos,ar ARG,GK,Vélez Sarsfield,32,1989,15.5,629,480,611,20,0,0,629,1,1,100.0,0,0.0,426,2384,1544,0,0,0,1,1,317,0,Matches
+404,César Ibáñez,ar ARG,DF,Huracán,22,1999,1.0,66,3,19,36,11,0,66,1,1,100.0,0,0.0,23,132,85,3,2,0,1,1,24,3,Matches
+405,Joaquín Ibáñez,ar ARG,"MF,FW",Arsenal,25,1996,7.2,368,17,62,178,129,16,368,10,5,50.0,4,40.0,131,505,145,6,2,0,17,6,211,30,Matches
+406,José Ignacio Álvarez,uy URU,"DF,MF",Banfield,27,1994,4.3,232,20,86,89,62,3,232,8,3,37.5,3,37.5,94,629,276,8,6,0,7,7,86,14,Matches
+407,Juan Ignacio Díaz,ar ARG,DF,Barracas Central,23,1998,16.3,858,81,362,333,169,9,858,14,5,35.7,8,57.1,228,1021,474,6,11,1,8,5,247,16,Matches
+408,Marcos Ignacio Ledesma,ar ARG,GK,Platense,25,1996,27.0,761,643,757,4,0,0,761,0,0,,0,,319,2128,1252,0,0,0,0,0,171,0,Matches
+409,Juan Ignacio Méndez,ar ARG,MF,San Lorenzo,24,1997,16.2,780,9,134,573,74,8,780,10,6,60.0,4,40.0,418,1872,731,5,9,0,14,10,479,12,Matches
+410,Joaquín Indacoechea,ar ARG,DF,Aldosivi,21,2000,5.9,360,19,133,172,59,1,360,5,1,20.0,3,60.0,123,539,266,5,3,0,8,6,136,13,Matches
+411,Juan Infante,ar ARG,DF,Platense,26,1996,10.3,544,15,145,248,156,4,544,11,7,63.6,3,27.3,210,1272,634,16,14,0,13,4,216,29,Matches
+412,Gino Infantino,ar ARG,"MF,FW",Rosario Central,18,2003,14.1,612,25,98,329,194,38,612,34,12,35.3,19,55.9,320,1584,660,20,14,5,27,16,353,52,Matches
+413,Luis Ingolotti,ar ARG,GK,Aldosivi,22,2000,1.0,36,28,36,0,0,0,36,0,0,,0,,17,40,18,0,0,0,0,0,18,0,Matches
+414,Emanuel Iñíguez,ar ARG,DF,Aldosivi,25,1996,5.4,345,9,100,191,54,1,345,7,2,28.6,5,71.4,145,642,296,2,3,0,9,8,165,6,Matches
+415,Manuel Insaurralde,ar ARG,"MF,DF",Gimnasia–LP,23,1999,7.6,374,10,91,217,77,2,374,15,7,46.7,6,40.0,172,1038,455,10,8,1,7,8,186,8,Matches
+416,Emanuel Insúa,ar ARG,DF,Vélez Sarsfield,30,1991,7.4,538,23,173,234,141,11,538,26,10,38.5,13,50.0,247,1577,839,22,22,2,14,6,255,17,Matches
+417,Emiliano Insúa,ar ARG,DF,Racing Club,33,1989,20.0,1419,131,620,755,59,14,1419,16,8,50.0,7,43.8,831,4741,3148,30,12,0,12,1,926,5,Matches
+418,Javier Iritier,ar ARG,"MF,FW",Aldosivi,27,1994,5.5,336,5,46,170,126,10,336,23,10,43.5,11,47.8,187,1110,561,17,11,3,13,15,225,29,Matches
+419,Kevin Isa,ar ARG,DF,Atlé Tucumán,20,2001,0.1,10,0,1,5,4,0,10,2,0,0.0,2,100.0,6,34,25,0,0,0,0,0,3,1,Matches
+420,Eugenio Isnaldo,ar ARG,"MF,FW",Atlé Tucumán,28,1994,4.4,233,10,57,102,79,8,233,16,7,43.8,7,43.8,112,708,312,7,8,1,5,7,123,16,Matches
+421,Carlos Izquierdoz,ar ARG,DF,Boca Juniors,33,1988,3.7,327,18,149,166,14,7,327,1,1,100.0,0,0.0,220,1103,632,0,0,0,1,0,226,1,Matches
+422,Tomás Jacob,ar ARG,DF,Newell's OB,17,2004,10.6,537,48,215,225,101,6,537,9,4,44.4,4,44.4,191,806,390,10,7,0,12,7,194,25,Matches
+423,Jeremías James,ar ARG,DF,San Lorenzo,21,2001,6.2,260,23,122,125,14,10,260,2,2,100.0,0,0.0,88,413,226,1,1,0,4,2,138,2,Matches
+424,Lucas Janson,ar ARG,"MF,FW",Vélez Sarsfield,27,1994,20.4,1034,18,80,487,472,76,1032,49,20,40.8,26,53.1,645,3294,1119,26,23,9,72,23,806,225,Matches
+425,Leonardo Jara,ar ARG,DF,Vélez Sarsfield,30,1991,14.0,914,34,239,457,223,15,914,30,15,50.0,11,36.7,395,1602,818,16,8,2,17,5,513,73,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+426,Enrique Javier Borja,py PAR,"MF,FW",Atlé Tucumán,26,1995,0.3,18,0,1,6,11,2,18,3,0,0.0,3,100.0,10,38,10,1,1,0,3,0,14,7,Matches
+427,Jony,ar ARG,FW,Vélez Sarsfield,27,1994,3.2,138,2,16,58,64,4,138,12,3,25.0,9,75.0,85,485,184,7,3,2,13,9,95,33,Matches
+428,Alex Juárez,ar ARG,"MF,FW",Barracas Central,17,2004,0.4,20,1,2,14,4,1,20,1,0,0.0,1,100.0,8,54,32,2,0,0,0,0,9,0,Matches
+429,Daniel Juárez,ar ARG,"MF,FW",Unión,20,2001,5.1,204,4,34,90,80,16,203,12,2,16.7,10,83.3,107,428,165,7,4,2,8,3,116,24,Matches
+430,Fernando Juárez,ar ARG,MF,Talleres,23,1998,2.0,120,6,21,76,23,5,120,1,1,100.0,0,0.0,48,253,158,4,0,1,5,3,64,7,Matches
+431,Enzo Kalinski,ar ARG,MF,Cen. Córdoba–SdE,34,1987,14.1,739,41,185,472,92,12,739,18,8,44.4,8,44.4,340,1698,813,10,10,0,14,14,434,15,Matches
+432,Bautista Kociubinski,ar ARG,MF,Estudiantes–LP,20,2001,0.0,2,0,0,2,0,0,2,0,0,,0,,1,1,1,0,0,0,0,0,1,0,Matches
+433,Bautista Kociubinski,ar ARG,MF,Aldosivi,20,2001,7.4,476,20,93,344,47,2,476,13,8,61.5,5,38.5,194,871,437,4,5,1,14,7,259,8,Matches
+434,Facundo Kruspzky,ar ARG,"MF,FW",Arsenal,19,2002,22.6,1224,37,203,589,454,60,1224,77,28,36.4,41,53.2,594,2876,1239,30,34,5,62,46,697,118,Matches
+435,Lucas Kruspzky,ar ARG,DF,Patronato,29,1992,13.9,625,48,237,273,119,5,625,6,1,16.7,4,66.7,182,774,412,11,7,2,14,5,202,16,Matches
+436,Agustín Lagos,ar ARG,FW,Atlé Tucumán,20,2001,0.1,9,1,4,5,0,0,9,0,0,,0,,4,13,8,0,0,0,0,0,4,0,Matches
+437,Carlos Lampe,bo BOL,GK,Atlé Tucumán,34,1987,24.3,713,648,708,4,1,0,713,0,0,,0,,328,2016,1472,0,0,0,1,0,210,0,Matches
+438,Luca Langoni,ar ARG,FW,Boca Juniors,19,2002,10.5,265,0,11,101,155,27,265,23,5,21.7,10,43.5,178,1297,448,18,12,1,30,15,207,77,Matches
+439,Federico Lanzillota,ar ARG,GK,Arg Juniors,29,1992,27.0,952,810,951,2,0,0,952,1,0,0.0,1,100.0,525,2517,1290,0,0,0,1,0,393,0,Matches
+440,Santiago Laquidaín,ar ARG,DF,Aldosivi,20,2001,10.8,693,45,292,330,73,3,693,16,9,56.3,7,43.8,303,1476,817,10,6,0,10,6,353,16,Matches
+441,Enzo Larrosa,uy URU,"FW,MF",Godoy Cruz,20,2001,5.1,191,9,13,86,94,17,191,11,0,0.0,10,90.9,89,352,96,5,4,2,22,7,124,29,Matches
+442,Joaquín Laso,ar ARG,DF,Independiente,31,1990,6.9,358,78,212,141,8,2,358,1,1,100.0,0,0.0,169,936,606,2,2,0,3,0,157,0,Matches
+443,Carlo Lattanzio,ar ARG,MF,Platense,24,1997,1.3,74,0,8,33,34,3,74,4,1,25.0,3,75.0,55,315,84,2,1,1,3,4,57,17,Matches
+444,Carlo Lattanzio,ar ARG,FW,Estudiantes–LP,24,1997,0.8,44,3,12,24,8,0,44,2,1,50.0,1,50.0,24,129,42,0,0,0,4,3,20,6,Matches
+445,Tomás Lecanda,ar ARG,DF,Aldosivi,20,2002,7.6,386,27,128,228,34,5,386,5,0,0.0,3,60.0,162,640,357,7,2,2,5,5,186,11,Matches
+446,Ivan Leguizamon,py PAR,"FW,MF",San Lorenzo,19,2002,9.1,423,5,53,146,236,43,423,60,29,48.3,30,50.0,229,2231,988,37,29,16,43,15,253,85,Matches
+447,Nicolás Leguizamón,ar ARG,FW,Cen. Córdoba–SdE,27,1995,0.3,9,0,0,7,2,2,9,0,0,,0,,2,4,0,0,0,0,0,1,5,2,Matches
+448,Cristian Lema,ar ARG,DF,Newell's OB,31,1990,16.7,937,182,513,378,50,25,937,2,2,100.0,0,0.0,401,1880,1251,7,2,0,5,2,450,5,Matches
+449,Federico Lértora,ar ARG,"MF,DF",Colón,31,1990,4.0,229,14,72,134,25,3,229,2,2,100.0,0,0.0,80,399,129,0,1,0,4,4,94,2,Matches
+450,Alan Lescano,ar ARG,"MF,DF",Gimnasia–LP,20,2001,1.1,53,1,11,33,10,0,53,2,0,0.0,2,100.0,21,95,32,1,0,0,1,3,26,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+451,Bruno Leyes,ar ARG,MF,Godoy Cruz,20,2001,2.7,169,12,45,117,7,0,169,2,2,100.0,0,0.0,68,242,88,0,1,0,5,2,68,1,Matches
+452,Nery Leyes,ar ARG,"FW,MF",Gimnasia–LP,32,1989,0.3,8,0,1,5,2,0,8,0,0,,0,,2,42,6,0,0,0,0,0,3,0,Matches
+453,Franco Leys,ar ARG,MF,Patronato,28,1993,19.3,1034,41,272,615,165,8,1034,16,7,43.8,8,50.0,411,1605,763,14,10,1,22,8,459,26,Matches
+454,Paulo Lima,uy URU,DF,Cen. Córdoba–SdE,30,1992,2.4,99,18,68,32,0,0,99,2,1,50.0,0,0.0,44,300,126,0,0,0,1,0,41,0,Matches
+455,Nicolás Linares,ar ARG,MF,Cen. Córdoba–SdE,25,1996,17.3,836,50,299,483,57,0,836,14,10,71.4,4,28.6,360,1605,626,3,3,0,11,14,448,2,Matches
+456,Raúl Loaiza,co COL,MF,Lanús,27,1994,17.5,907,44,301,549,71,7,907,30,16,53.3,11,36.7,450,2301,905,11,11,0,28,15,508,10,Matches
+457,Raúl Loaiza,co COL,MF,Defensa y Just,27,1994,3.0,119,4,30,62,30,5,119,3,2,66.7,1,33.3,73,395,116,3,2,0,5,0,65,6,Matches
+458,Ramiro Lobo,ar ARG,FW,Independiente,19,2002,0.3,12,0,0,6,7,0,12,2,1,50.0,1,50.0,6,28,14,1,1,0,1,1,7,3,Matches
+459,Luciano Lollo,ar ARG,DF,Estudiantes–LP,34,1987,10.4,563,61,294,254,18,11,563,3,2,66.7,1,33.3,250,1530,955,4,2,0,6,2,283,2,Matches
+460,Sebastián Lomonaco,ar ARG,FW,Arsenal,23,1998,21.7,912,19,51,360,513,79,910,71,26,36.6,44,62.0,511,2030,806,35,28,13,105,53,667,192,Matches
+461,Elías López,ar ARG,DF,Godoy Cruz,21,2000,5.2,270,6,93,122,58,1,270,7,4,57.1,3,42.9,109,479,244,7,4,0,5,2,99,8,Matches
+462,Erik López,py PAR,"FW,MF",Banfield,20,2001,1.3,70,1,6,33,33,5,70,8,4,50.0,3,37.5,42,322,129,2,4,0,6,3,49,15,Matches
+463,Julián López,ar ARG,MF,Defensa y Just,22,2000,11.3,614,53,217,339,66,5,614,28,14,50.0,12,42.9,233,1307,618,8,9,2,17,9,269,6,Matches
+464,Lisandro López,ar ARG,FW,Sarmiento,38,1983,14.4,470,8,39,237,201,54,470,20,9,45.0,11,55.0,233,1128,421,17,13,5,24,15,312,66,Matches
+465,Hernán López Muñoz,ar ARG,"MF,FW",Cen. Córdoba–SdE,21,2000,8.6,441,4,53,226,168,9,441,43,16,37.2,23,53.5,250,1303,516,12,12,2,35,15,269,53,Matches
+466,Mario López Quintana,py PAR,DF,Aldosivi,26,1995,11.5,587,59,321,247,22,8,587,5,3,60.0,2,40.0,253,1031,651,3,1,0,7,1,280,1,Matches
+467,Renzo López,uy URU,FW,Cen. Córdoba–SdE,27,1994,15.1,462,33,39,201,222,73,462,14,1,7.1,13,92.9,173,729,224,8,10,6,46,18,336,74,Matches
+468,Augusto Lotti,it ITA,FW,Atlé Tucumán,25,1996,16.0,491,10,48,229,217,53,490,13,3,23.1,10,76.9,202,869,277,10,8,1,36,7,339,87,Matches
+469,Raúl Lozano,ar ARG,DF,Patronato,24,1997,23.2,1375,56,366,628,399,19,1375,52,29,55.8,21,40.4,556,2589,1419,38,24,6,31,15,596,98,Matches
+470,Rufino Lucero,ar ARG,DF,Aldosivi,19,2002,11.2,578,43,203,251,125,3,578,17,7,41.2,10,58.8,194,908,344,4,7,1,12,1,233,33,Matches
+471,Martín Luciano,ar ARG,"DF,MF",Newell's OB,18,2003,17.7,945,44,287,441,223,18,945,14,4,28.6,10,71.4,346,1487,661,12,17,2,22,7,399,70,Matches
+472,Brian Luciatti,ar ARG,DF,Tigre,28,1993,23.5,1197,160,686,466,49,28,1197,6,2,33.3,4,66.7,519,2396,1209,6,3,0,15,5,632,3,Matches
+473,Matías Lugo,ar ARG,FW,Arg Juniors,20,2001,0.0,1,0,0,1,0,0,1,0,0,,0,,1,1,1,0,0,0,0,0,1,0,Matches
+474,Gonzalo Luján,ar ARG,"DF,MF",San Lorenzo,20,2001,4.8,220,26,109,84,30,3,220,5,2,40.0,2,40.0,100,530,211,5,5,0,2,4,113,11,Matches
+475,Mauro Luna Diale,ar ARG,"MF,FW",Unión,22,1999,18.6,807,12,95,375,361,49,807,63,38,60.3,16,25.4,439,2636,1329,46,37,6,47,50,516,100,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+476,Enzo Luna,ar ARG,"FW,MF",Huracán,19,2002,2.9,118,3,17,50,56,11,118,18,7,38.9,9,50.0,72,682,348,11,7,1,11,6,77,28,Matches
+477,Francis Mac Allister,ar ARG,MF,Rosario Central,26,1995,9.0,560,42,163,317,86,2,560,9,6,66.7,2,22.2,218,1015,498,5,6,0,8,7,260,3,Matches
+478,Kevin Mac Allister,ar ARG,DF,Arg Juniors,24,1997,16.3,1144,54,360,606,187,31,1144,11,3,27.3,7,63.6,445,1564,871,9,12,0,7,6,553,21,Matches
+479,Ramiro Macagno,ar ARG,GK,Newell's OB,24,1997,7.0,206,177,206,0,0,0,206,0,0,,0,,83,513,247,0,0,0,0,0,53,0,Matches
+480,William Machado,uy URU,MF,Arsenal,27,1994,6.6,297,8,58,182,68,8,297,22,9,40.9,10,45.5,155,772,341,6,8,1,19,18,154,25,Matches
+481,Imanol Machuca,my MAS,"FW,MF",Unión,22,2000,14.1,571,8,94,219,286,34,571,60,31,51.7,27,45.0,310,3273,1610,51,47,16,43,32,318,82,Matches
+482,Alejandro Maciel,ar ARG,DF,Banfield,24,1997,21.7,1182,166,707,449,34,15,1182,11,9,81.8,2,18.2,520,2565,1474,8,6,0,11,7,562,2,Matches
+483,Emanuel Maciel,ar ARG,MF,Aldosivi,24,1997,8.4,660,30,158,454,51,1,660,1,0,0.0,0,0.0,305,1044,474,5,8,0,7,4,390,4,Matches
+484,Leandro Maciel,ar ARG,MF,Aldosivi,26,1995,20.4,1019,36,158,581,287,34,1019,21,9,42.9,11,52.4,459,1826,736,17,19,4,34,29,620,73,Matches
+485,Ignacio Maestro Puch,ar ARG,"FW,MF",Atlé Tucumán,18,2003,4.9,159,2,8,76,78,17,159,22,8,36.4,13,59.1,75,567,196,7,5,4,12,6,99,30,Matches
+486,Pablo Magnín,ar ARG,"FW,MF",Tigre,31,1990,2.9,107,4,9,58,41,13,107,8,3,37.5,2,25.0,62,211,87,3,2,1,14,5,78,20,Matches
+487,Luis Mago,ve VEN,DF,Banfield,27,1994,14.3,833,110,416,333,90,16,833,14,3,21.4,10,71.4,325,1910,1167,9,9,1,19,6,355,20,Matches
+488,Jonatan Maidana,ar ARG,DF,River Plate,36,1985,3.5,226,29,108,115,4,4,226,0,0,,0,,108,376,113,0,0,0,0,1,136,1,Matches
+489,Guido Mainero,ar ARG,MF,Sarmiento,26,1995,9.3,406,16,99,140,174,24,406,10,3,30.0,7,70.0,168,856,298,10,5,4,28,16,190,50,Matches
+490,Julián Malatini,ar ARG,DF,Talleres,20,2001,8.3,471,44,247,201,31,9,471,7,4,57.1,2,28.6,253,1823,1072,16,10,0,9,1,271,7,Matches
+491,Víctor Malcorra,ar ARG,"MF,FW",Lanús,34,1987,1.9,120,1,18,66,37,0,119,5,1,20.0,4,80.0,64,308,119,6,2,0,5,3,82,21,Matches
+492,Víctor Malcorra,ar ARG,"MF,FW",Rosario Central,34,1987,12.5,655,17,71,238,353,45,655,22,5,22.7,15,68.2,334,1612,728,29,15,9,28,20,393,100,Matches
+493,Emanuel Mammana,ar ARG,DF,River Plate,25,1996,18.2,1322,138,667,582,79,13,1322,6,5,83.3,1,16.7,664,2973,1508,9,4,0,6,1,818,9,Matches
+494,Harrinson Mancilla,co COL,MF,Sarmiento,30,1991,1.5,57,2,8,43,7,1,57,0,0,,0,,20,62,32,1,1,0,2,0,16,0,Matches
+495,Valentín Mancini,ar ARG,FW,Aldosivi,18,2003,1.0,44,1,6,26,12,0,44,8,3,37.5,4,50.0,35,228,115,4,3,0,2,0,36,6,Matches
+496,Eros Mancuso,ar ARG,DF,Estudiantes–LP,22,1999,2.4,170,10,65,78,27,1,170,3,0,0.0,3,100.0,61,343,208,5,4,0,3,0,67,6,Matches
+497,Braian Mansilla,ar ARG,FW,Platense,24,1997,0.3,17,0,4,7,7,0,17,4,2,50.0,2,50.0,10,70,27,0,0,0,3,0,12,2,Matches
+498,Facundo Mansilla,ar ARG,DF,Newell's OB,22,1999,8.0,353,59,195,145,19,10,353,6,5,83.3,1,16.7,120,545,278,0,2,0,9,1,132,1,Matches
+499,Matías Mansilla,ar ARG,GK,Patronato,25,1996,2.0,68,55,68,0,0,0,68,0,0,,0,,23,131,45,0,0,0,0,0,14,0,Matches
+500,Juan Manuel García,ar ARG,FW,Newell's OB,29,1992,20.2,696,23,45,336,323,71,695,24,15,62.5,9,37.5,311,1158,415,15,11,6,43,36,537,82,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+501,Juan Manuel Insaurralde,ar ARG,DF,Independiente,37,1984,22.5,1183,173,664,492,35,24,1183,5,5,100.0,0,0.0,549,2537,1439,7,7,2,3,1,612,3,Matches
+502,Juan Manuel Vázquez,ar ARG,"MF,FW",Barracas Central,27,1994,6.2,335,8,32,173,135,12,335,12,6,50.0,6,50.0,180,837,309,7,11,1,23,14,233,34,Matches
+503,Junior Marabel,py PAR,FW,Unión,23,1998,9.9,344,5,19,143,186,54,344,20,8,40.0,11,55.0,174,740,242,11,4,6,44,12,246,52,Matches
+504,Javier Marcelo Correa,ar ARG,FW,Racing Club,29,1992,0.2,8,0,0,4,4,1,8,0,0,,0,,1,4,4,0,0,0,0,0,3,0,Matches
+505,Rafael Marcelo Delgado,ar ARG,DF,Colón,32,1990,15.0,966,64,325,494,156,14,966,22,11,50.0,9,40.9,422,2191,1268,18,14,1,20,10,444,30,Matches
+506,Leonardo Marchi,ar ARG,DF,Arsenal,25,1996,4.0,204,14,85,69,50,0,204,1,0,0.0,1,100.0,78,318,160,3,4,0,7,0,82,5,Matches
+507,Tomás Marchiori,ar ARG,GK,Atlé Tucumán,26,1995,3.0,98,86,97,1,0,0,98,0,0,,0,,45,365,223,0,0,0,0,0,21,0,Matches
+508,Francisco Marco,ar ARG,"DF,MF",Defensa y Just,18,2003,1.8,82,21,62,21,0,0,82,1,0,0.0,1,100.0,30,276,133,0,1,0,2,1,33,0,Matches
+509,Iván Marcone,ar ARG,MF,Independiente,31,1990,15.5,1016,27,208,716,105,8,1016,24,17,70.8,7,29.2,528,2592,1165,19,10,1,16,11,587,12,Matches
+510,Alan Marinelli,ar ARG,"MF,FW",Rosario Central,22,1999,5.4,159,3,24,69,68,10,159,12,5,41.7,7,58.3,79,496,199,3,4,0,8,8,82,19,Matches
+511,Alan Marinelli,ar ARG,"FW,MF",Estudiantes–LP,22,1999,0.4,19,1,2,7,10,2,19,1,0,0.0,1,100.0,11,123,35,2,1,1,2,0,14,5,Matches
+512,Gonzalo Marinelli,ar ARG,GK,Tigre,32,1989,12.0,507,340,501,7,0,0,507,0,0,,0,,310,1846,1284,0,0,0,0,0,243,0,Matches
+513,Gonzalo Maroni,ar ARG,"MF,FW",San Lorenzo,22,1999,3.2,203,1,15,113,81,7,203,13,7,53.8,5,38.5,101,549,244,8,6,0,10,7,113,18,Matches
+514,Rodrigo Márquez,ar ARG,"MF,FW",Independiente,19,2002,5.0,352,6,55,149,159,22,352,46,28,60.9,18,39.1,207,1233,552,21,6,5,14,11,230,50,Matches
+515,Agustín Martegani,ar ARG,"MF,FW",San Lorenzo,21,2000,8.2,439,6,56,226,165,11,439,35,13,37.1,18,51.4,237,1542,674,19,10,0,16,18,251,35,Matches
+516,Enzo Martín Roldán,ar ARG,MF,Unión,21,2000,12.7,644,35,154,384,119,3,644,30,15,50.0,15,50.0,299,2075,844,18,14,0,21,2,305,14,Matches
+517,Aarón Martínez,ar ARG,MF,Colón,20,2001,0.6,23,0,7,13,4,0,23,0,0,,0,,9,70,50,1,1,0,3,0,13,3,Matches
+518,Alejandro Martínez,ar ARG,"MF,FW",Cen. Córdoba–SdE,24,1997,22.3,906,7,104,374,459,69,901,126,50,39.7,66,52.4,498,3912,1905,61,49,16,92,38,559,177,Matches
+519,Brian Martínez,ar ARG,FW,Aldosivi,22,1999,11.3,488,5,43,178,277,45,488,66,18,27.3,45,68.2,292,1747,771,30,32,10,45,29,327,109,Matches
+520,Damián Martínez,ar ARG,"DF,MF",Rosario Central,32,1990,18.6,965,42,272,448,253,27,965,18,8,44.4,8,44.4,347,1578,719,13,18,4,20,9,386,63,Matches
+521,Fernando Martínez,ar ARG,"DF,MF",Cen. Córdoba–SdE,21,2000,1.0,49,2,11,21,19,2,49,2,1,50.0,1,50.0,12,90,22,1,2,0,2,0,12,5,Matches
+522,Fernando Martínez,py PAR,MF,Sarmiento,27,1994,7.3,344,21,102,204,40,1,344,1,1,100.0,0,0.0,100,395,223,2,0,0,8,3,131,1,Matches
+523,Tomás Martínez,ar ARG,MF,Aldosivi,26,1995,12.7,694,20,107,316,275,29,694,39,17,43.6,18,46.2,348,1658,831,21,20,3,29,21,414,74,Matches
+524,Ángelo Martino,ar ARG,"DF,MF",Talleres,23,1998,7.7,471,29,148,218,110,16,471,11,4,36.4,7,63.6,198,865,473,11,8,0,18,4,237,26,Matches
+525,Emmanuel Más,ar ARG,DF,Estudiantes–LP,33,1989,25.9,1533,57,370,720,454,39,1533,50,26,52.0,21,42.0,673,3427,1867,56,32,3,44,16,775,135,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+526,Facundo Mater,sy SYR,"DF,MF",Barracas Central,23,1998,25.5,1332,63,356,635,371,36,1332,91,43,47.3,41,45.1,537,3017,1448,37,30,7,57,43,579,63,Matches
+527,Guillermo Matías Fernández,ar ARG,MF,Boca Juniors,30,1991,20.3,1166,19,187,799,191,35,1165,22,12,54.5,10,45.5,702,3085,1502,28,21,2,24,15,803,45,Matches
+528,Diego Matías Rodríguez,ar ARG,GK,Godoy Cruz,32,1989,25.0,828,667,819,11,0,0,828,0,0,,0,,337,2307,1278,0,0,0,0,0,223,0,Matches
+529,Sergio Maximiliano Ojeda,ar ARG,"DF,MF",Patronato,30,1992,6.9,295,36,158,121,18,5,295,3,0,0.0,2,66.7,109,566,284,1,1,0,8,2,104,1,Matches
+530,Joan Mazzaco,ar ARG,DF,Rosario Central,21,2000,0.4,33,1,9,12,12,0,33,1,1,100.0,0,0.0,16,124,84,3,2,0,1,0,18,6,Matches
+531,Nicolás Meaurio,ar ARG,MF,Racing Club,18,2003,0.1,3,0,0,2,1,1,3,0,0,,0,,2,2,0,0,0,0,2,0,2,1,Matches
+532,Alejandro Medina,ar ARG,GK,Arsenal,35,1986,27.0,849,690,839,10,0,0,849,0,0,,0,,370,2796,2127,0,0,0,1,0,153,0,Matches
+533,Cristian Medina,ar ARG,"MF,FW",Boca Juniors,19,2002,8.4,469,8,73,279,124,13,469,30,17,56.7,9,30.0,282,1789,860,18,12,2,17,17,322,35,Matches
+534,Sebastián Medina,ar ARG,MF,Patronato,21,2000,19.4,834,21,156,317,377,49,834,44,13,29.5,29,65.9,422,1998,763,18,22,3,49,30,455,105,Matches
+535,Santiago Mele,uy URU,GK,Unión,24,1997,21.9,701,598,696,5,0,0,701,0,0,,0,,327,1875,1236,0,0,0,0,0,204,0,Matches
+536,Juan Meli,ar ARG,DF,Godoy Cruz,21,2000,2.9,176,10,45,92,42,6,176,5,2,40.0,3,60.0,55,285,166,5,4,1,8,0,66,12,Matches
+537,Marcelo Meli,ar ARG,MF,Aldosivi,29,1992,11.2,580,13,111,334,143,14,580,38,21,55.3,17,44.7,296,1645,706,18,11,2,28,11,338,35,Matches
+538,Matías Melluso,ar ARG,DF,Gimnasia–LP,23,1998,14.2,835,44,274,417,153,10,835,13,3,23.1,10,76.9,278,1251,649,11,9,1,10,3,316,23,Matches
+539,Eugenio Mena,cl CHI,DF,Racing Club,33,1988,17.8,1221,38,322,585,318,33,1221,32,13,40.6,16,50.0,563,2947,1369,34,28,5,27,18,714,114,Matches
+540,Armando Méndez,uy URU,"DF,MF",Newell's OB,25,1996,16.8,721,25,184,300,253,25,721,37,21,56.8,15,40.5,277,2116,1239,33,34,6,24,18,272,79,Matches
+541,Emiliano Méndez,ar ARG,MF,Sarmiento,32,1989,20.1,782,70,283,422,89,33,782,12,6,50.0,5,41.7,249,1042,454,5,10,2,13,16,290,9,Matches
+542,Mauro Méndez,uy URU,"FW,MF",Estudiantes–LP,23,1999,5.8,155,3,8,68,82,22,155,6,3,50.0,2,33.3,67,357,119,3,3,2,14,4,115,22,Matches
+543,Cristian Menéndez,ar ARG,FW,Atlé Tucumán,33,1988,11.5,364,23,56,156,156,61,364,19,4,21.1,13,68.4,164,691,248,11,4,4,37,8,240,44,Matches
+544,Lucas Menossi,ar ARG,"MF,FW",Tigre,29,1992,17.7,1190,13,165,690,352,21,1190,33,19,57.6,12,36.4,655,2998,1801,37,29,5,38,27,773,68,Matches
+545,Diego Mercado,ar ARG,"MF,FW",Huracán,25,1997,0.1,8,1,3,5,0,0,8,0,0,,0,,3,6,1,0,0,0,0,0,4,0,Matches
+546,Lucas Merolla,ar ARG,DF,Huracán,26,1995,22.0,1203,158,621,526,66,44,1203,10,7,70.0,2,20.0,480,2162,1258,12,3,0,9,2,595,4,Matches
+547,Eric Meza,ar ARG,DF,Colón,22,1999,8.7,562,27,176,258,145,12,562,39,15,38.5,21,53.8,254,2117,1209,34,22,6,16,7,248,46,Matches
+548,Sebastián Meza,ar ARG,GK,Sarmiento,21,2000,27.0,814,684,804,11,1,1,814,0,0,,0,,295,2115,1389,0,0,0,1,0,119,1,Matches
+549,Marcos Miers,py PAR,"DF,FW",Aldosivi,31,1990,1.2,42,9,27,15,0,0,42,1,1,100.0,0,0.0,13,74,42,0,0,0,0,0,18,0,Matches
+550,Luis Miguel Rodríguez,ar ARG,"FW,MF",Colón,37,1985,16.7,747,6,57,386,310,42,744,23,8,34.8,14,60.9,361,1263,538,7,6,2,31,24,472,90,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+551,Federico Milo,ar ARG,"DF,MF",Aldosivi,30,1992,1.1,66,1,10,41,15,2,66,4,1,25.0,2,50.0,36,143,67,3,1,1,6,0,34,6,Matches
+552,Dardo Miloc,ar ARG,MF,Arsenal,31,1990,22.6,1039,43,266,706,75,0,1039,17,9,52.9,5,29.4,343,1231,478,3,4,0,22,15,386,11,Matches
+553,Pablo Minissale,ar ARG,DF,Arg Juniors,21,2001,4.6,235,11,92,110,34,2,235,1,1,100.0,0,0.0,100,402,238,4,3,0,6,3,111,5,Matches
+554,Ignacio Miramon,ar ARG,MF,Gimnasia–LP,18,2003,0.6,48,3,6,38,4,0,48,3,0,0.0,3,100.0,19,147,34,0,1,1,2,1,23,3,Matches
+555,Leonel Miranda,ar ARG,MF,Racing Club,28,1994,17.9,1285,22,191,730,376,31,1285,35,15,42.9,17,48.6,623,2555,1188,23,29,4,36,21,865,96,Matches
+556,Matías Miranda,ar ARG,"MF,FW",Gimnasia–LP,21,2000,3.3,224,1,21,124,82,7,224,18,10,55.6,7,38.9,113,584,143,4,3,1,18,8,147,16,Matches
+557,Fernando Monetti,ar ARG,GK,Lanús,32,1989,23.5,873,698,868,5,0,0,873,1,1,100.0,0,0.0,459,2689,1702,0,0,0,0,0,407,1,Matches
+558,Rodrigo Montes,ar ARG,MF,Cen. Córdoba–SdE,22,1999,1.8,81,5,19,41,21,4,81,2,0,0.0,2,100.0,45,222,85,4,3,1,4,3,50,7,Matches
+559,Lautaro Montoya,ar ARG,"DF,MF",Cen. Córdoba–SdE,27,1994,9.4,566,18,166,279,135,11,566,17,5,29.4,10,58.8,260,1164,637,9,12,4,15,10,268,44,Matches
+560,Walter Montoya,ar ARG,MF,Rosario Central,28,1993,7.9,466,16,119,256,99,3,466,20,11,55.0,9,45.0,262,1603,792,15,8,1,15,12,249,15,Matches
+561,Gonzalo Morales,ar ARG,FW,Boca Juniors,18,2003,1.5,40,0,1,13,27,6,40,2,1,50.0,1,50.0,34,126,60,1,3,0,8,3,35,12,Matches
+562,Lautaro Morales,ar ARG,GK,Lanús,22,1999,1.0,34,28,34,0,0,0,34,0,0,,0,,23,120,79,0,0,0,0,0,16,0,Matches
+563,Lautaro Morales,ar ARG,GK,Newell's OB,22,1999,16.0,488,418,484,4,0,0,488,0,0,,0,,200,1300,753,0,0,0,0,0,113,0,Matches
+564,Leonardo Morales,ar ARG,DF,Gimnasia–LP,30,1991,27.0,1173,212,671,482,38,17,1173,10,6,60.0,4,40.0,437,2898,1854,13,10,1,11,8,410,4,Matches
+565,Jorge Morel,py PAR,"DF,MF",Estudiantes–LP,24,1998,17.5,1038,90,431,564,48,14,1038,11,7,63.6,3,27.3,460,2056,1075,3,5,0,12,5,549,7,Matches
+566,Matías Morello,ar ARG,MF,Aldosivi,20,2001,1.1,45,4,13,23,9,0,45,0,0,,0,,17,78,20,0,1,0,0,0,21,1,Matches
+567,Aníbal Moreno,ar ARG,MF,Racing Club,22,1999,25.4,1808,62,428,1236,157,11,1808,27,17,63.0,8,29.6,846,3688,1793,11,10,1,42,17,1080,12,Matches
+568,Stéfano Moreyra,ar ARG,"MF,FW",Colón,20,2001,0.6,48,3,11,30,7,0,48,2,0,0.0,1,50.0,15,61,27,1,2,0,1,0,20,0,Matches
+569,Nicolás Morgantini,ar ARG,DF,Platense,27,1994,22.4,1111,43,282,504,334,33,1111,27,12,44.4,15,55.6,433,2427,1218,39,27,4,22,12,518,103,Matches
+570,Tomás Moschión,ar ARG,MF,Colón,21,2000,0.5,30,1,3,25,2,0,30,0,0,,0,,9,21,10,0,1,0,2,0,16,1,Matches
+571,Leonel Mosevich,ar ARG,DF,Patronato,24,1997,14.2,641,69,379,253,16,6,641,3,1,33.3,2,66.7,214,1180,642,9,0,0,6,4,214,5,Matches
+572,Edwin Mosquera,co COL,FW,Aldosivi,20,2001,0.3,11,0,2,6,4,1,11,1,1,100.0,0,0.0,8,42,26,0,0,0,2,0,7,2,Matches
+573,Pablo Mouche,ar ARG,"MF,FW",Barracas Central,34,1987,12.5,499,8,83,189,232,22,498,27,7,25.9,20,74.1,260,1599,631,23,14,3,20,12,311,74,Matches
+574,Santiago Moya,ar ARG,DF,Huracán,18,2003,0.8,42,3,17,25,0,0,42,1,1,100.0,0,0.0,28,164,87,1,0,0,0,0,31,0,Matches
+575,Franco Moyano,ar ARG,MF,Arg Juniors,24,1997,21.5,1448,50,331,979,149,4,1448,5,2,40.0,2,40.0,779,3447,1708,17,15,0,16,3,972,16,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+576,Sebastián Moyano,ar ARG,GK,Unión,31,1990,5.0,140,112,140,0,0,0,140,0,0,,0,,40,275,227,0,0,0,1,0,21,0,Matches
+577,Agustín Mulet,ar ARG,MF,Vélez Sarsfield,21,2000,6.2,448,16,141,279,29,1,448,5,4,80.0,1,20.0,228,1092,500,1,3,0,3,6,270,1,Matches
+578,Facundo Mura,ar ARG,DF,Racing Club,22,1999,20.1,1388,49,403,651,346,18,1388,20,6,30.0,14,70.0,663,2946,1542,24,27,2,20,21,826,84,Matches
+579,Tomás Muro,ar ARG,"MF,FW",Gimnasia–LP,19,2002,7.1,301,2,44,126,140,16,301,40,12,30.0,28,70.0,185,1232,462,15,13,2,40,30,180,31,Matches
+580,Gian Nardelli,ar ARG,DF,Colón,21,2000,10.2,604,60,258,285,63,1,604,4,2,50.0,2,50.0,180,736,355,5,6,0,5,3,204,15,Matches
+581,Juan Nardoni,ar ARG,MF,Unión,19,2002,17.5,904,30,203,555,167,26,904,78,40,51.3,34,43.6,482,2786,1205,29,25,5,45,21,497,50,Matches
+582,Julián Navas,ar ARG,"MF,DF",Arsenal,28,1993,10.5,490,35,153,209,135,15,490,17,10,58.8,6,35.3,211,1128,653,22,11,4,18,10,246,31,Matches
+583,Franco Negri,ar ARG,DF,Godoy Cruz,26,1995,19.0,1308,78,415,681,239,9,1308,48,32,66.7,14,29.2,550,3460,2137,44,29,4,23,7,533,41,Matches
+584,Aaron Nicolás Molinas,ar ARG,MF,Boca Juniors,21,2000,5.7,434,2,24,249,171,5,434,12,8,66.7,3,25.0,277,1686,820,24,25,1,12,9,314,26,Matches
+585,Fabián Noguera,ar ARG,DF,Estudiantes–LP,28,1993,18.3,922,100,392,460,72,49,922,2,0,0.0,2,100.0,305,1837,1117,13,4,0,13,0,396,6,Matches
+586,Santiago Núñez,ar ARG,DF,Estudiantes–LP,21,2000,1.9,98,14,52,43,4,3,98,0,0,,0,,38,192,119,1,0,0,0,0,35,0,Matches
+587,Thiago Nuss,ar ARG,"MF,FW",Arg Juniors,20,2001,11.0,462,6,41,170,257,58,462,59,20,33.9,37,62.7,274,1901,814,35,16,18,59,27,319,116,Matches
+588,Agustín Obando,ar ARG,"FW,MF",Tigre,21,2000,3.8,185,2,25,70,93,6,185,5,1,20.0,4,80.0,109,556,267,9,8,2,8,3,119,36,Matches
+589,Leandro Ojeda,ar ARG,DF,Colón,20,2001,7.4,377,24,157,177,48,2,377,15,6,40.0,7,46.7,141,836,481,12,8,1,17,7,133,17,Matches
+590,Martín Ojeda,ar ARG,"MF,FW",Godoy Cruz,23,1998,26.4,1511,19,153,720,667,71,1510,82,36,43.9,44,53.7,746,4063,1706,50,50,18,67,28,919,187,Matches
+591,Christian Oliva,uy URU,MF,Talleres,25,1996,11.4,599,20,146,406,54,1,599,17,12,70.6,5,29.4,316,1584,815,10,9,1,11,10,353,9,Matches
+592,Lucas Orbán,ar ARG,DF,Racing Club,32,1989,2.4,146,19,79,62,5,3,146,0,0,,0,,52,256,128,1,0,0,1,0,72,0,Matches
+593,Luca Orellano,ar ARG,"FW,MF",Vélez Sarsfield,21,2000,12.4,641,5,45,228,377,37,641,62,24,38.7,33,53.2,391,2745,1284,36,37,12,37,31,422,134,Matches
+594,Matías Orihuela,ar ARG,DF,Atlé Tucumán,29,1992,22.1,1178,59,490,499,195,27,1178,47,19,40.4,24,51.1,483,2408,1241,23,14,6,27,20,583,54,Matches
+595,Brian Orosco,ar ARG,"FW,MF",Estudiantes–LP,23,1998,1.2,78,0,4,35,39,7,78,2,0,0.0,1,50.0,39,206,65,2,4,1,7,1,53,14,Matches
+596,Nicolás Oróz,ar ARG,"FW,MF",Racing Club,27,1994,5.8,364,5,45,175,153,20,364,22,11,50.0,11,50.0,192,904,291,3,7,4,18,18,233,51,Matches
+597,Franco Orozco,ar ARG,"FW,MF",Lanús,20,2002,8.8,373,2,37,157,185,27,373,32,8,25.0,19,59.4,235,1596,527,16,9,8,32,10,279,105,Matches
+598,Nicolás Orsini,ar ARG,"FW,MF",Boca Juniors,27,1994,3.8,126,2,4,58,64,19,126,4,0,0.0,4,100.0,66,272,61,3,3,2,9,6,103,26,Matches
+599,Francisco Ortega,ar ARG,DF,Vélez Sarsfield,22,1999,18.9,1225,42,415,544,284,9,1225,58,27,46.6,23,39.7,548,3438,1679,48,28,2,36,20,545,83,Matches
+600,Martín Ortega,ar ARG,"DF,MF",Tigre,22,1999,2.8,178,9,66,82,35,3,178,9,4,44.4,5,55.6,74,534,230,6,2,0,12,2,69,9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+601,Diego Ortegoza,cl CHI,MF,Talleres,24,1997,8.5,517,18,95,330,99,17,517,23,12,52.2,11,47.8,268,1647,752,14,9,2,17,14,310,20,Matches
+602,Franco Ortellado,ar ARG,DF,Lanús,20,2001,7.5,453,46,246,194,15,9,453,1,0,0.0,1,100.0,218,1165,734,6,3,0,5,2,253,1,Matches
+603,Néstor Ortigoza,py PAR,MF,San Lorenzo,37,1984,4.0,309,4,40,233,38,3,307,1,1,100.0,0,0.0,190,833,401,6,5,1,2,1,237,7,Matches
+604,Christian Ortiz,ar ARG,"MF,FW",Defensa y Just,29,1992,3.1,146,3,25,69,54,2,146,11,4,36.4,7,63.6,63,252,69,2,2,0,10,4,79,13,Matches
+605,Guillermo Ortiz,ar ARG,DF,Godoy Cruz,29,1992,8.4,412,60,231,169,15,10,412,5,2,40.0,3,60.0,151,773,411,3,2,1,5,1,171,0,Matches
+606,Kevin Ortíz,ar ARG,MF,Rosario Central,21,2000,14.7,695,24,140,447,116,8,695,21,8,38.1,12,57.1,280,1409,647,15,13,2,19,14,340,20,Matches
+607,Marcelo Ortiz,ar ARG,DF,Atlé Tucumán,28,1994,0.9,59,6,29,27,3,0,59,0,0,,0,,28,116,41,1,0,0,0,0,33,0,Matches
+608,Mauro Ortiz,ar ARG,FW,Patronato,27,1994,0.2,7,0,0,1,6,3,7,2,1,50.0,1,50.0,3,9,0,0,0,0,0,0,4,1,Matches
+609,Sergio Ortíz,ar ARG,MF,Independiente,20,2001,0.2,16,0,2,11,3,0,16,0,0,,0,,6,15,3,0,1,0,0,0,10,0,Matches
+610,Javier Osatchuk,ar ARG,DF,Independiente,21,2000,1.0,69,5,15,37,17,0,69,1,0,0.0,1,100.0,19,75,35,0,1,0,1,1,22,1,Matches
+611,Abiel Osorio,ar ARG,FW,Vélez Sarsfield,19,2002,14.6,471,20,33,197,243,68,471,35,15,42.9,17,48.6,252,1116,427,20,11,9,58,27,342,94,Matches
+612,Mario Otazú,py PAR,MF,Colón,25,1996,0.3,14,0,5,4,5,0,14,0,0,,0,,7,18,0,0,0,0,0,0,10,2,Matches
+613,Leandro Otormín,uy URU,"MF,FW",Defensa y Just,25,1996,0.5,20,0,4,12,5,2,20,1,1,100.0,0,0.0,11,61,45,1,0,0,1,0,11,2,Matches
+614,Lautaro Ovando,ar ARG,"MF,FW",Arg Juniors,18,2003,0.8,44,2,2,24,19,2,44,4,2,50.0,2,50.0,20,98,27,0,0,0,6,0,27,6,Matches
+615,Fabricio Oviedo,ar ARG,FW,Rosario Central,17,2004,1.7,44,2,5,15,24,5,44,0,0,,0,,21,54,10,0,0,0,7,3,23,4,Matches
+616,Santiago Paiva,uy URU,FW,Godoy Cruz,23,1999,0.3,7,0,0,6,1,0,7,1,1,100.0,0,0.0,6,21,8,0,1,0,3,0,6,1,Matches
+617,Julián Palacios,ar ARG,"MF,FW",Banfield,22,1999,8.3,374,4,50,171,169,21,374,31,17,54.8,12,38.7,226,1299,693,24,13,7,28,13,221,36,Matches
+618,Agustín Palavecino,ar ARG,FW,Estudiantes–LP,18,2003,0.0,3,0,0,3,0,0,3,1,0,0.0,1,100.0,4,13,8,0,0,0,0,0,3,1,Matches
+619,Agustín Palavecino,ar ARG,MF,River Plate,25,1996,16.9,1298,26,154,692,459,38,1298,45,32,71.1,13,28.9,708,3325,1527,48,33,4,46,26,853,97,Matches
+620,Federico Paradela,ar ARG,MF,Sarmiento,22,1999,1.1,55,2,9,24,23,3,55,3,1,33.3,2,66.7,33,308,131,2,4,0,4,2,33,4,Matches
+621,José Paradela,ar ARG,MF,River Plate,23,1998,5.9,342,3,39,153,161,21,342,27,7,25.9,18,66.7,189,1181,414,18,11,4,16,5,207,64,Matches
+622,Matías Pardo,ar ARG,MF,Patronato,26,1995,3.5,162,0,22,78,64,3,162,11,3,27.3,8,72.7,72,301,87,0,2,0,12,9,87,16,Matches
+623,Gabriel Paredes,ar ARG,DF,Aldosivi,18,2003,1.0,53,0,13,36,5,0,53,3,0,0.0,3,100.0,29,146,83,3,0,0,2,0,30,0,Matches
+624,Nicolás Pasquini,ar ARG,DF,Lanús,31,1991,15.5,959,44,260,473,231,15,959,4,1,25.0,3,75.0,347,1510,791,15,10,1,9,3,508,51,Matches
+625,Martín Payero,ar ARG,"MF,FW",Boca Juniors,23,1998,7.5,350,5,33,198,124,14,350,34,13,38.2,17,50.0,195,1388,561,17,13,2,27,17,237,39,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+626,Gonzalo Paz,ar ARG,DF,Barracas Central,28,1993,21.9,960,164,599,351,25,10,960,21,15,71.4,6,28.6,355,2222,1311,10,2,0,25,5,333,4,Matches
+627,Nehuén Paz,ar ARG,DF,Estudiantes–LP,28,1993,4.5,222,42,123,97,4,3,222,3,2,66.7,1,33.3,77,434,200,2,2,1,1,1,78,1,Matches
+628,Juan Peinipil,ar ARG,FW,Arsenal,20,2002,1.1,39,0,1,18,21,4,39,1,0,0.0,0,0.0,30,156,38,1,1,1,3,2,28,8,Matches
+629,Matías Pellegrini,ar ARG,MF,Estudiantes–LP,21,2000,3.6,157,2,11,81,68,6,157,6,5,83.3,1,16.7,90,561,225,7,6,0,16,8,109,22,Matches
+630,Mateo Pellegrino,ar ARG,FW,Vélez Sarsfield,20,2001,0.1,4,0,0,2,2,1,4,0,0,,0,,1,2,1,0,0,0,0,0,4,0,Matches
+631,Mateo Pellegrino,ar ARG,FW,Estudiantes–LP,20,2001,1.5,50,4,8,20,25,8,50,3,2,66.7,0,0.0,29,151,38,2,3,1,2,5,40,2,Matches
+632,Jeremías Perales,ar ARG,FW,Banfield,21,2000,2.7,94,0,2,42,51,17,94,1,0,0.0,1,100.0,50,256,47,0,1,0,16,8,73,20,Matches
+633,Mariano Peralta,ar ARG,"FW,MF",Unión,23,1998,8.5,333,7,31,136,168,36,333,17,7,41.2,10,58.8,165,855,251,10,4,5,22,8,219,51,Matches
+634,Guillermo Pereira,ar ARG,MF,Godoy Cruz,28,1994,0.2,8,1,3,5,0,0,8,0,0,,0,,3,19,17,0,0,0,0,0,5,0,Matches
+635,Elías Pereyra,ar ARG,"DF,MF",Godoy Cruz,22,1999,4.0,213,17,70,107,38,1,213,4,0,0.0,4,100.0,76,419,205,5,5,0,9,2,79,6,Matches
+636,Fabio Pereyra,ar ARG,DF,Cen. Córdoba–SdE,32,1990,22.5,1252,191,715,514,29,23,1252,10,7,70.0,3,30.0,490,2755,1648,7,1,0,15,4,547,2,Matches
+637,Joaquín Pereyra,ar ARG,MF,Atlé Tucumán,23,1998,25.2,1574,30,319,867,422,20,1574,109,41,37.6,57,52.3,768,5037,2464,61,48,4,48,38,898,91,Matches
+638,Damián Pérez,ar ARG,DF,Arsenal,33,1988,22.9,1535,63,460,748,351,16,1535,24,11,45.8,11,45.8,534,2876,1789,29,34,0,15,13,613,48,Matches
+639,Enzo Pérez,ar ARG,MF,River Plate,35,1986,16.8,1376,46,281,972,133,2,1376,21,12,57.1,8,38.1,676,2770,1297,14,23,0,9,8,863,9,Matches
+640,Facundo Pérez,ar ARG,MF,Lanús,22,1999,9.2,541,10,93,342,123,9,541,22,7,31.8,9,40.9,307,1758,659,14,7,1,26,14,338,22,Matches
+641,Mateo Pérez,ar ARG,DF,Banfield,21,2000,1.0,53,6,30,20,3,1,53,0,0,,0,,18,67,39,0,1,0,0,0,23,1,Matches
+642,Matías Pérez,ar ARG,DF,Lanús,22,1999,24.4,1393,162,767,577,57,23,1393,25,17,68.0,8,32.0,647,3658,2130,12,6,0,20,6,744,4,Matches
+643,Pablo Pérez,ar ARG,MF,Newell's OB,36,1985,7.6,474,12,94,283,104,6,474,25,14,56.0,7,28.0,267,1187,569,10,11,0,20,13,313,23,Matches
+644,Rafa Pérez,co COL,DF,Talleres,32,1990,16.8,951,134,565,362,27,15,951,4,1,25.0,3,75.0,496,2365,1206,8,4,0,13,5,573,6,Matches
+645,Walter Pérez,ar ARG,DF,Huracán,23,1998,16.7,1086,57,341,517,238,4,1086,39,16,41.0,20,51.3,407,1981,896,20,13,0,29,13,475,48,Matches
+646,Baldomero Perlaza,co COL,MF,Colón,29,1992,11.0,522,24,124,322,85,31,522,22,9,40.9,12,54.5,237,925,445,6,4,1,15,11,259,11,Matches
+647,Máximo Perrone,ar ARG,MF,Vélez Sarsfield,19,2003,10.9,810,24,163,528,127,9,810,17,12,70.6,3,17.6,443,1698,765,9,17,2,16,11,563,16,Matches
+648,Francisco Perruzzi,ar ARG,MF,San Lorenzo,20,2001,2.5,147,6,46,94,12,0,147,1,1,100.0,0,0.0,62,274,126,3,1,0,3,3,81,2,Matches
+649,Pablo Piatti,ar ARG,"MF,FW",Estudiantes–LP,32,1989,7.4,412,1,36,202,185,31,412,27,14,51.9,10,37.0,240,1411,579,21,18,4,28,15,283,63,Matches
+650,Leonel Picco,ar ARG,MF,Colón,22,1999,13.4,738,31,203,455,88,16,738,13,8,61.5,4,30.8,282,1127,394,2,5,1,21,21,298,15,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+651,Leonel Picco,ar ARG,MF,Arsenal,22,1999,4.8,259,8,51,168,44,3,259,7,4,57.1,3,42.9,85,356,132,3,1,0,7,12,131,10,Matches
+652,Santiago Pierotti,ar ARG,"MF,FW",Colón,20,2001,13.6,633,13,88,307,253,51,633,72,24,33.3,46,63.9,327,2298,852,31,23,12,58,35,364,86,Matches
+653,Jean Pierre Rosso,uy URU,DF,Sarmiento,24,1997,9.2,469,33,172,192,111,11,469,14,6,42.9,8,57.1,155,745,409,4,6,1,7,7,152,16,Matches
+654,Juan Pignani,ar ARG,DF,Platense,20,2001,11.1,502,40,258,233,15,6,502,4,3,75.0,1,25.0,265,1689,1080,9,6,0,5,3,278,0,Matches
+655,Iván Pillud,ar ARG,DF,Racing Club,35,1986,6.3,389,19,99,213,78,2,389,8,4,50.0,3,37.5,162,967,391,9,8,1,7,1,218,18,Matches
+656,Gonzalo Piñeiro,ar ARG,MF,Estudiantes–LP,21,2000,4.3,205,5,37,119,49,2,205,4,2,50.0,1,25.0,82,284,126,1,0,1,5,7,101,6,Matches
+657,Javier Pinola,ar ARG,DF,River Plate,38,1983,9.7,584,73,340,243,8,7,584,3,1,33.3,1,33.3,299,1260,530,5,0,0,5,0,340,0,Matches
+658,Juan Pintado,uy URU,"MF,DF",Godoy Cruz,27,1994,3.0,171,10,55,81,39,3,171,10,8,80.0,2,20.0,87,489,261,7,4,0,7,8,85,12,Matches
+659,Gonzalo Piovi,ar ARG,DF,Racing Club,27,1994,13.3,1164,70,414,575,184,26,1164,15,7,46.7,7,46.7,509,2113,1324,15,12,2,19,2,619,36,Matches
+660,Oscar Piris,ar ARG,DF,Gimnasia–LP,32,1989,19.5,871,132,468,378,30,16,871,10,3,30.0,7,70.0,270,1246,707,3,5,0,13,6,274,7,Matches
+661,Matías Pisano,ar ARG,"FW,MF",Aldosivi,30,1991,9.7,532,4,69,236,234,23,532,33,14,42.4,16,48.5,307,1649,570,18,15,6,29,18,335,86,Matches
+662,Mauro Pittón,ar ARG,MF,Arsenal,27,1994,26.9,1329,61,275,686,381,41,1329,27,13,48.1,13,48.1,578,2259,942,22,19,7,41,35,703,89,Matches
+663,Patricio Pizarro,ar ARG,DF,Huracán,21,2000,7.6,358,43,183,154,22,4,358,6,3,50.0,3,50.0,170,939,465,1,0,0,2,2,173,3,Matches
+664,Francisco Pizzini,ar ARG,"FW,MF",Defensa y Just,28,1993,2.3,100,4,20,44,38,5,100,13,5,38.5,8,61.5,53,363,171,5,4,1,6,4,59,7,Matches
+665,Francisco Pizzini,ar ARG,"FW,MF",Talleres,28,1993,13.7,622,14,79,284,267,28,622,50,18,36.0,28,56.0,350,2046,783,20,16,2,34,25,405,109,Matches
+666,Gerónimo Poblete,ar ARG,MF,Independiente,29,1993,4.5,264,26,90,161,17,2,264,3,3,100.0,0,0.0,113,534,280,4,4,0,3,3,123,1,Matches
+667,Tomas Pochettino,ar ARG,MF,River Plate,25,1996,2.9,176,4,22,90,64,5,176,6,1,16.7,4,66.7,97,495,232,7,7,1,11,4,109,13,Matches
+668,Diego Polenta,uy URU,DF,Unión,29,1992,18.7,1120,117,555,534,46,12,1120,7,4,57.1,3,42.9,630,3083,2069,20,12,1,5,7,693,8,Matches
+669,Joaquín Pombo,ar ARG,DF,Arsenal,20,2001,5.9,240,34,165,71,5,3,240,2,2,100.0,0,0.0,91,391,134,1,1,0,3,1,82,1,Matches
+670,Juan Portillo,ar ARG,MF,Unión,21,2000,19.5,1042,48,356,583,112,28,1042,11,7,63.6,2,18.2,430,2289,1130,13,7,1,22,10,495,11,Matches
+671,Marcos Portillo,ar ARG,MF,Newell's OB,22,2000,5.1,318,5,59,189,77,5,318,16,11,68.8,5,31.3,141,788,427,12,5,1,7,9,159,18,Matches
+672,Jerónimo Pourtau,ar ARG,GK,Estudiantes–LP,22,2000,2.0,59,51,59,0,0,0,59,0,0,,0,,25,113,80,0,0,0,0,0,19,0,Matches
+673,Tomás Pozzo,ar ARG,"FW,MF",Independiente,21,2000,10.1,559,7,50,268,248,14,559,46,20,43.5,20,43.5,328,1838,835,27,27,4,37,25,417,84,Matches
+674,Fernando Prado,uy URU,DF,Racing Club,20,2001,0.2,14,1,3,6,5,0,14,0,0,,0,,11,51,35,1,1,0,0,0,11,4,Matches
+675,Lucas Pratto,ar ARG,"FW,MF",Vélez Sarsfield,33,1988,14.2,636,17,38,326,280,44,636,30,18,60.0,11,36.7,330,1842,694,24,22,5,36,17,454,86,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+676,Sebastián Prediger,ar ARG,MF,Tigre,35,1986,16.3,958,64,334,599,42,7,958,13,8,61.5,5,38.5,428,2512,1064,10,5,0,20,11,468,3,Matches
+677,Gianluca Prestianni,ar ARG,FW,Vélez Sarsfield,16,2006,1.2,54,1,5,19,31,3,54,5,2,40.0,3,60.0,33,276,186,5,6,1,3,5,41,11,Matches
+678,Sebastián Prieto,ar ARG,DF,Tigre,28,1993,22.5,1478,67,400,719,370,22,1478,38,11,28.9,22,57.9,632,2674,1428,31,30,2,34,15,738,105,Matches
+679,Ijiel Protti,ar ARG,"MF,FW",Tigre,27,1995,10.4,517,5,66,259,207,39,517,35,16,45.7,18,51.4,313,2064,988,34,17,6,54,22,399,103,Matches
+680,Maximiliano Puig,ar ARG,MF,Barracas Central,21,2000,0.8,29,2,6,16,7,0,29,0,0,,0,,16,67,41,0,0,0,3,2,15,2,Matches
+681,Ismael Quílez,ar ARG,DF,Huracán,32,1989,4.3,252,6,54,117,84,2,252,1,0,0.0,1,100.0,107,467,241,9,6,0,5,5,135,28,Matches
+682,Carlos Quintana,ar ARG,DF,Patronato,33,1988,13.0,595,121,351,222,27,20,595,3,2,66.7,1,33.3,191,763,379,2,5,2,4,2,177,1,Matches
+683,Juan Quintero,co COL,MF,River Plate,29,1993,8.7,688,2,37,388,268,7,688,26,9,34.6,10,38.5,427,1980,939,19,24,2,14,4,532,52,Matches
+684,Franco Quinteros,ar ARG,DF,Sarmiento,23,1998,8.6,452,43,181,174,99,4,452,14,5,35.7,9,64.3,143,677,235,4,7,0,14,9,137,15,Matches
+685,Sergio Quiroga,ar ARG,MF,Sarmiento,27,1994,9.8,393,5,63,186,149,17,393,13,3,23.1,8,61.5,151,708,274,8,10,2,21,9,177,29,Matches
+686,Aaron Quirós,ar ARG,DF,Banfield,20,2001,6.0,305,24,115,132,61,2,305,2,1,50.0,1,50.0,98,460,260,3,2,1,6,1,98,5,Matches
+687,Maico Quiroz,ar ARG,MF,Racing Club,20,2001,1.0,61,5,14,31,16,3,61,5,3,60.0,2,40.0,25,156,90,3,1,0,4,1,33,2,Matches
+688,Eric Ramírez,ar ARG,FW,Gimnasia–LP,25,1996,18.2,608,5,31,240,345,66,608,34,8,23.5,20,58.8,316,1624,633,24,11,8,70,28,375,127,Matches
+689,Iván Ramírez,py PAR,DF,Cen. Córdoba–SdE,27,1994,21.4,1266,69,370,630,288,10,1266,42,22,52.4,15,35.7,544,3489,2009,48,45,3,35,26,529,50,Matches
+690,Juan Ramírez,ar ARG,MF,Boca Juniors,28,1993,11.7,641,6,61,416,180,21,641,31,19,61.3,8,25.8,392,2249,1214,36,27,4,33,27,446,50,Matches
+691,Matías Ramírez,ar ARG,"MF,FW",Godoy Cruz,22,1999,4.0,194,0,30,80,87,12,194,16,6,37.5,9,56.3,120,856,349,12,11,3,17,9,118,29,Matches
+692,Roberto Ramírez,ar ARG,GK,Godoy Cruz,25,1996,1.0,30,26,30,0,0,0,30,0,0,,0,,14,74,31,0,0,0,0,0,13,0,Matches
+693,Uriel Ramírez,ar ARG,MF,Aldosivi,22,1999,0.8,22,0,7,13,2,0,22,0,0,,0,,9,36,13,0,0,0,0,0,9,2,Matches
+694,Federico Rasmussen,ar ARG,DF,Sarmiento,29,1992,16.7,672,81,298,310,67,13,672,8,4,50.0,4,50.0,126,589,283,4,1,0,10,3,152,5,Matches
+695,Djorkaeff Reasco,ec ECU,"MF,FW",Newell's OB,23,1999,5.5,189,2,18,89,86,22,189,15,7,46.7,7,46.7,105,502,142,4,8,2,20,11,135,45,Matches
+696,Federico Redondo,ar ARG,MF,Arg Juniors,19,2003,4.9,316,3,57,217,44,5,316,9,6,66.7,3,33.3,166,783,363,6,2,0,7,9,195,10,Matches
+697,Nicolás Reniero,ar ARG,"FW,MF",Arg Juniors,26,1995,11.6,524,8,31,291,204,34,524,23,11,47.8,11,47.8,283,1225,507,9,12,3,30,16,419,90,Matches
+698,Mateo Retegui,it ITA,FW,Tigre,22,1999,24.8,830,32,55,381,400,140,824,42,14,33.3,24,57.1,429,2236,627,35,25,14,81,36,573,148,Matches
+699,Rodrigo Rey,ar ARG,GK,Gimnasia–LP,30,1991,27.0,805,670,798,7,0,0,805,0,0,,0,,315,2377,1727,0,0,0,0,0,118,0,Matches
+700,Claudio Riaño,ar ARG,FW,Cen. Córdoba–SdE,33,1988,6.2,175,5,10,73,94,29,175,13,2,15.4,11,84.6,96,537,173,4,3,3,20,9,125,38,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+701,Sebastián Ribas,uy URU,FW,Cen. Córdoba–SdE,33,1988,0.8,33,0,2,16,15,2,33,0,0,,0,,9,22,14,0,1,0,2,0,25,5,Matches
+702,César Rigamonti,ar ARG,GK,Cen. Córdoba–SdE,34,1987,17.0,608,473,603,5,0,0,608,0,0,,0,,337,2262,1336,0,1,0,1,0,238,0,Matches
+703,Sebastián Rincón,co COL,"FW,MF",Barracas Central,28,1994,1.6,52,2,5,19,29,9,52,3,3,100.0,0,0.0,32,164,43,2,1,1,7,1,38,11,Matches
+704,Andrés Ríos,ar ARG,FW,Defensa y Just,32,1989,6.1,226,11,24,120,82,16,226,4,4,100.0,0,0.0,106,329,91,2,1,1,23,9,157,19,Matches
+705,Andrés Ríos,ar ARG,"FW,MF",Aldosivi,32,1989,4.4,140,5,17,68,55,12,140,8,4,50.0,4,50.0,65,293,98,2,0,0,6,3,97,21,Matches
+706,Gonzalo Ríos,ar ARG,"MF,FW",Cen. Córdoba–SdE,23,1999,3.8,182,0,15,88,81,4,182,20,12,60.0,8,40.0,107,794,316,7,7,0,26,7,130,31,Matches
+707,Lautaro Ríos,ar ARG,MF,Banfield,21,2000,4.5,213,1,44,129,41,2,213,8,3,37.5,4,50.0,72,321,135,3,3,0,11,6,76,5,Matches
+708,Gabriel Risso Patrón,ar ARG,DF,Atlé Tucumán,26,1995,4.9,265,25,121,106,40,0,265,3,0,0.0,3,100.0,93,401,195,4,1,0,6,2,112,11,Matches
+709,Ciro Rius,ar ARG,"MF,DF",Atlé Tucumán,33,1988,9.9,336,16,86,143,110,19,336,8,5,62.5,3,37.5,160,802,323,10,8,4,16,4,187,32,Matches
+710,Braian Rivero,ar ARG,MF,Arsenal,25,1996,9.0,529,14,112,309,118,11,529,23,11,47.8,10,43.5,248,1141,591,11,9,1,23,22,250,18,Matches
+711,Simón Rivero,ar ARG,"MF,FW",Boca Juniors,18,2003,0.2,9,0,3,4,4,1,9,1,0,0.0,1,100.0,5,24,5,0,0,0,1,2,3,2,Matches
+712,Andrés Roa,co COL,"MF,FW",Arg Juniors,28,1993,8.8,492,2,49,239,214,23,492,39,12,30.8,21,53.8,269,1644,701,24,29,3,27,18,330,46,Matches
+713,Agustín Rodríguez,ar ARG,MF,Lanús,17,2004,0.7,38,0,6,24,8,1,38,2,2,100.0,0,0.0,32,223,122,2,3,0,2,2,33,4,Matches
+714,Alan Rodríguez,uy URU,MF,Arg Juniors,22,2000,10.7,590,8,76,343,183,17,590,38,19,50.0,17,44.7,317,1544,734,14,21,3,24,18,362,46,Matches
+715,Axel Rodríguez,ar ARG,FW,Patronato,24,1997,13.7,458,12,32,187,242,58,458,25,6,24.0,18,72.0,267,1146,493,20,11,11,67,25,337,109,Matches
+716,Fernando Rodríguez,ar ARG,DF,Rosario Central,21,2000,2.6,112,7,48,39,27,5,112,5,1,20.0,4,80.0,41,239,128,2,1,0,0,0,42,2,Matches
+717,Ignacio Rodríguez,ar ARG,"MF,FW",Banfield,19,2002,3.5,200,6,29,102,77,4,200,6,1,16.7,2,33.3,96,649,338,6,8,2,7,6,104,11,Matches
+718,Juan Rodríguez,ar ARG,DF,Rosario Central,27,1994,9.8,520,56,266,240,19,9,520,2,0,0.0,2,100.0,200,1173,710,8,2,0,4,5,233,5,Matches
+719,Juan Rodríguez,ar ARG,DF,Defensa y Just,27,1994,2.2,144,10,87,48,9,6,144,1,1,100.0,0,0.0,93,459,251,0,0,0,0,0,91,0,Matches
+720,Lucas Rodríguez,ar ARG,DF,Independiente,28,1993,13.8,856,43,264,425,172,12,856,12,6,50.0,6,50.0,363,1356,716,21,9,3,8,2,453,29,Matches
+721,Maximiliano Rodríguez,ar ARG,"DF,MF",Barracas Central,33,1988,8.4,381,25,153,146,85,2,381,7,1,14.3,5,71.4,96,390,129,5,3,0,13,2,118,17,Matches
+722,Salomón Rodríguez,uy URU,FW,Godoy Cruz,21,2000,20.7,563,15,33,215,321,88,563,39,14,35.9,23,59.0,281,1322,444,15,12,10,57,38,405,100,Matches
+723,Santiago Rodríguez,ar ARG,"FW,MF",Independiente,19,2002,2.5,69,3,8,29,32,5,69,4,1,25.0,3,75.0,36,139,45,1,0,0,5,5,44,12,Matches
+724,Manuel Roffo,ar ARG,GK,Tigre,21,2000,15.0,492,391,491,1,0,0,492,0,0,,0,,275,1587,921,0,0,0,0,0,207,0,Matches
+725,Agustín Rogel,uy URU,DF,Estudiantes–LP,24,1997,11.2,643,66,297,322,32,15,643,4,3,75.0,1,25.0,281,1546,1030,9,6,0,8,1,322,4,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+726,Matías Rojas,py PAR,FW,Racing Club,26,1995,11.8,677,3,47,284,349,33,676,48,26,54.2,19,39.6,383,2301,1033,30,29,10,27,10,470,106,Matches
+727,Marcos Rojo,ar ARG,DF,Boca Juniors,31,1990,10.0,775,86,402,348,27,14,773,0,0,,0,,470,2192,1200,2,3,0,4,3,503,0,Matches
+728,Benjamín Rollheiser,ar ARG,"MF,FW",Estudiantes–LP,21,2000,9.9,667,5,69,359,263,12,667,77,32,41.6,41,53.2,386,2467,1163,40,37,2,34,15,458,73,Matches
+729,Esteban Rolón,ar ARG,MF,Boca Juniors,26,1995,3.5,233,9,64,159,13,0,233,4,4,100.0,0,0.0,107,395,184,0,0,0,3,2,121,1,Matches
+730,Fernando Román,py PAR,DF,Aldosivi,23,1998,7.1,425,25,134,199,98,5,425,14,2,14.3,10,71.4,141,697,275,7,5,1,12,9,147,14,Matches
+731,Braian Romero,ar ARG,"FW,MF",River Plate,30,1991,3.5,122,1,4,61,57,16,122,7,2,28.6,5,71.4,68,262,92,4,2,3,23,9,78,17,Matches
+732,José Romero,ar ARG,FW,Talleres,18,2003,0.6,27,1,2,13,12,5,27,2,0,0.0,2,100.0,11,48,26,1,0,1,1,2,15,2,Matches
+733,Julián Romero,ar ARG,FW,Independiente,18,2003,0.0,4,0,0,1,3,0,4,0,0,,0,,1,1,0,0,0,0,0,0,3,0,Matches
+734,Lucas Romero,ar ARG,MF,Independiente,27,1994,19.7,1242,32,202,817,231,20,1242,31,21,67.7,9,29.0,659,2843,1503,18,24,2,27,16,825,37,Matches
+735,Matías Romero,ar ARG,"MF,FW",Banfield,25,1996,9.4,494,30,138,274,88,4,494,15,9,60.0,6,40.0,206,1107,515,16,10,2,14,10,257,22,Matches
+736,Maximiliano Romero,ar ARG,"FW,MF",Racing Club,23,1999,7.6,211,12,16,84,111,38,211,8,0,0.0,8,100.0,96,453,154,7,3,3,15,5,141,38,Matches
+737,Nazareno Romero,ar ARG,MF,Rosario Central,21,2000,1.4,62,1,12,28,24,0,62,3,1,33.3,2,66.7,33,129,42,1,2,0,3,2,35,9,Matches
+738,Nicolás Romero,ar ARG,DF,Atlé Tucumán,18,2003,0.4,8,5,8,0,0,0,8,0,0,,0,,3,13,10,0,0,0,0,0,3,0,Matches
+739,Óscar Romero,py PAR,"MF,FW",Boca Juniors,29,1992,16.3,1098,11,97,670,348,19,1098,72,36,50.0,28,38.9,694,3671,1550,40,30,4,37,31,761,86,Matches
+740,Facundo Roncaglia,ar ARG,DF,Boca Juniors,34,1987,8.7,529,63,325,202,7,4,529,3,2,66.7,1,33.3,272,1413,695,0,0,0,3,0,311,0,Matches
+741,Siro Rosane,ar ARG,MF,San Lorenzo,21,2000,7.3,353,11,66,258,30,1,353,8,4,50.0,4,50.0,171,817,324,2,7,0,6,6,212,4,Matches
+742,Agustín Rossi,ar ARG,GK,Boca Juniors,26,1995,24.0,777,657,771,6,0,0,777,0,0,,0,,391,2270,1587,0,0,0,0,1,280,0,Matches
+743,Genaro Rossi,ar ARG,FW,Newell's OB,19,2002,3.6,150,7,14,57,79,17,150,15,7,46.7,8,53.3,84,654,242,6,6,4,21,11,102,23,Matches
+744,Carlos Rotondi,ar ARG,FW,Defensa y Just,24,1997,3.3,143,4,33,56,58,12,143,12,8,66.7,4,33.3,81,387,168,5,1,4,9,3,92,27,Matches
+745,Haibrany Ruiz Díaz,uy URU,DF,Platense,29,1992,11.0,421,52,246,151,28,13,421,5,4,80.0,1,20.0,197,1229,718,5,2,0,3,1,201,4,Matches
+746,Ramiro Ruiz,ar ARG,"FW,MF",Atlé Tucumán,21,2000,15.9,551,16,42,224,291,88,551,65,18,27.7,45,69.2,293,1773,765,36,6,29,65,15,381,129,Matches
+747,Alexis Sabella,ar ARG,"FW,MF",Platense,20,2001,8.7,453,5,71,210,186,11,453,44,20,45.5,24,54.5,278,1580,599,15,20,5,33,15,281,53,Matches
+748,Oscar Salomón,ar ARG,"MF,DF",Tigre,22,1999,0.4,26,3,16,10,0,0,26,0,0,,0,,16,72,27,0,0,0,0,0,13,0,Matches
+749,Brian Salvareschi,ar ARG,DF,Barracas Central,22,1999,9.0,315,57,219,93,6,4,315,0,0,,0,,83,321,182,0,1,0,2,1,87,0,Matches
+750,Eduardo Salvio,ar ARG,FW,Boca Juniors,31,1990,0.7,48,1,1,20,27,5,47,9,2,22.2,7,77.8,42,268,126,3,1,3,3,1,41,17,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+751,Mateo Sanabria,ar ARG,"FW,MF",Lanús,17,2004,3.6,157,2,25,57,80,8,157,30,11,36.7,18,60.0,106,796,440,15,10,3,18,4,107,36,Matches
+752,Luciano Sánchez,ar ARG,"DF,FW",Arg Juniors,28,1994,20.3,1203,49,353,557,305,24,1203,22,14,63.6,5,22.7,495,2105,957,13,17,2,33,14,597,86,Matches
+753,Juan Sánchez Miño,ar ARG,"MF,DF",Colón,32,1990,5.5,320,8,66,191,65,3,320,10,6,60.0,3,30.0,155,791,388,7,5,0,6,6,197,17,Matches
+754,Valentin Sanchez,ar ARG,FW,Huracán,19,2002,0.1,13,0,0,8,5,0,13,0,0,,0,,9,28,18,0,1,0,0,0,10,4,Matches
+755,José Sand,ar ARG,FW,Lanús,41,1980,15.3,537,11,34,280,227,50,535,16,7,43.8,6,37.5,290,1121,333,11,10,6,51,30,423,72,Matches
+756,Agustín Sández,py PAR,DF,Boca Juniors,21,2001,6.7,471,20,145,255,79,9,471,10,7,70.0,3,30.0,214,1043,581,7,5,1,11,6,252,28,Matches
+757,Jonathan Sandoval,uy URU,DF,Atlé Tucumán,34,1987,1.8,73,1,28,30,16,3,73,1,0,0.0,1,100.0,20,56,33,0,1,0,2,1,27,3,Matches
+758,Tomás Sandoval,ar ARG,"FW,MF",Colón,22,1999,3.9,122,1,2,53,68,20,122,3,1,33.3,2,66.7,47,188,75,3,3,0,12,4,88,24,Matches
+759,Facundo Sanguinetti,ar ARG,GK,Banfield,20,2001,1.0,22,21,22,0,0,0,22,0,0,,0,,9,40,24,0,0,0,0,0,6,0,Matches
+760,Michael Santos,uy URU,FW,Talleres,28,1993,8.0,224,7,10,65,149,59,224,10,2,20.0,8,80.0,121,453,152,7,4,6,25,15,173,62,Matches
+761,Rodrigo Saracho,ar ARG,GK,Barracas Central,28,1994,10.9,334,271,330,2,2,1,334,0,0,,0,,139,1061,710,1,1,0,0,0,60,0,Matches
+762,Gastón Sauro,ar ARG,DF,Sarmiento,31,1990,24.0,701,164,431,248,26,17,701,2,2,100.0,0,0.0,221,1334,829,13,6,0,9,1,228,1,Matches
+763,Franco Sbuttoni,ar ARG,DF,Cen. Córdoba–SdE,32,1989,15.9,813,135,430,370,16,8,813,5,4,80.0,1,20.0,329,1486,856,6,3,1,7,4,356,1,Matches
+764,Ezequiel Schelotto,it ITA,"FW,DF",Aldosivi,32,1989,1.8,77,3,20,39,18,2,77,1,1,100.0,0,0.0,24,91,36,0,0,0,3,3,33,7,Matches
+765,Luis Schlishting,ar ARG,DF,Colón,19,2002,0.5,27,0,13,11,3,0,27,0,0,,0,,7,23,5,0,0,0,0,0,10,0,Matches
+766,Ignacio Schor,ar ARG,"FW,MF",Platense,21,2000,13.7,533,3,68,219,257,46,533,64,28,43.8,34,53.1,327,2108,818,33,23,12,49,27,366,122,Matches
+767,Augusto Schott,ar ARG,DF,Colón,22,2000,8.6,445,12,112,205,133,8,445,16,8,50.0,8,50.0,168,870,411,11,7,1,12,5,175,37,Matches
+768,Alexis Segovia,ar ARG,FW,Lanús,17,2004,0.5,34,0,4,10,20,0,34,0,0,,0,,28,223,88,1,2,0,0,1,30,12,Matches
+769,Mateo Seoane,ar ARG,MF,Vélez Sarsfield,17,2004,5.9,356,13,80,245,32,0,356,2,1,50.0,1,50.0,153,464,188,2,2,0,6,4,219,4,Matches
+770,Bruno Sepúlveda,ar ARG,FW,Barracas Central,29,1992,15.4,561,25,38,217,310,63,561,28,8,28.6,16,57.1,317,1428,578,21,25,8,53,34,417,97,Matches
+771,Luis Sequeira,ar ARG,MF,San Lorenzo,19,2003,0.4,15,0,3,8,4,0,15,3,0,0.0,3,100.0,6,19,9,0,0,0,1,1,12,0,Matches
+772,Gaspar Servio,ar ARG,GK,Rosario Central,29,1992,22.0,694,581,687,4,4,4,690,1,1,100.0,0,0.0,323,1913,1261,0,0,0,1,0,213,0,Matches
+773,Juan Sforza,ar ARG,MF,Newell's OB,19,2002,20.8,1290,57,292,869,141,8,1290,11,7,63.6,4,36.4,653,2985,1546,25,11,0,20,13,786,20,Matches
+774,Leonardo Sigali,ar ARG,DF,Racing Club,34,1987,15.8,1206,129,559,626,27,9,1206,6,1,16.7,5,83.3,675,3768,2146,12,9,1,5,2,761,3,Matches
+775,Santiago Silva,uy URU,FW,Aldosivi,41,1980,17.6,593,25,47,295,254,56,593,12,4,33.3,8,66.7,298,1041,333,9,8,2,68,19,446,98,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+776,Tomás Silva,ar ARG,"MF,DF",San Lorenzo,18,2003,2.2,115,3,28,47,42,1,115,6,0,0.0,5,83.3,57,279,175,5,2,0,6,2,57,14,Matches
+777,Santiago Simón,ar ARG,"MF,FW",River Plate,19,2002,10.8,754,6,60,355,345,28,754,27,9,33.3,13,48.1,438,2152,1040,33,11,5,21,10,555,112,Matches
+778,Tomás Sives,ar ARG,MF,Defensa y Just,18,2003,0.1,12,0,3,5,4,1,12,0,0,,0,,6,5,0,0,0,0,1,1,7,1,Matches
+779,Pablo Solari,ar ARG,"FW,MF",River Plate,20,2001,11.5,490,3,37,162,304,75,490,77,27,35.1,48,62.3,319,2260,1103,49,23,21,50,19,349,145,Matches
+780,Franco Soldano,ar ARG,FW,Gimnasia–LP,27,1994,22.8,760,21,63,357,345,60,760,16,4,25.0,12,75.0,308,1160,339,7,10,0,46,29,520,91,Matches
+781,Julio Soler,ar ARG,DF,Lanús,16,2005,0.2,6,0,2,4,0,0,6,0,0,,0,,2,3,1,0,0,0,0,0,3,0,Matches
+782,Alan Soñora,us USA,"MF,FW",Independiente,23,1998,15.3,886,13,132,533,228,14,886,15,9,60.0,5,33.3,471,2360,1132,21,20,4,25,12,588,29,Matches
+783,Joel Soñora,us USA,MF,Vélez Sarsfield,25,1996,5.7,320,0,24,176,128,10,320,18,9,50.0,9,50.0,200,1094,512,18,18,1,20,14,227,27,Matches
+784,Jesús Soraire,ar ARG,MF,Cen. Córdoba–SdE,33,1988,19.4,1099,36,201,725,180,20,1099,27,14,51.9,12,44.4,558,2504,1348,23,13,0,38,26,641,31,Matches
+785,Ramiro Sordo,ar ARG,"FW,MF",Newell's OB,21,2000,14.9,576,6,62,225,300,40,576,37,17,45.9,19,51.4,346,2704,1228,52,35,12,41,27,392,130,Matches
+786,Leandro Soria,ar ARG,DF,Godoy Cruz,17,2004,0.0,5,0,2,1,2,1,5,0,0,,0,,1,1,0,0,0,0,0,0,1,0,Matches
+787,Alexander Sosa,ar ARG,FW,Patronato,20,2001,8.6,261,7,19,98,151,29,261,40,22,55.0,17,42.5,149,966,409,18,8,8,32,20,175,51,Matches
+788,Diego Sosa,ar ARG,"DF,MF",Tigre,24,1997,3.3,227,8,63,111,57,3,227,3,1,33.3,2,66.7,117,435,208,4,3,0,6,0,132,17,Matches
+789,José Sosa,ar ARG,"MF,FW",Estudiantes–LP,36,1985,0.8,61,1,1,50,11,0,61,3,3,100.0,0,0.0,23,105,40,1,2,0,2,1,39,4,Matches
+790,Ramón Sosa,py PAR,"MF,FW",Gimnasia–LP,22,1999,22.7,1037,38,161,438,463,68,1037,114,56,49.1,46,40.4,573,4117,2069,61,47,14,96,40,696,157,Matches
+791,Sebastián Sosa,uy URU,GK,Independiente,35,1986,10.3,222,200,220,2,0,0,222,0,0,,0,,95,537,389,0,0,0,2,0,65,0,Matches
+792,Sebastián Sosa,uy URU,"DF,MF",Vélez Sarsfield,27,1994,0.0,2,0,0,2,0,0,2,0,0,,0,,1,27,0,0,0,0,0,0,2,0,Matches
+793,Alexis Soto,ar ARG,DF,Defensa y Just,28,1993,18.0,1247,61,507,522,234,9,1247,46,25,54.3,20,43.5,536,2538,1332,26,22,3,28,8,569,36,Matches
+794,Guillermo Soto,cl CHI,DF,Huracán,28,1994,22.0,1106,37,252,505,361,33,1106,39,16,41.0,22,56.4,443,2583,1206,39,33,5,34,24,507,120,Matches
+795,Lucas Souto,ar ARG,"DF,MF",Defensa y Just,23,1998,6.1,305,35,138,124,45,4,305,9,8,88.9,0,0.0,96,594,333,7,4,2,12,4,100,9,Matches
+796,Aarón Spetale,ar ARG,"MF,FW",Estudiantes–LP,21,2000,0.2,8,0,2,4,2,0,8,1,1,100.0,0,0.0,3,33,22,1,1,0,0,0,6,1,Matches
+797,Claudio Spinelli,ar ARG,"FW,MF",Lanús,24,1997,1.4,50,0,0,26,24,11,50,5,3,60.0,2,40.0,23,98,38,2,2,1,4,3,35,8,Matches
+798,Alexis Steimbach,ar ARG,MF,Gimnasia–LP,19,2002,3.8,165,5,26,81,60,9,165,8,2,25.0,6,75.0,76,332,172,3,2,1,6,6,93,10,Matches
+799,Lucas Suárez,ar ARG,DF,Arsenal,26,1995,5.0,224,38,131,88,8,5,224,0,0,,0,,61,419,245,0,0,0,2,1,69,0,Matches
+800,Lucas Suárez,ar ARG,DF,Talleres,26,1995,10.7,595,62,294,266,37,14,595,7,2,28.6,5,71.4,276,1397,736,6,0,0,4,5,303,4,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+801,Matías Suárez,ar ARG,"FW,MF",River Plate,33,1988,3.8,138,2,8,47,84,24,138,10,1,10.0,9,90.0,88,311,134,6,2,3,22,3,109,34,Matches
+802,Gastón Suso,ar ARG,DF,Platense,30,1991,26.0,1299,142,743,524,42,25,1299,6,6,100.0,0,0.0,537,2673,1264,9,5,0,10,2,583,0,Matches
+803,Facundo Taborda,ar ARG,"MF,FW",Colón,21,2001,1.0,57,0,13,22,23,4,57,4,2,50.0,2,50.0,23,120,48,2,3,0,4,1,23,6,Matches
+804,Vicente Taborda,ar ARG,"MF,FW",Platense,20,2001,12.8,796,4,76,410,327,25,796,55,30,54.5,20,36.4,473,2653,1228,27,22,3,48,33,523,86,Matches
+805,Vicente Taborda,ar ARG,MF,Boca Juniors,20,2001,0.0,6,0,0,6,0,0,6,0,0,,0,,5,14,7,0,0,0,0,1,5,0,Matches
+806,Matías Tagliamonte,ar ARG,GK,Racing Club,23,1998,1.0,34,25,34,0,0,0,34,0,0,,0,,14,76,58,0,0,0,0,0,12,0,Matches
+807,Gregorio Tanco,ar ARG,DF,Banfield,22,1999,9.2,496,61,298,182,18,12,496,4,4,100.0,0,0.0,231,1167,676,1,1,0,1,1,244,0,Matches
+808,Patricio Tanda,ar ARG,FW,Racing Club,19,2002,0.0,3,0,1,2,0,0,3,0,0,,0,,0,0,0,0,0,0,0,0,0,0,Matches
+809,Mateo Tanlongo,ar ARG,MF,Rosario Central,18,2003,12.2,676,37,191,433,61,4,676,8,3,37.5,4,50.0,315,1532,774,6,7,1,19,8,362,7,Matches
+810,Iván Tapia,ar ARG,MF,Barracas Central,23,1998,24.4,1153,11,153,626,385,17,1148,6,1,16.7,5,83.3,418,1539,612,10,11,0,24,17,602,46,Matches
+811,Cristian Tarragona,ar ARG,FW,Gimnasia–LP,30,1991,2.6,122,2,6,64,52,12,121,8,6,75.0,2,25.0,77,380,115,4,2,1,16,9,88,19,Matches
+812,Renzo Tesuri,ar ARG,MF,Atlé Tucumán,25,1996,13.2,602,17,137,309,163,26,602,23,10,43.5,12,52.2,293,1488,602,15,13,1,35,21,342,45,Matches
+813,Andrew Teuten,uy URU,"DF,FW",Colón,23,1998,6.2,315,22,103,142,74,7,315,10,5,50.0,5,50.0,105,468,120,3,6,1,4,7,129,26,Matches
+814,Nicolás Thaller,ar ARG,DF,Atlé Tucumán,23,1998,6.2,243,53,171,67,5,5,243,3,1,33.3,2,66.7,108,465,153,1,2,0,2,2,128,2,Matches
+815,Horacio Tijanovich,ar ARG,"FW,MF",Platense,25,1996,8.5,394,14,55,133,208,36,394,21,5,23.8,13,61.9,204,1178,507,22,11,10,50,14,237,70,Matches
+816,Facundo Tobares,ar ARG,FW,Aldosivi,21,2000,1.9,59,1,2,33,25,0,59,2,2,100.0,0,0.0,25,92,29,1,1,0,7,1,38,11,Matches
+817,Fernando Tobio,ar ARG,DF,Huracán,32,1989,18.0,920,88,513,390,22,16,920,2,0,0.0,2,100.0,410,2128,1187,7,4,0,8,1,471,1,Matches
+818,Gastón Togni,ar ARG,"FW,DF",Independiente,24,1997,1.1,47,0,8,20,20,5,47,3,2,66.7,1,33.3,28,157,88,4,3,0,2,1,27,8,Matches
+819,Gastón Togni,ar ARG,"MF,FW",Defensa y Just,24,1997,21.6,906,30,114,316,488,71,906,73,33,45.2,36,49.3,541,3241,1590,65,35,22,72,45,612,238,Matches
+820,Hernán Toledo,ar ARG,"FW,MF",Estudiantes–LP,26,1996,0.8,44,0,8,16,21,1,44,5,2,40.0,2,40.0,20,247,69,3,3,0,7,1,25,6,Matches
+821,Javier Toledo,ar ARG,FW,Sarmiento,35,1986,10.0,332,18,26,158,148,57,330,12,5,41.7,7,58.3,139,551,186,7,8,2,31,15,244,46,Matches
+822,Santiago Toloza,ar ARG,MF,Talleres,19,2002,1.8,106,2,15,57,35,1,106,4,1,25.0,3,75.0,59,378,141,3,6,0,5,3,62,7,Matches
+823,Fernando Torrent,ar ARG,DF,Rosario Central,30,1991,0.3,28,0,5,11,12,1,28,2,0,0.0,2,100.0,14,74,18,1,0,0,2,0,16,5,Matches
+824,Cristian Torres,ar ARG,"FW,MF",Cen. Córdoba–SdE,22,1999,8.3,274,12,31,121,124,32,274,12,5,41.7,4,33.3,143,719,338,11,7,5,19,11,168,37,Matches
+825,David Torres,ar ARG,"FW,DF",Aldosivi,20,2001,0.5,20,3,3,6,11,1,20,1,1,100.0,0,0.0,10,21,6,0,0,0,1,1,13,3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+826,Jonathan Torres,ar ARG,FW,Sarmiento,25,1996,12.5,394,17,30,185,181,49,391,13,5,38.5,8,61.5,179,665,241,7,4,2,41,19,281,50,Matches
+827,Sebastián Torrico,ar ARG,GK,San Lorenzo,41,1980,9.0,231,212,230,1,0,0,231,0,0,,0,,105,708,534,0,0,0,0,0,58,0,Matches
+828,Cristopher Toselli,cl CHI,GK,Cen. Córdoba–SdE,33,1988,10.0,302,245,300,2,0,0,302,0,0,,0,,128,885,567,0,0,0,0,0,84,0,Matches
+829,Nicolás Tripichio,ar ARG,"DF,MF",Defensa y Just,26,1996,25.7,1458,94,506,672,306,36,1458,68,34,50.0,32,47.1,680,4306,2138,44,29,5,50,26,650,60,Matches
+830,Natanael Troncoso,ar ARG,"FW,MF",Colón,20,2001,0.6,30,0,1,17,12,0,30,2,2,100.0,0,0.0,18,88,28,0,4,0,1,0,24,3,Matches
+831,Franco Troyansky,ar ARG,FW,Lanús,24,1997,12.2,421,15,60,171,193,48,420,25,6,24.0,17,68.0,218,815,279,7,8,5,43,17,279,72,Matches
+832,Franco Troyansky,ar ARG,FW,Unión,24,1997,1.5,59,1,3,22,34,9,58,4,0,0.0,4,100.0,36,155,104,3,2,0,9,4,41,11,Matches
+833,Ezequiel Unsain,ar ARG,GK,Defensa y Just,26,1995,27.0,964,832,962,2,0,0,964,0,0,,0,,530,3147,1921,0,0,0,1,0,360,0,Matches
+834,Agustín Urzi,ar ARG,"FW,MF",Banfield,21,2000,19.2,818,7,106,329,395,56,818,76,33,43.4,39,51.3,446,2663,1006,38,20,14,91,33,497,149,Matches
+835,Bruno Valdéz,ar ARG,DF,Estudiantes–LP,20,2002,1.0,49,3,21,23,5,0,49,1,1,100.0,0,0.0,22,116,75,0,0,0,2,0,24,2,Matches
+836,Jorge Valdez Chamorro,ar ARG,MF,Patronato,27,1994,4.1,248,16,58,145,48,1,248,8,4,50.0,4,50.0,101,526,244,1,1,0,7,3,103,4,Matches
+837,Nicolás Valentini,ar ARG,DF,Aldosivi,20,2001,24.3,1425,193,736,644,51,27,1425,1,1,100.0,0,0.0,585,3256,1876,15,9,0,17,2,638,9,Matches
+838,Carlos Valenzuela,ar ARG,"MF,FW",Barracas Central,24,1997,17.5,999,12,129,408,491,46,997,165,69,41.8,75,45.5,598,4516,2025,67,39,15,84,57,649,116,Matches
+839,Nicolás Vallejo,ar ARG,"MF,FW",Independiente,18,2004,3.3,143,5,29,53,64,8,143,13,5,38.5,8,61.5,79,602,325,11,10,3,9,8,88,23,Matches
+840,Diego Valoyes,co COL,"FW,MF",Talleres,25,1996,14.9,608,12,53,272,294,58,606,105,38,36.2,58,55.2,388,2570,1224,53,30,26,65,25,415,126,Matches
+841,Leonel Vangioni,ar ARG,DF,Newell's OB,34,1987,4.3,247,13,93,102,53,2,247,12,7,58.3,5,41.7,97,388,170,6,3,2,6,2,113,12,Matches
+842,Lucas Varaldo,ar ARG,FW,Lanús,19,2002,7.5,311,4,28,185,99,23,311,12,6,50.0,6,50.0,149,419,151,3,1,3,28,12,221,34,Matches
+843,Alan Varela,ar ARG,MF,Boca Juniors,20,2001,20.5,1278,57,314,885,86,2,1278,14,9,64.3,5,35.7,682,2642,994,7,5,0,25,10,745,8,Matches
+844,Luis Vázquez,ar ARG,FW,Boca Juniors,21,2001,13.7,377,8,14,157,206,51,377,30,9,30.0,19,63.3,220,905,274,12,8,8,46,28,292,65,Matches
+845,Emiliano Vecchio,ar ARG,MF,Racing Club,33,1988,9.1,656,1,39,396,228,20,655,24,13,54.2,11,45.8,383,1890,937,23,18,5,11,16,504,47,Matches
+846,Gabriel Vega,ar ARG,"MF,FW",Godoy Cruz,19,2002,3.0,188,1,17,124,51,2,188,19,6,31.6,8,42.1,110,570,256,4,7,0,12,13,124,12,Matches
+847,Gustavo Velásquez,py PAR,DF,Newell's OB,30,1991,20.7,1027,136,573,415,53,19,1027,5,3,60.0,2,40.0,421,2405,1396,18,10,1,18,11,404,5,Matches
+848,Alejo Véliz,ar ARG,FW,Rosario Central,18,2003,20.4,548,35,55,253,245,90,548,18,5,27.8,8,44.4,218,815,270,8,5,5,60,22,376,67,Matches
+849,Agustín Venezia,ar ARG,"MF,DF",Talleres,18,2003,0.2,11,0,2,6,4,0,11,1,1,100.0,0,0.0,7,55,26,2,1,0,1,0,8,1,Matches
+850,Fausto Vera,ar ARG,MF,Arg Juniors,21,2000,9.0,567,20,127,357,88,11,566,19,12,63.2,6,31.6,286,1709,1056,23,15,3,18,8,368,18,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+851,Federico Vera,ar ARG,DF,Unión,23,1998,15.6,903,39,305,368,242,22,903,29,10,34.5,17,58.6,381,2271,1074,39,25,5,34,11,382,79,Matches
+852,Lucas Vera,ar ARG,MF,Huracán,24,1997,0.0,3,0,1,1,1,0,3,1,1,100.0,0,0.0,3,15,13,1,0,0,0,0,3,0,Matches
+853,Matías Vera,ar ARG,DF,Lanús,23,1998,0.7,47,1,20,24,3,0,47,3,1,33.3,1,33.3,17,142,73,3,1,0,2,0,21,1,Matches
+854,Leonel Vergara,ar ARG,DF,Rosario Central,20,2001,1.3,36,9,19,10,7,0,36,0,0,,0,,17,77,28,1,1,0,4,0,11,2,Matches
+855,Deian Verón,ar ARG,MF,Cen. Córdoba–SdE,21,2000,4.4,289,6,48,179,64,6,289,8,3,37.5,5,62.5,118,456,220,3,3,0,9,3,165,14,Matches
+856,Gastón Verón,ar ARG,"FW,MF",Arg Juniors,20,2001,16.2,714,13,43,357,318,78,714,41,24,58.5,14,34.1,393,1580,399,5,10,2,59,42,574,109,Matches
+857,Federico Versaci,ar ARG,MF,Defensa y Just,19,2002,0.9,39,2,11,19,9,1,39,0,0,,0,,18,84,15,0,0,0,0,3,24,1,Matches
+858,Alex Vigo,ar ARG,DF,Independiente,22,1999,26.2,1789,76,499,839,471,38,1789,62,34,54.8,26,41.9,729,3891,2157,62,36,10,47,23,869,168,Matches
+859,Sebastián Villa,co COL,"FW,MF",Boca Juniors,25,1996,14.1,748,1,34,279,457,42,748,93,48,51.6,39,41.9,542,4590,2037,81,60,24,49,25,576,187,Matches
+860,Rodrigo Villagra,ar ARG,MF,Talleres,20,2001,22.0,1287,30,299,900,108,4,1287,39,26,66.7,8,20.5,716,3450,1462,18,18,1,25,28,808,17,Matches
+861,Carlos Villalba,ar ARG,MF,Platense,23,1998,21.7,1126,48,338,719,87,3,1126,5,3,60.0,2,40.0,472,2315,846,7,12,1,26,8,449,2,Matches
+862,Lucas Villalba,ar ARG,"DF,MF",Arg Juniors,27,1994,24.5,1918,106,741,975,215,19,1918,15,8,53.3,6,40.0,1026,5710,3671,48,33,0,17,10,1245,29,Matches
+863,Emiliano Viveros,ar ARG,MF,Arsenal,19,2002,0.1,9,0,1,6,2,0,9,0,0,,0,,5,27,3,0,0,0,1,0,8,0,Matches
+864,Andrés Vombergar,si SVN,"FW,MF",San Lorenzo,27,1994,9.9,406,8,30,203,179,52,406,22,8,36.4,10,45.5,189,818,379,14,11,5,24,14,267,55,Matches
+865,Marcelo Weigandt,ar ARG,DF,Boca Juniors,22,2000,6.3,500,13,111,288,106,7,500,14,8,57.1,5,35.7,252,1331,707,13,9,0,15,5,279,18,Matches
+866,Claudio Yacob,ar ARG,MF,Rosario Central,34,1987,3.9,173,7,40,119,16,1,173,0,0,,0,,54,196,91,0,0,0,2,0,82,3,Matches
+867,Cristian Zabala,ar ARG,"MF,FW",Tigre,23,1998,9.8,591,7,80,354,164,7,591,26,15,57.7,11,42.3,283,1539,681,16,16,1,25,5,379,40,Matches
+868,Jonathan Zacaría,ar ARG,"FW,MF",Aldosivi,31,1990,1.7,90,2,13,36,44,9,90,8,7,87.5,1,12.5,58,359,155,7,4,3,8,6,62,13,Matches
+869,David Zalazar,ar ARG,"DF,FW",Arg Juniors,19,2002,3.4,179,3,12,72,96,10,179,11,4,36.4,5,45.5,84,484,208,4,4,1,8,8,104,33,Matches
+870,Maximiliano Zalazar,ar ARG,"FW,MF",Boca Juniors,20,2001,0.6,23,0,5,12,7,1,23,3,1,33.3,2,66.7,8,72,22,2,1,0,2,0,11,3,Matches
+871,Nicolás Zalazar,ar ARG,DF,Defensa y Just,25,1997,3.4,187,34,121,67,2,0,187,1,1,100.0,0,0.0,76,479,295,3,3,1,2,2,88,2,Matches
+872,Carlos Zambrano,pe PER,DF,Boca Juniors,32,1989,15.9,976,93,486,475,17,9,976,5,3,60.0,2,40.0,545,2714,1668,9,2,0,4,2,631,1,Matches
+873,Cristián Zapata,co COL,DF,San Lorenzo,35,1986,20.5,820,123,436,366,21,9,820,7,6,85.7,1,14.3,434,2286,1137,7,1,0,5,1,432,0,Matches
+874,Franco Zapiola,ar ARG,MF,Estudiantes–LP,20,2001,10.3,639,7,65,309,282,28,639,64,21,32.8,32,50.0,361,2182,1086,41,27,7,46,30,410,77,Matches
+875,Mauro Zárate,ar ARG,"MF,FW",Platense,34,1987,13.3,521,7,37,246,245,27,518,36,19,52.8,13,36.1,305,2021,884,33,22,5,28,27,357,43,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Touches,Def Pen,Def 3rd,Mid 3rd,Att 3rd,Att Pen,Live,Att,Succ,Succ%,Tkld,Tkld%,Carries,TotDist,PrgDist,PrgC,1/3,CPA,Mis,Dis,Rec,PrgR,Matches
+876,Juan Zarza,ar ARG,MF,Independiente,20,2001,0.2,9,0,1,5,3,0,9,3,2,66.7,1,33.3,5,38,29,0,1,0,0,0,7,2,Matches
+877,Exequiel Zeballos,ar ARG,"MF,FW",Boca Juniors,19,2002,6.3,288,0,11,119,163,17,288,31,21,67.7,9,29.0,211,1485,713,30,21,11,18,21,214,70,Matches
+878,Kevin Zenon,ar ARG,"MF,FW",Unión,20,2001,9.2,420,7,49,137,238,19,420,36,9,25.0,25,69.4,234,1410,704,32,21,4,30,15,254,77,Matches
+879,Bruno Zuculini,ar ARG,MF,River Plate,28,1993,9.6,663,21,143,452,72,6,663,9,4,44.4,5,55.6,255,1009,348,3,6,0,14,7,360,7,Matches
+880,Fernando Zuqui,ar ARG,MF,Estudiantes–LP,30,1991,19.8,1484,20,172,996,343,12,1484,40,24,60.0,14,35.0,738,3663,1808,39,18,0,33,29,912,48,Matches

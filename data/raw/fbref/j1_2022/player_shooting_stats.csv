@@ -1,0 +1,556 @@
+rk,player,nation,pos,squad,age,born,90s,gls,sh,sot,sot_standa,sh_90,sot_90,g_sh,g_sot,dist,pk,pkatt,matches
+1,Hiroyuki Abe,jp JPN,FW,Shonan Bellmare,32,1989,5.4,3,14,7,50.0,2.58,1.29,0.21,0.43,,0,0,Matches
+2,Hiroyuki Abe,jp JPN,MF,Grampus,32,1989,3.9,1,9,1,11.1,2.30,0.26,0.00,0.00,,1,1,Matches
+3,Shuto Abe,jp JPN,MF,FC Tokyo,24,1997,23.6,4,22,9,40.9,0.93,0.38,0.18,0.44,,0,0,Matches
+4,Adaílton,br BRA,"FW,MF",FC Tokyo,31,1990,18.7,12,82,34,41.5,4.39,1.82,0.13,0.32,,1,1,Matches
+5,Takahiro Akimoto,jp JPN,"DF,MF",Urawa Reds,24,1998,23.4,0,38,5,13.2,1.63,0.21,0.00,0.00,,0,0,Matches
+6,Juan Alano,br BRA,"MF,FW",Kashima Antlers,25,1996,5.2,1,12,4,33.3,2.32,0.77,0.08,0.25,,0,0,Matches
+7,Juan Alano,br BRA,MF,Gamba Osaka,25,1996,9.2,1,13,3,23.1,1.42,0.33,0.08,0.33,,0,0,Matches
+8,Lukian Araújo de Almeida,br BRA,"FW,MF",Avispa Fukuoka,30,1991,24.2,3,48,12,25.0,1.98,0.50,0.06,0.25,,0,1,Matches
+9,Koki Anzai,jp JPN,DF,Kashima Antlers,26,1995,27.7,0,17,4,23.5,0.61,0.14,0.00,0.00,,0,0,Matches
+10,Ryota Aoki,jp JPN,MF,Consa Sapporo,25,1996,21.8,8,60,21,35.0,2.75,0.96,0.13,0.38,,0,0,Matches
+11,Takuya Aoki,jp JPN,MF,FC Tokyo,32,1989,14.7,0,6,2,33.3,0.41,0.14,0.00,0.00,,0,0,Matches
+12,Toshihiro Aoyama,jp JPN,MF,Sanfrecce,35,1986,4.2,0,2,0,0.0,0.47,0.00,0.00,,,0,0,Matches
+13,Haruki Arai,jp JPN,MF,Cerezo Osaka,23,1998,0.5,0,2,0,0.0,4.19,0.00,0.00,,,0,0,Matches
+14,Daigo Araki,jp JPN,"FW,DF",Kyoto Sanga,27,1994,6.2,0,8,1,12.5,1.29,0.16,0.00,0.00,,0,0,Matches
+15,Hayato Araki,jp JPN,DF,Sanfrecce,25,1996,30.9,2,27,10,37.0,0.87,0.32,0.07,0.20,,0,0,Matches
+16,Ryotaro Araki,jp JPN,"MF,FW",Kashima Antlers,20,2002,5.9,1,10,3,30.0,1.69,0.51,0.10,0.33,,0,0,Matches
+17,Shunta Araki,jp JPN,FW,Sagan Tosu,22,1999,2.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+18,Takuma Arano,jp JPN,"MF,FW",Consa Sapporo,28,1993,19.9,1,9,4,44.4,0.45,0.20,0.11,0.25,,0,0,Matches
+19,Arthur,br BRA,"MF,FW",Kashima Antlers,29,1992,22.8,9,67,21,31.3,2.94,0.92,0.13,0.43,,0,0,Matches
+20,Shogo Asada,jp JPN,DF,Kyoto Sanga,23,1998,31.0,0,17,2,11.8,0.55,0.06,0.00,0.00,,0,0,Matches
+21,Yuya Asano,jp JPN,"MF,FW",Sanfrecce,24,1997,6.3,0,12,3,25.0,1.89,0.47,0.00,0.00,,0,0,Matches
+22,Shun Ayukawa,jp JPN,FW,Sanfrecce,20,2001,1.2,1,3,1,33.3,2.60,0.87,0.33,1.00,,0,0,Matches
+23,Kashif Bangunagande,jp JPN,DF,FC Tokyo,20,2001,13.9,1,6,2,33.3,0.43,0.14,0.17,0.50,,0,0,Matches
+24,Akimi Barada,jp JPN,MF,Shonan Bellmare,30,1991,19.7,0,26,3,11.5,1.32,0.15,0.00,0.00,,0,0,Matches
+25,Nassim Ben Khalifa,ch SUI,FW,Sanfrecce,30,1992,15.8,5,48,21,43.8,3.03,1.33,0.10,0.24,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+26,Paulinho Bóia,br BRA,"FW,MF",Kyoto Sanga,23,1998,1.8,1,6,3,50.0,3.27,1.64,0.17,0.33,,0,0,Matches
+27,Carlinhos,br BRA,"MF,FW",S-Pulse,27,1994,15.4,3,37,12,32.4,2.40,0.78,0.08,0.25,,0,0,Matches
+28,Yusuke Chajima,jp JPN,MF,Sanfrecce,30,1991,3.7,1,7,2,28.6,1.90,0.54,0.14,0.50,,0,0,Matches
+29,Kei Chinen,jp JPN,"FW,MF",Kawa Frontale,26,1995,13.6,7,45,21,46.7,3.32,1.55,0.13,0.29,,1,1,Matches
+30,Tetsuya Chinen,jp JPN,DF,Urawa Reds,24,1997,4.3,1,4,2,50.0,0.93,0.47,0.25,0.50,,0,0,Matches
+31,Jordy Croux,be BEL,MF,Avispa Fukuoka,28,1994,21.8,4,30,12,40.0,1.38,0.55,0.13,0.33,,0,0,Matches
+32,Leandro Damião,br BRA,FW,Kawa Frontale,32,1989,15.0,5,37,17,45.9,2.46,1.13,0.14,0.29,,0,0,Matches
+33,Wellington Daniel Bueno,br BRA,DF,Kashima Antlers,26,1995,3.4,0,1,0,0.0,0.29,0.00,0.00,,,0,0,Matches
+34,Dawhan,br BRA,MF,Gamba Osaka,25,1996,21.2,3,29,10,34.5,1.37,0.47,0.10,0.30,,0,0,Matches
+35,Diego,br BRA,DF,Sagan Tosu,26,1995,30.3,2,27,7,25.9,0.89,0.23,0.07,0.29,,0,0,Matches
+36,Akira Disaro,jp JPN,FW,S-Pulse,25,1996,0.6,0,2,0,0.0,3.40,0.00,0.00,,,0,0,Matches
+37,Dodi,br BRA,MF,Kashiwa Reysol,25,1996,19.2,1,21,5,23.8,1.09,0.26,0.05,0.20,,0,0,Matches
+38,Shoma Doi,jp JPN,"MF,FW",Kashima Antlers,29,1992,9.6,1,11,4,36.4,1.15,0.42,0.09,0.25,,0,0,Matches
+39,Douglas,br BRA,FW,Kashiwa Reysol,34,1987,7.3,4,24,11,45.8,3.27,1.50,0.17,0.36,,0,0,Matches
+40,Douglas,br BRA,FW,Consa Sapporo,27,1995,2.0,1,9,4,44.4,4.50,2.00,0.11,0.25,,0,0,Matches
+41,Dudu,br BRA,MF,Júbilo Iwata,24,1997,0.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+42,Dudu,br BRA,DF,Marinos,28,1993,21.3,1,19,4,21.1,0.89,0.19,0.05,0.25,,0,0,Matches
+43,Élber,br BRA,"MF,FW",Marinos,29,1992,19.5,8,44,22,50.0,2.26,1.13,0.18,0.36,,0,0,Matches
+44,Blessing Eleke,ng NGA,FW,Kashima Antlers,25,1996,1.6,1,3,1,33.3,1.91,0.64,0.33,1.00,,0,0,Matches
+45,Tarik Elyounoussi,no NOR,"MF,FW",Shonan Bellmare,33,1988,16.6,1,33,15,45.5,1.99,0.90,0.03,0.07,,0,0,Matches
+46,Yasuhito Endō,jp JPN,MF,Júbilo Iwata,42,1980,25.4,0,13,4,30.8,0.51,0.16,0.00,0.00,,0,0,Matches
+47,Ataru Esaka,jp JPN,"MF,FW",Urawa Reds,29,1992,21.5,2,48,11,22.9,2.23,0.51,0.02,0.09,,1,1,Matches
+48,Ezequiel,br BRA,MF,Sanfrecce,23,1998,2.7,1,7,1,14.3,2.61,0.37,0.14,1.00,,0,0,Matches
+49,Lucas Fernandes,br BRA,MF,Consa Sapporo,27,1994,25.1,3,46,12,26.1,1.84,0.48,0.07,0.25,,0,1,Matches
+50,Yūta Fujihara,jp JPN,FW,Sagan Tosu,22,1999,2.4,1,9,2,22.2,3.73,0.83,0.11,0.50,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+51,Hiroki Fujiharu,jp JPN,"DF,MF",Gamba Osaka,33,1988,12.0,0,5,1,20.0,0.42,0.08,0.00,0.00,,0,0,Matches
+52,Haruya Fujii,jp JPN,DF,Grampus,21,2000,29.3,1,10,2,20.0,0.34,0.07,0.10,0.50,,0,0,Matches
+53,Tomoya Fujii,jp JPN,MF,Sanfrecce,23,1998,23.4,1,26,4,15.4,1.11,0.17,0.04,0.25,,0,0,Matches
+54,Noriaki Fujimoto,jp JPN,FW,Vissel Kobe,32,1989,0.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+55,Joel Fujita,jp JPN,MF,Marinos,19,2002,16.9,1,15,3,20.0,0.89,0.18,0.07,0.33,,0,0,Matches
+56,Naoyuki Fujita,jp JPN,MF,Sagan Tosu,34,1987,10.9,2,17,5,29.4,1.56,0.46,0.12,0.40,,0,0,Matches
+57,Kensuke Fujiwara,jp JPN,MF,Júbilo Iwata,18,2003,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+58,Kazuki Fukai,jp JPN,MF,Consa Sapporo,26,1995,13.0,2,10,2,20.0,0.77,0.15,0.20,1.00,,0,0,Matches
+59,Yuya Fukuda,jp JPN,MF,Gamba Osaka,22,1999,4.7,2,9,5,55.6,1.92,1.07,0.22,0.40,,0,0,Matches
+60,Taichi Fukui,jp JPN,MF,Sagan Tosu,17,2004,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+61,Akito Fukumori,jp JPN,DF,Consa Sapporo,29,1992,19.0,1,19,3,15.8,1.00,0.16,0.05,0.33,,0,0,Matches
+62,Shimpei Fukuoka,jp JPN,MF,Kyoto Sanga,21,2000,19.7,0,17,3,17.6,0.86,0.15,0.00,0.00,,0,0,Matches
+63,Shota Fukuoka,jp JPN,DF,Gamba Osaka,26,1995,5.5,0,3,0,0.0,0.55,0.00,0.00,,,0,0,Matches
+64,Hayato Fukushima,jp JPN,DF,Shonan Bellmare,21,2000,1.9,0,1,0,0.0,0.54,0.00,0.00,,,0,0,Matches
+65,Akito Fukuta,jp JPN,MF,Sagan Tosu,29,1992,29.4,2,14,4,28.6,0.48,0.14,0.14,0.50,,0,0,Matches
+66,Yu Funabashi,jp JPN,MF,Kashima Antlers,19,2002,4.3,0,1,1,100.0,0.23,0.23,0.00,0.00,,0,0,Matches
+67,Kakeru Funaki,jp JPN,DF,Cerezo Osaka,23,1998,8.7,2,10,2,20.0,1.15,0.23,0.20,1.00,,0,0,Matches
+68,Yōsuke Furukawa,jp JPN,MF,Júbilo Iwata,18,2003,1.6,1,4,2,50.0,2.50,1.25,0.25,0.50,,0,0,Matches
+69,Park Geonwoo,kr KOR,DF,Sagan Tosu,20,2001,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+70,Ryo Germain,jp JPN,"MF,FW",Júbilo Iwata,26,1995,11.4,3,30,13,43.3,2.63,1.14,0.10,0.23,,0,0,Matches
+71,Yuta Goke,jp JPN,MF,Vissel Kobe,22,1999,7.7,0,10,3,30.0,1.30,0.39,0.00,0.00,,0,0,Matches
+72,Shūichi Gonda,jp JPN,GK,S-Pulse,32,1989,32.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+73,Fabián González Lasso,co COL,FW,Júbilo Iwata,29,1992,7.4,6,39,13,33.3,5.28,1.76,0.15,0.46,,0,0,Matches
+74,Yusuke Goto,jp JPN,MF,S-Pulse,28,1993,6.8,0,11,4,36.4,1.62,0.59,0.00,0.00,,0,0,Matches
+75,Douglas Grolli,br BRA,DF,Avispa Fukuoka,32,1989,23.4,0,12,3,25.0,0.51,0.13,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+76,Kim Gun-hee,kr KOR,FW,Consa Sapporo,26,1995,2.8,2,8,5,62.5,2.82,1.76,0.25,0.40,,0,0,Matches
+77,Yutaro Hakamata,jp JPN,MF,Júbilo Iwata,25,1996,0.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+78,Teruki Hara,jp JPN,DF,S-Pulse,23,1998,21.0,0,8,2,25.0,0.38,0.10,0.00,0.00,,0,0,Matches
+79,Wataru Harada,jp JPN,"DF,MF",Sagan Tosu,25,1996,22.3,0,19,3,15.8,0.85,0.13,0.00,0.00,,0,0,Matches
+80,Riki Harakawa,jp JPN,MF,Cerezo Osaka,28,1993,17.0,0,9,4,44.4,0.53,0.23,0.00,0.00,,0,0,Matches
+81,Kento Hashimoto,jp JPN,MF,Vissel Kobe,28,1993,7.4,1,7,2,28.6,0.95,0.27,0.14,0.50,,0,0,Matches
+82,Taiga Hata,jp JPN,MF,Shonan Bellmare,20,2002,12.6,0,5,0,0.0,0.40,0.00,0.00,,,0,0,Matches
+83,Shinnosuke Hatanaka,jp JPN,DF,Marinos,26,1995,10.5,0,1,0,0.0,0.10,0.00,0.00,,,0,0,Matches
+84,Go Hatano,jp JPN,GK,FC Tokyo,23,1998,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+85,Ryo Hatsuse,jp JPN,"DF,MF",Vissel Kobe,24,1997,9.9,1,10,1,10.0,1.01,0.10,0.10,1.00,,0,0,Matches
+86,Tomoki Hayakawa,jp JPN,GK,Kashima Antlers,22,1999,5.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+87,Naoki Hayashi,jp JPN,DF,Kashima Antlers,23,1998,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+88,Takuto Hayashi,jp JPN,GK,Sanfrecce,39,1982,5.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+89,Keigo Higashi,jp JPN,MF,FC Tokyo,31,1990,17.8,0,5,0,0.0,0.28,0.00,0.00,,,0,0,Matches
+90,Shunki Higashi,jp JPN,MF,Sanfrecce,21,2000,10.4,0,18,4,22.2,1.74,0.39,0.00,0.00,,0,0,Matches
+91,Masaaki Higashiguchi,jp JPN,GK,Gamba Osaka,35,1986,19.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+92,Yuta Higuchi,jp JPN,MF,Kashima Antlers,25,1996,26.7,2,35,13,37.1,1.31,0.49,0.06,0.15,,0,0,Matches
+93,Yuichi Hirano,jp JPN,MF,Urawa Reds,25,1996,5.3,0,2,0,0.0,0.38,0.00,0.00,,,0,0,Matches
+94,Taiyo Hiraoka,jp JPN,MF,Shonan Bellmare,19,2002,7.3,0,13,4,30.8,1.78,0.55,0.00,0.00,,0,0,Matches
+95,Dai Hirase,jp JPN,DF,Sagan Tosu,20,2001,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+96,Yuto Hiratsuka,jp JPN,MF,Avispa Fukuoka,25,1996,2.9,1,1,1,100.0,0.34,0.34,1.00,1.00,,0,0,Matches
+97,Rikuto Hirose,jp JPN,DF,Kashima Antlers,26,1995,14.3,0,5,1,20.0,0.35,0.07,0.00,0.00,,0,0,Matches
+98,Fuchi Honda,jp JPN,"MF,FW",Sagan Tosu,20,2001,14.5,5,34,8,23.5,2.35,0.55,0.15,0.63,,0,0,Matches
+99,Yuki Honda,jp JPN,DF,Kyoto Sanga,31,1991,6.9,0,2,0,0.0,0.29,0.00,0.00,,,0,0,Matches
+100,Yuki Horigome,jp JPN,MF,Sagan Tosu,29,1992,14.6,3,26,9,34.6,1.78,0.62,0.12,0.33,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+101,Mao Hosoya,jp JPN,"FW,MF",Kashiwa Reysol,20,2001,26.3,8,52,24,46.2,1.97,0.91,0.15,0.33,,0,0,Matches
+102,Akira Ibayashi,jp JPN,DF,S-Pulse,31,1990,2.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+103,Jun Ichimori,jp JPN,GK,Gamba Osaka,30,1991,9.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+104,Akihiro Ienaga,jp JPN,"FW,MF",Kawa Frontale,35,1986,30.3,12,47,22,46.8,1.55,0.73,0.15,0.32,,5,5,Matches
+105,Takahiro Iida,jp JPN,DF,Kyoto Sanga,27,1994,4.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+106,Hiroki Iikura,jp JPN,GK,Vissel Kobe,35,1986,14.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+107,Nanasei Iino,jp JPN,"FW,MF",Vissel Kobe,25,1996,6.4,0,8,1,12.5,1.25,0.16,0.00,0.00,,0,0,Matches
+108,Nanasei Iino,jp JPN,MF,Sagan Tosu,25,1996,15.0,1,18,4,22.2,1.20,0.27,0.06,0.25,,0,0,Matches
+109,Masaki Ikeda,jp JPN,MF,Shonan Bellmare,22,1999,12.3,3,24,7,29.2,1.96,0.57,0.13,0.43,,0,0,Matches
+110,Yuta Imazu,jp JPN,DF,Sanfrecce,26,1995,1.4,0,1,0,0.0,0.73,0.00,0.00,,,0,0,Matches
+111,Sho Inagaki,jp JPN,MF,Grampus,30,1991,33.2,2,45,11,24.4,1.36,0.33,0.04,0.18,,0,0,Matches
+112,Andrés Iniesta,es ESP,"MF,FW",Vissel Kobe,37,1984,16.4,2,23,4,17.4,1.41,0.24,0.09,0.50,,0,0,Matches
+113,Rikito Inoue,jp JPN,"DF,MF",Kyoto Sanga,24,1997,22.3,1,13,5,38.5,0.58,0.22,0.08,0.20,,0,0,Matches
+114,Shion Inoue,jp JPN,MF,Vissel Kobe,24,1997,1.9,0,3,2,66.7,1.59,1.06,0.00,0.00,,0,0,Matches
+115,Takashi Inui,jp JPN,MF,S-Pulse,33,1988,6.9,1,17,7,41.2,2.47,1.02,0.06,0.14,,0,0,Matches
+116,Takashi Inui,jp JPN,MF,Cerezo Osaka,33,1988,3.6,3,7,5,71.4,1.93,1.38,0.43,0.60,,0,0,Matches
+117,Tomoya Inukai,jp JPN,DF,Urawa Reds,28,1993,3.2,1,3,1,33.3,0.92,0.31,0.33,1.00,,0,0,Matches
+118,Park Iru-gyu,jp JPN,GK,Sagan Tosu,32,1989,34.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+119,Ryotaro Ishida,jp JPN,FW,Grampus,20,2001,2.0,0,3,0,0.0,1.49,0.00,0.00,,,0,0,Matches
+120,Hideki Ishige,jp JPN,"MF,FW",Gamba Osaka,27,1994,10.2,0,12,2,16.7,1.17,0.20,0.00,0.00,,0,0,Matches
+121,Hirokazu Ishihara,jp JPN,MF,Shonan Bellmare,22,1999,27.7,0,19,5,26.3,0.68,0.18,0.00,0.00,,0,0,Matches
+122,Kei Ishikawa,jp JPN,GK,Gamba Osaka,29,1992,5.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+123,Nelson Ishiwatari,jp JPN,MF,Cerezo Osaka,16,2005,0.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+124,Origbaajo Ismaila,ng NGA,FW,Kyoto Sanga,23,1998,1.7,0,4,2,50.0,2.29,1.15,0.00,0.00,,0,0,Matches
+125,Atsuki Ito,jp JPN,MF,Urawa Reds,23,1998,23.4,4,31,10,32.3,1.33,0.43,0.13,0.40,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+126,Makito Ito,jp JPN,DF,Júbilo Iwata,29,1992,32.0,1,13,3,23.1,0.41,0.09,0.08,0.33,,0,0,Matches
+127,Takuya Iwanami,jp JPN,DF,Urawa Reds,27,1994,29.6,3,14,7,50.0,0.47,0.24,0.21,0.43,,0,0,Matches
+128,Ken Iwao,jp JPN,MF,Urawa Reds,33,1988,26.6,1,13,4,30.8,0.49,0.15,0.08,0.25,,0,0,Matches
+129,Yuto Iwasaki,jp JPN,MF,Sagan Tosu,23,1998,26.7,2,36,12,33.3,1.35,0.45,0.06,0.17,,0,0,Matches
+130,Wataru Iwashita,jp JPN,MF,Kashiwa Reysol,22,1999,1.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+131,Tomoki Iwata,jp JPN,"DF,MF",Marinos,24,1997,30.1,2,25,6,24.0,0.83,0.20,0.08,0.33,,0,0,Matches
+132,Ryuji Izumi,jp JPN,MF,Kashima Antlers,28,1993,22.9,1,23,6,26.1,1.01,0.26,0.04,0.17,,0,0,Matches
+133,Jesiel,br BRA,DF,Kawa Frontale,27,1994,10.4,1,9,5,55.6,0.86,0.48,0.11,0.20,,0,0,Matches
+134,Kim Jin-hyeon,kr KOR,GK,Cerezo Osaka,34,1987,32.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+135,Hisashi Jogo,jp JPN,MF,Avispa Fukuoka,35,1986,1.6,0,2,0,0.0,1.22,0.00,0.00,,,0,0,Matches
+136,Matej Jonjić,hr CRO,DF,Cerezo Osaka,31,1991,25.9,1,11,3,27.3,0.43,0.12,0.09,0.33,,0,0,Matches
+137,Juanma,es ESP,FW,Avispa Fukuoka,31,1990,16.0,4,44,18,40.9,2.76,1.13,0.07,0.17,,1,1,Matches
+138,Marcos Júnior,br BRA,MF,Marinos,29,1993,11.4,0,21,6,28.6,1.84,0.53,0.00,0.00,,0,1,Matches
+139,Kasper Junker,dk DEN,FW,Urawa Reds,27,1994,12.2,7,42,23,54.8,3.45,1.89,0.17,0.30,,0,0,Matches
+140,Ryonosuke Kabayama,jp JPN,MF,Marinos,19,2002,0.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+141,Yuji Kajikawa,jp JPN,GK,Júbilo Iwata,30,1991,3.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+142,Yūki Kajiura,jp JPN,MF,FC Tokyo,18,2004,1.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+143,Yuki Kakita,jp JPN,FW,Sagan Tosu,24,1997,12.6,6,31,14,45.2,2.45,1.11,0.19,0.43,,0,0,Matches
+144,Yoichiro Kakitani,jp JPN,"FW,MF",Grampus,32,1990,10.0,0,20,4,20.0,2.01,0.40,0.00,0.00,,0,0,Matches
+145,Naoto Kamifukumoto,jp JPN,GK,Kyoto Sanga,32,1989,30.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+146,Takumi Kamijima,jp JPN,DF,Kashiwa Reysol,24,1997,21.2,0,7,2,28.6,0.33,0.09,0.00,0.00,,0,0,Matches
+147,Yuta Kamiya,jp JPN,"FW,MF",S-Pulse,24,1997,12.7,1,18,7,38.9,1.42,0.55,0.06,0.14,,0,0,Matches
+148,Takeshi Kanamori,jp JPN,MF,Avispa Fukuoka,27,1994,9.1,0,12,5,41.7,1.33,0.55,0.00,0.00,,0,0,Matches
+149,Mu Kanazaki,jp JPN,FW,Grampus,32,1989,2.2,0,4,3,75.0,1.80,1.35,0.00,0.00,,0,0,Matches
+150,Daiki Kaneko,jp JPN,MF,Kyoto Sanga,23,1998,12.7,1,6,1,16.7,0.47,0.08,0.17,1.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+151,Shota Kaneko,jp JPN,MF,Júbilo Iwata,26,1995,12.6,3,18,7,38.9,1.42,0.55,0.17,0.43,,0,0,Matches
+152,Takuro Kaneko,jp JPN,MF,Consa Sapporo,24,1997,24.0,2,55,13,23.6,2.30,0.54,0.04,0.15,,0,0,Matches
+153,Naoki Kanuma,jp JPN,MF,Júbilo Iwata,24,1997,6.8,2,5,2,40.0,0.73,0.29,0.40,1.00,,0,0,Matches
+154,Yoshifumi Kashiwa,jp JPN,MF,Sanfrecce,34,1987,21.8,3,13,7,53.8,0.60,0.32,0.23,0.43,,0,0,Matches
+155,Eiichi Katayama,jp JPN,"DF,MF",S-Pulse,30,1991,24.4,2,25,9,36.0,1.03,0.37,0.08,0.22,,0,0,Matches
+156,Taichi Kato,jp JPN,GK,Gamba Osaka,24,1997,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+157,Takuto Katō,jp JPN,MF,Kashiwa Reysol,22,1999,2.1,0,3,2,66.7,1.45,0.97,0.00,0.00,,0,0,Matches
+158,Naoki Kawaguchi,jp JPN,"MF,DF",Kashiwa Reysol,27,1994,12.0,0,9,1,11.1,0.75,0.08,0.00,0.00,,0,0,Matches
+159,Takumu Kawamura,jp JPN,MF,Sanfrecce,22,1999,7.8,3,18,7,38.9,2.31,0.90,0.17,0.43,,0,0,Matches
+160,Goro Kawanami,jp JPN,GK,Sanfrecce,30,1991,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+161,Sota Kawasaki,jp JPN,MF,Kyoto Sanga,20,2001,24.1,1,26,8,30.8,1.08,0.33,0.04,0.13,,0,0,Matches
+162,Akinari Kawazura,jp JPN,DF,Grampus,27,1994,0.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+163,Hinata Kida,jp JPN,MF,Cerezo Osaka,21,2000,0.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+164,Takuya Kida,jp JPN,MF,Marinos,27,1994,19.7,0,15,4,26.7,0.76,0.20,0.00,0.00,,0,0,Matches
+165,Ryuho Kikuchi,jp JPN,DF,Vissel Kobe,25,1996,21.8,4,29,12,41.4,1.33,0.55,0.14,0.33,,0,0,Matches
+166,Taichi Kikuchi,jp JPN,"MF,FW",Sagan Tosu,22,1999,13.7,0,17,4,23.5,1.24,0.29,0.00,0.00,,0,0,Matches
+167,Yasuki Kimoto,jp JPN,DF,FC Tokyo,28,1993,32.8,2,13,4,30.8,0.40,0.12,0.15,0.50,,0,0,Matches
+168,Seiji Kimura,jp JPN,DF,FC Tokyo,20,2001,1.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+169,Yūdai Kimura,jp JPN,"MF,FW",Kyoto Sanga,20,2001,3.2,0,7,1,14.3,2.20,0.31,0.00,0.00,,0,0,Matches
+170,Takeru Kishimoto,jp JPN,DF,S-Pulse,24,1997,2.2,0,5,3,60.0,2.31,1.38,0.00,0.00,,0,0,Matches
+171,Koya Kitagawa,jp JPN,FW,S-Pulse,25,1996,4.2,1,9,4,44.4,2.15,0.96,0.11,0.25,,0,0,Matches
+172,Yuji Kitajima,jp JPN,MF,Avispa Fukuoka,21,2000,3.3,0,3,0,0.0,0.90,0.00,0.00,,,0,0,Matches
+173,Sota Kitano,jp JPN,FW,Cerezo Osaka,17,2004,6.6,0,19,6,31.6,2.87,0.91,0.00,0.00,,0,0,Matches
+174,Kengo Kitazume,jp JPN,"MF,DF",Kashiwa Reysol,29,1992,4.1,0,4,0,0.0,0.97,0.00,0.00,,,0,0,Matches
+175,Hiroshi Kiyotake,jp JPN,MF,Cerezo Osaka,32,1989,16.8,2,23,8,34.8,1.37,0.48,0.04,0.13,,1,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+176,Shota Kobayashi,jp JPN,MF,Shonan Bellmare,30,1991,4.1,0,2,0,0.0,0.49,0.00,0.00,,,0,0,Matches
+177,Yu Kobayashi,jp JPN,"FW,MF",Kawa Frontale,34,1987,14.5,5,41,17,41.5,2.83,1.17,0.12,0.29,,0,0,Matches
+178,Yuki Kobayashi,jp JPN,"MF,FW",Vissel Kobe,29,1992,6.5,3,10,5,50.0,1.53,0.77,0.30,0.60,,0,0,Matches
+179,Yuki Kobayashi,jp JPN,DF,Vissel Kobe,21,2000,28.8,0,4,0,0.0,0.14,0.00,0.00,,,0,0,Matches
+180,Hidemasa Kōda,jp JPN,MF,Grampus,18,2003,1.3,0,3,2,66.7,2.29,1.53,0.00,0.00,,0,0,Matches
+181,Taiyo Koga,jp JPN,DF,Kashiwa Reysol,23,1998,32.0,0,1,0,0.0,0.03,0.00,0.00,,,0,0,Matches
+182,Ryuta Koike,jp JPN,DF,Marinos,26,1995,24.0,3,21,5,23.8,0.88,0.21,0.14,0.60,,0,0,Matches
+183,Yuta Koike,jp JPN,"DF,MF",Marinos,25,1996,4.4,1,4,2,50.0,0.90,0.45,0.25,0.50,,0,0,Matches
+184,Kei Koizumi,jp JPN,MF,Sagan Tosu,26,1995,29.1,1,15,4,26.7,0.52,0.14,0.07,0.25,,0,0,Matches
+185,Yoshio Koizumi,jp JPN,MF,Urawa Reds,25,1996,18.4,3,22,9,40.9,1.19,0.49,0.14,0.33,,0,0,Matches
+186,Benjamin Kololli,xk KVX,FW,S-Pulse,29,1992,6.5,3,16,9,56.3,2.47,1.39,0.19,0.33,,0,0,Matches
+187,Yoshiaki Komai,jp JPN,"MF,FW",Consa Sapporo,29,1992,28.3,3,23,8,34.8,0.81,0.28,0.13,0.38,,0,0,Matches
+188,Kazuya Konno,jp JPN,"FW,MF",FC Tokyo,24,1997,12.5,2,24,11,45.8,1.92,0.88,0.08,0.18,,0,0,Matches
+189,Shinzo Koroki,jp JPN,FW,Consa Sapporo,35,1986,14.9,5,21,10,47.6,1.41,0.67,0.19,0.40,,1,1,Matches
+190,Alexei Koșelev,md MDA,GK,Júbilo Iwata,28,1993,3.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+191,Tomoya Koyamatsu,jp JPN,"FW,MF",Kashiwa Reysol,26,1995,22.5,4,38,14,36.8,1.69,0.62,0.11,0.29,,0,0,Matches
+192,Kazuki Kozuka,jp JPN,MF,Kawa Frontale,27,1994,3.1,0,3,0,0.0,0.96,0.00,0.00,,,0,0,Matches
+193,Bojan Krkić,es ESP,"MF,FW",Vissel Kobe,31,1990,4.7,0,14,5,35.7,2.97,1.06,0.00,0.00,,0,0,Matches
+194,Yuta Kumamoto,jp JPN,DF,Avispa Fukuoka,26,1995,2.6,0,1,0,0.0,0.39,0.00,0.00,,,0,0,Matches
+195,Shu Kurata,jp JPN,MF,Gamba Osaka,33,1988,12.1,0,18,2,11.1,1.49,0.17,0.00,0.00,,0,0,Matches
+196,Ibrahim Kuribara,jp JPN,FW,S-Pulse,20,2001,0.1,0,1,0,0.0,10.00,0.00,0.00,,,0,0,Matches
+197,Atsushi Kurokawa,jp JPN,MF,Júbilo Iwata,23,1998,4.1,0,5,2,40.0,1.21,0.48,0.00,0.00,,0,0,Matches
+198,Keisuke Kurokawa,jp JPN,"DF,MF",Gamba Osaka,24,1997,25.2,2,14,3,21.4,0.55,0.12,0.14,0.67,,0,0,Matches
+199,Shintaro Kurumaya,jp JPN,DF,Kawa Frontale,29,1992,16.2,1,6,1,16.7,0.37,0.06,0.17,1.00,,0,0,Matches
+200,Kwon Kyung-won,kr KOR,DF,Gamba Osaka,30,1992,12.7,2,11,3,27.3,0.87,0.24,0.18,0.67,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+201,Mitchell Langerak,au AUS,GK,Grampus,33,1988,32.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+202,Leandro,br BRA,"FW,MF",FC Tokyo,28,1993,12.1,5,39,14,35.9,3.23,1.16,0.10,0.29,,1,1,Matches
+203,Leonardo,br BRA,FW,Marinos,26,1995,14.5,11,58,21,36.2,3.99,1.44,0.16,0.43,,2,2,Matches
+204,Alan Lima Cariús,br BRA,FW,Kyoto Sanga,24,1997,0.3,0,3,0,0.0,11.25,0.00,0.00,,,0,0,Matches
+205,Lincoln,br BRA,FW,Vissel Kobe,21,2000,3.5,0,6,3,50.0,1.70,0.85,0.00,0.00,,0,0,Matches
+206,Bryan Linssen,nl NED,FW,Urawa Reds,31,1990,1.7,0,10,4,40.0,5.77,2.31,0.00,0.00,,0,0,Matches
+207,Anderson Lopes,br BRA,"FW,MF",Marinos,28,1993,19.1,11,73,27,37.0,3.82,1.41,0.14,0.37,,1,1,Matches
+208,Rodrigo Luiz Angelotti,br BRA,FW,Kashiwa Reysol,23,1998,3.4,0,10,5,50.0,2.98,1.49,0.00,0.00,,0,0,Matches
+209,Shuto Machino,jp JPN,FW,Shonan Bellmare,22,1999,19.9,13,63,31,49.2,3.17,1.56,0.19,0.39,,1,1,Matches
+210,Hiroyuki Mae,jp JPN,MF,Avispa Fukuoka,26,1995,33.4,0,24,5,20.8,0.72,0.15,0.00,0.00,,0,0,Matches
+211,Yota Maejima,jp JPN,DF,Avispa Fukuoka,24,1997,15.6,1,4,1,25.0,0.26,0.06,0.25,1.00,,0,0,Matches
+212,Daiya Maekawa,jp JPN,GK,Vissel Kobe,27,1994,18.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+213,Hidetaka Maie,jp JPN,FW,Kashiwa Reysol,18,2003,1.7,0,6,3,50.0,3.48,1.74,0.00,0.00,,0,0,Matches
+214,Seiya Maikuma,jp JPN,MF,Cerezo Osaka,24,1997,19.6,3,23,10,43.5,1.17,0.51,0.13,0.30,,0,0,Matches
+215,Tomoaki Makino,jp JPN,DF,Vissel Kobe,34,1987,8.0,1,8,2,25.0,1.00,0.25,0.13,0.50,,0,0,Matches
+216,Marcinho,br BRA,"FW,MF",Kawa Frontale,26,1995,21.9,12,48,30,62.5,2.20,1.37,0.25,0.40,,0,0,Matches
+217,Quenten Martinus,cw CUW,MF,Kyoto Sanga,30,1991,0.3,0,1,0,0.0,3.10,0.00,0.00,,,0,0,Matches
+218,Yusuke Maruhashi,jp JPN,DF,Cerezo Osaka,31,1990,4.2,0,4,1,25.0,0.94,0.24,0.00,0.00,,0,0,Matches
+219,Yuichi Maruyama,jp JPN,DF,Grampus,32,1989,24.5,0,5,1,20.0,0.20,0.04,0.00,0.00,,0,0,Matches
+220,John Mary,cm CMR,FW,Avispa Fukuoka,28,1993,3.2,0,14,4,28.6,4.39,1.25,0.00,0.00,,0,0,Matches
+221,Yūgo Masukake,jp JPN,FW,Kashiwa Reysol,18,2003,1.4,0,4,1,25.0,2.93,0.73,0.00,0.00,,0,0,Matches
+222,Mateus,br BRA,"FW,MF",Grampus,27,1994,28.1,8,84,29,34.5,2.99,1.03,0.08,0.24,,1,1,Matches
+223,Yan Matheus,br BRA,"FW,MF",Marinos,23,1998,1.1,1,2,1,50.0,1.76,0.88,0.50,1.00,,0,0,Matches
+224,Ken Matsubara,jp JPN,DF,Marinos,28,1993,17.3,1,20,4,20.0,1.15,0.23,0.05,0.25,,0,0,Matches
+225,Ko Matsubara,jp JPN,MF,Júbilo Iwata,25,1996,2.5,0,4,1,25.0,1.61,0.40,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+226,Riku Matsuda,jp JPN,DF,Cerezo Osaka,30,1991,32.4,0,33,2,6.1,1.02,0.06,0.00,0.00,,0,0,Matches
+227,Temma Matsuda,jp JPN,"FW,MF",Kyoto Sanga,26,1995,20.9,1,11,4,36.4,0.53,0.19,0.09,0.25,,0,0,Matches
+228,Kuryū Matsuki,jp JPN,MF,FC Tokyo,18,2003,27.0,2,30,10,33.3,1.11,0.37,0.07,0.20,,0,0,Matches
+229,Kenta Matsumoto,jp JPN,GK,Kashiwa Reysol,24,1997,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+230,Masaya Matsumoto,jp JPN,MF,Júbilo Iwata,27,1995,26.3,0,17,5,29.4,0.65,0.19,0.00,0.00,,0,0,Matches
+231,Taishi Matsumoto,jp JPN,MF,Sanfrecce,23,1998,13.8,3,15,9,60.0,1.09,0.65,0.20,0.33,,0,0,Matches
+232,Sere Matsumura,jp JPN,DF,Shonan Bellmare,18,2003,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+233,Yuta Matsumura,id IDN,MF,Kashima Antlers,20,2001,5.6,1,9,4,44.4,1.61,0.72,0.11,0.25,,0,0,Matches
+234,Yusuke Matsuo,jp JPN,"FW,MF",Urawa Reds,24,1997,15.0,4,47,16,34.0,3.14,1.07,0.09,0.25,,0,0,Matches
+235,Daiki Matsuoka,jp JPN,MF,S-Pulse,20,2001,12.6,0,9,2,22.2,0.72,0.16,0.00,0.00,,0,0,Matches
+236,Kai Matsuzaki,jp JPN,MF,Urawa Reds,24,1997,4.2,1,13,5,38.5,3.12,1.20,0.08,0.20,,0,0,Matches
+237,Hiroki Mawatari,jp JPN,GK,Shonan Bellmare,27,1994,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+238,Kazuaki Mawatari,jp JPN,DF,Urawa Reds,30,1991,11.0,1,16,5,31.3,1.46,0.46,0.06,0.20,,0,1,Matches
+239,Bruno Mendes,br BRA,FW,Cerezo Osaka,27,1994,8.3,3,27,13,48.1,3.25,1.57,0.07,0.15,,1,1,Matches
+240,Holneiker Mendes Marreiros,br BRA,DF,Kyoto Sanga,26,1995,10.7,0,7,2,28.6,0.65,0.19,0.00,0.00,,0,0,Matches
+241,Ryotaro Meshino,jp JPN,"MF,FW",Gamba Osaka,23,1998,9.1,2,23,6,26.1,2.52,0.66,0.09,0.33,,0,0,Matches
+242,Masatoshi Mihara,jp JPN,MF,Kashiwa Reysol,33,1988,0.8,0,1,0,0.0,1.22,0.00,0.00,,,0,0,Matches
+243,Kenedyegbus Mikuni,jp JPN,DF,Avispa Fukuoka,21,2000,2.1,0,1,0,0.0,0.48,0.00,0.00,,,0,0,Matches
+244,Kim Min-tae,kr KOR,DF,Kashima Antlers,28,1993,14.2,1,8,2,25.0,0.56,0.14,0.13,0.50,,0,0,Matches
+245,Harumi Minamino,jp JPN,FW,Gamba Osaka,17,2004,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+246,Kōdai Minoda,jp JPN,DF,Shonan Bellmare,22,1999,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+247,Kento Misao,jp JPN,"DF,MF",Kashima Antlers,25,1996,31.4,2,14,4,28.6,0.45,0.13,0.14,0.50,,0,0,Matches
+248,Naoto Misawa,jp JPN,MF,Kyoto Sanga,26,1995,0.8,0,1,1,100.0,1.27,1.27,0.00,0.00,,0,0,Matches
+249,Hirotaka Mita,jp JPN,FW,FC Tokyo,31,1990,3.9,0,6,2,33.3,1.53,0.51,0.00,0.00,,0,0,Matches
+250,Hiromu Mitsumaru,jp JPN,MF,Kashiwa Reysol,28,1993,30.4,1,17,5,29.4,0.56,0.16,0.06,0.20,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+251,Makoto Mitsuta,jp JPN,MF,Sanfrecce,22,1999,26.0,9,74,23,31.1,2.84,0.88,0.12,0.39,,0,0,Matches
+252,Genta Miura,jp JPN,DF,Gamba Osaka,26,1995,31.6,0,15,4,26.7,0.47,0.13,0.00,0.00,,0,0,Matches
+253,Ryuki Miura,jp JPN,GK,Júbilo Iwata,29,1992,27.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+254,Daiki Miya,jp JPN,DF,Avispa Fukuoka,25,1996,26.2,2,11,4,36.4,0.42,0.15,0.18,0.50,,0,0,Matches
+255,Ten Miyagi,jp JPN,"FW,MF",Kawa Frontale,20,2001,5.2,1,21,8,38.1,4.02,1.53,0.05,0.13,,0,0,Matches
+256,Kazuya Miyahara,jp JPN,"DF,MF",Grampus,25,1996,8.8,0,2,0,0.0,0.23,0.00,0.00,,,0,0,Matches
+257,Ryo Miyaichi,jp JPN,"MF,FW",Marinos,29,1992,6.9,3,15,8,53.3,2.16,1.15,0.20,0.38,,0,0,Matches
+258,Kota Miyamoto,jp JPN,MF,S-Pulse,25,1996,14.9,0,5,1,20.0,0.34,0.07,0.00,0.00,,0,0,Matches
+259,Yūta Miyamoto,jp JPN,DF,Urawa Reds,22,1999,10.6,0,7,0,0.0,0.66,0.00,0.00,,,0,0,Matches
+260,Taisei Miyashiro,jp JPN,FW,Sagan Tosu,21,2000,17.4,8,36,14,38.9,2.07,0.80,0.22,0.57,,0,0,Matches
+261,Takumi Miyayoshi,jp JPN,"FW,MF",Kyoto Sanga,29,1992,6.4,2,4,2,50.0,0.62,0.31,0.50,1.00,,0,0,Matches
+262,Hiroki Miyazawa,jp JPN,"DF,MF",Consa Sapporo,32,1989,19.3,3,10,6,60.0,0.52,0.31,0.30,0.50,,0,0,Matches
+263,Kota Mizunuma,jp JPN,"MF,FW",Marinos,31,1990,18.8,7,50,23,46.0,2.66,1.22,0.14,0.30,,0,0,Matches
+264,David Moberg Karlsson,se SWE,MF,Urawa Reds,27,1994,11.6,8,35,20,57.1,3.01,1.72,0.17,0.30,,2,3,Matches
+265,Kaito Mori,jp JPN,FW,Kashiwa Reysol,21,2000,3.5,4,11,6,54.5,3.10,1.69,0.27,0.50,,1,1,Matches
+266,Riku Morioka,jp JPN,DF,Júbilo Iwata,23,1998,8.4,0,6,0,0.0,0.72,0.00,0.00,,,0,0,Matches
+267,Masato Morishige,jp JPN,DF,FC Tokyo,34,1987,27.9,2,16,3,18.8,0.57,0.11,0.13,0.67,,0,0,Matches
+268,Tsukasa Morishima,jp JPN,"MF,FW",Sanfrecce,24,1997,27.9,8,46,16,34.8,1.65,0.57,0.17,0.50,,0,0,Matches
+269,Ryoya Morishita,jp JPN,"MF,DF",Grampus,24,1997,27.5,1,15,5,33.3,0.55,0.18,0.07,0.20,,0,0,Matches
+270,Kentaro Moriya,jp JPN,MF,Sagan Tosu,33,1988,3.5,0,4,1,25.0,1.15,0.29,0.00,0.00,,0,0,Matches
+271,Stefan Mugoša,me MNE,FW,Vissel Kobe,29,1992,1.0,0,4,1,25.0,4.04,1.01,0.00,0.00,,0,0,Matches
+272,Masaaki Murakami,jp JPN,GK,Avispa Fukuoka,29,1992,26.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+273,Yoshinori Mutō,jp JPN,"FW,MF",Vissel Kobe,29,1992,23.1,6,52,22,42.3,2.25,0.95,0.12,0.27,,0,1,Matches
+274,Yuki Muto,jp JPN,FW,Kashiwa Reysol,33,1988,7.9,7,39,16,41.0,4.95,2.03,0.18,0.44,,0,0,Matches
+275,Kato Mutsuki,jp JPN,FW,Cerezo Osaka,24,1997,14.1,6,54,23,42.6,3.83,1.63,0.11,0.26,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+276,Kazuma Nagai,jp JPN,DF,Kyoto Sanga,23,1998,3.8,0,4,2,50.0,1.07,0.53,0.00,0.00,,0,0,Matches
+277,Kensuke Nagai,jp JPN,"FW,MF",FC Tokyo,32,1989,11.7,0,12,4,33.3,1.02,0.34,0.00,0.00,,0,0,Matches
+278,Kensuke Nagai,jp JPN,FW,Grampus,32,1989,9.5,4,25,12,48.0,2.63,1.26,0.16,0.33,,0,0,Matches
+279,Ryo Nagai,jp JPN,FW,Sanfrecce,30,1991,3.4,0,4,2,50.0,1.17,0.59,0.00,0.00,,0,1,Matches
+280,Takumi Nagaishi,jp JPN,GK,Avispa Fukuoka,25,1996,7.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+281,Ryota Nagaki,jp JPN,MF,Shonan Bellmare,33,1988,3.8,0,7,1,14.3,1.83,0.26,0.00,0.00,,0,0,Matches
+282,Ryota Nagaki,jp JPN,MF,Grampus,33,1988,4.9,0,8,3,37.5,1.64,0.61,0.00,0.00,,0,0,Matches
+283,Yoichi Naganuma,jp JPN,MF,Sanfrecce,24,1997,0.9,0,1,1,100.0,1.14,1.14,0.00,0.00,,0,0,Matches
+284,Yoichi Naganuma,jp JPN,MF,Sagan Tosu,24,1997,12.1,1,12,5,41.7,0.99,0.41,0.08,0.20,,0,0,Matches
+285,Kazuki Nagasawa,jp JPN,MF,Grampus,30,1991,1.0,0,3,1,33.3,3.00,1.00,0.00,0.00,,0,0,Matches
+286,Katsuya Nagato,jp JPN,DF,Marinos,27,1995,23.8,0,22,4,18.2,0.92,0.17,0.00,0.00,,0,0,Matches
+287,Yuto Nagatomo,jp JPN,DF,FC Tokyo,35,1986,24.7,0,3,1,33.3,0.12,0.04,0.00,0.00,,0,0,Matches
+288,Shintaro Nago,jp JPN,MF,Kashima Antlers,25,1996,2.1,0,3,1,33.3,1.41,0.47,0.00,0.00,,0,0,Matches
+289,Teruhito Nakagawa,jp JPN,MF,Marinos,29,1992,16.4,7,38,18,47.4,2.31,1.10,0.18,0.39,,0,0,Matches
+290,Hikaru Nakahara,jp JPN,MF,Cerezo Osaka,25,1996,12.5,1,19,8,42.1,1.52,0.64,0.05,0.13,,0,0,Matches
+291,Hayato Nakama,jp JPN,"MF,FW",Kashima Antlers,29,1992,9.7,2,20,7,35.0,2.06,0.72,0.10,0.29,,0,0,Matches
+292,Hotaka Nakamura,jp JPN,DF,FC Tokyo,24,1997,11.0,0,3,1,33.3,0.27,0.09,0.00,0.00,,0,0,Matches
+293,Jiro Nakamura,jp JPN,"MF,FW",Gamba Osaka,18,2003,4.9,0,6,1,16.7,1.23,0.21,0.00,0.00,,0,0,Matches
+294,Keita Nakamura,jp JPN,MF,Kashiwa Reysol,28,1993,7.1,0,5,2,40.0,0.71,0.28,0.00,0.00,,0,0,Matches
+295,Ryotaro Nakamura,jp JPN,MF,Kashima Antlers,24,1997,4.0,0,2,0,0.0,0.50,0.00,0.00,,,0,0,Matches
+296,Shun Nakamura,jp JPN,MF,Avispa Fukuoka,27,1994,23.1,1,15,3,20.0,0.65,0.13,0.07,0.33,,0,1,Matches
+297,Toya Nakamura,jp JPN,DF,Consa Sapporo,21,2000,4.0,0,2,0,0.0,0.50,0.00,0.00,,,0,0,Matches
+298,Keita Nakano,jp JPN,MF,Kyoto Sanga,19,2002,0.3,0,1,0,0.0,2.90,0.00,0.00,,,0,0,Matches
+299,Kojiro Nakano,jp JPN,GK,Consa Sapporo,22,1999,4.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+300,Shinya Nakano,jp JPN,DF,Sagan Tosu,18,2003,12.5,1,6,2,33.3,0.48,0.16,0.17,0.50,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+301,Shuto Nakano,jp JPN,"DF,MF",Sanfrecce,21,2000,0.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+302,Yoshihiro Nakano,jp JPN,MF,Shonan Bellmare,28,1993,8.8,0,8,1,12.5,0.90,0.11,0.00,0.00,,0,0,Matches
+303,Yoshihiro Nakano,jp JPN,MF,Sagan Tosu,28,1993,1.7,0,1,0,0.0,0.60,0.00,0.00,,,0,0,Matches
+304,Yuya Nakasaka,jp JPN,"FW,MF",Vissel Kobe,24,1997,3.0,0,2,1,50.0,0.67,0.33,0.00,0.00,,0,0,Matches
+305,Taika Nakashima,jp JPN,FW,Consa Sapporo,19,2002,3.1,1,11,4,36.4,3.59,1.30,0.09,0.25,,0,0,Matches
+306,Shinnosuke Nakatani,jp JPN,DF,Grampus,25,1996,33.0,2,20,5,25.0,0.61,0.15,0.10,0.40,,0,0,Matches
+307,Katsuhiro Nakayama,jp JPN,MF,S-Pulse,25,1996,11.2,2,15,4,26.7,1.34,0.36,0.13,0.50,,0,0,Matches
+308,Naldinho,br BRA,FW,Grampus,29,1992,2.6,0,7,1,14.3,2.72,0.39,0.00,0.00,,0,0,Matches
+309,Tatsuki Nara,jp JPN,DF,Avispa Fukuoka,28,1993,22.0,0,8,2,25.0,0.36,0.09,0.00,0.00,,0,0,Matches
+310,Yoshiki Narahara,jp JPN,MF,Sagan Tosu,17,2004,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+311,Tara Ndao,jp JPN,FW,Marinos,22,1999,0.3,0,1,0,0.0,3.91,0.00,0.00,,,0,0,Matches
+312,Daigo Nishi,jp JPN,"MF,DF",Consa Sapporo,34,1987,3.9,0,2,1,50.0,0.51,0.25,0.00,0.00,,0,0,Matches
+313,Jun Nishikawa,jp JPN,"MF,FW",Sagan Tosu,19,2002,6.0,1,11,5,45.5,1.84,0.84,0.09,0.20,,0,1,Matches
+314,Shusaku Nishikawa,jp JPN,GK,Urawa Reds,35,1986,32.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+315,Takuma Nishimura,jp JPN,MF,Marinos,25,1996,19.4,10,55,25,45.5,2.84,1.29,0.18,0.40,,0,0,Matches
+316,Ryuya Nishio,,DF,Cerezo Osaka,20,2001,2.0,0,3,1,33.3,1.50,0.50,0.00,0.00,,0,0,Matches
+317,Ryūya Nishio,jp JPN,DF,Cerezo Osaka,20,2001,20.1,0,7,1,14.3,0.35,0.05,0.00,0.00,,0,0,Matches
+318,Kenta Nishizawa,jp JPN,MF,S-Pulse,25,1996,6.2,2,7,2,28.6,1.14,0.32,0.29,1.00,,0,0,Matches
+319,Kyohei Noborizato,jp JPN,DF,Kawa Frontale,31,1990,7.9,0,1,0,0.0,0.13,0.00,0.00,,,0,0,Matches
+320,Yuki Nogami,jp JPN,"DF,MF",Sanfrecce,30,1991,18.9,1,11,2,18.2,0.58,0.11,0.09,0.50,,0,0,Matches
+321,Gakuto Notsuda,jp JPN,MF,Sanfrecce,27,1994,25.5,3,30,11,36.7,1.18,0.43,0.10,0.27,,0,0,Matches
+322,Itsuki Oda,jp JPN,DF,Kashima Antlers,23,1998,0.8,0,1,1,100.0,1.29,1.29,0.00,0.00,,0,0,Matches
+323,Yutaro Oda,jp JPN,"MF,FW",Vissel Kobe,20,2001,8.8,0,24,8,33.3,2.72,0.91,0.00,0.00,,0,0,Matches
+324,Tsuyoshi Ogashiwa,jp JPN,MF,Consa Sapporo,23,1998,9.7,2,21,8,38.1,2.16,0.82,0.10,0.25,,0,0,Matches
+325,Daiki Ogawa,jp JPN,"MF,DF",Júbilo Iwata,30,1991,14.7,0,7,3,42.9,0.48,0.20,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+326,Ryoya Ogawa,jp JPN,DF,FC Tokyo,25,1996,14.1,2,8,2,25.0,0.57,0.14,0.25,1.00,,0,0,Matches
+327,Takahiro Ogihara,jp JPN,MF,Vissel Kobe,30,1991,6.5,0,4,1,25.0,0.61,0.15,0.00,0.00,,0,0,Matches
+328,Takuya Ogiwara,jp JPN,"DF,MF",Kyoto Sanga,22,1999,16.1,2,18,6,33.3,1.11,0.37,0.11,0.33,,0,0,Matches
+329,Yuki Ohashi,jp JPN,FW,Shonan Bellmare,25,1996,10.0,2,38,11,28.9,3.80,1.10,0.05,0.18,,0,0,Matches
+330,Ayumu Ohata,jp JPN,DF,Urawa Reds,20,2001,15.7,0,2,0,0.0,0.13,0.00,0.00,,,0,0,Matches
+331,Kentaro Oi,jp JPN,DF,Júbilo Iwata,37,1984,15.1,0,10,1,10.0,0.66,0.07,0.00,0.00,,0,0,Matches
+332,Kazuki Oiwa,jp JPN,DF,Shonan Bellmare,32,1989,16.9,1,7,2,28.6,0.42,0.12,0.14,0.50,,0,0,Matches
+333,Takuya Okamoto,jp JPN,"MF,DF",Shonan Bellmare,29,1992,8.8,0,8,1,12.5,0.90,0.11,0.00,0.00,,0,0,Matches
+334,Daihachi Okamura,jp JPN,DF,Consa Sapporo,24,1997,22.2,1,25,11,44.0,1.12,0.49,0.04,0.09,,0,0,Matches
+335,Makoto Okazaki,jp JPN,DF,FC Tokyo,23,1998,1.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+336,Yuya Oki,jp JPN,GK,Kashima Antlers,22,1999,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+337,Takuo Ōkubo,jp JPN,GK,S-Pulse,32,1989,1.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+338,Tomoaki Okubo,jp JPN,MF,Urawa Reds,23,1998,14.8,1,27,7,25.9,1.82,0.47,0.04,0.14,,0,0,Matches
+339,Hiroaki Okuno,jp JPN,MF,Cerezo Osaka,32,1989,29.6,3,25,7,28.0,0.85,0.24,0.12,0.43,,0,0,Matches
+340,Kohei Okuno,jp JPN,MF,Gamba Osaka,21,2000,12.6,0,6,0,0.0,0.48,0.00,0.00,,,0,0,Matches
+341,Diego Oliveira,br BRA,FW,FC Tokyo,31,1990,24.1,3,34,13,38.2,1.41,0.54,0.06,0.15,,1,1,Matches
+342,Genki Omae,jp JPN,FW,Kyoto Sanga,32,1989,4.2,2,7,3,42.9,1.66,0.71,0.14,0.33,,1,1,Matches
+343,Takuma Ominami,jp JPN,"MF,DF",Kashiwa Reysol,24,1997,23.8,2,13,5,38.5,0.55,0.21,0.15,0.40,,0,0,Matches
+344,Kotaro Omori,jp JPN,"MF,FW",Júbilo Iwata,29,1992,16.3,2,8,2,25.0,0.49,0.12,0.25,1.00,,0,0,Matches
+345,Kazunari Ono,jp JPN,DF,Shonan Bellmare,32,1989,14.5,0,7,0,0.0,0.48,0.00,0.00,,,0,0,Matches
+346,Shinji Ono,jp JPN,MF,Consa Sapporo,42,1979,0.0,0,1,0,0.0,30.00,0.00,0.00,,,0,0,Matches
+347,Yuji Ono,jp JPN,"FW,MF",Sagan Tosu,29,1992,11.4,2,21,3,14.3,1.84,0.26,0.05,0.33,,1,1,Matches
+348,Kosuke Onose,jp JPN,"MF,FW",Gamba Osaka,28,1993,21.9,3,34,12,35.3,1.55,0.55,0.09,0.25,,0,0,Matches
+349,Leo Osaki,jp JPN,"MF,DF",Vissel Kobe,30,1991,23.1,0,13,1,7.7,0.56,0.04,0.00,0.00,,0,0,Matches
+350,Keisuke Ōsako,jp JPN,GK,Sanfrecce,22,1999,28.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+351,Yuya Osako,jp JPN,FW,Vissel Kobe,31,1990,18.6,7,70,28,40.0,3.77,1.51,0.07,0.18,,2,2,Matches
+352,Ryota Oshima,jp JPN,MF,Kawa Frontale,29,1993,6.3,1,7,2,28.6,1.11,0.32,0.14,0.50,,0,0,Matches
+353,Hidekazu Otani,jp JPN,MF,Kashiwa Reysol,37,1984,0.7,0,1,0,0.0,1.41,0.00,0.00,,,0,0,Matches
+354,Koki Otani,jp JPN,GK,Consa Sapporo,32,1989,3.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+355,Yūki Ōtsu,jp JPN,"FW,MF",Júbilo Iwata,31,1990,12.7,3,28,10,35.7,2.20,0.79,0.11,0.30,,0,0,Matches
+356,Joan Oumari,lb LIB,DF,Sagan Tosu,33,1988,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+357,Tiago Pagnussat,br BRA,DF,Grampus,31,1990,7.4,0,5,1,20.0,0.67,0.13,0.00,0.00,,0,0,Matches
+358,Patric,br BRA,FW,Gamba Osaka,34,1987,20.9,5,32,15,46.9,1.53,0.72,0.16,0.33,,0,0,Matches
+359,Jean Patric,br BRA,MF,Cerezo Osaka,24,1997,11.5,5,37,15,40.5,3.21,1.30,0.11,0.27,,1,1,Matches
+360,Leandro Pereira,br BRA,FW,Gamba Osaka,30,1991,11.3,4,27,8,29.6,2.39,0.71,0.15,0.50,,0,0,Matches
+361,Luiz Phellype,br BRA,FW,FC Tokyo,28,1993,5.1,2,15,6,40.0,2.94,1.18,0.13,0.33,,0,0,Matches
+362,Yago Pikachu,br BRA,MF,S-Pulse,29,1992,7.2,0,9,2,22.2,1.25,0.28,0.00,0.00,,0,0,Matches
+363,Diego Pituca,br BRA,MF,Kashima Antlers,29,1992,23.4,1,34,11,32.4,1.45,0.47,0.03,0.09,,0,0,Matches
+364,Ricardo,br BRA,DF,Júbilo Iwata,24,1997,17.4,0,6,0,0.0,0.34,0.00,0.00,,,0,0,Matches
+365,Ronaldo,br BRA,MF,S-Pulse,25,1996,10.5,1,15,6,40.0,1.43,0.57,0.07,0.17,,0,0,Matches
+366,Ryunosuke Sagara,jp JPN,MF,Sagan Tosu,19,2002,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+367,Manabu Saitō,jp JPN,"FW,MF",Grampus,31,1990,0.3,0,1,0,0.0,3.21,0.00,0.00,,,0,0,Matches
+368,Mitsuki Saito,jp JPN,MF,Gamba Osaka,23,1999,18.8,2,12,3,25.0,0.64,0.16,0.17,0.67,,0,0,Matches
+369,Gōtoku Sakai,jp JPN,DF,Vissel Kobe,30,1991,33.9,1,10,2,20.0,0.30,0.06,0.10,0.50,,0,0,Matches
+370,Hiroki Sakai,jp JPN,DF,Urawa Reds,31,1990,17.0,0,13,3,23.1,0.76,0.18,0.00,0.00,,0,0,Matches
+371,Noriyoshi Sakai,jp JPN,"FW,MF",Grampus,29,1992,11.1,2,23,11,47.8,2.08,0.99,0.09,0.18,,0,0,Matches
+372,Isa Sakamoto,jp JPN,FW,Gamba Osaka,18,2003,4.6,1,6,4,66.7,1.31,0.87,0.17,0.25,,0,0,Matches
+373,Sergi Samper,es ESP,MF,Vissel Kobe,27,1995,4.4,0,3,0,0.0,0.68,0.00,0.00,,,0,0,Matches
+374,Yuki Saneto,jp JPN,DF,Marinos,33,1989,4.9,1,3,1,33.3,0.61,0.20,0.33,1.00,,0,0,Matches
+375,Thiago Santana,br BRA,FW,S-Pulse,28,1993,23.6,14,71,22,31.0,3.00,0.93,0.18,0.59,,1,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+376,Júnior Santos,br BRA,FW,Sanfrecce,27,1994,13.3,2,50,16,32.0,3.76,1.20,0.04,0.13,,0,0,Matches
+377,Supachok Sarachat,th THA,MF,Consa Sapporo,23,1998,1.1,0,3,0,0.0,2.67,0.00,0.00,,,0,0,Matches
+378,Asahi Sasaki,jp JPN,DF,Kawa Frontale,22,2000,17.2,1,13,2,15.4,0.76,0.12,0.08,0.50,,0,0,Matches
+379,Daiju Sasaki,jp JPN,"MF,FW",Vissel Kobe,31,1990,8.7,0,13,4,30.8,1.49,0.46,0.00,0.00,,0,0,Matches
+380,Masato Sasaki,jp JPN,GK,Kashiwa Reysol,19,2002,20.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+381,Sho Sasaki,jp JPN,DF,Sanfrecce,32,1989,33.2,3,22,8,36.4,0.66,0.24,0.14,0.38,,0,0,Matches
+382,Kyō Satō,jp JPN,DF,Sagan Tosu,21,2000,0.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+383,Kyō Satō,jp JPN,"DF,MF",Kyoto Sanga,21,2000,4.2,0,4,1,25.0,0.96,0.24,0.00,0.00,,0,0,Matches
+384,Yota Sato,jp JPN,DF,Gamba Osaka,23,1998,0.5,0,1,1,100.0,2.05,2.05,0.00,0.00,,0,0,Matches
+385,Matheus Sávio,br BRA,MF,Kashiwa Reysol,24,1997,28.0,6,60,16,26.7,2.14,0.57,0.07,0.25,,2,2,Matches
+386,Alex Schalk,nl NED,"MF,FW",Urawa Reds,29,1992,6.4,1,18,7,38.9,2.83,1.10,0.06,0.14,,0,0,Matches
+387,João Schmidt,br BRA,MF,Kawa Frontale,28,1993,15.1,1,15,5,33.3,1.00,0.33,0.07,0.20,,0,0,Matches
+388,Alexander Scholz,dk DEN,DF,Urawa Reds,29,1992,30.8,6,18,8,44.4,0.58,0.26,0.06,0.13,,5,5,Matches
+389,Ju Se-jong,kr KOR,MF,Gamba Osaka,31,1990,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+390,Yusuke Segawa,jp JPN,FW,Shonan Bellmare,27,1994,25.3,3,74,18,24.3,2.93,0.71,0.04,0.17,,0,0,Matches
+391,Oh Sehun,kr KOR,FW,S-Pulse,23,1999,3.8,1,18,6,33.3,4.71,1.57,0.06,0.17,,0,0,Matches
+392,Ikuma Sekigawa,jp JPN,DF,Kashima Antlers,21,2000,26.5,0,9,1,11.1,0.34,0.04,0.00,0.00,,0,0,Matches
+393,Takahiro Sekine,jp JPN,MF,Urawa Reds,26,1995,17.9,1,34,12,35.3,1.90,0.67,0.03,0.08,,0,0,Matches
+394,Tatsuki Seko,jp JPN,"MF,DF",Kawa Frontale,24,1997,3.4,0,4,0,0.0,1.17,0.00,0.00,,,0,0,Matches
+395,Taishi Semba,jp JPN,MF,Sanfrecce,22,1999,1.0,0,1,0,0.0,1.00,0.00,0.00,,,0,0,Matches
+396,Keiya Sento,jp JPN,MF,Grampus,27,1994,20.9,2,26,5,19.2,1.24,0.24,0.08,0.40,,0,0,Matches
+397,Hwang Seok-ho,kr KOR,DF,Sagan Tosu,32,1989,23.2,4,7,4,57.1,0.30,0.17,0.57,1.00,,0,0,Matches
+398,Kim Seung-gyu,kr KOR,GK,Kashiwa Reysol,31,1990,13.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+399,Kosei Shibasaki,jp JPN,MF,Sanfrecce,37,1984,6.5,1,5,2,40.0,0.77,0.31,0.20,0.50,,0,0,Matches
+400,Kai Shibato,jp JPN,MF,Urawa Reds,26,1995,13.0,2,9,3,33.3,0.69,0.23,0.22,0.67,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+401,Takaaki Shichi,jp JPN,"DF,MF",Avispa Fukuoka,28,1993,30.9,0,8,0,0.0,0.26,0.00,0.00,,,0,0,Matches
+402,Takuya Shigehiro,jp JPN,MF,Avispa Fukuoka,26,1995,0.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+403,Takuya Shigehiro,jp JPN,MF,Grampus,26,1995,5.8,1,5,2,40.0,0.87,0.35,0.20,0.50,,0,0,Matches
+404,Keiya Shiihashi,jp JPN,MF,Kashiwa Reysol,24,1997,25.4,1,26,11,42.3,1.02,0.43,0.04,0.09,,0,0,Matches
+405,Toshio Shimakawa,jp JPN,"DF,MF",Sagan Tosu,31,1990,7.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+406,Keisuke Shimizu,jp JPN,GK,Cerezo Osaka,33,1988,1.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+407,Manato Shinada,jp JPN,MF,FC Tokyo,22,1999,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+408,Ryosuke Shindo,jp JPN,DF,Cerezo Osaka,25,1996,4.1,2,4,2,50.0,0.98,0.49,0.50,1.00,,0,0,Matches
+409,Tsukasa Shiotani,jp JPN,"DF,MF",Sanfrecce,33,1988,25.1,0,26,2,7.7,1.03,0.08,0.00,0.00,,0,0,Matches
+410,Kosuke Shirai,jp JPN,"DF,MF",Kyoto Sanga,27,1994,28.7,0,7,1,14.3,0.24,0.03,0.00,0.00,,0,0,Matches
+411,Ryōhei Shirasaki,jp JPN,MF,S-Pulse,28,1993,29.1,4,26,10,38.5,0.89,0.34,0.15,0.40,,0,0,Matches
+412,Gen Shoji,jp JPN,DF,Gamba Osaka,29,1992,23.4,0,10,1,10.0,0.43,0.04,0.00,0.00,,0,0,Matches
+413,Léo Silva,br BRA,MF,Grampus,36,1985,26.3,1,21,4,19.0,0.80,0.15,0.05,0.25,,0,0,Matches
+414,Wellington Silva,br BRA,"FW,MF",Gamba Osaka,29,1993,2.2,1,2,2,100.0,0.93,0.93,0.50,0.50,,0,0,Matches
+415,Yuki Soma,jp JPN,MF,Grampus,24,1997,28.7,2,38,16,42.1,1.32,0.56,0.05,0.13,,0,0,Matches
+416,Itsuki Someno,jp JPN,FW,Kashima Antlers,20,2001,1.2,1,6,5,83.3,5.00,4.17,0.17,0.20,,0,0,Matches
+417,Yuta Someya,jp JPN,DF,Kashiwa Reysol,35,1986,1.7,0,1,0,0.0,0.58,0.00,0.00,,,0,0,Matches
+418,Chanathip Songkrasin,th THA,MF,Kawa Frontale,28,1993,10.5,0,6,0,0.0,0.57,0.00,0.00,,,0,0,Matches
+419,Pieros Sotiriou,cy CYP,FW,Sanfrecce,29,1993,2.9,1,6,4,66.7,2.08,1.38,0.17,0.25,,0,0,Matches
+420,Everaldo Stum,br BRA,FW,Kashima Antlers,30,1991,6.1,5,18,10,55.6,2.93,1.63,0.22,0.40,,1,1,Matches
+421,Daiki Suga,jp JPN,"MF,DF",Consa Sapporo,23,1998,27.2,4,53,12,22.6,1.95,0.44,0.08,0.33,,0,0,Matches
+422,Takanori Sugeno,jp JPN,GK,Consa Sapporo,37,1984,26.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+423,Kenyu Sugimoto,jp JPN,FW,Júbilo Iwata,29,1992,19.7,1,41,13,31.7,2.08,0.66,0.00,0.00,,1,1,Matches
+424,Taro Sugimoto,jp JPN,MF,Avispa Fukuoka,25,1996,1.3,0,2,1,50.0,1.54,0.77,0.00,0.00,,0,0,Matches
+425,Daiki Sugioka,jp JPN,DF,Shonan Bellmare,23,1998,27.3,0,16,5,31.3,0.59,0.18,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+426,Jelani Sumiyoshi,jp JPN,DF,Sanfrecce,24,1997,4.4,0,2,1,50.0,0.46,0.23,0.00,0.00,,0,0,Matches
+427,Kwoun Sun-tae,kr KOR,GK,Kashima Antlers,37,1984,27.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+428,Jung Sung-ryong,kr KOR,GK,Kawa Frontale,37,1985,30.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+429,Akito Suzuki,jp JPN,FW,Shonan Bellmare,18,2003,0.9,0,1,0,0.0,1.10,0.00,0.00,,,0,0,Matches
+430,Junya Suzuki,jp JPN,DF,FC Tokyo,26,1996,0.4,0,1,0,0.0,2.43,0.00,0.00,,,0,0,Matches
+431,Musashi Suzuki,jp JPN,FW,Gamba Osaka,27,1994,3.4,1,14,4,28.6,4.06,1.16,0.07,0.25,,0,0,Matches
+432,Tokuma Suzuki,jp JPN,MF,Cerezo Osaka,24,1997,16.2,2,13,3,23.1,0.80,0.18,0.15,0.67,,0,0,Matches
+433,Yoshinori Suzuki,jp JPN,DF,S-Pulse,29,1992,33.0,1,9,2,22.2,0.27,0.06,0.11,0.50,,0,0,Matches
+434,Yuito Suzuki,jp JPN,FW,S-Pulse,20,2001,15.2,3,35,12,34.3,2.30,0.79,0.09,0.25,,0,0,Matches
+435,Yuma Suzuki,jp JPN,FW,Kashima Antlers,25,1996,30.0,7,55,15,27.3,1.84,0.50,0.11,0.40,,1,1,Matches
+436,Yuto Suzuki,jp JPN,MF,Júbilo Iwata,28,1993,30.0,6,33,15,45.5,1.10,0.50,0.18,0.40,,0,0,Matches
+437,Zion Suzuki,jp JPN,GK,Urawa Reds,19,2002,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+438,Jakub Słowik,pl POL,GK,FC Tokyo,30,1991,33.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+439,Koki Tachi,jp JPN,DF,Shonan Bellmare,24,1997,19.7,0,5,2,40.0,0.25,0.10,0.00,0.00,,0,0,Matches
+440,Kento Tachibanada,jp JPN,"MF,DF",Kawa Frontale,23,1998,30.4,2,20,5,25.0,0.66,0.16,0.10,0.40,,0,0,Matches
+441,Adam Taggart,au AUS,FW,Cerezo Osaka,28,1993,10.3,5,36,13,36.1,3.48,1.26,0.14,0.38,,0,0,Matches
+442,Yojiro Takahagi,jp JPN,MF,FC Tokyo,35,1986,0.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+443,Daigo Takahashi,jp JPN,MF,S-Pulse,22,1999,1.5,1,1,1,100.0,0.65,0.65,1.00,1.00,,0,0,Matches
+444,Ryo Takahashi,jp JPN,"MF,DF",Shonan Bellmare,28,1993,8.5,0,5,3,60.0,0.59,0.35,0.00,0.00,,0,0,Matches
+445,Yuji Takahashi,jp JPN,DF,Kashiwa Reysol,28,1993,28.3,1,12,1,8.3,0.42,0.04,0.08,1.00,,0,0,Matches
+446,Tomoki Takamine,jp JPN,"MF,DF",Consa Sapporo,24,1997,24.9,2,20,3,15.0,0.80,0.12,0.10,0.67,,0,0,Matches
+447,Ryu Takao,jp JPN,DF,Gamba Osaka,25,1996,20.3,0,3,1,33.3,0.15,0.05,0.00,0.00,,0,0,Matches
+448,Yohei Takaoka,jp JPN,GK,Marinos,25,1996,34.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+449,Shohei Takeda,jp JPN,MF,Kyoto Sanga,27,1994,26.0,1,23,5,21.7,0.89,0.19,0.04,0.20,,0,0,Matches
+450,Yohei Takeda,jp JPN,GK,Grampus,34,1987,1.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+451,Kosuke Taketomi,jp JPN,"MF,FW",Kyoto Sanga,31,1990,17.5,3,29,13,44.8,1.66,0.74,0.10,0.23,,0,1,Matches
+452,Ryo Takeuchi,jp JPN,MF,S-Pulse,30,1991,7.0,0,1,0,0.0,0.14,0.00,0.00,,,0,0,Matches
+453,Yuta Taki,jp JPN,MF,S-Pulse,22,1999,1.8,0,4,3,75.0,2.25,1.69,0.00,0.00,,0,0,Matches
+454,Hirotaka Tameda,jp JPN,MF,Cerezo Osaka,28,1993,16.5,0,24,7,29.2,1.46,0.43,0.00,0.00,,0,0,Matches
+455,Sotan Tanabe,jp JPN,MF,Avispa Fukuoka,31,1990,9.9,0,3,0,0.0,0.30,0.00,0.00,,,0,0,Matches
+456,Ryō Tanada,jp JPN,FW,Sanfrecce,18,2003,0.6,0,4,2,50.0,7.06,3.53,0.00,0.00,,0,0,Matches
+457,Hayato Tanaka,jp JPN,DF,Kashiwa Reysol,18,2003,4.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+458,Hiromu Tanaka,jp JPN,MF,Consa Sapporo,22,1999,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+459,Kazuki Tanaka,jp JPN,MF,Kyoto Sanga,22,2000,0.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+460,Satoshi Tanaka,jp JPN,MF,Shonan Bellmare,19,2002,15.2,0,6,1,16.7,0.39,0.07,0.00,0.00,,0,0,Matches
+461,Shunta Tanaka,jp JPN,DF,Consa Sapporo,24,1997,31.6,1,13,3,23.1,0.41,0.09,0.08,0.33,,0,0,Matches
+462,Tatsuya Tanaka,jp JPN,MF,Avispa Fukuoka,29,1992,11.7,1,13,3,23.1,1.11,0.26,0.08,0.33,,0,0,Matches
+463,Kosei Tani,jp JPN,GK,Shonan Bellmare,21,2000,31.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+464,Shogo Taniguchi,jp JPN,DF,Kawa Frontale,30,1991,32.3,3,11,5,45.5,0.34,0.16,0.27,0.60,,0,0,Matches
+465,Kenta Tanno,jp JPN,GK,Kawa Frontale,35,1986,3.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+466,Masaya Tashiro,jp JPN,DF,Sagan Tosu,28,1993,19.4,3,6,4,66.7,0.31,0.21,0.50,0.75,,0,0,Matches
+467,Yugo Tatsuta,jp JPN,DF,S-Pulse,23,1998,23.6,0,12,1,8.3,0.51,0.04,0.00,0.00,,0,0,Matches
+468,Hisashi Tawiah,jp JPN,DF,Kyoto Sanga,23,1998,15.0,0,7,0,0.0,0.47,0.00,0.00,,,0,0,Matches
+469,Kohei Tezuka,jp JPN,MF,Sagan Tosu,25,1996,0.9,0,1,0,0.0,1.06,0.00,0.00,,,0,0,Matches
+470,Matheus Thuler,br BRA,DF,Vissel Kobe,22,1999,5.1,0,2,1,50.0,0.39,0.20,0.00,0.00,,0,0,Matches
+471,Daiki Tomii,jp JPN,GK,Shonan Bellmare,32,1989,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+472,Daiya Tono,jp JPN,MF,Kawa Frontale,22,1999,14.7,2,33,11,33.3,2.25,0.75,0.06,0.18,,0,0,Matches
+473,Koji Toriumi,jp JPN,DF,Cerezo Osaka,26,1995,18.2,0,4,1,25.0,0.22,0.05,0.00,0.00,,0,0,Matches
+474,Sachiro Toshima,jp JPN,MF,Kashiwa Reysol,26,1995,16.5,2,14,4,28.6,0.85,0.24,0.14,0.50,,0,0,Matches
+475,Yuta Toyokawa,jp JPN,FW,Kyoto Sanga,27,1994,12.0,2,32,9,28.1,2.66,0.75,0.06,0.22,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+476,Henrique Trevisan,br BRA,DF,FC Tokyo,25,1997,4.6,0,7,2,28.6,1.52,0.43,0.00,0.00,,0,0,Matches
+477,Yūya Tsuboi,jp JPN,GK,Vissel Kobe,22,1999,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+478,Takumi Tsuchiya,jp JPN,"MF,DF",Kashiwa Reysol,18,2003,1.8,0,2,0,0.0,1.13,0.00,0.00,,,0,0,Matches
+479,Koki Tsukagawa,jp JPN,MF,Kawa Frontale,27,1994,2.2,0,2,1,50.0,0.91,0.45,0.00,0.00,,0,0,Matches
+480,Koki Tsukagawa,jp JPN,MF,FC Tokyo,27,1994,8.5,2,9,2,22.2,1.06,0.24,0.22,1.00,,0,0,Matches
+481,Keigo Tsunemoto,jp JPN,DF,Kashima Antlers,23,1998,24.1,0,14,2,14.3,0.58,0.08,0.00,0.00,,0,0,Matches
+482,Ryotaro Tsunoda,jp JPN,DF,Marinos,22,1999,13.0,0,8,2,25.0,0.62,0.15,0.00,0.00,,0,0,Matches
+483,Milan Tučić,si SVN,FW,Consa Sapporo,25,1996,4.5,0,7,3,42.9,1.57,0.67,0.00,0.00,,0,0,Matches
+484,Takuya Uchida,jp JPN,MF,Grampus,23,1998,8.0,0,7,2,28.6,0.88,0.25,0.00,0.00,,0,0,Matches
+485,Ayase Ueda,jp JPN,FW,Kashima Antlers,23,1998,16.2,10,50,21,42.0,3.09,1.30,0.20,0.48,,0,0,Matches
+486,Rikiya Uehara,jp JPN,MF,Júbilo Iwata,25,1996,21.8,1,18,3,16.7,0.83,0.14,0.06,0.33,,0,0,Matches
+487,Satoki Uejo,jp JPN,FW,Cerezo Osaka,24,1997,8.8,2,21,4,19.0,2.40,0.46,0.10,0.50,,0,0,Matches
+488,Fumiya Unoki,jp JPN,MF,Kashiwa Reysol,20,2001,1.0,0,3,1,33.3,2.93,0.98,0.00,0.00,,0,0,Matches
+489,Takashi Usami,jp JPN,FW,Gamba Osaka,29,1992,6.3,0,9,2,22.2,1.43,0.32,0.00,0.00,,0,0,Matches
+490,Peter Utaka,ng NGA,FW,Kyoto Sanga,37,1984,23.4,9,75,28,37.3,3.21,1.20,0.12,0.32,,0,0,Matches
+491,Valdo,br BRA,DF,S-Pulse,29,1992,6.7,1,4,1,25.0,0.59,0.15,0.25,1.00,,0,0,Matches
+492,Douglas Vieira,br BRA,FW,Sanfrecce,34,1987,5.4,3,16,4,25.0,2.95,0.74,0.06,0.25,,2,2,Matches
+493,Tomoya Wakahara,jp JPN,GK,Kyoto Sanga,22,1999,3.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+494,Yamato Wakatsuki,jp JPN,FW,Shonan Bellmare,20,2002,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+495,Yasuto Wakizaka,jp JPN,MF,Kawa Frontale,26,1995,25.4,5,46,13,28.3,1.81,0.51,0.11,0.38,,0,0,Matches
+496,Naoki Wako,jp JPN,DF,Avispa Fukuoka,32,1989,0.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+497,Kota Watanabe,jp JPN,MF,Marinos,23,1998,16.6,0,12,2,16.7,0.72,0.12,0.00,0.00,,0,0,Matches
+498,Ryoma Watanabe,jp JPN,"FW,DF",FC Tokyo,25,1996,21.6,6,37,11,29.7,1.71,0.51,0.16,0.55,,0,0,Matches
+499,Daiki Watari,jp JPN,"MF,FW",Avispa Fukuoka,28,1993,3.8,1,7,1,14.3,1.85,0.26,0.14,1.00,,0,0,Matches
+500,Wellington,br BRA,FW,Shonan Bellmare,33,1988,9.6,2,21,5,23.8,2.18,0.52,0.10,0.40,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+501,Gabriel Xavier,br BRA,"MF,FW",Consa Sapporo,28,1993,14.7,3,24,10,41.7,1.63,0.68,0.13,0.30,,0,1,Matches
+502,Fūki Yamada,jp JPN,"FW,MF",Kyoto Sanga,20,2001,6.7,2,14,4,28.6,2.10,0.60,0.14,0.50,,0,0,Matches
+503,Hiroki Yamada,jp JPN,MF,Júbilo Iwata,33,1988,4.1,0,8,2,25.0,1.96,0.49,0.00,0.00,,0,0,Matches
+504,Hiroto Yamada,jp JPN,FW,Cerezo Osaka,21,2000,11.4,4,23,9,39.1,2.02,0.79,0.17,0.44,,0,0,Matches
+505,Naoki Yamada,jp JPN,MF,Shonan Bellmare,31,1990,9.9,0,11,2,18.2,1.11,0.20,0.00,0.00,,0,0,Matches
+506,Yuto Yamada,jp JPN,MF,Kashiwa Reysol,21,2000,4.6,0,8,3,37.5,1.73,0.65,0.00,0.00,,0,0,Matches
+507,Yuya Yamagishi,jp JPN,"FW,MF",Avispa Fukuoka,28,1993,28.8,10,55,19,34.5,1.91,0.66,0.18,0.53,,0,0,Matches
+508,Hotaru Yamaguchi,jp JPN,MF,Vissel Kobe,31,1990,32.8,2,39,7,17.9,1.19,0.21,0.05,0.29,,0,0,Matches
+509,Reon Yamahara,jp JPN,"DF,MF",S-Pulse,22,1999,29.0,2,30,12,40.0,1.03,0.41,0.07,0.17,,0,0,Matches
+510,Tetsushi Yamakawa,jp JPN,DF,Vissel Kobe,24,1997,22.9,1,6,1,16.7,0.26,0.04,0.17,1.00,,0,0,Matches
+511,Hiroto Yamami,jp JPN,"MF,FW",Gamba Osaka,22,1999,13.0,2,35,12,34.3,2.68,0.92,0.06,0.17,,0,0,Matches
+512,Kosuke Yamamoto,jp JPN,MF,Júbilo Iwata,32,1989,21.7,0,3,1,33.3,0.14,0.05,0.00,0.00,,0,0,Matches
+513,Norimichi Yamamoto,jp JPN,DF,Júbilo Iwata,26,1995,18.7,1,5,1,20.0,0.27,0.05,0.20,1.00,,0,0,Matches
+514,Rihito Yamamoto,jp JPN,MF,Gamba Osaka,20,2001,0.3,0,1,0,0.0,3.91,0.00,0.00,,,0,0,Matches
+515,Shuto Yamamoto,jp JPN,DF,Shonan Bellmare,36,1985,17.5,2,9,2,22.2,0.51,0.11,0.22,1.00,,0,0,Matches
+516,Yuki Yamamoto,jp JPN,MF,Gamba Osaka,24,1997,9.7,1,6,2,33.3,0.62,0.21,0.17,0.50,,0,0,Matches
+517,Kazuya Yamamura,jp JPN,DF,Kawa Frontale,32,1989,12.4,1,5,1,20.0,0.40,0.08,0.20,1.00,,0,0,Matches
+518,Ryosuke Yamanaka,jp JPN,DF,Cerezo Osaka,28,1993,19.1,0,18,5,27.8,0.94,0.26,0.00,0.00,,0,0,Matches
+519,Miki Yamane,jp JPN,DF,Kawa Frontale,28,1993,31.3,3,15,7,46.7,0.48,0.22,0.20,0.43,,0,0,Matches
+520,Riku Yamane,jp JPN,MF,Marinos,18,2003,5.2,0,3,0,0.0,0.58,0.00,0.00,,,0,0,Matches
+521,Ryogo Yamasaki,jp JPN,FW,Kyoto Sanga,29,1992,8.0,1,21,5,23.8,2.62,0.62,0.05,0.20,,0,0,Matches
+522,Keita Yamashita,jp JPN,FW,FC Tokyo,25,1996,2.6,0,12,4,33.3,4.58,1.53,0.00,0.00,,0,0,Matches
+523,Takahiro Yanagi,jp JPN,"MF,DF",Avispa Fukuoka,24,1997,5.0,0,3,0,0.0,0.60,0.00,0.00,,,0,0,Matches
+524,Takahiro Yanagi,jp JPN,"DF,MF",Consa Sapporo,24,1997,0.7,0,1,1,100.0,1.50,1.50,0.00,0.00,,0,0,Matches
+525,Ko Yanagisawa,jp JPN,"DF,MF",Gamba Osaka,25,1996,7.9,0,11,1,9.1,1.39,0.13,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+526,Kojirō Yasuda,jp JPN,MF,FC Tokyo,18,2003,0.1,0,2,1,50.0,22.50,11.25,0.00,0.00,,0,0,Matches
+527,Kaito Yasui,jp JPN,MF,Urawa Reds,21,2000,1.5,0,2,0,0.0,1.37,0.00,0.00,,,0,0,Matches
+528,Takuji Yonemoto,jp JPN,MF,Shonan Bellmare,31,1990,14.1,0,10,1,10.0,0.71,0.07,0.00,0.00,,0,0,Matches
+529,Haruki Yoshida,jp JPN,DF,Grampus,20,2001,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+530,Yutaka Yoshida,jp JPN,"DF,MF",Grampus,31,1990,8.5,0,3,0,0.0,0.35,0.00,0.00,,,0,0,Matches
+531,Mahiro Yoshinaga,jp JPN,MF,Júbilo Iwata,19,2002,7.3,1,9,2,22.2,1.23,0.27,0.11,0.50,,0,0,Matches
+532,Kaina Yoshio,jp JPN,MF,Marinos,23,1998,3.2,1,11,4,36.4,3.41,1.24,0.09,0.25,,0,0,Matches
+533,Koya Yuruki,jp JPN,"MF,FW",Vissel Kobe,26,1995,23.4,5,41,17,41.5,1.75,0.73,0.12,0.29,,0,0,Matches
+534,Masato Yuzawa,jp JPN,"DF,MF",Avispa Fukuoka,28,1993,16.3,0,5,3,60.0,0.31,0.18,0.00,0.00,,0,0,Matches

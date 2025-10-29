@@ -1,0 +1,604 @@
+rk,player,nation,pos,squad,age,born,90s,cmp,att,cmp_total,totdist,prgdist,cmp_short,att_short,cmp_medium,att_medium,cmp_long,att_long,ast,xag,xa,a_xag,kp,1_3,ppa,crspa,prgp,matches
+1,Max Aarons,eng ENG,DF,Bournemouth,23,2000,13.7,450,581,77.5,7402,2789,220,248,188,235,34,63,1,0.8,0.9,+0.2,7,25,13,2,43,Matches
+2,Joshua Acheampong,eng ENG,DF,Chelsea,17,2006,0.1,1,2,50.0,18,7,0,0,1,1,0,1,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+3,Tyler Adams,us USA,MF,Bournemouth,24,1999,1.3,59,71,83.1,973,262,35,39,18,24,6,8,0,0.1,0.0,-0.1,1,9,0,0,5,Matches
+4,Tosin Adarabioyo,eng ENG,DF,Fulham,25,1997,18.0,1028,1216,84.5,21010,7956,277,307,627,699,115,177,0,0.1,0.3,-0.1,2,47,2,0,62,Matches
+5,Elijah Adebayo,eng ENG,FW,Luton Town,25,1998,15.8,144,204,70.6,1847,385,94,122,41,60,3,6,0,0.7,0.4,-0.7,14,9,4,0,23,Matches
+6,Simon Adingra,ci CIV,FW,Brighton,21,2002,24.7,634,840,75.5,8828,1713,412,491,185,245,20,38,1,3.7,3.5,-2.7,33,17,33,11,50,Matches
+7,Nayef Aguerd,ma MAR,DF,West Ham,27,1996,20.6,943,1177,80.1,19870,8804,335,360,452,493,143,297,0,0.3,0.4,-0.3,4,74,2,0,68,Matches
+8,Brandon Aguilera,cr CRC,FW,Nott'ham Forest,20,2003,0.1,4,8,50.0,48,23,3,6,1,2,0,0,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+9,Naouirou Ahamada,fr FRA,"MF,FW",Crystal Palace,21,2002,3.9,150,187,80.2,2455,628,76,89,59,69,10,14,0,0.0,0.1,0.0,1,12,0,0,25,Matches
+10,Anel Ahmedhodžić,ba BIH,DF,Sheffield Utd,24,1999,29.4,749,993,75.4,12780,5078,334,386,348,425,54,137,0,0.8,0.6,-0.8,7,41,3,1,43,Matches
+11,Ola Aina,ng NGA,DF,Nott'ham Forest,26,1996,18.8,605,803,75.3,9657,4065,329,375,217,284,46,99,1,0.9,1.0,+0.1,11,58,13,6,69,Matches
+12,Rayan Aït-Nouri,dz ALG,"DF,MF",Wolves,22,2001,25.9,1005,1190,84.5,13946,3935,627,688,297,344,38,72,1,2.4,1.7,-1.4,25,60,13,4,99,Matches
+13,Kristoffer Ajer,no NOR,DF,Brentford,25,1998,20.4,610,810,75.3,10210,3786,291,337,263,332,45,103,1,2.3,2.7,-1.3,12,56,10,3,61,Matches
+14,Manuel Akanji,ch SUI,"DF,MF",Manchester City,28,1995,27.9,2180,2334,93.4,35688,9787,1091,1136,923,975,126,163,0,0.5,1.8,-0.5,13,214,15,2,148,Matches
+15,Nathan Aké,nl NED,DF,Manchester City,28,1995,22.7,1716,1864,92.1,26189,8717,882,921,750,796,43,85,2,1.2,1.1,+0.8,10,148,5,1,116,Matches
+16,Thiago Alcántara,es ESP,MF,Liverpool,32,1991,0.1,7,10,70.0,130,30,3,3,3,4,1,2,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+17,Trent Alexander-Arnold,eng ENG,DF,Liverpool,24,1998,23.9,1553,2062,75.3,30386,12434,676,734,607,762,244,495,4,7.2,6.1,-3.2,64,202,57,18,205,Matches
+18,Alisson,br BRA,GK,Liverpool,30,1992,28.0,985,1142,86.3,21428,13147,238,239,597,607,147,284,0,0.0,0.0,0.0,1,8,0,0,5,Matches
+19,Miguel Almirón,py PAR,FW,Newcastle Utd,29,1994,21.5,668,801,83.4,9023,1846,411,456,208,250,21,38,1,2.6,2.4,-1.6,24,38,21,3,78,Matches
+20,Edson Álvarez,mx MEX,MF,West Ham,25,1997,26.4,1033,1207,85.6,17083,5225,518,573,401,445,87,132,1,0.6,0.8,+0.4,12,87,6,1,91,Matches
+21,Julián Álvarez,ar ARG,"MF,FW",Manchester City,23,2000,29.4,1011,1258,80.4,13977,2992,615,679,272,328,58,145,8,6.4,6.3,+1.6,67,43,41,4,103,Matches
+22,Zeki Amdouni,ch SUI,FW,Burnley,22,2000,21.7,396,500,79.2,6229,1153,216,265,141,161,24,35,1,1.4,1.3,-0.4,16,28,9,0,49,Matches
+23,Sofyan Amrabat,ma MAR,"MF,DF",Manchester Utd,26,1996,10.4,578,664,87.0,10308,2747,244,274,264,296,56,67,0,0.3,0.4,-0.3,6,62,6,1,66,Matches
+24,Joachim Andersen,dk DEN,DF,Crystal Palace,27,1996,37.9,1731,2209,78.4,37874,14700,488,559,950,1041,281,547,3,2.8,2.3,+0.2,20,171,17,8,147,Matches
+25,Elliot Anderson,eng ENG,"MF,FW",Newcastle Utd,20,2002,11.4,370,460,80.4,5041,1322,241,274,108,130,8,27,2,1.9,1.2,+0.1,15,36,12,0,57,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+26,Jaidon Anthony,eng ENG,FW,Bournemouth,23,1999,1.7,30,45,66.7,453,139,17,20,10,14,1,6,0,0.0,0.0,0.0,0,3,1,0,8,Matches
+27,Michail Antonio,jm JAM,FW,West Ham,33,1990,18.8,180,308,58.4,2635,626,111,154,48,90,13,26,2,0.9,1.3,+1.1,8,13,7,2,22,Matches
+28,Antony,br BRA,FW,Manchester Utd,23,2000,14.7,468,595,78.7,6175,1608,295,348,130,153,16,30,1,2.8,1.9,-1.8,22,26,29,3,64,Matches
+29,Oliver Arblaster,eng ENG,MF,Sheffield Utd,19,2004,10.5,351,441,79.6,5920,1788,174,201,147,167,26,50,0,0.8,0.9,-0.8,11,37,6,0,43,Matches
+30,Cameron Archer,eng ENG,"FW,MF",Sheffield Utd,22,2001,20.4,266,332,80.1,3245,471,171,207,64,69,5,9,1,2.8,1.4,-1.8,23,11,7,2,15,Matches
+31,Cameron Archer,eng ENG,MF,Aston Villa,22,2001,0.1,5,6,83.3,42,0,5,6,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+32,Alphonse Areola,fr FRA,GK,West Ham,30,1993,30.0,562,867,64.8,17799,12917,74,76,245,246,241,538,0,0.0,0.0,0.0,0,8,0,0,1,Matches
+33,Lorenz Assignon,tg TOG,DF,Burnley,23,2000,13.7,352,485,72.6,5411,1984,182,225,152,194,10,31,2,2.6,1.6,-0.6,13,16,10,5,34,Matches
+34,Serge Aurier,ci CIV,"DF,MF",Nott'ham Forest,30,1992,9.3,348,448,77.7,5238,2147,191,225,130,156,17,45,2,0.5,0.5,+1.5,4,31,9,4,47,Matches
+35,Taiwo Awoniyi,ng NGA,FW,Nott'ham Forest,25,1997,11.6,127,175,72.6,1594,312,88,111,34,47,3,5,3,1.7,0.9,+1.3,10,6,3,0,14,Matches
+36,Jordan Ayew,gh GHA,"FW,MF",Crystal Palace,31,1991,28.3,681,920,74.0,9753,1856,417,478,213,285,24,74,7,4.2,2.7,+2.8,25,43,26,10,63,Matches
+37,Benoît Badiashile,fr FRA,DF,Chelsea,22,2001,14.9,1065,1173,90.8,18737,7087,442,463,543,584,71,106,1,1.5,0.9,-0.5,6,48,4,0,46,Matches
+38,Leon Bailey,jm JAM,"MF,FW",Aston Villa,25,1997,23.0,573,790,72.5,8993,2559,327,391,184,242,48,82,9,9.2,7.3,-0.2,52,38,51,7,82,Matches
+39,Stefan Bajcetic,es ESP,MF,Liverpool,18,2004,0.3,7,10,70.0,101,44,3,3,4,6,0,0,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+40,George Baldock,gr GRE,DF,Sheffield Utd,30,1993,10.8,291,397,73.3,4602,1810,169,191,100,124,18,52,1,0.8,0.6,+0.2,7,18,11,4,31,Matches
+41,Carlos Baleba,cm CMR,MF,Brighton,19,2004,14.7,713,775,92.0,10618,2185,402,429,267,278,24,30,0,0.3,0.3,-0.3,8,38,3,0,50,Matches
+42,Fodé Ballo-Touré,sn SEN,"DF,MF",Fulham,26,1997,0.8,56,78,71.8,1002,224,23,30,26,33,6,8,0,0.0,0.0,0.0,0,3,0,0,0,Matches
+43,Shandon Baptiste,gd GRN,MF,Brentford,25,1998,2.5,66,90,73.3,1144,351,33,39,25,28,7,15,1,0.2,0.4,+0.8,4,7,3,2,5,Matches
+44,Valentín Barco,ar ARG,"DF,FW",Brighton,19,2004,3.4,179,233,76.8,2509,864,120,131,47,64,7,23,0,0.2,0.4,-0.2,4,10,3,0,14,Matches
+45,Ross Barkley,eng ENG,MF,Luton Town,29,1993,29.1,1218,1474,82.6,21602,6544,550,611,473,533,147,226,4,3.7,2.7,+0.3,44,138,27,1,163,Matches
+46,Harvey Barnes,eng ENG,"FW,MF",Newcastle Utd,25,1997,8.9,208,272,76.5,2981,750,128,147,68,84,7,16,3,3.2,1.9,-0.2,13,11,17,3,34,Matches
+47,Chris Basham,eng ENG,"DF,MF",Sheffield Utd,35,1988,3.6,103,138,74.6,1506,484,62,70,31,45,6,14,0,0.3,0.1,-0.3,2,7,2,0,7,Matches
+48,Calvin Bassey,ng NGA,DF,Fulham,23,1999,25.6,1440,1674,86.0,27276,9421,483,514,787,855,141,246,0,0.0,0.2,0.0,1,80,2,0,62,Matches
+49,Owen Beck,wls WAL,DF,Liverpool,20,2002,0.1,3,4,75.0,31,1,2,3,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+50,Donny van de Beek,nl NED,DF,Manchester Utd,26,1997,0.0,1,1,100.0,7,0,1,1,0,0,0,0,0,0.1,0.0,-0.1,1,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+51,Amari'i Bell,jm JAM,DF,Luton Town,29,1994,19.1,645,835,77.2,10680,4470,324,372,270,315,44,108,0,0.5,0.4,-0.5,8,63,8,0,76,Matches
+52,Jean-Ricner Bellegarde,ht HAI,"MF,FW",Wolves,25,1998,10.6,241,314,76.8,3452,786,144,161,76,98,14,29,1,1.0,0.8,0.0,12,17,7,0,39,Matches
+53,Anis Ben Slimane,tn TUN,MF,Sheffield Utd,22,2001,4.7,92,139,66.2,1322,373,47,70,35,43,4,5,0,0.3,0.1,-0.3,3,6,2,0,12,Matches
+54,Saïd Benrahma,dz ALG,"FW,MF",West Ham,27,1995,6.9,193,257,75.1,2587,504,116,138,56,76,8,15,1,1.4,0.8,-0.4,11,11,11,2,28,Matches
+55,Rodrigo Bentancur,uy URU,MF,Tottenham,26,1997,11.2,674,800,84.3,10011,2610,384,426,244,282,29,41,1,0.5,1.1,+0.5,8,69,11,1,72,Matches
+56,Daniel Bentley,eng ENG,GK,Wolves,30,1993,4.3,96,144,66.7,2347,1661,30,30,37,37,28,76,0,0.0,0.0,0.0,0,2,0,0,0,Matches
+57,Jóhann Berg Guðmundsson,is ISL,"MF,FW",Burnley,32,1990,13.2,396,544,72.8,7505,2234,164,184,159,203,61,124,3,2.7,2.5,+0.3,35,36,18,6,59,Matches
+58,Sander Berge,no NOR,MF,Burnley,25,1998,33.4,1376,1562,88.1,24429,5168,568,637,658,711,125,154,2,2.4,1.6,-0.4,29,129,16,1,164,Matches
+59,Luke Berry,eng ENG,"MF,DF",Luton Town,31,1992,3.6,64,99,64.6,984,310,38,45,18,32,6,15,1,0.3,0.1,+0.7,2,5,0,0,8,Matches
+60,Beto,gw GNB,FW,Everton,25,1998,10.6,108,180,60.0,1451,323,66,98,34,53,5,7,0,0.9,0.3,-0.9,11,7,6,0,14,Matches
+61,Jordan Beyer,de GER,DF,Burnley,23,2000,13.7,766,861,89.0,14232,3759,270,298,421,446,64,92,1,0.3,0.2,+0.7,3,28,1,0,25,Matches
+62,Philip Billing,dk DEN,MF,Bournemouth,27,1996,15.5,404,537,75.2,6037,1791,232,279,121,153,31,56,2,3.2,2.1,-1.2,23,39,15,4,53,Matches
+63,Yves Bissouma,ml MLI,MF,Tottenham,26,1996,23.0,1689,1842,91.7,25078,7214,948,1006,607,651,68,84,0,0.4,1.7,-0.4,11,156,12,0,169,Matches
+64,Benicio Boaitey,eng ENG,"FW,DF",Brighton,19,2004,0.4,13,20,65.0,188,30,8,11,5,8,0,0,0,0.1,0.1,-0.1,1,0,0,0,2,Matches
+65,Oscar Bobb,no NOR,"FW,MF",Manchester City,20,2003,3.4,155,177,87.6,2056,478,101,107,44,51,4,4,1,1.2,1.3,-0.2,9,3,19,1,25,Matches
+66,Jayden Bogle,eng ENG,DF,Sheffield Utd,23,2000,31.0,684,969,70.6,10589,3926,405,473,216,301,51,124,0,1.0,1.2,-1.0,10,45,20,5,60,Matches
+67,Willy Boly,ci CIV,DF,Nott'ham Forest,32,1991,16.0,502,671,74.8,9338,4056,201,229,238,303,49,110,1,1.3,0.8,-0.3,9,34,8,0,32,Matches
+68,Sven Botman,nl NED,DF,Newcastle Utd,23,2000,15.3,921,1017,90.6,17027,6760,357,382,459,489,98,132,2,1.0,0.6,+1.0,5,38,1,0,35,Matches
+69,Jarrod Bowen,eng ENG,FW,West Ham,26,1996,33.5,484,702,68.9,6899,1825,284,341,141,188,34,71,6,5.5,4.8,+0.5,31,29,13,3,52,Matches
+70,Conor Bradley,nir NIR,DF,Liverpool,20,2003,8.4,419,530,79.1,6224,1849,238,275,149,190,20,35,3,1.5,1.2,+1.5,15,27,13,3,29,Matches
+71,Jarrad Branthwaite,eng ENG,DF,Everton,21,2002,34.6,1105,1385,79.8,20561,8048,440,507,531,612,115,212,0,1.0,1.3,-1.0,4,60,1,0,74,Matches
+72,Ben Brereton,cl CHI,"FW,MF",Sheffield Utd,24,1999,12.3,201,266,75.6,2817,720,129,151,58,76,11,16,1,1.5,1.1,-0.5,8,22,12,2,37,Matches
+73,Rhian Brewster,eng ENG,"FW,MF",Sheffield Utd,23,2000,3.8,52,76,68.4,702,178,35,41,10,22,4,7,0,0.1,0.1,-0.1,2,6,1,0,3,Matches
+74,Armando Broja,al ALB,FW,Chelsea,21,2001,5.0,83,94,88.3,932,91,60,64,15,18,1,2,0,0.2,0.3,-0.2,3,2,2,0,6,Matches
+75,Armando Broja,al ALB,FW,Fulham,21,2001,1.0,19,27,70.4,200,71,15,19,4,5,0,0,1,0.4,0.0,+0.6,1,4,1,0,2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+76,Andre Brooks,eng ENG,"MF,DF",Sheffield Utd,19,2003,10.4,196,260,75.4,2943,511,109,131,80,97,6,19,0,0.1,0.3,-0.1,3,11,5,0,18,Matches
+77,David Brooks,wls WAL,"FW,MF",Bournemouth,26,1997,3.1,95,132,72.0,1545,666,47,55,34,42,10,23,1,1.0,0.5,0.0,8,14,12,3,21,Matches
+78,Jacob Brown,sct SCO,"MF,FW",Luton Town,25,1998,11.3,136,247,55.1,1865,626,91,127,35,56,6,24,0,0.7,0.4,-0.7,8,6,3,1,19,Matches
+79,Josh Brownhill,eng ENG,MF,Burnley,27,1995,25.0,850,1106,76.9,13206,3449,451,532,311,393,55,114,2,2.1,2.1,-0.1,34,71,16,0,90,Matches
+80,Jacob Bruun Larsen,dk DEN,"MF,FW",Burnley,24,1998,13.9,378,526,71.9,6208,1406,208,257,120,162,39,64,0,1.5,1.8,-1.5,25,12,13,2,38,Matches
+81,Hugo Bueno,es ESP,"DF,MF",Wolves,20,2002,8.2,318,406,78.3,4380,1005,211,237,92,117,11,27,0,0.8,0.7,-0.8,6,11,8,8,8,Matches
+82,Santiago Bueno,uy URU,DF,Wolves,24,1998,9.1,426,480,88.8,7158,2158,177,192,223,237,18,37,0,0.1,0.0,-0.1,2,16,0,0,11,Matches
+83,Facundo Buonanotte,ar ARG,"FW,MF",Brighton,18,2004,15.2,404,478,84.5,5038,1028,270,306,95,109,9,15,1,1.8,1.2,-0.8,18,26,14,1,42,Matches
+84,Reece Burke,eng ENG,DF,Luton Town,26,1996,18.4,547,719,76.1,10396,4169,200,247,280,325,57,120,4,1.4,0.9,+2.6,13,58,9,3,67,Matches
+85,Dan Burn,eng ENG,DF,Newcastle Utd,31,1992,30.3,1351,1667,81.0,22402,8237,606,702,676,788,54,111,2,1.1,1.1,+0.9,10,67,7,3,75,Matches
+86,Mason Burstow,eng ENG,FW,Chelsea,19,2003,0.1,3,4,75.0,29,1,3,3,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+87,Moisés Caicedo,ec ECU,MF,Chelsea,21,2001,31.8,1907,2119,90.0,29696,8181,1046,1120,673,726,124,162,3,2.6,2.0,+0.4,23,176,20,0,173,Matches
+88,Tom Cairney,sct SCO,MF,Fulham,32,1991,16.5,1126,1272,88.5,17463,3797,603,644,422,454,68,109,4,2.3,2.5,+1.7,26,84,25,4,145,Matches
+89,Dominic Calvert-Lewin,eng ENG,FW,Everton,26,1997,24.1,248,440,56.4,2917,647,175,271,49,99,6,12,2,3.1,1.6,-1.1,19,13,12,0,31,Matches
+90,Thomas Cannon,ie IRL,FW,Everton,20,2002,0.0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+91,Diego Carlos,br BRA,DF,Aston Villa,30,1993,20.2,1184,1340,88.4,23313,9315,357,378,714,749,107,199,0,0.1,0.4,-0.1,3,72,4,0,59,Matches
+92,Cesare Casadei,it ITA,"FW,MF",Chelsea,20,2003,0.9,53,65,81.5,792,155,29,34,17,22,4,4,0,0.1,0.1,-0.1,2,2,0,0,3,Matches
+93,Casemiro,br BRA,"MF,DF",Manchester Utd,31,1992,22.0,1165,1425,81.8,20136,7677,536,596,489,568,105,187,2,1.0,1.2,+1.0,16,124,18,3,112,Matches
+94,Kaelan Casey,eng ENG,DF,West Ham,18,2004,0.0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+95,Matty Cash,pl POL,DF,Aston Villa,25,1997,23.8,985,1225,80.4,16094,4888,490,545,415,501,63,131,2,2.3,2.5,-0.3,13,69,19,8,88,Matches
+96,Timothy Castagne,be BEL,DF,Fulham,27,1995,29.3,1350,1662,81.2,21238,7361,705,794,514,595,91,162,3,1.9,1.8,+1.1,18,74,17,8,77,Matches
+97,Jonny Castro,es ESP,MF,Wolves,29,1994,0.1,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+98,Trevoh Chalobah,eng ENG,DF,Chelsea,24,1999,10.6,700,783,89.4,12088,3518,278,302,377,397,35,70,0,0.1,0.4,-0.1,2,30,2,0,31,Matches
+99,Calum Chambers,eng ENG,"MF,DF",Aston Villa,28,1995,1.7,100,113,88.5,1705,512,47,50,45,47,6,10,1,0.1,0.0,+0.9,1,2,0,0,5,Matches
+100,Youssef Chermiti,pt POR,FW,Everton,19,2004,2.3,35,58,60.3,486,108,19,32,12,19,1,1,0,0.8,0.3,-0.8,4,1,4,0,5,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+101,Ben Chilwell,eng ENG,DF,Chelsea,26,1996,8.4,373,495,75.4,5230,1552,230,259,112,143,18,48,1,2.2,1.8,-1.2,14,29,2,2,25,Matches
+102,Tawanda Chirewa,zw ZIM,"MF,FW",Wolves,19,2003,1.6,46,58,79.3,664,151,29,31,14,18,2,3,0,0.0,0.1,0.0,1,3,3,2,7,Matches
+103,Leon Chiwome,eng ENG,FW,Wolves,17,2006,1.9,19,22,86.4,244,59,12,13,6,6,1,1,0,0.0,0.0,0.0,0,2,0,0,2,Matches
+104,Tahith Chong,cw CUW,"MF,FW",Luton Town,23,1999,22.0,428,550,77.8,6679,1643,227,257,149,189,32,54,0,0.5,1.4,-0.5,10,35,20,8,72,Matches
+105,Ryan Christie,sct SCO,MF,Bournemouth,28,1995,32.3,988,1300,76.0,18802,5120,399,467,425,510,143,253,5,5.4,5.4,-0.4,55,118,42,7,167,Matches
+106,Carney Chukwuemeka,eng ENG,"MF,FW",Chelsea,19,2003,2.5,115,134,85.8,1476,266,82,88,26,31,4,5,1,0.3,0.3,+0.7,4,4,6,0,12,Matches
+107,Bobby Clark,eng ENG,MF,Liverpool,18,2005,1.0,38,49,77.6,465,64,23,29,11,12,1,2,0,0.0,0.0,0.0,0,3,0,0,3,Matches
+108,Jordan Clark,eng ENG,MF,Luton Town,29,1993,14.5,369,513,71.9,6108,1636,180,231,136,173,33,63,1,1.3,1.2,-0.3,12,19,18,4,51,Matches
+109,Nathaniel Clyne,eng ENG,DF,Crystal Palace,32,1991,14.9,495,600,82.5,7555,3021,266,288,191,224,28,54,0,0.2,0.2,-0.2,3,33,4,2,33,Matches
+110,Séamus Coleman,ie IRL,DF,Everton,34,1988,7.4,207,306,67.6,3381,1481,111,132,76,103,16,51,0,1.0,0.7,-1.0,3,15,4,2,22,Matches
+111,Nathan Collins,ie IRL,DF,Brentford,22,2001,29.5,1261,1552,81.3,23470,8772,462,528,660,757,116,214,1,2.2,1.1,-1.2,11,78,6,0,97,Matches
+112,Levi Colwill,eng ENG,DF,Chelsea,20,2003,20.0,965,1163,83.0,16310,5939,444,495,456,508,51,117,1,1.2,0.5,-0.2,7,82,6,0,73,Matches
+113,Lewis Cook,eng ENG,MF,Bournemouth,26,1997,31.0,1135,1487,76.3,20294,6864,458,539,539,616,112,257,3,4.3,3.0,-1.3,46,138,20,4,142,Matches
+114,Jack Cork,eng ENG,MF,Burnley,34,1989,0.3,25,33,75.8,370,77,13,16,10,10,1,3,0,0.0,0.0,0.0,0,5,0,0,4,Matches
+115,Maxwel Cornet,ci CIV,"MF,FW",West Ham,26,1996,1.2,36,49,73.5,407,70,27,34,6,8,0,1,0,0.2,0.0,-0.2,4,0,0,0,2,Matches
+116,Vladimír Coufal,cz CZE,DF,West Ham,30,1992,34.8,1154,1665,69.3,18778,9229,596,669,448,627,84,254,7,4.0,3.0,+3.0,33,98,38,21,119,Matches
+117,Philippe Coutinho,br BRA,"MF,FW",Aston Villa,31,1992,0.3,20,24,83.3,265,63,11,14,8,9,0,0,0,0.0,0.0,0.0,0,4,0,0,5,Matches
+118,Aaron Cresswell,eng ENG,"DF,FW",West Ham,33,1989,4.8,254,308,82.5,4176,1722,142,155,80,96,25,48,0,0.4,0.3,-0.4,5,15,4,0,26,Matches
+119,Marc Cucurella,es ESP,DF,Chelsea,25,1998,19.8,1036,1196,86.6,15110,4408,595,645,383,430,32,65,2,1.1,1.2,+0.9,19,51,7,4,50,Matches
+120,Josh Cullen,ie IRL,MF,Burnley,27,1996,22.9,1173,1373,85.4,18812,4917,617,667,466,521,69,127,3,1.8,2.3,+1.2,26,119,17,3,123,Matches
+121,Matheus Cunha,br BRA,"FW,MF",Wolves,24,1999,27.1,658,831,79.2,8887,2308,411,476,182,229,32,57,7,3.2,3.0,+3.8,28,56,31,1,87,Matches
+122,Sam Curtis,ie IRL,DF,Sheffield Utd,17,2005,0.3,6,10,60.0,98,37,3,4,3,3,0,2,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+123,Mahmoud Dahoud,de GER,MF,Brighton,27,1996,5.0,284,328,86.6,4011,886,169,176,84,99,16,25,1,0.9,0.4,+0.1,10,21,1,1,11,Matches
+124,Ameen Al-Dakhil,be BEL,DF,Burnley,21,2002,11.7,537,637,84.3,9642,2939,208,220,280,321,42,77,0,0.1,0.6,-0.1,2,13,2,0,35,Matches
+125,Diogo Dalot,pt POR,DF,Manchester Utd,24,1999,35.3,1486,1830,81.2,24927,8066,729,817,574,701,139,213,3,2.9,2.4,+0.1,37,107,31,16,124,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+126,Mikkel Damsgaard,dk DEN,MF,Brentford,23,2000,9.4,300,432,69.4,4940,1897,151,194,116,151,26,55,2,1.4,0.9,+0.6,10,50,11,1,61,Matches
+127,Danilo,br BRA,MF,Nott'ham Forest,22,2001,19.9,588,757,77.7,10476,3222,255,297,246,285,70,123,2,1.5,0.7,+0.5,20,74,14,0,82,Matches
+128,Arnaut Danjuma,nl NED,"MF,FW",Everton,26,1997,6.6,102,152,67.1,1420,357,57,69,37,54,2,7,0,1.1,0.4,-1.1,6,6,2,0,9,Matches
+129,Jayden Danns,eng ENG,FW,Liverpool,17,2006,0.1,5,7,71.4,73,16,3,4,2,3,0,0,0,0.0,0.0,0.0,0,0,1,0,1,Matches
+130,Josh Dasilva,eng ENG,"DF,FW",Brentford,24,1998,0.3,10,19,52.6,153,59,5,7,5,7,0,2,0,0.2,0.2,-0.2,1,0,0,0,2,Matches
+131,David Datro Fofana,ci CIV,FW,Burnley,20,2002,9.8,117,173,67.6,1574,343,67,94,36,49,5,6,1,1.8,0.3,-0.8,8,9,5,1,15,Matches
+132,Ben Davies,wls WAL,DF,Tottenham,30,1993,12.1,766,850,90.1,13839,5258,303,324,388,413,60,81,0,0.4,0.6,-0.4,4,80,4,0,71,Matches
+133,Tom Davies,eng ENG,MF,Sheffield Utd,25,1998,2.5,68,99,68.7,901,310,41,50,20,27,2,7,0,0.1,0.2,-0.1,1,6,1,0,8,Matches
+134,Craig Dawson,eng ENG,DF,Wolves,33,1990,24.5,1104,1277,86.5,23417,8062,296,333,640,679,158,237,1,1.4,0.6,-0.4,9,52,2,0,49,Matches
+135,Kevin De Bruyne,be BEL,MF,Manchester City,32,1991,13.6,732,971,75.4,11555,3364,426,481,223,293,66,134,10,11.5,7.1,-1.5,59,67,56,12,111,Matches
+136,Bobby De Cordova-Reid,jm JAM,FW,Fulham,30,1993,15.8,364,487,74.7,5129,1431,211,240,112,157,17,37,2,1.8,1.2,+0.2,17,25,17,5,47,Matches
+137,Hannes Delcroix,ht HAI,DF,Burnley,24,1999,6.5,300,350,85.7,4932,1666,145,155,135,154,16,31,0,0.2,0.1,-0.2,4,24,3,2,18,Matches
+138,Leander Dendoncker,be BEL,MF,Aston Villa,28,1995,1.3,45,56,80.4,744,139,24,28,19,22,2,4,0,0.0,0.0,0.0,0,1,0,0,3,Matches
+139,Moussa Diaby,fr FRA,"FW,MF",Aston Villa,24,1999,24.2,485,619,78.4,6960,1348,280,329,170,215,17,32,8,6.6,4.5,+1.4,47,29,40,9,72,Matches
+140,Amad Diallo,ci CIV,"FW,MF",Manchester Utd,21,2002,4.3,149,170,87.6,1931,279,105,115,32,37,4,5,1,1.1,0.5,-0.1,10,6,3,0,10,Matches
+141,Amadou Diallo,eng ENG,MF,Newcastle Utd,20,2003,0.0,1,1,100.0,10,0,1,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+142,Rúben Dias,pt POR,DF,Manchester City,26,1997,28.4,2469,2635,93.7,42764,13568,1039,1076,1256,1306,146,204,0,0.3,1.9,-0.3,7,220,12,3,173,Matches
+143,Luis Díaz,co COL,FW,Liverpool,26,1997,29.2,898,1075,83.5,13772,2931,527,584,274,320,68,91,5,5.7,4.7,-0.7,64,62,45,3,113,Matches
+144,Eric Dier,eng ENG,DF,Tottenham,29,1994,2.2,125,141,88.7,2070,1037,52,57,69,72,3,10,0,0.0,0.0,0.0,0,3,0,0,3,Matches
+145,Lucas Digne,fr FRA,DF,Aston Villa,30,1993,26.8,1015,1351,75.1,16244,5595,524,594,406,529,66,148,3,4.1,3.6,-1.1,37,49,34,15,77,Matches
+146,Issa Diop,fr FRA,DF,Fulham,26,1997,15.8,950,1080,88.0,17646,6371,333,358,555,594,53,98,0,0.0,0.4,0.0,0,60,3,0,66,Matches
+147,Axel Disasi,fr FRA,DF,Chelsea,25,1998,28.7,2031,2256,90.0,34081,11464,877,913,1050,1124,86,168,0,0.3,1.0,-0.3,3,115,8,1,112,Matches
+148,Lewis Dobbin,eng ENG,MF,Everton,20,2003,2.6,44,65,67.7,537,95,32,36,9,17,2,5,0,0.5,0.1,-0.5,4,0,3,1,3,Matches
+149,Matt Doherty,ie IRL,"DF,MF",Wolves,31,1992,12.8,515,653,78.9,7798,2105,296,348,174,212,31,55,0,1.3,0.9,-1.3,12,22,7,1,31,Matches
+150,Jeremy Doku,be BEL,"FW,MF",Manchester City,21,2002,17.7,693,852,81.3,9699,1538,452,507,198,254,26,33,8,4.6,5.9,+3.4,45,14,40,7,57,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+151,Nicolás Domínguez,ar ARG,"MF,FW",Nott'ham Forest,25,1998,16.6,714,843,84.7,10894,3223,380,424,254,298,45,61,2,1.0,1.3,+1.0,10,61,16,1,91,Matches
+152,Jamie Donley,nir NIR,FW,Tottenham,18,2005,0.0,1,1,100.0,14,0,1,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+153,Abdoulaye Doucouré,ml MLI,"FW,MF",Everton,30,1993,29.2,683,893,76.5,9807,2329,381,453,239,288,28,59,1,2.9,1.5,-1.9,34,43,18,1,97,Matches
+154,Cheick Doucouré,ml MLI,MF,Crystal Palace,23,2000,10.2,367,422,87.0,5725,1849,200,222,146,165,18,24,0,0.7,0.8,-0.7,10,39,5,0,49,Matches
+155,Alfie Doughty,eng ENG,DF,Luton Town,23,1999,32.5,1121,1686,66.5,20956,8325,496,571,431,571,166,426,8,6.3,5.4,+1.7,70,71,43,24,106,Matches
+156,Tommy Doyle,eng ENG,MF,Wolves,21,2001,13.6,801,955,83.9,15164,4208,309,331,361,399,106,178,0,0.4,0.9,-0.4,8,86,7,2,81,Matches
+157,Radu Drăgușin,ro ROU,DF,Tottenham,21,2002,4.8,326,370,88.1,5633,1782,130,148,185,198,8,16,0,0.0,0.0,0.0,0,10,0,0,8,Matches
+158,Martin Dúbravka,sk SVK,GK,Newcastle Utd,34,1989,22.1,519,651,79.7,11869,6941,133,135,273,278,109,232,0,0.1,0.0,-0.1,1,1,0,0,0,Matches
+159,Paul Dummett,wls WAL,DF,Newcastle Utd,31,1991,0.2,21,23,91.3,320,76,10,10,11,12,0,1,0,0.0,0.0,0.0,0,2,0,0,1,Matches
+160,Lewis Dunk,eng ENG,DF,Brighton,31,1991,31.9,2977,3233,92.1,50791,19478,1343,1382,1340,1417,216,340,1,0.9,2.2,+0.1,13,204,8,1,152,Matches
+161,Jáder Durán,co COL,"FW,MF",Aston Villa,19,2003,5.3,83,121,68.6,1095,220,51,69,24,29,3,5,0,0.3,0.2,-0.3,4,6,1,0,9,Matches
+162,George Earthy,eng ENG,FW,West Ham,18,2004,0.4,16,17,94.1,183,43,12,13,4,4,0,0,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+163,Ederson,br BRA,GK,Manchester City,29,1993,30.9,1077,1234,87.3,25898,17578,275,276,560,570,239,381,0,0.1,0.1,-0.1,1,25,1,0,4,Matches
+164,Odsonne Édouard,fr FRA,"FW,MF",Crystal Palace,25,1998,17.3,249,350,71.1,3106,704,164,207,61,80,7,11,0,1.2,1.1,-1.2,18,12,15,1,36,Matches
+165,John Egan,ie IRL,DF,Sheffield Utd,30,1992,5.4,128,185,69.2,2449,988,38,49,79,92,9,38,0,0.0,0.0,0.0,0,5,1,0,5,Matches
+166,Hjalmar Ekdal,se SWE,DF,Burnley,24,1998,4.9,191,217,88.0,3404,938,66,71,109,120,12,17,0,0.1,0.0,-0.1,1,8,0,0,11,Matches
+167,Anthony Elanga,se SWE,"FW,MF",Nott'ham Forest,21,2002,27.0,498,712,69.9,6655,1569,313,391,143,211,15,28,9,6.7,4.0,+2.3,32,28,24,5,49,Matches
+168,Harvey Elliott,eng ENG,"MF,FW",Liverpool,20,2003,15.0,825,986,83.7,13081,3101,457,496,278,323,66,105,6,3.5,4.6,+2.5,37,76,45,11,128,Matches
+169,Mohamed Elneny,eg EGY,MF,Arsenal,31,1992,0.3,39,40,97.5,624,147,18,19,21,21,0,0,0,0.0,0.0,0.0,0,2,0,0,1,Matches
+170,Emerson,br BRA,DF,Tottenham,24,1999,12.9,937,1038,90.3,13652,3714,529,558,339,362,32,45,0,0.4,0.9,-0.4,3,42,7,2,57,Matches
+171,Julio Enciso,py PAR,"MF,FW",Brighton,19,2004,5.3,132,178,74.2,1842,562,77,89,41,58,9,12,2,1.7,1.3,+0.3,9,12,4,2,21,Matches
+172,Wataru Endo,jp JPN,MF,Liverpool,30,1993,19.1,1157,1315,88.0,17822,5048,631,684,466,516,45,63,0,1.7,1.5,-1.7,16,109,18,2,101,Matches
+173,Christian Eriksen,dk DEN,MF,Manchester Utd,31,1992,12.7,648,805,80.5,10504,2702,340,384,229,277,55,98,2,2.3,2.3,-0.3,27,66,17,3,68,Matches
+174,Maxime Estève,fr FRA,DF,Burnley,21,2002,14.5,690,821,84.0,11622,2998,308,343,336,371,36,79,0,0.0,0.2,0.0,1,41,0,0,40,Matches
+175,Pervis Estupiñán,ec ECU,DF,Brighton,25,1998,13.8,809,962,84.1,11736,3617,480,524,270,313,32,64,3,3.5,2.3,-0.5,26,66,25,11,83,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+176,Jonny Evans,nir NIR,DF,Manchester Utd,35,1988,15.5,729,832,87.6,11952,3843,323,350,344,374,40,72,1,1.2,0.3,-0.2,6,29,3,0,37,Matches
+177,Eberechi Eze,eng ENG,"MF,FW",Crystal Palace,25,1998,22.8,700,909,77.0,11150,3226,353,405,253,301,61,134,4,5.2,5.6,-1.2,54,48,45,7,93,Matches
+178,Łukasz Fabiański,pl POL,GK,West Ham,38,1985,8.0,160,239,66.9,5259,3852,19,19,70,70,70,146,0,0.0,0.0,0.0,0,8,0,0,1,Matches
+179,Romain Faivre,fr FRA,"MF,FW",Bournemouth,25,1998,0.5,19,26,73.1,251,114,9,12,7,7,1,3,0,0.0,0.0,0.0,0,2,1,0,5,Matches
+180,Ansu Fati,es ESP,"MF,FW",Brighton,20,2002,5.8,178,210,84.8,2332,518,117,124,41,50,10,11,0,0.8,0.6,-0.8,6,14,7,0,28,Matches
+181,Felipe,br BRA,DF,Nott'ham Forest,34,1989,4.2,183,215,85.1,3654,1412,61,70,97,105,21,33,0,0.1,0.0,-0.1,2,10,0,0,6,Matches
+182,Evan Ferguson,ie IRL,FW,Brighton,18,2004,15.2,244,303,80.5,3028,349,156,180,54,63,11,15,0,0.5,0.8,-0.5,6,11,4,0,15,Matches
+183,Bruno Fernandes,pt POR,"MF,FW",Manchester Utd,28,1994,34.6,1590,2179,73.0,28404,10273,766,876,532,698,229,432,8,11.8,10.2,-3.8,114,187,89,10,297,Matches
+184,Enzo Fernández,ar ARG,MF,Chelsea,22,2001,24.5,1574,1862,84.5,28776,8415,674,742,661,744,196,273,2,3.4,3.7,-1.4,32,177,43,4,210,Matches
+185,John Fleck,sct SCO,"MF,DF",Sheffield Utd,31,1991,1.0,29,40,72.5,408,88,21,27,7,9,1,2,0,0.4,0.3,-0.4,2,1,1,0,3,Matches
+186,Mark Flekken,nl NED,GK,Brentford,30,1993,36.5,1131,1580,71.6,32732,22385,159,161,575,580,394,832,1,0.5,0.2,+0.5,4,37,1,0,5,Matches
+187,Phil Foden,eng ENG,"FW,MF",Manchester City,23,2000,31.7,1511,1767,85.5,20347,3769,990,1053,388,449,68,135,8,8.4,6.9,-0.4,73,71,57,5,168,Matches
+188,Wes Foderingham,eng ENG,GK,Sheffield Utd,32,1991,29.4,596,1055,56.5,19584,15696,101,102,242,252,253,690,0,0.1,0.1,-0.1,1,19,2,0,0,Matches
+189,Pablo Fornals,es ESP,"MF,FW",West Ham,27,1996,4.7,162,210,77.1,2602,713,83,96,60,75,12,20,0,0.3,0.3,-0.3,5,19,6,1,29,Matches
+190,Omari Forson,eng ENG,FW,Manchester Utd,19,2004,0.8,30,33,90.9,373,78,17,17,10,12,0,0,1,0.2,0.0,+0.8,2,2,1,0,2,Matches
+191,Lyle Foster,za RSA,"FW,MF",Burnley,22,2000,21.1,312,461,67.7,4471,835,197,268,91,124,14,20,3,1.9,1.3,+1.1,19,21,12,0,37,Matches
+192,Matheus França,br BRA,"MF,FW",Crystal Palace,19,2004,2.6,51,79,64.6,910,256,20,29,24,29,5,13,1,0.9,0.5,+0.1,6,4,2,0,8,Matches
+193,Nathan Fraser,ie IRL,FW,Wolves,18,2005,2.1,33,42,78.6,380,45,24,27,7,10,0,0,0,0.1,0.1,-0.1,2,0,2,0,2,Matches
+194,Cody Gakpo,nl NED,"FW,MF",Liverpool,24,1999,18.3,436,564,77.3,6130,1738,266,315,136,183,18,24,5,2.9,2.7,+2.1,25,43,32,5,83,Matches
+195,Conor Gallagher,eng ENG,MF,Chelsea,23,2000,34.8,1801,2018,89.2,26732,5954,1054,1116,598,654,95,146,7,5.0,3.5,+2.0,52,135,32,4,172,Matches
+196,Idrissa Gana Gueye,sn SEN,MF,Everton,33,1989,20.9,758,898,84.4,11688,3236,384,428,317,361,39,66,0,1.1,0.8,-1.1,15,70,9,1,83,Matches
+197,Ben Gannon-Doak,sct SCO,FW,Liverpool,17,2005,0.2,4,4,100.0,45,8,4,4,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+198,Alejandro Garnacho,ar ARG,FW,Manchester Utd,19,2004,28.5,675,901,74.9,9269,1365,422,506,189,233,34,63,4,5.1,2.9,-1.1,46,26,22,4,62,Matches
+199,James Garner,eng ENG,MF,Everton,22,2001,33.4,958,1244,77.0,16067,4432,464,536,374,437,90,185,2,4.6,3.7,-2.6,44,98,24,6,100,Matches
+200,Saman Ghoddos,ir IRN,DF,Brentford,29,1993,8.2,325,448,72.5,5565,1748,164,187,131,167,27,78,0,1.1,1.0,-1.1,9,29,10,4,36,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+201,Morgan Gibbs-White,eng ENG,"MF,FW",Nott'ham Forest,23,2000,35.1,1046,1482,70.6,18447,6110,499,610,350,452,153,298,10,8.4,6.8,+1.6,74,114,39,13,171,Matches
+202,Bryan Gil,es ESP,"FW,MF",Tottenham,22,2001,2.3,127,157,80.9,1809,344,69,81,54,62,1,2,0,0.2,0.3,-0.2,4,6,8,1,16,Matches
+203,Alfie Gilchrist,eng ENG,DF,Chelsea,19,2003,2.3,121,141,85.8,1893,468,63,73,55,61,3,6,0,0.0,0.0,0.0,0,5,1,0,7,Matches
+204,Ryan Giles,eng ENG,"DF,MF",Luton Town,23,2000,5.6,140,218,64.2,2294,949,74,85,56,85,9,39,0,0.2,0.6,-0.2,5,10,10,6,17,Matches
+205,Billy Gilmour,sct SCO,MF,Brighton,22,2001,23.6,1915,2107,90.9,29399,7671,1049,1093,703,759,106,170,1,2.0,2.5,-1.0,22,183,33,3,193,Matches
+206,Ben Godfrey,eng ENG,DF,Everton,25,1998,12.4,336,484,69.4,5725,2373,147,180,157,204,23,62,0,0.3,0.5,-0.3,3,32,6,2,43,Matches
+207,André Gomes,pt POR,"MF,FW",Everton,30,1993,5.6,223,291,76.6,3909,971,112,132,80,95,27,51,0,0.4,0.5,-0.4,4,24,6,1,36,Matches
+208,João Gomes,br BRA,MF,Wolves,22,2001,29.4,1051,1279,82.2,15291,4174,596,665,342,404,50,94,1,1.1,1.7,-0.1,20,73,23,5,101,Matches
+209,Toti Gomes,pt POR,DF,Wolves,24,1999,30.8,1516,1847,82.1,23316,8336,782,859,631,748,60,153,3,1.2,0.6,+1.8,6,78,6,1,79,Matches
+210,Joe Gomez,eng ENG,DF,Liverpool,26,1997,19.8,1114,1345,82.8,18984,5116,519,574,497,585,83,131,1,1.3,1.1,-0.3,22,83,20,7,100,Matches
+211,Sergio Gómez,es ESP,"FW,MF",Manchester City,22,2000,0.6,46,54,85.2,636,97,29,31,15,17,1,2,1,0.2,0.2,+0.8,1,1,2,1,2,Matches
+212,Enso Gonzalez,py PAR,"MF,DF",Wolves,18,2005,0.0,6,6,100.0,87,3,2,2,3,3,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+213,Anthony Gordon,eng ENG,FW,Newcastle Utd,22,2001,32.1,803,1055,76.1,12020,3500,486,559,214,282,70,136,10,8.0,5.6,+2.0,57,54,39,12,101,Matches
+214,Kaide Gordon,eng ENG,FW,Liverpool,18,2004,0.0,1,1,100.0,16,11,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+215,Daniel Gore,eng ENG,MF,Manchester Utd,18,2004,0.0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+216,Ryan Gravenberch,nl NED,MF,Liverpool,21,2002,12.5,415,504,82.3,5520,1719,263,302,122,140,8,12,0,0.9,1.4,-0.9,16,35,27,0,78,Matches
+217,Ivo Grbić,hr CRO,GK,Sheffield Utd,27,1996,8.6,148,298,49.7,5407,4505,23,23,48,54,76,217,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+218,Jack Grealish,eng ENG,"FW,MF",Manchester City,27,1995,11.2,499,580,86.0,7032,1069,302,329,156,174,23,32,1,2.5,2.8,-1.5,26,15,25,0,50,Matches
+219,Pascal Groß,de GER,"MF,DF",Brighton,32,1991,34.6,2774,3223,86.1,42905,13360,1583,1674,914,1035,193,359,10,8.1,9.2,+1.9,103,242,73,27,302,Matches
+220,Marc Guéhi,eng ENG,DF,Crystal Palace,23,2000,22.5,1138,1309,86.9,22770,7962,363,403,636,673,130,212,1,0.6,1.0,+0.4,7,90,5,0,67,Matches
+221,Bruno Guimarães,br BRA,MF,Newcastle Utd,25,1997,36.3,1941,2313,83.9,33351,9336,915,1011,789,902,181,285,8,6.4,6.3,+1.6,62,184,70,5,283,Matches
+222,Malo Gusto,fr FRA,DF,Chelsea,20,2003,19.5,1230,1423,86.4,17534,5080,761,829,394,454,48,73,6,4.3,3.3,+1.7,32,49,29,13,86,Matches
+223,Joško Gvardiol,hr CRO,DF,Manchester City,21,2002,25.9,1671,1919,87.1,25207,6169,931,1010,618,695,77,107,1,1.4,2.1,-0.4,18,141,16,3,136,Matches
+224,Erling Haaland,no NOR,FW,Manchester City,23,2000,28.4,295,388,76.0,3234,567,197,242,56,70,5,8,5,4.3,2.2,+0.7,29,16,11,0,26,Matches
+225,Antwoine Hackford,eng ENG,FW,Sheffield Utd,19,2004,0.1,2,2,100.0,14,0,2,2,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+226,Lewis Hall,eng ENG,DF,Newcastle Utd,18,2004,8.7,452,552,81.9,7570,3083,229,248,186,220,33,61,0,0.3,0.7,-0.3,3,41,3,1,46,Matches
+227,Gustavo Hamer,nl NED,MF,Sheffield Utd,26,1997,32.3,756,1103,68.5,12613,4882,373,451,266,345,80,222,6,6.1,4.6,-0.1,70,94,37,7,135,Matches
+228,Luke Harris,wls WAL,MF,Fulham,18,2005,0.8,11,14,78.6,172,14,5,8,4,4,1,1,0,0.0,0.0,0.0,0,0,1,0,1,Matches
+229,Jack Harrison,eng ENG,"MF,FW",Everton,26,1996,24.6,409,631,64.8,5825,2378,243,291,127,195,23,73,3,3.4,3.3,-0.4,28,37,34,11,62,Matches
+230,Daiki Hashioka,jp JPN,DF,Luton Town,24,1999,6.6,227,282,80.5,3875,1580,101,108,107,126,16,34,0,0.7,0.3,-0.7,3,14,4,3,21,Matches
+231,Kai Havertz,de GER,"MF,FW",Arsenal,24,1999,29.3,764,955,80.0,9583,2405,525,609,195,245,7,15,7,4.4,4.3,+2.6,46,65,29,1,99,Matches
+232,Jan Paul van Hecke,nl NED,DF,Brighton,23,2000,26.3,2225,2415,92.1,38300,14722,939,991,1109,1181,136,186,0,0.9,1.1,-0.9,10,156,10,1,147,Matches
+233,Hwang Hee-chan,kr KOR,"FW,MF",Wolves,27,1996,23.5,424,551,77.0,5661,1028,256,312,131,162,13,21,3,3.0,2.9,0.0,17,19,7,2,37,Matches
+234,Dean Henderson,eng ENG,GK,Crystal Palace,26,1997,18.0,280,485,57.7,7596,5485,75,78,120,123,81,277,0,0.0,0.0,0.0,0,9,1,0,0,Matches
+235,Rico Henry,eng ENG,DF,Brentford,26,1997,4.5,147,183,80.3,2291,763,82,94,51,61,11,19,1,1.0,0.8,0.0,4,10,7,2,20,Matches
+236,Son Heung-min,kr KOR,FW,Tottenham,31,1992,32.6,887,1075,82.5,12123,2822,531,609,297,338,23,38,10,11.8,8.3,-1.8,68,40,65,2,139,Matches
+237,Aaron Hickey,sct SCO,DF,Brentford,21,2002,7.9,243,277,87.7,3813,894,134,140,92,106,14,20,0,0.1,0.1,-0.1,1,10,2,0,21,Matches
+238,James Hill,eng ENG,DF,Bournemouth,21,2002,0.8,28,42,66.7,542,243,13,16,8,13,5,10,0,0.0,0.0,0.0,0,6,0,0,5,Matches
+239,Jack Hinshelwood,eng ENG,DF,Brighton,18,2005,9.7,418,498,83.9,5999,1172,233,267,156,175,9,22,0,0.7,0.4,-0.7,8,24,5,1,19,Matches
+240,Mason Holgate,jm JAM,DF,Sheffield Utd,26,1996,7.9,138,211,65.4,2552,1215,65,83,52,78,19,44,0,0.4,0.2,-0.4,1,17,2,2,13,Matches
+241,Callum Hudson-Odoi,eng ENG,"FW,MF",Nott'ham Forest,22,2000,20.6,576,738,78.0,9055,1826,327,361,187,251,46,83,1,2.8,2.5,-1.8,36,20,32,8,58,Matches
+242,Will Hughes,eng ENG,MF,Crystal Palace,28,1995,21.0,731,878,83.3,10742,3108,389,436,281,317,27,62,1,1.1,1.8,-0.1,21,71,16,2,76,Matches
+243,Pierre Højbjerg,dk DEN,MF,Tottenham,27,1995,14.6,1234,1415,87.2,20132,7286,652,718,440,480,100,142,0,1.2,1.5,-1.2,9,160,12,1,134,Matches
+244,Rasmus Højlund,dk DEN,FW,Manchester Utd,20,2003,24.0,304,402,75.6,3552,884,199,247,58,77,11,12,2,1.6,0.9,+0.4,28,14,14,1,33,Matches
+245,Igor,br BRA,DF,Brighton,25,1998,18.2,1398,1497,93.4,21855,7143,714,742,615,640,49,68,0,0.7,0.5,-0.7,7,123,2,0,107,Matches
+246,Danny Ings,eng ENG,FW,West Ham,31,1992,4.5,76,107,71.0,854,170,40,50,19,24,1,8,0,0.3,0.3,-0.3,5,2,3,0,8,Matches
+247,Tim Iroegbunam,eng ENG,MF,Aston Villa,20,2003,1.8,51,55,92.7,704,229,30,31,19,20,0,0,0,0.0,0.0,0.0,0,1,0,0,1,Matches
+248,Alexander Isak,se SWE,FW,Newcastle Utd,23,1999,25.1,385,493,78.1,5446,1167,237,280,117,142,15,22,2,3.7,2.8,-1.7,27,28,21,0,71,Matches
+249,Alex Iwobi,ng NGA,MF,Everton,27,1996,1.6,27,42,64.3,545,179,13,14,7,10,7,15,0,0.2,0.4,-0.2,4,1,3,1,4,Matches
+250,Alex Iwobi,ng NGA,"FW,MF",Fulham,27,1996,24.4,821,1051,78.1,13556,4268,400,451,325,403,66,118,2,4.7,4.0,-2.7,49,84,46,8,147,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+251,Nicolas Jackson,sn SEN,FW,Chelsea,22,2001,31.1,515,666,77.3,6528,1537,323,386,126,164,20,27,5,4.3,2.9,+0.7,38,40,21,0,67,Matches
+252,Reece James,eng ENG,DF,Chelsea,23,1999,4.7,275,341,80.6,4433,1383,144,163,104,130,19,34,2,1.7,1.6,+0.3,11,21,6,3,21,Matches
+253,Vitaly Janelt,de GER,"MF,DF",Brentford,25,1998,33.9,1088,1398,77.8,17534,5211,579,666,394,496,84,156,3,4.8,3.7,-1.8,37,107,32,15,123,Matches
+254,Daniel Jebbison,ca CAN,FW,Sheffield Utd,19,2003,0.2,1,3,33.3,9,0,1,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+255,Mathias Jensen,dk DEN,MF,Brentford,27,1996,24.5,875,1202,72.8,17423,6338,362,423,337,439,152,268,3,4.0,4.8,-1.0,41,88,41,11,123,Matches
+256,Gabriel Jesus,br BRA,FW,Arsenal,26,1997,16.4,403,513,78.6,5315,971,259,306,111,140,10,16,5,3.8,3.2,+1.2,29,18,19,1,42,Matches
+257,Raúl Jiménez,mx MEX,FW,Fulham,32,1991,15.5,262,382,68.6,3408,717,162,201,54,90,17,33,0,1.5,1.0,-1.5,11,23,11,2,24,Matches
+258,João Pedro,br BRA,"FW,MF",Brighton,21,2001,22.7,659,818,80.6,8706,1876,425,483,178,217,24,43,3,3.8,4.7,-0.8,37,43,44,4,92,Matches
+259,Joelinton,br BRA,"MF,FW",Newcastle Utd,26,1996,14.2,524,627,83.6,7295,1898,312,350,166,191,19,25,1,2.8,1.1,-1.8,23,38,9,0,56,Matches
+260,Ben Johnson,eng ENG,"DF,FW",West Ham,23,2000,6.0,246,334,73.7,3816,1465,141,156,88,121,14,33,0,0.0,0.1,0.0,0,18,1,0,22,Matches
+261,Brennan Johnson,wls WAL,FW,Tottenham,22,2001,23.2,519,728,71.3,7315,1778,333,405,158,217,15,45,10,8.1,4.5,+1.9,45,32,39,10,72,Matches
+262,Brennan Johnson,wls WAL,"FW,MF",Nott'ham Forest,22,2001,2.6,47,61,77.0,671,143,25,29,17,22,2,2,0,0.2,0.0,-0.2,1,2,0,0,1,Matches
+263,Joseph Johnson,eng ENG,DF,Luton Town,17,2006,0.9,30,36,83.3,646,228,9,9,16,17,5,9,0,0.0,0.0,0.0,0,1,0,0,2,Matches
+264,Sam Johnstone,eng ENG,GK,Crystal Palace,30,1993,20.0,343,599,57.3,11568,8793,45,46,143,147,155,401,0,0.0,0.0,0.0,0,13,0,0,0,Matches
+265,Curtis Jones,eng ENG,MF,Liverpool,22,2001,13.0,707,776,91.1,10366,2136,405,428,257,278,22,30,1,0.7,1.1,+0.3,11,64,14,1,74,Matches
+266,Jorginho,it ITA,MF,Arsenal,31,1991,10.2,699,785,89.0,11386,3439,360,380,280,310,45,59,2,1.4,2.1,+0.6,10,81,25,1,101,Matches
+267,Diogo Jota,pt POR,FW,Liverpool,26,1996,12.7,287,394,72.8,3995,939,185,227,83,104,11,17,3,3.3,1.7,-0.3,22,18,12,0,34,Matches
+268,Mads Juel Andersen,dk DEN,DF,Luton Town,25,1997,4.4,87,117,74.4,1570,766,41,47,37,48,9,19,0,0.0,0.0,0.0,0,7,0,0,7,Matches
+269,Hamed Junior Traorè,ci CIV,MF,Bournemouth,23,2000,0.5,18,27,66.7,244,59,10,11,6,8,1,3,0,0.0,0.0,0.0,1,3,0,0,3,Matches
+270,Mathias Jørgensen,dk DEN,DF,Brentford,33,1990,12.1,446,593,75.2,7338,3528,227,262,186,238,27,62,0,0.9,0.5,-0.9,7,52,9,1,50,Matches
+271,Issa Kaboré,bf BFA,DF,Luton Town,22,2001,19.2,533,759,70.2,8402,3289,277,324,203,287,35,78,2,2.1,1.9,-0.1,16,30,18,13,54,Matches
+272,Sasa Kalajdzic,at AUT,FW,Wolves,26,1997,1.8,38,60,63.3,507,130,22,33,10,16,2,5,0,1.0,0.3,-1.0,4,1,2,0,5,Matches
+273,Boubacar Kamara,fr FRA,MF,Aston Villa,23,1999,18.4,922,1035,89.1,14037,3978,521,560,319,344,56,82,1,1.3,1.4,-0.3,20,107,12,0,83,Matches
+274,Willy Kambwala,fr FRA,DF,Manchester Utd,18,2004,3.7,163,192,84.9,2765,960,74,78,85,95,3,14,0,0.0,0.0,0.0,0,7,0,0,8,Matches
+275,Thomas Kaminski,be BEL,GK,Luton Town,30,1992,37.8,869,1468,59.2,27614,22188,173,175,329,344,362,937,0,0.0,0.1,0.0,1,44,2,0,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+276,Loris Karius,de GER,GK,Newcastle Utd,30,1993,1.0,21,37,56.8,507,279,4,4,14,14,3,18,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+277,Michael Keane,eng ENG,DF,Everton,30,1993,4.9,171,221,77.4,3519,1261,47,60,98,113,23,42,0,0.0,0.1,0.0,0,15,0,0,14,Matches
+278,Thilo Kehrer,de GER,"DF,MF",West Ham,26,1996,0.2,9,9,100.0,86,36,7,7,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+279,Caoimhín Kelleher,ie IRL,GK,Liverpool,24,1998,10.0,359,442,81.2,8077,5323,101,101,196,198,62,140,0,0.0,0.0,0.0,1,9,0,0,1,Matches
+280,Lloyd Kelly,eng ENG,DF,Bournemouth,24,1998,17.3,673,906,74.3,13526,4407,234,277,341,400,90,191,1,1.2,0.8,-0.2,9,76,7,4,56,Matches
+281,Omari Kellyman,eng ENG,FW,Aston Villa,17,2005,0.4,6,7,85.7,78,11,4,5,2,2,0,0,0,0.0,0.0,0.0,0,2,0,0,0,Matches
+282,Milos Kerkez,hu HUN,DF,Bournemouth,19,2003,21.9,613,844,72.6,9811,3390,322,375,237,333,43,94,1,0.8,1.0,+0.2,12,34,14,9,44,Matches
+283,Kaine Kesler-Hayden,eng ENG,"MF,DF",Aston Villa,20,2002,0.1,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+284,Max Kilman,eng ENG,DF,Wolves,26,1997,38.0,1979,2309,85.7,36846,13119,766,824,1008,1087,183,346,0,1.4,1.1,-1.4,17,109,11,1,117,Matches
+285,Jakub Kiwior,pl POL,DF,Arsenal,23,2000,10.5,523,625,83.7,8555,3042,270,303,214,249,34,58,3,0.9,0.6,+2.1,6,43,8,3,55,Matches
+286,Justin Kluivert,nl NED,"MF,FW",Bournemouth,24,1999,21.3,288,421,68.4,4393,1193,147,194,104,137,18,32,1,1.9,1.6,-0.9,21,10,24,2,50,Matches
+287,Luca Koleosho,it ITA,"MF,FW",Burnley,18,2004,10.8,192,274,70.1,2509,475,126,153,56,79,2,9,1,1.3,1.1,-0.3,11,9,6,2,19,Matches
+288,Ibrahima Konaté,fr FRA,DF,Liverpool,24,1999,17.5,1286,1463,87.9,22733,9043,514,566,673,718,81,140,0,0.4,0.5,-0.4,8,145,8,0,118,Matches
+289,Ezri Konsa,eng ENG,DF,Aston Villa,25,1997,34.1,1907,2094,91.1,31947,10672,827,878,959,1029,95,129,0,0.5,1.0,-0.5,8,132,14,2,136,Matches
+290,Cheikhou Kouyaté,sn SEN,MF,Nott'ham Forest,33,1989,2.4,47,74,63.5,604,159,32,43,11,19,1,2,0,0.0,0.0,0.0,1,3,0,0,5,Matches
+291,Mateo Kovačić,hr CRO,MF,Manchester City,29,1994,17.2,1435,1527,94.0,20506,4603,835,862,514,544,41,57,0,1.6,1.9,-1.6,21,120,15,0,100,Matches
+292,Emil Krafth,se SWE,DF,Newcastle Utd,28,1994,10.1,488,580,84.1,7498,2971,246,275,216,236,15,39,0,1.0,0.8,-1.0,9,26,13,7,29,Matches
+293,Mohammed Kudus,gh GHA,"FW,MF",West Ham,22,2000,27.6,677,875,77.4,11263,1764,357,405,231,281,70,108,6,3.5,3.7,+2.5,28,32,29,16,80,Matches
+294,Dejan Kulusevski,se SWE,"FW,MF",Tottenham,23,2000,30.7,953,1234,77.2,13509,3584,610,700,279,363,39,72,3,7.7,6.7,-4.7,66,55,73,19,144,Matches
+295,Adam Lallana,eng ENG,"MF,FW",Brighton,35,1988,9.4,451,509,88.6,4936,1088,326,352,78,90,7,8,1,1.7,2.0,-0.7,15,21,16,1,39,Matches
+296,Tariq Lamptey,gh GHA,"DF,FW",Brighton,22,2000,10.2,379,454,83.5,5485,916,217,242,135,163,13,22,3,1.2,0.8,+1.8,10,6,12,6,17,Matches
+297,Aymeric Laporte,es ESP,DF,Manchester City,29,1994,0.1,11,11,100.0,202,48,4,4,7,7,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+298,Yasser Larouci,dz ALG,DF,Sheffield Utd,22,2001,5.9,131,185,70.8,1969,714,76,89,45,59,6,17,0,0.3,0.1,-0.3,2,11,0,0,14,Matches
+299,Jamaal Lascelles,eng ENG,DF,Newcastle Utd,29,1993,12.0,669,774,86.4,11616,3694,252,275,383,421,29,61,0,0.1,0.1,-0.1,2,38,1,0,31,Matches
+300,Roméo Lavia,be BEL,MF,Chelsea,19,2004,0.4,22,27,81.5,350,51,9,10,13,14,0,1,0,0.0,0.0,0.0,0,4,0,0,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+301,Mario Lemina,ga GAB,MF,Wolves,29,1993,33.0,1261,1470,85.8,20364,5341,654,718,485,550,92,146,1,1.5,1.3,-0.5,20,65,8,3,76,Matches
+302,Clément Lenglet,fr FRA,DF,Aston Villa,28,1995,12.8,822,918,89.5,15524,5173,302,319,431,457,82,127,1,0.8,0.5,+0.2,2,34,3,0,51,Matches
+303,Bernd Leno,de GER,GK,Fulham,31,1992,38.0,1250,1577,79.3,29886,18166,266,268,746,750,235,551,0,0.0,0.0,0.0,0,23,0,0,0,Matches
+304,Jefferson Lerma,co COL,"MF,DF",Crystal Palace,28,1994,26.7,1018,1250,81.4,15825,5095,554,625,371,448,65,114,1,2.2,2.0,-1.2,24,109,20,3,106,Matches
+305,Rico Lewis,eng ENG,"DF,MF",Manchester City,18,2004,9.0,518,568,91.2,7100,1127,339,351,159,170,12,20,0,1.1,1.2,-1.1,13,29,9,0,33,Matches
+306,Keane Lewis-Potter,eng ENG,"FW,DF",Brentford,22,2001,16.0,289,415,69.6,4218,969,169,206,89,119,19,56,1,1.7,2.0,-0.7,13,11,14,4,32,Matches
+307,Victor Lindelöf,se SWE,DF,Manchester Utd,29,1994,14.8,826,927,89.1,13195,3696,398,435,355,385,48,70,1,0.3,0.4,+0.7,8,62,3,0,40,Matches
+308,Valentino Livramento,eng ENG,DF,Newcastle Utd,20,2002,14.6,689,802,85.9,10004,2947,421,457,223,257,27,53,0,0.8,0.8,-0.8,12,58,16,3,61,Matches
+309,Giovani Lo Celso,ar ARG,MF,Tottenham,27,1996,5.6,449,503,89.3,6799,2073,244,260,153,165,33,45,2,1.9,1.9,+0.1,18,44,14,3,68,Matches
+310,Tom Lockyer,wls WAL,DF,Luton Town,28,1994,13.0,301,422,71.3,6628,3120,81,104,158,189,57,113,1,0.6,0.3,+0.4,3,37,4,0,37,Matches
+311,Sean Longstaff,eng ENG,MF,Newcastle Utd,25,1997,30.5,991,1241,79.9,15314,4980,551,636,351,430,62,99,2,2.3,3.0,-0.3,20,82,26,4,145,Matches
+312,Max Lowe,eng ENG,"DF,MF",Sheffield Utd,26,1997,5.6,84,130,64.6,1242,436,53,71,25,42,6,12,0,0.7,0.1,-0.7,2,6,3,0,12,Matches
+313,Douglas Luiz,br BRA,MF,Aston Villa,25,1998,33.3,1800,2101,85.7,31199,7807,812,871,775,870,167,276,5,5.4,5.3,-0.4,53,137,39,8,168,Matches
+314,Saša Lukić,rs SRB,MF,Fulham,26,1996,12.5,428,496,86.3,6753,1796,204,229,193,210,20,29,0,0.8,0.5,-0.8,11,31,5,0,43,Matches
+315,Ian Maatsen,nl NED,"FW,MF",Chelsea,21,2002,2.3,97,138,70.3,1316,400,60,73,26,46,4,8,0,0.1,0.2,-0.1,2,6,2,1,8,Matches
+316,Alexis Mac Allister,ar ARG,MF,Liverpool,24,1998,28.9,1704,1967,86.6,26565,7659,884,970,656,722,100,161,5,3.6,4.9,+1.4,47,162,41,2,209,Matches
+317,James Maddison,eng ENG,MF,Tottenham,26,1996,23.7,1210,1500,80.7,19513,6251,631,684,457,557,94,180,9,5.9,6.3,+3.1,67,130,59,3,224,Matches
+318,Noni Madueke,eng ENG,FW,Chelsea,21,2002,11.7,412,486,84.8,5511,1281,268,294,115,136,13,20,2,2.6,2.0,-0.6,20,23,13,2,52,Matches
+319,Gabriel Magalhães,br BRA,DF,Arsenal,25,1997,33.8,1914,2157,88.7,32123,10388,841,885,942,1013,108,199,0,0.7,0.7,-0.7,3,143,9,1,117,Matches
+320,Harry Maguire,eng ENG,DF,Manchester Utd,30,1993,18.4,917,1103,83.1,16999,6419,382,423,412,472,102,176,2,1.2,0.9,+0.8,6,78,6,0,73,Matches
+321,Kobbie Mainoo,eng ENG,MF,Manchester Utd,18,2005,21.4,748,868,86.2,10519,2654,439,486,237,266,31,51,1,0.7,1.6,+0.3,15,47,9,1,64,Matches
+322,Orel Mangala,be BEL,MF,Nott'ham Forest,25,1998,17.4,570,646,88.2,9021,2312,292,321,225,247,37,47,0,0.2,0.3,-0.2,6,39,1,0,45,Matches
+323,Benson Manuel,ao ANG,"MF,FW",Burnley,26,1997,1.3,48,59,81.4,693,153,27,27,16,22,3,4,0,0.0,0.2,0.0,1,2,3,2,2,Matches
+324,Solly March,eng ENG,"FW,DF",Brighton,29,1994,6.2,203,261,77.8,3145,899,118,139,62,78,17,27,1,1.0,1.0,0.0,7,10,7,0,24,Matches
+325,Anthony Martial,fr FRA,FW,Manchester Utd,27,1995,5.0,109,139,78.4,1267,263,70,80,25,33,1,2,0,0.2,0.2,-0.2,6,6,2,0,12,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+326,Gabriel Martinelli,br BRA,FW,Arsenal,22,2001,22.4,724,929,77.9,11003,2008,424,490,237,292,47,85,4,6.1,5.2,-2.1,46,22,33,7,65,Matches
+327,Emiliano Martínez,ar ARG,GK,Aston Villa,30,1992,33.5,1190,1436,82.9,28047,16368,248,250,715,722,223,452,0,0.0,0.0,0.0,2,21,0,0,2,Matches
+328,Lisandro Martínez,ar ARG,DF,Manchester Utd,25,1998,7.2,411,446,92.2,6870,2103,186,192,192,202,26,41,1,0.1,0.1,+0.9,3,29,1,0,28,Matches
+329,Han-Noah Massengo,fr FRA,"MF,DF",Burnley,22,2001,0.2,6,12,50.0,74,42,5,7,1,4,0,0,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+330,Pape Matar Sarr,sn SEN,MF,Tottenham,20,2002,23.0,1179,1349,87.4,17118,4177,662,718,402,453,52,77,3,2.2,2.1,+0.8,20,108,23,4,150,Matches
+331,Jean-Philippe Mateta,fr FRA,FW,Crystal Palace,26,1997,25.4,309,433,71.4,4043,785,195,245,75,112,13,14,5,3.1,1.3,+1.9,32,11,14,4,25,Matches
+332,Joël Matip,cm CMR,DF,Liverpool,31,1991,8.7,494,564,87.6,8687,3066,198,216,257,287,33,47,0,0.1,0.1,-0.1,2,27,2,0,34,Matches
+333,Alex Matos,eng ENG,MF,Chelsea,18,2004,0.0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+334,Remi Matthews,eng ENG,GK,Crystal Palace,29,1994,0.0,0,5,0.0,0,0,0,0,0,0,0,5,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+335,Neal Maupay,fr FRA,FW,Brentford,26,1996,14.7,282,392,71.9,4002,913,172,208,66,97,23,32,3,2.3,2.2,+0.7,15,17,17,2,37,Matches
+336,Neal Maupay,fr FRA,FW,Everton,26,1996,1.2,22,26,84.6,353,14,12,13,8,9,1,1,0,0.1,0.0,-0.1,1,0,0,0,0,Matches
+337,Konstantinos Mavropanos,gr GRE,DF,West Ham,25,1997,16.7,482,635,75.9,9625,3911,155,179,266,303,53,131,0,0.2,0.1,-0.2,3,29,1,0,38,Matches
+338,Bryan Mbeumo,cm CMR,FW,Brentford,23,1999,21.8,511,765,66.8,7853,2424,299,373,144,220,48,91,6,4.6,5.6,+1.4,32,32,36,4,88,Matches
+339,James Mcatee,eng ENG,"MF,FW",Sheffield Utd,20,2002,20.2,362,530,68.3,5320,1456,209,263,113,168,25,56,3,2.9,2.1,+0.1,28,30,25,3,51,Matches
+340,James Mcatee,eng ENG,MF,Manchester City,20,2002,0.0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+341,Oliver McBurnie,sct SCO,FW,Sheffield Utd,27,1996,14.2,242,408,59.3,2917,746,163,256,57,97,4,7,3,2.0,2.0,+1.0,12,27,5,1,30,Matches
+342,James McConnell,eng ENG,MF,Liverpool,18,2004,0.0,5,6,83.3,93,29,2,2,3,3,0,0,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+343,John McGinn,sct SCO,"MF,FW",Aston Villa,28,1994,33.3,972,1223,79.5,17953,5844,434,489,396,462,130,217,4,4.6,4.9,-0.6,44,124,52,14,189,Matches
+344,Scott McKenna,sct SCO,DF,Nott'ham Forest,26,1996,4.6,137,186,73.7,2769,1280,38,48,82,109,17,28,0,0.2,0.2,-0.2,3,10,3,0,10,Matches
+345,Dwight McNeil,eng ENG,"MF,FW",Everton,23,1999,32.1,874,1266,69.0,14956,5035,465,534,263,371,116,252,6,8.8,8.2,-2.8,69,72,54,20,114,Matches
+346,Scott McTominay,sct SCO,"MF,FW",Manchester Utd,26,1996,21.1,528,655,80.6,7877,2012,307,356,174,206,30,41,1,0.8,0.5,+0.2,11,63,9,0,64,Matches
+347,Ben Mee,eng ENG,DF,Brentford,33,1989,14.1,511,667,76.6,9030,3658,218,249,235,285,49,103,0,0.3,0.7,-0.3,6,45,4,2,49,Matches
+348,Hannibal Mejbri,tn TUN,"MF,FW",Manchester Utd,20,2003,1.5,31,38,81.6,442,143,21,21,7,9,3,6,0,0.4,0.5,-0.4,2,6,1,0,6,Matches
+349,Teden Mengi,eng ENG,DF,Luton Town,21,2002,27.4,728,938,77.6,14286,5525,256,296,378,431,82,177,0,0.3,0.6,-0.3,6,62,5,0,54,Matches
+350,Chris Mepham,wls WAL,DF,Bournemouth,25,1997,6.9,296,359,82.5,5965,1994,96,115,163,184,35,55,1,0.4,0.5,+0.6,3,34,4,0,25,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+351,Lewis Miley,eng ENG,MF,Newcastle Utd,17,2006,13.4,441,535,82.4,6580,1615,255,296,143,165,24,40,3,1.7,1.4,+1.3,12,26,12,2,53,Matches
+352,James Milner,eng ENG,"DF,MF",Brighton,37,1986,8.6,492,585,84.1,7622,2496,269,297,181,210,27,46,2,1.8,1.7,+0.2,16,46,17,6,69,Matches
+353,Tyrone Mings,eng ENG,DF,Aston Villa,30,1993,0.3,5,5,100.0,119,86,0,0,2,2,2,2,0,0.0,0.2,0.0,1,1,0,0,0,Matches
+354,Tyrick Mitchell,eng ENG,"DF,MF",Crystal Palace,23,1999,35.6,1177,1627,72.3,18588,7927,605,718,486,654,63,142,3,2.8,2.4,+0.2,24,74,29,12,94,Matches
+355,Kaoru Mitoma,jp JPN,FW,Brighton,26,1997,16.5,509,650,78.3,6210,1486,357,413,110,153,9,24,4,2.7,3.6,+1.3,25,23,34,5,64,Matches
+356,Aleksandar Mitrović,rs SRB,FW,Fulham,28,1994,0.4,4,8,50.0,78,24,1,3,2,4,1,1,0,0.0,0.0,0.0,0,1,1,0,1,Matches
+357,Jakub Moder,pl POL,"MF,DF",Brighton,24,1999,6.9,243,304,79.9,3263,908,150,165,75,94,5,14,0,0.8,0.8,-0.8,4,15,3,0,23,Matches
+358,Gonzalo Montiel,ar ARG,DF,Nott'ham Forest,26,1997,8.9,292,386,75.6,4600,1987,155,172,112,154,16,38,2,1.4,0.9,+0.6,9,22,9,1,28,Matches
+359,Kieffer Moore,wls WAL,"FW,MF",Bournemouth,30,1992,1.2,28,42,66.7,272,91,22,29,4,8,0,0,0,0.2,0.3,-0.2,2,2,2,0,4,Matches
+360,Mikey Moore,eng ENG,MF,Tottenham,15,2007,0.0,4,5,80.0,51,11,3,4,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+361,Álex Moreno,es ESP,DF,Aston Villa,30,1993,11.5,428,542,79.0,6466,1602,235,264,171,210,17,30,0,1.1,1.0,-1.1,11,10,13,2,24,Matches
+362,Carlton Morris,eng ENG,"FW,MF",Luton Town,27,1995,31.8,484,751,64.4,6404,1199,310,415,132,209,18,34,4,2.8,1.6,+1.2,22,27,11,0,56,Matches
+363,Mason Mount,eng ENG,"MF,FW",Manchester Utd,24,1999,5.7,179,219,81.7,2414,735,111,125,42,53,10,17,0,0.3,0.4,-0.3,6,17,6,2,21,Matches
+364,Divin Mubama,eng ENG,FW,West Ham,18,2004,0.9,16,22,72.7,200,15,12,16,2,3,1,1,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+365,Mykhailo Mudryk,ua UKR,FW,Chelsea,22,2001,17.5,385,566,68.0,5618,1853,237,300,96,148,30,66,2,4.1,3.2,-2.1,32,24,22,4,45,Matches
+366,Rodrigo Muniz,br BRA,FW,Fulham,22,2001,17.7,136,222,61.3,2018,532,74,113,39,64,12,16,1,2.0,0.9,-1.0,18,14,7,0,19,Matches
+367,Daniel Muñoz,co COL,"DF,MF",Crystal Palace,27,1996,16.0,561,720,77.9,7556,2865,365,417,164,228,14,35,4,2.4,1.3,+1.6,21,25,4,0,38,Matches
+368,Finley Munroe,eng ENG,MF,Aston Villa,18,2005,0.0,1,1,100.0,16,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+369,Arijanet Muric,xk KVX,GK,Burnley,24,1998,10.0,404,585,69.1,11273,8376,67,68,196,207,140,302,0,0.2,0.1,-0.2,4,16,1,0,1,Matches
+370,Murillo,br BRA,DF,Nott'ham Forest,21,2002,31.0,1122,1459,76.9,22965,10556,387,440,571,656,154,326,2,1.2,0.6,+0.8,7,101,11,0,89,Matches
+371,Alex Murphy,ie IRL,"DF,FW",Newcastle Utd,19,2004,0.1,17,17,100.0,275,81,10,10,5,5,2,2,0,0.0,0.0,0.0,0,2,0,0,1,Matches
+372,Jacob Murphy,eng ENG,"FW,DF",Newcastle Utd,28,1995,13.2,343,519,66.1,5229,2012,200,244,117,175,19,61,7,5.0,3.4,+2.0,31,32,30,8,52,Matches
+373,Vitaliy Mykolenko,ua UKR,DF,Everton,24,1999,27.4,869,1166,74.5,13579,5739,488,549,275,368,81,169,0,0.9,1.1,-0.9,13,46,17,10,55,Matches
+374,Marvelous Nakamba,zw ZIM,MF,Luton Town,29,1994,12.6,356,423,84.2,5622,1605,184,203,126,143,27,42,0,0.4,0.5,-0.4,7,27,2,1,36,Matches
+375,Michael Ndiweni,eng ENG,FW,Newcastle Utd,19,2003,0.0,1,2,50.0,16,15,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+376,Reiss Nelson,eng ENG,FW,Arsenal,23,1999,3.0,127,144,88.2,1674,298,80,83,31,36,6,12,0,0.6,0.4,-0.6,5,1,6,2,5,Matches
+377,Zack Nelson,eng ENG,"MF,DF",Luton Town,18,2004,0.1,4,4,100.0,41,0,2,2,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+378,Neto,br BRA,GK,Bournemouth,34,1989,32.0,692,1060,65.3,20318,15023,95,97,360,371,236,585,0,0.0,0.0,0.0,0,23,0,0,0,Matches
+379,Pedro Neto,pt POR,"FW,MF",Wolves,23,2000,16.8,538,722,74.5,8269,1984,308,354,154,210,49,98,9,4.4,3.7,+4.6,38,23,29,12,54,Matches
+380,Moussa Niakhate,sn SEN,DF,Nott'ham Forest,27,1996,16.2,618,775,79.7,11445,4223,237,252,310,381,66,123,0,0.1,0.3,-0.1,3,30,5,1,39,Matches
+381,Eddie Nketiah,eng ENG,FW,Arsenal,24,1999,12.0,168,215,78.1,2332,267,98,118,60,72,3,4,2,0.8,0.7,+1.2,9,7,5,0,20,Matches
+382,Christopher Nkunku,fr FRA,"FW,MF",Chelsea,25,1997,4.9,159,183,86.9,2048,567,101,109,39,43,4,10,0,0.2,0.5,-0.2,3,14,7,0,19,Matches
+383,Rhys Norrington-Davies,wls WAL,DF,Sheffield Utd,24,1999,1.2,48,67,71.6,811,222,23,25,23,31,2,7,0,0.0,0.0,0.0,1,1,0,0,2,Matches
+384,Oliver Norwood,nir NIR,MF,Sheffield Utd,32,1991,16.0,634,911,69.6,12291,4646,246,296,262,321,105,253,0,0.6,1.2,-0.6,17,67,11,2,73,Matches
+385,Matheus Nunes,pt POR,MF,Wolves,24,1998,2.0,87,106,82.1,1077,279,59,68,23,26,2,6,0,0.1,0.2,-0.1,3,6,1,0,8,Matches
+386,Matheus Nunes,pt POR,MF,Manchester City,24,1998,7.3,373,443,84.2,5054,783,233,255,115,133,11,23,2,1.1,1.5,+0.9,9,23,16,2,34,Matches
+387,Darwin Núñez,uy URU,FW,Liverpool,24,1999,22.7,341,493,69.2,4780,1020,196,251,101,147,22,37,8,6.0,4.5,+2.0,33,23,26,0,54,Matches
+388,Ethan Nwaneri,eng ENG,FW,Arsenal,16,2007,0.2,15,18,83.3,209,56,10,13,5,5,0,0,0,0.0,0.0,0.0,1,1,2,0,2,Matches
+389,Christian Nørgaard,dk DEN,MF,Brentford,29,1994,27.8,1199,1501,79.9,19114,6144,639,725,458,559,78,146,1,1.9,2.4,-0.9,24,113,26,4,161,Matches
+390,Mark O'Mahony,ie IRL,FW,Brighton,18,2005,0.7,13,16,81.3,162,2,7,8,5,6,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+391,Dara O'Shea,ie IRL,DF,Burnley,24,1999,32.1,1393,1759,79.2,27584,10235,459,551,752,854,168,304,4,2.0,1.0,+2.0,13,139,6,3,122,Matches
+392,Michael Obafemi,ie IRL,"FW,MF",Burnley,23,2000,0.2,4,5,80.0,55,2,3,3,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+393,Wilson Odobert,fr FRA,"MF,FW",Burnley,18,2004,23.3,446,584,76.4,6236,1559,285,330,134,173,16,31,2,3.3,3.6,-1.3,31,34,19,5,58,Matches
+394,Odeluga Offiah,eng ENG,DF,Brighton,20,2002,1.4,63,80,78.8,851,196,39,41,21,24,2,7,0,0.0,0.0,0.0,0,1,1,0,4,Matches
+395,Chiedozie Ogbene,ie IRL,"MF,DF",Luton Town,26,1997,22.2,589,790,74.6,8171,2314,365,409,175,234,22,57,1,3.1,3.5,-2.1,25,24,18,5,53,Matches
+396,Angelo Ogbonna,it ITA,DF,West Ham,35,1988,7.1,171,214,79.9,3291,1109,60,67,94,104,14,38,0,0.0,0.1,0.0,0,6,0,0,4,Matches
+397,Michael Olakigbe,eng ENG,"DF,FW",Brentford,19,2004,0.7,27,40,67.5,347,74,17,20,7,10,1,5,0,0.0,0.0,0.0,0,2,1,0,4,Matches
+398,Michael Olise,fr FRA,"FW,MF",Crystal Palace,21,2001,14.2,540,721,74.9,8557,2634,300,339,154,195,55,116,6,5.8,5.0,+0.2,36,43,34,3,78,Matches
+399,Robin Olsen,se SWE,GK,Aston Villa,33,1990,4.5,165,203,81.3,3545,2046,49,49,89,90,26,63,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+400,Andrew Omobamidele,ie IRL,DF,Nott'ham Forest,21,2002,8.7,271,310,87.4,5197,1449,78,91,174,189,16,25,0,0.1,0.0,-0.1,2,9,0,0,8,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+401,Amadou Onana,be BEL,MF,Everton,21,2001,23.2,871,1036,84.1,14568,4039,444,499,312,357,85,115,0,2.7,1.4,-2.7,18,102,14,1,107,Matches
+402,André Onana,cm CMR,GK,Manchester Utd,27,1996,38.0,1105,1521,72.6,27115,18646,279,280,547,559,267,661,0,0.1,0.1,-0.1,3,35,3,0,5,Matches
+403,Ryan One,sct SCO,FW,Sheffield Utd,17,2006,0.1,1,1,100.0,7,0,1,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+404,Tyler Onyango,eng ENG,MF,Everton,20,2003,0.0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+405,Fred Onyedinma,eng ENG,"DF,MF",Luton Town,26,1996,4.5,91,135,67.4,1431,352,45,58,42,61,2,7,0,0.1,0.1,-0.1,2,4,2,1,6,Matches
+406,Frank Onyeka,ng NGA,MF,Brentford,25,1998,12.9,299,396,75.5,4662,1127,159,181,114,152,18,35,2,1.8,1.4,+0.2,12,23,11,5,33,Matches
+407,Divock Origi,be BEL,FW,Nott'ham Forest,28,1995,6.7,92,144,63.9,1357,327,59,82,19,32,9,13,1,2.1,0.8,-1.1,7,7,5,1,14,Matches
+408,Stefan Ortega,de GER,GK,Manchester City,30,1992,7.1,213,266,80.1,4942,3526,58,58,108,110,46,96,0,0.0,0.0,0.0,0,2,0,0,0,Matches
+409,Ben Osborn,eng ENG,"DF,MF",Sheffield Utd,28,1994,15.2,448,608,73.7,7007,2650,253,281,145,194,35,90,2,0.9,0.9,+1.1,13,34,11,8,55,Matches
+410,Gabriel Osho,ng NGA,DF,Luton Town,24,1998,20.5,580,706,82.2,10931,4019,195,222,342,384,41,87,0,0.1,0.2,-0.1,2,30,3,1,37,Matches
+411,William Osula,dk DEN,FW,Sheffield Utd,19,2003,8.7,49,93,52.7,592,88,33,56,8,20,2,5,0,0.1,0.2,-0.1,1,3,2,1,2,Matches
+412,Dango Ouattara,bf BFA,"FW,DF",Bournemouth,21,2002,13.7,371,558,66.5,5941,1943,190,255,147,201,25,57,2,1.5,1.4,+0.5,17,25,11,5,35,Matches
+413,David Ozoh,eng ENG,"MF,DF",Crystal Palace,18,2005,1.7,48,51,94.1,695,112,21,22,25,25,0,0,0,0.0,0.0,0.0,0,3,0,0,4,Matches
+414,João Palhinha,pt POR,MF,Fulham,28,1995,30.0,1098,1333,82.4,19131,5348,522,586,449,503,101,163,1,0.8,1.0,+0.2,13,96,7,1,97,Matches
+415,Cole Palmer,eng ENG,"FW,MF",Chelsea,21,2002,29.0,1121,1415,79.2,18622,5642,574,636,407,479,101,186,11,11.1,8.7,-0.1,72,136,69,5,197,Matches
+416,Cole Palmer,eng ENG,MF,Manchester City,21,2002,0.1,4,5,80.0,51,0,2,2,2,3,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+417,Emerson Palmieri,it ITA,DF,West Ham,28,1994,34.9,1421,1745,81.4,19356,7676,893,983,406,510,54,104,2,2.4,2.1,-0.4,25,89,22,7,125,Matches
+418,Lucas Paquetá,br BRA,"FW,MF",West Ham,25,1997,29.1,1082,1465,73.9,16561,5842,598,714,334,435,95,173,6,5.4,5.1,+0.6,43,143,50,8,187,Matches
+419,Ben Parkinson,eng ENG,FW,Newcastle Utd,18,2005,0.3,1,3,33.3,15,0,0,1,1,2,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+420,Thomas Partey,gh GHA,"MF,DF",Arsenal,30,1993,8.8,570,636,89.6,9177,2564,298,321,224,243,37,54,0,0.3,0.6,-0.3,6,61,14,2,72,Matches
+421,Nathan Patterson,sct SCO,DF,Everton,21,2001,11.2,393,550,71.5,6185,2761,219,252,124,182,38,86,2,1.7,1.0,+0.3,8,30,14,6,38,Matches
+422,Myles Peart-Harris,eng ENG,"DF,MF",Brentford,20,2002,0.1,6,10,60.0,68,10,5,5,1,2,0,2,0,0.0,0.0,0.0,1,1,0,0,1,Matches
+423,Sydie Peck,eng ENG,MF,Sheffield Utd,18,2004,0.1,1,1,100.0,10,0,1,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+424,Facundo Pellistri,uy URU,"FW,MF",Manchester Utd,21,2001,1.9,60,79,75.9,675,146,47,53,11,17,0,0,1,0.1,0.4,+0.9,1,4,2,0,6,Matches
+425,Andreas Pereira,br BRA,MF,Fulham,27,1996,29.0,912,1295,70.4,16256,5305,436,500,309,400,133,289,7,7.1,5.7,-0.1,84,95,34,11,138,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+426,Ivan Perišić,hr CRO,FW,Tottenham,34,1989,1.1,53,76,69.7,828,363,31,39,14,22,7,13,1,0.9,0.7,+0.1,5,4,6,2,9,Matches
+427,Đorđe Petrović,rs SRB,GK,Chelsea,23,1999,22.1,635,806,78.8,14560,8862,188,188,321,324,123,289,0,0.0,0.0,0.0,0,3,0,0,1,Matches
+428,Kalvin Phillips,eng ENG,MF,West Ham,27,1995,3.4,141,179,78.8,2507,567,62,74,64,77,12,20,0,0.0,0.0,0.0,0,24,0,0,19,Matches
+429,Kalvin Phillips,eng ENG,MF,Manchester City,27,1995,1.0,62,70,88.6,1067,300,31,32,24,26,7,10,0,0.0,0.1,0.0,0,8,1,1,7,Matches
+430,Jaden Philogene Bidace,eng ENG,FW,Aston Villa,21,2002,0.0,3,4,75.0,27,5,3,3,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+431,Jordan Pickford,eng ENG,GK,Everton,29,1994,38.0,986,1576,62.6,33034,26388,144,145,378,390,461,1031,0,0.1,0.4,-0.1,4,97,8,0,6,Matches
+432,Ethan Pinnock,jm JAM,DF,Brentford,30,1993,28.0,1192,1432,83.2,22546,7516,399,466,672,739,98,178,0,1.0,0.8,-1.0,4,76,5,0,61,Matches
+433,Nick Pope,eng ENG,GK,Newcastle Utd,31,1992,14.9,307,399,76.9,7910,4836,59,60,168,172,79,165,0,0.0,0.0,0.0,0,5,0,0,0,Matches
+434,Pedro Porro,es ESP,DF,Tottenham,23,1999,34.3,1806,2369,76.2,27440,10519,1057,1171,579,745,121,297,7,7.2,6.0,-0.2,51,135,48,10,194,Matches
+435,Jarell Quansah,eng ENG,DF,Liverpool,20,2003,13.2,1038,1172,88.6,18672,6199,368,392,595,633,61,115,0,0.1,0.2,-0.1,3,69,1,0,67,Matches
+436,Ionuț Radu,ro ROU,GK,Bournemouth,26,1997,2.0,56,68,82.4,1211,583,19,19,29,30,8,19,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+437,Jesurun Rak Sakyi,eng ENG,"MF,FW",Crystal Palace,20,2002,1.5,37,50,74.0,535,79,24,28,11,16,2,3,0,0.2,0.1,-0.2,2,2,0,0,2,Matches
+438,Aaron Ramsdale,eng ENG,GK,Arsenal,25,1998,6.0,131,188,69.7,3303,2420,38,38,61,62,32,86,0,0.0,0.0,0.0,0,4,0,0,2,Matches
+439,Aaron Ramsey,eng ENG,"MF,FW",Burnley,20,2003,5.9,118,151,78.1,1856,224,71,84,37,46,9,10,0,0.4,0.5,-0.4,1,7,2,0,8,Matches
+440,Jacob Ramsey,eng ENG,"FW,MF",Aston Villa,22,2001,9.5,257,322,79.8,3751,863,143,173,97,115,9,12,1,1.0,1.4,0.0,10,22,5,0,28,Matches
+441,Marcus Rashford,eng ENG,FW,Manchester Utd,25,1997,25.2,559,742,75.3,7674,2035,351,418,139,192,33,61,2,2.3,2.8,-0.3,23,34,30,1,65,Matches
+442,David Raya,es ESP,GK,Arsenal,27,1995,32.0,800,1068,74.9,19691,14108,228,231,387,391,183,439,0,0.0,0.1,0.0,0,30,0,0,2,Matches
+443,Tim Ream,us USA,DF,Fulham,35,1987,16.7,944,1060,89.1,18892,6949,308,333,515,559,110,143,0,0.0,0.1,0.0,0,78,1,0,65,Matches
+444,Nathan Redmond,eng ENG,"FW,MF",Burnley,29,1994,1.6,48,73,65.8,723,137,30,36,11,19,4,9,0,0.3,0.4,-0.3,3,3,4,1,8,Matches
+445,Harrison Reed,eng ENG,MF,Fulham,28,1995,14.7,627,748,83.8,9667,2279,306,341,263,298,33,51,2,1.1,1.5,+0.9,14,40,15,2,56,Matches
+446,Sergio Reguilón,es ESP,DF,Manchester Utd,26,1996,4.6,244,314,77.7,3669,1356,137,157,84,111,16,26,0,0.7,0.6,-0.7,8,20,4,2,27,Matches
+447,Sergio Reguilón,es ESP,DF,Brentford,26,1996,12.4,351,522,67.2,6057,2626,161,194,147,201,34,82,4,2.8,2.2,+1.2,20,17,17,13,38,Matches
+448,Gio Reyna,us USA,"FW,MF",Nott'ham Forest,20,2002,2.6,118,140,84.3,1768,374,69,74,40,45,7,13,1,0.5,0.4,+0.5,7,5,2,0,12,Matches
+449,Rodrigo Ribeiro,pt POR,"MF,FW",Nott'ham Forest,18,2005,0.2,6,8,75.0,89,35,2,4,3,3,0,0,0,0.0,0.0,0.0,0,1,0,0,2,Matches
+450,Declan Rice,eng ENG,MF,Arsenal,24,1999,35.8,2041,2295,88.9,34242,9378,958,1031,910,975,137,210,8,5.3,4.8,+2.7,47,240,39,2,278,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+451,Chris Richards,us USA,"DF,MF",Crystal Palace,23,2000,23.3,778,942,82.6,13337,4341,362,413,341,389,58,100,1,0.4,0.2,+0.6,6,41,2,0,43,Matches
+452,Richarlison,br BRA,FW,Tottenham,26,1997,16.6,267,392,68.1,3761,956,153,193,85,119,10,15,4,2.1,1.4,+1.9,15,21,13,1,38,Matches
+453,Jaïro Riedewald,nl NED,"MF,FW",Crystal Palace,26,1996,2.6,87,113,77.0,1422,331,37,42,40,46,5,13,0,0.0,0.1,0.0,0,5,2,0,10,Matches
+454,Matt Ritchie,sct SCO,"FW,MF",Newcastle Utd,33,1989,1.4,70,93,75.3,959,234,45,53,22,26,2,9,0,0.0,0.1,0.0,0,5,3,0,8,Matches
+455,Connor Roberts,wls WAL,DF,Burnley,27,1995,9.1,395,495,79.8,6987,2370,162,182,194,222,34,67,1,0.2,0.4,+0.8,7,32,8,2,38,Matches
+456,Andrew Robertson,sct SCO,DF,Liverpool,29,1994,18.8,1248,1547,80.7,21306,7231,609,654,495,587,122,239,2,5.4,4.4,-3.4,62,118,26,12,140,Matches
+457,Antonee Robinson,us USA,DF,Fulham,25,1997,36.3,1514,2054,73.7,27304,9830,664,796,643,813,176,324,6,4.2,3.7,+1.8,33,113,46,26,129,Matches
+458,Jack Robinson,eng ENG,DF,Sheffield Utd,29,1993,32.1,895,1255,71.3,17482,7694,318,364,453,555,113,286,1,1.2,1.0,-0.2,12,66,7,4,63,Matches
+459,Rodri,es ESP,MF,Manchester City,27,1996,32.6,3365,3656,92.0,57256,15766,1676,1774,1273,1360,340,401,9,3.9,6.1,+5.1,49,378,61,0,376,Matches
+460,Jay Rodriguez,eng ENG,FW,Burnley,34,1989,9.1,142,216,65.7,1958,396,89,119,36,52,9,27,1,0.2,0.1,+0.8,4,16,2,0,17,Matches
+461,Mads Roerslev,dk DEN,DF,Brentford,24,1999,22.1,496,742,66.8,8448,2978,238,301,202,297,47,93,2,1.8,1.4,+0.2,15,32,23,21,43,Matches
+462,Morgan Rogers,eng ENG,"MF,FW",Aston Villa,21,2002,7.1,147,195,75.4,2253,847,77,99,50,60,12,14,1,0.6,0.4,+0.4,9,16,12,0,28,Matches
+463,Cristian Romero,ar ARG,DF,Tottenham,25,1998,31.0,2390,2606,91.7,41458,16198,966,1035,1279,1341,111,158,0,0.4,1.5,-0.4,7,189,14,0,179,Matches
+464,Joe Rothwell,eng ENG,MF,Bournemouth,28,1995,4.3,179,216,82.9,3185,863,65,68,100,108,10,30,0,0.2,0.2,-0.2,4,20,1,0,20,Matches
+465,Pelly Ruddock Mpanzu,cd COD,MF,Luton Town,30,1993,12.2,268,364,73.6,4413,1102,123,141,110,143,16,36,0,0.4,1.4,-0.4,6,17,13,2,34,Matches
+466,José Sá,pt POR,GK,Wolves,30,1993,33.7,720,1097,65.6,17257,11201,186,190,360,369,162,522,1,0.0,0.0,+1.0,1,8,0,0,1,Matches
+467,Dominic Sadi,eng ENG,FW,Bournemouth,19,2003,0.0,0,1,0.0,0,0,0,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+468,Bukayo Saka,eng ENG,FW,Arsenal,21,2001,32.4,1143,1512,75.6,16891,4402,705,793,331,427,80,183,9,10.5,11.0,-1.5,91,39,73,12,126,Matches
+469,Mohamed Salah,eg EGY,FW,Liverpool,31,1992,28.2,737,1010,73.0,10826,3213,433,510,234,331,43,65,10,11.8,7.5,-1.8,66,56,68,6,147,Matches
+470,William Saliba,fr FRA,DF,Arsenal,22,2001,38.0,2635,2851,92.4,43599,15948,1202,1274,1298,1373,104,150,1,0.2,0.9,+0.8,6,175,6,1,157,Matches
+471,Albert Sambi Lokonga,be BEL,MF,Luton Town,23,1999,14.5,669,766,87.3,11099,3318,319,348,253,285,55,76,3,1.4,0.8,+1.6,9,68,6,1,72,Matches
+472,Davinson Sánchez,co COL,DF,Tottenham,27,1996,0.9,68,75,90.7,1045,377,37,38,27,29,3,6,0,0.0,0.0,0.0,0,13,0,0,2,Matches
+473,Robert Sánchez,es ESP,GK,Chelsea,25,1997,15.9,500,609,82.1,11860,7720,135,136,250,257,112,211,0,0.0,0.0,0.0,0,8,0,0,1,Matches
+474,Jadon Sancho,eng ENG,"FW,MF",Manchester Utd,23,2000,0.9,34,43,79.1,446,116,22,25,10,14,1,1,0,0.1,0.1,-0.1,1,2,2,0,4,Matches
+475,Ibrahim Sangaré,ci CIV,MF,Nott'ham Forest,25,1997,11.5,339,425,79.8,5477,1680,181,207,115,136,32,50,0,0.4,0.4,-0.4,7,34,5,0,44,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+476,Andrey Santos,br BRA,MF,Nott'ham Forest,19,2004,0.1,6,6,100.0,90,31,4,4,2,2,0,0,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+477,Pablo Sarabia,es ESP,"MF,FW",Wolves,31,1992,19.4,684,976,70.1,11034,3731,377,439,195,263,73,168,7,5.9,4.9,+1.1,51,59,40,6,109,Matches
+478,Dane Scarlett,eng ENG,FW,Tottenham,19,2004,0.2,2,3,66.7,25,16,1,1,1,2,0,0,0,0.0,0.0,0.0,0,1,0,0,1,Matches
+479,Kevin Schade,de GER,"FW,MF",Brentford,21,2001,3.7,58,95,61.1,819,220,36,49,19,32,2,4,1,0.7,0.7,+0.3,4,8,3,2,9,Matches
+480,Fabian Schär,ch SUI,DF,Newcastle Utd,31,1991,33.9,1762,2128,82.8,36227,14874,588,647,894,985,261,437,1,0.7,1.4,+0.3,10,145,18,3,133,Matches
+481,Jeffrey Schlupp,gh GHA,"FW,MF",Crystal Palace,30,1992,15.0,247,334,74.0,3498,903,146,182,88,106,7,25,2,2.3,1.4,-0.3,19,17,9,2,33,Matches
+482,Alex Scott,eng ENG,MF,Bournemouth,19,2003,11.3,361,474,76.2,5733,1583,186,227,138,161,25,60,1,1.7,1.1,-0.7,22,22,15,2,50,Matches
+483,Matz Sels,be BEL,GK,Nott'ham Forest,31,1992,16.0,263,378,69.6,7689,5794,66,66,102,104,92,203,0,0.1,0.1,-0.1,1,14,3,0,0,Matches
+484,Nélson Semedo,pt POR,"DF,MF",Wolves,29,1993,34.3,1474,1849,79.7,21759,7306,876,969,495,616,69,158,1,1.7,1.8,-0.7,24,101,25,10,138,Matches
+485,Antoine Semenyo,gh GHA,FW,Bournemouth,23,2000,23.4,452,647,69.9,6944,1597,254,324,160,214,25,49,2,3.2,2.3,-1.2,29,28,28,7,64,Matches
+486,Marcos Senesi,ar ARG,DF,Bournemouth,26,1997,24.9,1005,1297,77.5,21763,9395,307,340,511,570,181,345,5,1.7,2.5,+3.3,22,156,31,11,127,Matches
+487,Luke Shaw,eng ENG,DF,Manchester Utd,28,1995,10.7,531,648,81.9,8242,3114,273,306,201,237,31,65,0,1.0,0.9,-1.0,13,33,7,0,45,Matches
+488,James Shea,eng ENG,GK,Luton Town,32,1991,0.2,6,9,66.7,239,215,0,0,3,3,3,6,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+489,Bernardo Silva,pt POR,"MF,FW",Manchester City,28,1994,28.6,1671,1936,86.3,25138,5246,993,1052,534,620,106,158,9,7.6,8.0,+1.4,64,100,49,10,177,Matches
+490,Fábio Silva,pt POR,FW,Wolves,21,2002,2.9,61,76,80.3,779,174,37,43,16,18,1,4,0,0.2,0.1,-0.2,4,7,0,0,10,Matches
+491,Thiago Silva,br BRA,DF,Chelsea,38,1984,28.1,2166,2287,94.7,38542,15513,887,918,1119,1157,143,186,1,1.0,0.6,0.0,9,125,10,1,102,Matches
+492,Luis Sinisterra,co COL,"FW,MF",Bournemouth,24,1999,7.8,226,292,77.4,3223,747,145,169,57,66,13,20,2,2.4,1.1,-0.4,20,9,16,1,38,Matches
+493,Oliver Skipp,eng ENG,"MF,DF",Tottenham,22,2000,7.9,351,383,91.6,5258,1454,199,210,123,131,19,24,0,0.6,0.5,-0.6,7,37,3,0,37,Matches
+494,Adam Smith,eng ENG,DF,Bournemouth,32,1991,23.9,782,1025,76.3,12722,5225,397,443,325,401,51,141,2,1.3,1.7,+0.7,17,58,23,17,89,Matches
+495,Emile Smith Rowe,eng ENG,MF,Arsenal,23,2000,3.9,188,213,88.3,2449,496,128,143,54,57,1,4,1,0.2,0.4,+0.8,4,13,11,0,23,Matches
+496,Cédric Soares,pt POR,DF,Arsenal,31,1991,0.7,60,69,87.0,905,157,39,41,15,17,5,8,0,0.0,0.0,0.0,0,4,0,0,3,Matches
+497,Dominic Solanke,eng ENG,FW,Bournemouth,25,1997,36.9,400,544,73.5,5026,1387,262,315,93,127,11,18,3,3.0,2.0,0.0,39,32,24,3,60,Matches
+498,Manor Solomon,il ISR,FW,Tottenham,24,1999,2.2,78,90,86.7,1105,196,45,48,28,35,3,4,2,0.8,0.8,+1.2,12,3,7,1,11,Matches
+499,Tomáš Souček,cz CZE,MF,West Ham,28,1995,31.9,722,962,75.1,11368,3594,364,450,272,346,54,86,2,1.7,1.2,+0.3,20,80,8,2,86,Matches
+500,Vinicius Souza,br BRA,MF,Sheffield Utd,24,1999,29.6,790,995,79.4,12856,3441,382,439,333,394,50,89,0,0.2,0.5,-0.2,4,60,5,1,66,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+501,Jason Steele,eng ENG,GK,Brighton,32,1990,17.0,570,673,84.7,12217,8275,185,186,265,270,111,206,0,0.0,0.0,0.0,0,3,0,0,0,Matches
+502,Raheem Sterling,eng ENG,"FW,MF",Chelsea,28,1994,22.0,538,728,73.9,7091,1775,363,428,135,191,18,33,4,4.5,4.3,-0.5,30,31,35,7,78,Matches
+503,John Stones,eng ENG,"DF,MF",Manchester City,29,1994,11.8,781,839,93.1,12375,2872,402,426,322,335,41,54,0,0.2,0.4,-0.2,6,53,1,0,57,Matches
+504,Thomas Strakosha,al ALB,GK,Brentford,28,1995,1.5,52,71,73.2,1509,977,6,6,27,28,19,37,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+505,Dominik Szoboszlai,hu HUN,MF,Liverpool,22,2000,23.4,1280,1550,82.6,20367,4929,694,777,441,507,98,169,2,5.8,5.1,-3.8,56,98,33,6,152,Matches
+506,Matt Targett,eng ENG,DF,Newcastle Utd,27,1995,0.9,36,41,87.8,657,188,13,13,17,18,6,9,0,0.0,0.0,0.0,1,2,0,0,2,Matches
+507,James Tarkowski,eng ENG,DF,Everton,30,1992,38.0,1195,1550,77.1,25219,10527,396,474,588,683,196,335,1,2.5,2.7,-1.5,22,127,23,3,130,Matches
+508,Jimi Tauriainen,eng ENG,FW,Chelsea,19,2004,0.0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+509,Nuno Tavares,pt POR,DF,Nott'ham Forest,23,2000,5.1,201,274,73.4,2954,1132,117,136,69,96,11,28,0,0.5,0.4,-0.5,2,14,2,0,24,Matches
+510,Marcus Tavernier,eng ENG,FW,Bournemouth,24,1999,23.5,658,920,71.5,10699,3392,358,421,222,282,60,142,4,5.2,4.2,-1.2,44,46,35,7,84,Matches
+511,Charlie Taylor,eng ENG,DF,Burnley,29,1993,25.9,995,1312,75.8,16535,5292,520,590,380,488,76,169,1,1.2,1.7,-0.2,15,69,19,14,82,Matches
+512,Kenny Tete,nl NED,DF,Fulham,27,1995,9.6,418,523,79.9,6413,2614,236,269,146,181,27,44,0,0.4,0.5,-0.4,3,45,10,7,54,Matches
+513,Luke Thomas,eng ENG,DF,Sheffield Utd,22,2001,10.2,234,319,73.4,3866,1408,115,133,96,121,19,44,0,0.1,0.2,-0.1,2,23,5,2,33,Matches
+514,Youri Tielemans,be BEL,"MF,FW",Aston Villa,26,1997,18.0,789,949,83.1,12925,4025,397,434,315,368,58,92,6,2.6,2.2,+3.4,18,101,25,1,128,Matches
+515,Jurriën Timber,nl NED,DF,Arsenal,22,2001,0.8,66,74,89.2,982,221,35,36,30,33,1,2,0,0.0,0.0,0.0,0,11,0,0,8,Matches
+516,Harry Toffolo,eng ENG,DF,Nott'ham Forest,27,1995,16.2,424,590,71.9,6959,2983,207,244,159,216,41,96,3,1.5,1.2,+1.5,18,40,10,10,42,Matches
+517,Takehiro Tomiyasu,jp JPN,DF,Arsenal,24,1998,12.8,574,697,82.4,8941,2520,306,342,229,267,27,56,1,0.4,0.8,+0.6,6,60,10,3,72,Matches
+518,James Tomkins,eng ENG,DF,Crystal Palace,34,1989,0.1,18,21,85.7,362,142,8,9,6,8,4,4,0,0.0,0.0,0.0,0,1,0,0,1,Matches
+519,Sandro Tonali,it ITA,MF,Newcastle Utd,23,2000,4.9,241,280,86.1,3776,870,130,141,94,109,11,19,0,0.6,0.5,-0.6,7,16,4,2,19,Matches
+520,Ivan Toney,eng ENG,FW,Brentford,27,1996,16.1,228,426,53.5,2972,1188,135,219,56,103,15,31,2,1.5,1.4,+0.5,12,20,18,5,40,Matches
+521,Pau Torres,es ESP,DF,Aston Villa,26,1997,27.4,1562,1788,87.4,29096,9616,524,566,887,952,126,226,0,0.4,0.7,-0.4,8,141,12,1,128,Matches
+522,Andros Townsend,eng ENG,"MF,FW",Luton Town,32,1991,13.4,304,432,70.4,5162,1225,148,173,111,147,32,74,3,1.3,1.8,+1.7,18,23,16,12,35,Matches
+523,James Trafford,eng ENG,GK,Burnley,20,2002,28.0,1009,1541,65.5,23601,16311,318,323,451,464,235,735,0,0.0,0.1,0.0,0,24,1,0,6,Matches
+524,Adama Traoré,es ESP,"FW,MF",Fulham,27,1996,4.2,97,139,69.8,1487,457,52,62,38,52,5,12,3,0.7,0.9,+2.3,7,3,9,4,16,Matches
+525,Bénie Traoré,ci CIV,"FW,MF",Sheffield Utd,20,2002,4.3,55,71,77.5,775,185,34,38,19,23,1,1,0,0.5,0.5,-0.5,4,2,7,1,9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+526,Bertrand Traoré,bf BFA,"DF,FW",Aston Villa,27,1995,0.1,2,3,66.7,15,0,1,1,0,0,0,1,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+527,Boubacar Traoré,ml MLI,MF,Wolves,21,2001,9.1,383,455,84.2,5849,1360,207,234,138,158,23,34,0,0.4,0.3,-0.4,6,34,7,3,29,Matches
+528,Mark Travers,ie IRL,GK,Bournemouth,24,1999,4.0,67,118,56.8,2248,1616,10,10,31,31,26,77,0,0.0,0.0,0.0,0,5,0,0,0,Matches
+529,Mike Trésor,be BEL,"FW,MF",Burnley,24,1999,4.7,120,180,66.7,1614,462,73,86,32,52,4,19,0,0.4,0.5,-0.4,7,6,2,0,10,Matches
+530,Kieran Trippier,eng ENG,DF,Newcastle Utd,32,1990,24.8,1624,2130,76.2,29797,10999,693,783,728,874,187,382,10,7.5,7.1,+2.5,65,111,52,19,157,Matches
+531,Leandro Trossard,be BEL,"FW,MF",Arsenal,28,1994,18.3,494,673,73.4,7666,1927,271,315,181,241,31,60,1,2.8,3.2,-1.8,24,28,29,4,76,Matches
+532,Auston Trusty,us USA,DF,Sheffield Utd,24,1998,28.6,700,918,76.3,12288,4591,282,331,354,442,49,104,0,1.1,0.8,-1.1,8,24,4,2,40,Matches
+533,Kostas Tsimikas,gr GRE,DF,Liverpool,27,1996,7.5,383,500,76.6,6585,1715,185,206,145,183,42,85,3,1.0,1.3,+2.0,16,16,7,4,31,Matches
+534,Matt Turner,us USA,GK,Nott'ham Forest,29,1994,17.0,398,578,68.9,12363,9869,87,87,147,151,162,330,0,0.0,0.0,0.0,0,10,0,0,0,Matches
+535,Destiny Udogie,it ITA,DF,Tottenham,20,2002,26.6,1235,1440,85.8,16731,5145,775,844,400,460,19,33,3,2.2,2.0,+0.8,24,115,13,0,155,Matches
+536,Lesley Ugochukwu,fr FRA,MF,Chelsea,19,2004,3.3,155,183,84.7,2510,683,79,90,63,73,10,11,0,0.1,0.1,-0.1,3,11,5,0,17,Matches
+537,Enes Ünal,tr TUR,"FW,MF",Bournemouth,26,1997,3.6,55,75,73.3,698,213,35,45,12,16,4,5,2,1.0,0.1,+1.0,5,10,2,0,7,Matches
+538,Virgil van Dijk,nl NED,DF,Liverpool,32,1991,35.3,2640,2887,91.4,49290,18943,1029,1092,1343,1412,239,325,2,1.6,1.0,+0.4,11,213,10,0,200,Matches
+539,Raphaël Varane,fr FRA,DF,Manchester Utd,30,1993,15.3,694,781,88.9,11976,3767,282,301,350,381,45,68,0,0.1,0.6,-0.1,1,59,4,0,59,Matches
+540,Alejo Véliz,ar ARG,FW,Tottenham,19,2003,0.6,5,10,50.0,91,5,2,4,2,2,1,1,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+541,Joël Veltman,nl NED,DF,Brighton,31,1992,17.6,758,906,83.7,12317,3297,373,419,330,376,48,82,1,0.5,0.6,+0.5,4,51,8,0,85,Matches
+542,Micky van de Ven,nl NED,DF,Tottenham,22,2001,26.0,1698,1810,93.8,29840,10172,674,698,894,941,99,124,0,0.0,0.3,0.0,1,121,3,0,108,Matches
+543,Bart Verbruggen,nl NED,GK,Brighton,20,2002,21.0,753,862,87.4,14982,10381,304,307,309,315,129,226,0,0.0,0.0,0.0,0,3,0,0,3,Matches
+544,Guglielmo Vicario,it ITA,GK,Tottenham,26,1996,38.0,1335,1569,85.1,25924,15175,445,448,748,766,133,340,0,0.0,0.0,0.0,0,5,0,0,3,Matches
+545,Fabio Vieira,pt POR,"MF,FW",Arsenal,23,2000,3.3,122,150,81.3,1969,421,67,75,44,53,9,17,2,1.6,0.8,+0.4,5,12,6,1,15,Matches
+546,Carlos Vinícius,br BRA,FW,Fulham,28,1995,3.5,46,62,74.2,587,115,28,34,14,21,1,1,0,0.8,0.1,-0.8,5,1,0,0,3,Matches
+547,Vitinho,br BRA,"DF,MF",Burnley,24,1999,25.7,715,994,71.9,11588,3536,373,445,282,398,45,84,2,1.3,1.2,+0.7,11,56,19,4,66,Matches
+548,Odysseas Vlachodimos,gr GRE,GK,Nott'ham Forest,29,1994,5.0,141,176,80.1,3965,2847,21,21,73,73,47,80,0,0.0,0.0,0.0,1,0,0,0,1,Matches
+549,Kyle Walker,eng ENG,DF,Manchester City,33,1990,30.7,2128,2404,88.5,36091,8306,992,1057,932,1020,166,246,4,2.6,3.2,+1.4,25,199,32,13,157,Matches
+550,Aaron Wan-Bissaka,cd COD,DF,Manchester Utd,25,1997,19.8,823,986,83.5,10824,3539,536,599,243,285,19,38,2,1.5,1.4,+0.5,12,51,16,3,77,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+551,Joel Ward,eng ENG,DF,Crystal Palace,33,1989,22.0,715,944,75.7,11829,5634,358,396,301,372,46,134,1,0.2,0.3,+0.8,3,68,7,3,66,Matches
+552,James Ward-Prowse,eng ENG,MF,West Ham,28,1994,33.3,1386,1672,82.9,23288,7105,702,762,520,570,134,270,7,7.8,6.3,-0.8,64,137,23,8,144,Matches
+553,Lewis Warrington,eng ENG,FW,Everton,20,2002,0.0,2,2,100.0,53,0,0,0,1,1,1,1,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+554,Deivid Washington,br BRA,"DF,FW",Chelsea,18,2005,0.1,1,1,100.0,25,0,0,0,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+555,Ollie Watkins,eng ENG,FW,Aston Villa,27,1995,35.7,459,609,75.4,5830,932,293,363,124,164,9,19,13,7.3,4.2,+5.7,45,23,22,0,55,Matches
+556,Adam Webster,eng ENG,DF,Brighton,28,1995,12.7,997,1096,91.0,16938,5838,428,462,495,529,56,79,0,0.1,0.3,-0.1,5,92,4,0,80,Matches
+557,Danny Welbeck,eng ENG,"FW,MF",Brighton,32,1990,18.8,423,515,82.1,4847,730,304,349,91,106,1,2,1,1.7,1.4,-0.7,22,23,13,0,44,Matches
+558,Timo Werner,de GER,FW,Tottenham,27,1996,9.0,281,366,76.8,4049,863,163,189,108,138,6,12,3,2.7,2.9,+0.3,15,9,20,5,41,Matches
+559,Adam Wharton,eng ENG,MF,Crystal Palace,19,2004,14.4,464,596,77.9,8091,2486,209,244,199,234,45,80,3,2.4,1.5,+0.6,21,51,16,3,79,Matches
+560,Ethan Wheatley,eng ENG,FW,Manchester Utd,17,2006,0.2,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+561,Ben White,eng ENG,DF,Arsenal,25,1997,33.2,1828,2177,84.0,28002,9801,999,1099,713,832,85,171,4,3.8,3.7,+0.2,38,172,45,10,192,Matches
+562,Joe White,eng ENG,MF,Newcastle Utd,20,2002,0.1,11,12,91.7,172,48,7,8,3,3,1,1,0,0.0,0.0,0.0,0,2,0,0,3,Matches
+563,Neco Williams,wls WAL,DF,Nott'ham Forest,22,2001,18.2,519,785,66.1,8061,3375,287,331,185,288,32,99,1,1.6,1.7,-0.6,11,43,17,11,47,Matches
+564,Willian,br BRA,FW,Fulham,34,1988,22.8,932,1145,81.4,16128,3848,460,513,337,407,109,157,2,3.9,4.5,-1.9,44,59,69,9,153,Matches
+565,Joe Willock,eng ENG,MF,Newcastle Utd,23,1999,4.7,136,164,82.9,2092,658,76,82,42,55,12,16,0,0.6,0.6,-0.6,7,16,3,1,17,Matches
+566,Callum Wilson,eng ENG,FW,Newcastle Utd,31,1992,11.0,105,163,64.4,1266,184,65,83,25,41,3,7,1,0.6,0.6,+0.4,8,3,2,0,9,Matches
+567,Harry Wilson,wls WAL,FW,Fulham,26,1997,18.0,478,632,75.6,7538,1644,254,294,153,196,48,83,6,3.5,2.7,+2.5,22,34,26,7,60,Matches
+568,Yoane Wissa,cd COD,FW,Brentford,26,1996,27.7,327,462,70.8,4297,1135,197,248,84,124,16,29,3,3.9,2.0,-0.9,30,26,16,4,48,Matches
+569,Chris Wood,nz NZL,FW,Nott'ham Forest,31,1991,20.1,278,433,64.2,3403,791,179,261,69,107,7,11,1,2.1,1.1,-1.1,22,19,3,0,30,Matches
+570,Cauley Woodrow,eng ENG,"FW,MF",Luton Town,28,1994,4.7,110,152,72.4,1530,250,66,82,31,40,4,12,1,1.2,0.9,-0.2,9,5,4,4,6,Matches
+571,Joe Worrall,eng ENG,DF,Nott'ham Forest,26,1997,4.9,138,164,84.1,2910,1068,25,30,98,105,14,27,0,0.2,0.3,-0.2,2,5,0,0,8,Matches
+572,Yehor Yarmoliuk,ua UKR,MF,Brentford,19,2004,7.6,221,298,74.2,3416,801,117,140,80,102,12,28,0,0.1,0.6,-0.1,3,17,10,1,35,Matches
+573,Ryan Yates,eng ENG,MF,Nott'ham Forest,25,1997,22.1,659,829,79.5,10612,2717,315,375,280,326,37,67,1,0.8,0.6,+0.2,7,59,10,0,73,Matches
+574,Ashley Young,eng ENG,"DF,MF",Everton,38,1985,25.3,723,1052,68.7,12752,5653,339,386,290,384,83,219,0,1.5,1.4,-1.5,21,62,22,11,82,Matches
+575,Illia Zabarnyi,ua UKR,DF,Bournemouth,20,2002,37.0,1471,1805,81.5,30757,10546,392,458,880,952,188,362,0,0.4,0.6,-0.4,7,127,11,0,109,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+576,Nicolò Zaniolo,it ITA,"FW,MF",Aston Villa,24,1999,9.3,150,228,65.8,2141,550,94,119,44,62,6,15,0,1.0,0.7,-1.0,10,17,5,0,30,Matches
+577,Anass Zaroury,ma MAR,"FW,MF",Burnley,22,2000,1.7,43,70,61.4,714,120,23,31,13,21,6,11,0,0.0,0.1,0.0,2,2,2,1,2,Matches
+578,Oleksandr Zinchenko,ua UKR,DF,Arsenal,26,1996,19.1,1374,1568,87.6,23132,6928,653,706,601,667,95,134,2,2.5,2.9,-0.5,29,154,49,4,229,Matches
+579,Kurt Zouma,fr FRA,DF,West Ham,28,1994,31.5,962,1148,83.8,18843,6791,335,365,509,558,111,198,0,0.2,0.1,-0.2,4,57,1,0,53,Matches
+580,Martin Ødegaard,no NOR,MF,Arsenal,24,1998,34.3,1692,2006,84.3,25780,7898,907,992,635,744,91,140,10,9.6,11.2,+0.4,102,160,130,13,344,Matches

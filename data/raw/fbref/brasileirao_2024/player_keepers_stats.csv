@@ -1,0 +1,48 @@
+rk,player,nation,pos,squad,age,born,mp,starts,min,90s,ga,ga90,sota,saves,save,w,d,l,cs,cs_perf,pkatt,pka,pksv,pkm,save_penalt,matches
+1,Adriel,br BRA,GK,Bahia,23,2001,4,3,334,3.7,6,1.62,12,6,50.0,1,1,1,0,0.0,0,0,0,0,,Matches
+2,Alisson,br BRA,GK,Criciúma,28,1995,6,4,421,4.7,7,1.50,25,18,72.0,1,2,1,0,0.0,0,0,0,0,,Matches
+3,Anderson,br BRA,GK,Cruzeiro,25,1998,17,17,1530,17.0,22,1.29,72,51,70.8,8,2,7,6,35.3,1,1,0,0,0.0,Matches
+4,Anthoni,br BRA,GK,Internacional,22,2002,2,2,180,2.0,1,0.50,5,3,80.0,1,1,0,1,50.0,1,0,1,0,100.0,Matches
+5,Lucas Arcanjo,br BRA,GK,Vitória,25,1998,37,37,3330,37.0,52,1.41,162,112,69.8,12,8,17,8,21.6,4,3,0,1,0.0,Matches
+6,Muriel Becker,br BRA,GK,Vitória,36,1987,1,1,90,1.0,0,0.00,2,2,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+7,Bento,br BRA,GK,Ath Paranaense,24,1999,7,7,630,7.0,4,0.57,25,20,84.0,4,1,2,4,57.1,1,0,1,0,100.0,Matches
+8,Rafael Cabral,br BRA,GK,Grêmio,33,1990,6,5,457,5.1,8,1.58,23,15,69.6,1,0,4,1,20.0,1,1,0,0,0.0,Matches
+9,Caíque,br BRA,GK,Grêmio,26,1997,6,5,488,5.4,10,1.84,27,18,66.7,2,0,3,0,0.0,1,1,0,0,0.0,Matches
+10,Cássio,br BRA,GK,Cruzeiro,36,1987,21,21,1890,21.0,19,0.90,101,82,82.2,6,8,7,6,28.6,1,1,0,0,0.0,Matches
+11,Cássio,br BRA,GK,Corinthians,36,1987,3,3,270,3.0,3,1.00,14,11,78.6,0,1,2,1,33.3,0,0,0,0,,Matches
+12,Mateus Claus,br BRA,GK,Juventude,29,1994,5,4,406,4.5,10,2.22,33,23,69.7,2,1,1,0,0.0,0,0,0,0,,Matches
+13,Matheus Cunha,br BRA,GK,Flamengo,22,2001,3,3,270,3.0,3,1.00,10,7,70.0,2,0,1,2,66.7,0,0,0,0,,Matches
+14,Gabriel Delfim,br BRA,GK,Atlético Mineiro,21,2002,1,1,90,1.0,1,1.00,3,2,66.7,0,0,1,0,0.0,0,0,0,0,,Matches
+15,Matheus Donelli,br BRA,GK,Corinthians,21,2002,7,7,630,7.0,12,1.71,40,27,72.5,1,2,4,0,0.0,2,1,1,0,50.0,Matches
+16,Vitor Eudes,br BRA,GK,Fluminense,25,1998,1,1,90,1.0,2,2.00,5,3,60.0,0,0,1,0,0.0,0,0,0,0,,Matches
+17,Éverson,br BRA,GK,Atlético Mineiro,33,1990,25,25,2242,24.9,31,1.24,95,64,71.6,6,12,7,8,32.0,5,4,1,0,20.0,Matches
+18,Fábio,br BRA,GK,Fluminense,43,1980,37,37,3330,37.0,37,1.00,168,131,80.4,12,10,15,13,35.1,4,4,0,0,0.0,Matches
+19,Fabrício,br BRA,GK,RB Bragantino,23,2000,1,1,90,1.0,2,2.00,7,5,71.4,0,0,1,0,0.0,0,0,0,0,,Matches
+20,Fabrício,br BRA,GK,Internacional,38,1986,8,8,720,8.0,8,1.00,34,26,79.4,2,3,3,3,37.5,1,1,0,0,0.0,Matches
+21,Marcos Felipe,br BRA,GK,Bahia,27,1996,34,34,2996,33.3,43,1.29,150,106,72.7,13,7,14,9,26.5,3,2,1,0,33.3,Matches
+22,Danilo Fernandes,br BRA,GK,Bahia,35,1988,1,1,90,1.0,0,0.00,2,2,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+23,Gatito Fernández,py PAR,GK,Botafogo (RJ),35,1988,4,4,360,4.0,4,1.00,15,11,73.3,3,0,1,2,50.0,0,0,0,0,,Matches
+24,Gabriel,br BRA,GK,Juventude,31,1992,34,34,3014,33.5,49,1.46,156,106,74.4,9,11,14,6,17.6,11,9,2,0,18.2,Matches
+25,Gustavo,br BRA,GK,Criciúma,30,1993,34,34,2997,33.3,54,1.62,174,119,71.3,8,9,17,6,17.6,6,4,2,0,33.3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+26,Jandrei,br BRA,GK,São Paulo,30,1993,13,13,1170,13.0,16,1.23,56,41,73.2,7,2,4,4,30.8,1,1,0,0,0.0,Matches
+27,Léo Jardim,br BRA,GK,Vasco da Gama,28,1995,38,38,3420,38.0,56,1.47,203,147,72.4,14,8,16,8,21.1,0,0,0,0,,Matches
+28,John,br BRA,GK,Botafogo (RJ),27,1996,34,34,3060,34.0,25,0.74,117,91,82.9,20,10,4,16,47.1,6,5,1,0,16.7,Matches
+29,Leonardo Linck,br BRA,GK,Ath Paranaense,22,2001,14,14,1223,13.6,21,1.55,65,44,67.7,3,4,7,1,7.1,0,0,0,0,,Matches
+30,Marcelo Lomba,br BRA,GK,Palmeiras,37,1986,1,1,90,1.0,2,2.00,3,1,33.3,0,0,1,0,0.0,0,0,0,0,,Matches
+31,Lucão,br BRA,GK,RB Bragantino,22,2001,8,6,631,7.0,9,1.28,32,23,71.9,1,2,3,1,16.7,0,0,0,0,,Matches
+32,Agustín Marchesín,ar ARG,GK,Grêmio,35,1988,28,28,2475,27.5,32,1.16,133,100,80.5,9,9,10,7,25.0,8,6,2,0,25.0,Matches
+33,Matheus Mendes,br BRA,GK,Atlético Mineiro,24,1999,13,12,1087,12.1,22,1.82,67,44,68.7,5,2,5,1,8.3,2,1,1,0,50.0,Matches
+34,Carlos Miguel,br BRA,GK,Corinthians,25,1998,6,6,540,6.0,7,1.17,29,24,79.3,1,3,2,2,33.3,1,1,0,0,0.0,Matches
+35,Mycael,br BRA,GK,Ath Paranaense,19,2004,19,17,1565,17.4,21,1.21,83,60,74.7,4,4,9,4,23.5,2,0,2,0,100.0,Matches
+36,Mateus Pasinato,br BRA,GK,Cuiabá,31,1992,2,2,180,2.0,2,1.00,7,5,71.4,0,1,1,1,50.0,0,0,0,0,,Matches
+37,Rafael Pires,br BRA,GK,São Paulo,34,1989,25,25,2250,25.0,27,1.08,92,67,72.8,10,6,9,8,32.0,2,2,0,0,0.0,Matches
+38,Pedro Rangel,br BRA,GK,Atl Goianiense,23,2000,6,6,540,6.0,12,2.00,34,22,70.6,0,1,5,1,16.7,2,2,0,0,0.0,Matches
+39,João Ricardo Riedi,br BRA,GK,Fortaleza,35,1988,38,38,3420,38.0,39,1.03,195,156,82.6,19,11,8,13,34.2,5,5,0,0,0.0,Matches
+40,Sergio Rochet,uy URU,GK,Internacional,30,1993,28,28,2520,28.0,27,0.96,100,73,76.0,15,7,6,8,28.6,3,3,0,0,0.0,Matches
+41,Ronaldo,br BRA,GK,Atl Goianiense,27,1996,32,32,2879,32.0,45,1.41,141,95,70.9,7,8,17,6,18.8,7,4,3,0,42.9,Matches
+42,Agustín Rossi,ar ARG,GK,Flamengo,28,1995,35,35,3150,35.0,39,1.11,120,80,69.2,18,10,7,8,22.9,5,2,2,1,50.0,Matches
+43,Cleiton Schwengber,br BRA,GK,RB Bragantino,26,1997,31,31,2699,30.0,37,1.23,144,106,75.0,9,12,10,5,16.1,3,1,2,0,66.7,Matches
+44,Hugo Souza,br BRA,GK,Corinthians,25,1999,22,22,1980,22.0,23,1.05,96,73,80.2,13,5,4,7,31.8,4,4,0,0,0.0,Matches
+45,Walter,br BRA,GK,Cuiabá,36,1987,36,36,3240,36.0,47,1.31,174,126,76.4,6,11,19,9,25.0,7,6,1,0,14.3,Matches
+46,Wéverton,br BRA,GK,Palmeiras,36,1987,37,37,3330,37.0,31,0.84,149,119,79.9,22,7,8,16,43.2,2,1,0,1,0.0,Matches

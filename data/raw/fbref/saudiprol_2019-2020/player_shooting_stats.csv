@@ -1,0 +1,515 @@
+rk,player,nation,pos,squad,age,born,90s,gls,sh,sot,sot_standa,sh_90,sot_90,g_sh,g_sot,dist,pk,pkatt,matches
+1,Osama Aashor,sa KSA,DF,Abha,29,1990,7.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+2,Malek Al Abadalmanam,sa KSA,FW,Al-Taawoun,21,1998,1.6,0,4,0,0.0,2.50,0.00,0.00,,,0,0,Matches
+3,Saleh Al Abbas,sa KSA,FW,Abha,25,1993,13.4,4,29,12,41.4,2.16,0.90,0.14,0.33,,0,0,Matches
+4,Faris Abdi,sa KSA,DF,Al-Wehda,20,1999,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+5,Ahmed Abdu,sa KSA,FW,Al-Wehda,22,1996,1.1,0,3,3,100.0,2.62,2.62,0.00,0.00,,0,0,Matches
+6,Hussein Abdulghani,sa KSA,"DF,MF",Al-Ahli,42,1977,9.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+7,Saud Abdulhamid,sa KSA,DF,Al-Ittihad,20,1999,23.3,1,9,2,22.2,0.39,0.09,0.11,0.50,,0,0,Matches
+8,Nawaf Al Abed,sa KSA,MF,Al-Hilal,29,1990,6.4,2,13,5,38.5,2.02,0.78,0.15,0.40,,0,0,Matches
+9,Mazen Abo Shararah,sa KSA,FW,Al-Ahli,28,1991,2.2,0,2,2,100.0,0.92,0.92,0.00,0.00,,0,0,Matches
+10,Mazen Abo Shararah,sa KSA,FW,Damac,28,1991,3.2,1,11,5,45.5,3.45,1.57,0.09,0.20,,0,0,Matches
+11,Abdulrahman Al-Aboud,sa KSA,"MF,FW",Al-Ittihad,24,1995,11.9,0,14,3,21.4,1.17,0.25,0.00,0.00,,0,0,Matches
+12,Mohammed Abousaban,sa KSA,MF,Al-Taawoun,29,1990,4.9,0,2,0,0.0,0.41,0.00,0.00,,,0,0,Matches
+13,Mohammed Abousaban,sa KSA,MF,Damac,29,1990,9.3,2,9,3,33.3,0.97,0.32,0.22,0.67,,0,0,Matches
+14,Talal Al-Absi,sa KSA,DF,Al-Taawoun,26,1993,19.4,2,7,4,57.1,0.36,0.21,0.29,0.50,,0,0,Matches
+15,Abdulfattah Adam,sa KSA,FW,Al-Nassr,24,1995,3.1,2,13,2,15.4,4.24,0.65,0.15,1.00,,0,0,Matches
+16,Imran Adam,ng NGA,"DF,MF",Al-Shabab,23,1996,4.7,0,1,0,0.0,0.21,0.00,0.00,,,0,0,Matches
+17,Imran Adam,ng NGA,"DF,MF",Damac,23,1996,8.5,0,1,0,0.0,0.12,0.00,0.00,,,0,0,Matches
+18,Khaled Adénon,bj BEN,DF,Al-Wehda,34,1985,1.0,0,1,0,0.0,1.00,0.00,0.00,,,0,0,Matches
+19,Muath Adnan Afaneh,jo JOR,FW,Abha,,,0.3,0,1,0,0.0,3.10,0.00,0.00,,,0,0,Matches
+20,Matías Aguirregaray,uy URU,"DF,MF",Al-Fateh,30,1989,21.1,2,11,4,36.4,0.52,0.19,0.18,0.50,,0,0,Matches
+21,Karim El Ahmadi,ma MAR,MF,Al-Ittihad,34,1985,25.5,0,10,2,20.0,0.39,0.08,0.00,0.00,,0,0,Matches
+22,Mohamed Ahmed,SUD,FW,Damac,26,1993,0.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+23,Ahmed Alanzy,sa KSA,MF,Al-Faisaly,,,1.0,0,2,0,0.0,2.09,0.00,0.00,,,0,0,Matches
+24,Qasim Alawjami,sa KSA,DF,Al-Fateh,23,1996,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+25,Danijel Aleksić,rs SRB,FW,Al-Ahli,28,1991,1.0,1,5,1,20.0,5.00,1.00,0.20,1.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+26,Alemão,br BRA,DF,Al-Hazem,28,1990,29.0,6,28,10,35.7,0.97,0.34,0.11,0.30,,3,3,Matches
+27,Abdelaziz Ali Guechi,dz ALG,DF,Al-Adalah,28,1990,10.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+28,Mashel Ali,,MF,Al-Faisaly,,,1.2,0,1,0,0.0,0.84,0.00,0.00,,,0,0,Matches
+29,Mukhtar Ali,sa KSA,MF,Al-Nassr,21,1997,11.8,0,4,1,25.0,0.34,0.09,0.00,0.00,,0,0,Matches
+30,Mohammed Alkhaibari,sa KSA,DF,Al-Shabab,,,0.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+31,André Almeida Pinto,pt POR,DF,Al-Fateh,29,1989,11.1,0,6,2,33.3,0.54,0.18,0.00,0.00,,0,0,Matches
+32,Haider Al-Amer,sa KSA,DF,Al-Adalah,29,1989,0.4,0,1,0,0.0,2.81,0.00,0.00,,,0,0,Matches
+33,Cédric Amissi,bi BDI,MF,Al-Taawoun,29,1990,24.1,6,49,18,36.7,2.04,0.75,0.12,0.33,,0,0,Matches
+34,Abdullah Al-Ammar,sa KSA,DF,Al-Ittihad,25,1994,2.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+35,Turki Al Ammar,sa KSA,MF,Al-Shabab,19,1999,4.8,1,13,4,30.8,2.71,0.84,0.08,0.25,,0,0,Matches
+36,Najib Ammari,dz ALG,MF,Damac,27,1992,1.8,0,5,2,40.0,2.80,1.12,0.00,0.00,,0,0,Matches
+37,Sari Amr,sa KSA,DF,Al-Wehda,29,1989,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+38,Sari Amr,sa KSA,DF,Abha,29,1989,4.6,0,3,0,0.0,0.66,0.00,0.00,,,0,0,Matches
+39,Nordin Amrabat,ma MAR,MF,Al-Nassr,32,1987,27.1,4,53,20,37.7,1.95,0.74,0.08,0.20,,0,0,Matches
+40,Abdulelah Al-Amri,sa KSA,DF,Al-Nassr,22,1997,9.2,1,8,3,37.5,0.87,0.32,0.13,0.33,,0,0,Matches
+41,Mohammed Al-Amri,sa KSA,DF,Al-Raed,27,1991,27.8,1,14,4,28.6,0.50,0.14,0.07,0.25,,0,0,Matches
+42,Saleh Al-Amri,sa KSA,MF,Al-Ettifaq,25,1993,8.0,3,14,5,35.7,1.76,0.63,0.21,0.60,,0,0,Matches
+43,Rakan Al Anaze,sa KSA,MF,Al-Wehda,21,1998,3.1,1,3,1,33.3,0.97,0.32,0.33,1.00,,0,0,Matches
+44,Carolus Andriamatsinoro,mg MAD,"FW,MF",Al-Adalah,30,1989,29.0,10,106,36,34.0,3.66,1.24,0.08,0.22,,2,4,Matches
+45,Ghalab Al Anzi,sa KSA,MF,Al-Hazem,20,1999,0.2,0,2,1,50.0,9.00,4.50,0.00,0.00,,0,0,Matches
+46,Karim Aouadhi,tn TUN,MF,Abha,33,1986,27.0,4,43,9,20.9,1.59,0.33,0.07,0.33,,1,1,Matches
+47,Ahmed Al-Aoufi,sa KSA,MF,Al-Ittihad,27,1992,0.2,0,1,0,0.0,4.29,0.00,0.00,,,0,0,Matches
+48,Abdulaziz Al-Aryani,sa KSA,FW,Al-Ittihad,23,1996,1.4,0,2,0,0.0,1.40,0.00,0.00,,,0,0,Matches
+49,Ernest Asante,gh GHA,MF,Al-Hazem,30,1988,5.8,0,10,1,10.0,1.72,0.17,0.00,0.00,,0,0,Matches
+50,Abdulfattah Asiri,sa KSA,MF,Al-Ahli,25,1994,16.3,3,35,11,31.4,2.15,0.68,0.09,0.27,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+51,Jaber Asiri,sa KSA,FW,Al-Wehda,21,1997,0.4,0,2,1,50.0,5.29,2.65,0.00,0.00,,0,0,Matches
+52,Ali Al Asmari,sa KSA,MF,Al-Ahli,22,1997,12.8,2,14,6,42.9,1.10,0.47,0.14,0.33,,0,0,Matches
+53,Malik Asselah,dz ALG,GK,Al-Hazem,33,1986,29.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+54,Ahmed Assiri,sa KSA,DF,Al-Taawoun,27,1991,21.4,0,13,3,23.1,0.61,0.14,0.00,0.00,,0,0,Matches
+55,Muhannad Assiri,sa KSA,"FW,MF",Al-Ahli,32,1986,0.3,0,1,1,100.0,3.21,3.21,0.00,0.00,,0,0,Matches
+56,Rafael Assis,br BRA,MF,Al-Fayha,28,1990,8.0,0,2,0,0.0,0.25,0.00,0.00,,,0,0,Matches
+57,Abdulquddus Atiah,sa KSA,GK,Al-Wehda,22,1997,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+58,Amine Atouchi,ma MAR,DF,Abha,27,1992,29.0,3,18,7,38.9,0.62,0.24,0.17,0.43,,0,0,Matches
+59,Mohammed Attiah,sa KSA,MF,Al-Shabab,27,1991,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+60,Ghazi Ayadi,tn TUN,"MF,FW",Damac,23,1996,6.7,0,4,1,25.0,0.59,0.15,0.00,0.00,,0,0,Matches
+61,Fares Al-Ayyaf,sa KSA,"MF,DF",Al-Hazem,27,1992,7.5,0,1,0,0.0,0.13,0.00,0.00,,,0,0,Matches
+62,Walid Azaro,ma MAR,FW,Al-Ettifaq,23,1995,5.5,3,15,7,46.7,2.71,1.27,0.20,0.43,,0,0,Matches
+63,Bander Ba Ajaj,sa KSA,DF,Damac,24,1995,1.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+64,Anice Badri,tn TUN,"MF,FW",Al-Ittihad,28,1990,4.8,0,6,0,0.0,1.26,0.00,0.00,,,0,0,Matches
+65,Hattan Bahebri,sa KSA,MF,Al-Hilal,27,1992,5.8,0,14,2,14.3,2.42,0.35,0.00,0.00,,0,0,Matches
+66,Masood Bakheet,sa KSA,DF,Al-Hazem,27,1992,1.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+67,Yazeid Al Bakr,sa KSA,DF,Al-Ahli,23,1995,2.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+68,Waleed Bakshween,sa KSA,MF,Al-Wehda,29,1989,25.5,0,9,4,44.4,0.35,0.16,0.00,0.00,,0,0,Matches
+69,Ageel Balghaith,sa KSA,DF,Al-Faisaly,32,1987,2.8,0,2,0,0.0,0.72,0.00,0.00,,,0,0,Matches
+70,Ahmed Bamasud,sa KSA,"MF,DF",Al-Fayha,23,1995,9.8,1,17,6,35.3,1.73,0.61,0.06,0.17,,0,0,Matches
+71,Mohammed Al Baqawi,sa KSA,DF,Al-Shabab,24,1995,3.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+72,Mohammed Al Baqawi,sa KSA,DF,Al-Fayha,24,1995,10.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+73,Basim Al Baqi,sa KSA,GK,Al-Ahli,29,1989,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+74,Abdulrahman Al-Barakah,sa KSA,MF,Al-Fayha,28,1990,21.5,0,18,6,33.3,0.84,0.28,0.00,0.00,,0,0,Matches
+75,Khaled Al-Barakah,sa KSA,DF,Al-Ettifaq,28,1990,0.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+76,Karam Barnawi,sa KSA,DF,Abha,32,1987,20.9,0,3,0,0.0,0.14,0.00,0.00,,,0,0,Matches
+77,Yassin Barnawi,sa KSA,"DF,MF",Al-Taawoun,25,1993,12.0,0,3,0,0.0,0.25,0.00,0.00,,,0,0,Matches
+78,Mohammad Al Bassas,sa KSA,DF,Al-Ahli,20,1998,1.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+79,Mustafa Bassas,sa KSA,"FW,MF",Al-Ahli,26,1993,0.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+80,Mustafa Bassas,sa KSA,"MF,FW",Al-Faisaly,26,1993,1.8,0,2,1,50.0,1.08,0.54,0.00,0.00,,0,0,Matches
+81,Zaid Al Bawardi,sa KSA,GK,Al-Nassr,22,1997,1.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+82,Youcef Belaïli,dz ALG,MF,Al-Ahli,27,1992,10.6,2,16,9,56.3,1.51,0.85,0.00,0.00,,2,2,Matches
+83,Hatim Belal,sa KSA,DF,Al-Wehda,25,1994,0.6,0,1,1,100.0,1.73,1.73,0.00,0.00,,0,0,Matches
+84,Farouk Ben Mustapha,tn TUN,GK,Al-Shabab,30,1989,24.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+85,Sofiane Bendebka,dz ALG,MF,Al-Fateh,26,1992,13.2,5,23,8,34.8,1.74,0.60,0.22,0.63,,0,0,Matches
+86,Djamel Benlamri,dz ALG,DF,Al-Shabab,29,1989,8.2,0,2,0,0.0,0.24,0.00,0.00,,,0,0,Matches
+87,Saad Bguir,tn TUN,"MF,FW",Abha,25,1994,28.1,12,62,22,35.5,2.20,0.78,0.13,0.36,,4,4,Matches
+88,Fahad bin Jumayah,sa KSA,"MF,DF",Al-Nassr,24,1995,5.2,0,7,2,28.6,1.35,0.39,0.00,0.00,,0,0,Matches
+89,Mohammed bin Nukhaylan,sa KSA,DF,Al-Faisaly,17,2002,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+90,Abdulaziz Al-Bishi,sa KSA,MF,Al-Ittihad,25,1994,14.5,1,21,9,42.9,1.45,0.62,0.05,0.11,,0,0,Matches
+91,Medwine Biteghe,ga GAB,MF,Al-Adalah,22,1996,27.3,2,32,8,25.0,1.17,0.29,0.06,0.25,,0,1,Matches
+92,Roly Bonevacia,cw CUW,MF,Al-Faisaly,27,1991,19.0,2,35,16,45.7,1.85,0.84,0.06,0.13,,0,0,Matches
+93,Wilfried Bony,ci CIV,FW,Al-Ittihad,30,1988,6.9,5,21,8,38.1,3.03,1.15,0.10,0.25,,3,3,Matches
+94,Alberto Botía,es ESP,DF,Al-Wehda,30,1989,23.5,1,11,2,18.2,0.47,0.09,0.09,0.50,,0,0,Matches
+95,Salim Boukhanchouche,dz ALG,MF,Abha,27,1991,2.3,0,3,0,0.0,1.29,0.00,0.00,,,0,0,Matches
+96,Nawaf Boushal,sa KSA,DF,Al-Fateh,19,1999,13.5,0,2,0,0.0,0.15,0.00,0.00,,,0,0,Matches
+97,Mohammed Al-Breik,sa KSA,DF,Al-Hilal,26,1992,18.0,1,9,1,11.1,0.50,0.06,0.11,1.00,,0,0,Matches
+98,Tawfiq Bu Haymid,sa KSA,"DF,MF",Al-Fateh,31,1987,18.7,1,9,3,33.3,0.48,0.16,0.11,0.33,,0,0,Matches
+99,Ali Al-Bulaihi,sa KSA,DF,Al-Hilal,29,1989,12.3,2,5,3,60.0,0.41,0.24,0.40,0.67,,0,0,Matches
+100,Firas Al-Buraikan,sa KSA,FW,Al-Nassr,19,2000,2.4,1,6,3,50.0,2.51,1.26,0.17,0.33,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+101,Murtadah Al Burayh,sa KSA,DF,Al-Adalah,29,1990,13.9,0,5,2,40.0,0.36,0.14,0.00,0.00,,0,0,Matches
+102,Jonathan Cafu,br BRA,MF,Al-Hazem,28,1991,12.9,2,16,8,50.0,1.24,0.62,0.13,0.25,,0,0,Matches
+103,Haroune Camara,sa KSA,FW,Al-Ittihad,21,1998,6.9,1,9,3,33.3,1.30,0.43,0.11,0.33,,0,0,Matches
+104,André Carrillo,pe PER,MF,Al-Hilal,28,1991,19.2,4,34,17,50.0,1.77,0.89,0.12,0.24,,0,0,Matches
+105,Cássio,pt POR,GK,Al-Taawoun,38,1980,29.0,0,1,0,0.0,0.03,0.00,0.00,,,0,0,Matches
+106,Farouk Chafaï,dz ALG,DF,Damac,29,1990,17.0,3,9,5,55.6,0.53,0.29,0.33,0.60,,0,0,Matches
+107,Firas Chaouat,tn TUN,FW,Abha,23,1996,8.3,1,23,5,21.7,2.78,0.60,0.04,0.20,,0,0,Matches
+108,Renato Chaves,br BRA,DF,Al-Wehda,29,1990,24.8,3,32,11,34.4,1.29,0.44,0.09,0.27,,0,0,Matches
+109,Ibrahim Chenihi,dz ALG,MF,Damac,29,1990,13.4,2,28,6,21.4,2.09,0.45,0.07,0.33,,0,0,Matches
+110,Aliou Cissé,sn SEN,"MF,FW",Al-Adalah,29,1990,22.0,6,30,13,43.3,1.37,0.59,0.20,0.46,,0,0,Matches
+111,Emre Çolak,tr TUR,MF,Al-Wehda,28,1991,1.0,0,1,0,0.0,1.00,0.00,0.00,,,0,0,Matches
+112,Manuel da Costa,ma MAR,DF,Al-Ittihad,33,1986,7.0,0,6,2,33.3,0.86,0.29,0.00,0.00,,0,0,Matches
+113,Rafael Costa,br BRA,MF,Damac,28,1991,3.0,1,10,6,60.0,3.33,2.00,0.10,0.17,,0,0,Matches
+114,Gustavo Cuellar,co COL,MF,Al-Hilal,26,1992,23.2,0,5,5,100.0,0.22,0.22,0.00,0.00,,0,0,Matches
+115,Ammar Al-Daheem,sa KSA,DF,Al-Ittihad,25,1993,3.0,0,1,0,0.0,0.33,0.00,0.00,,,0,0,Matches
+116,Nasser Al Dajani,sa KSA,MF,Al-Taawoun,22,1997,1.8,0,1,0,0.0,0.56,0.00,0.00,,,0,0,Matches
+117,Jalal Daoudi,ma MAR,MF,Al-Raed,30,1988,17.1,7,38,13,34.2,2.22,0.76,0.16,0.46,,1,1,Matches
+118,Faisal Darisi,sa KSA,DF,Al-Raed,22,1997,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+119,Faisel Darwish,sa KSA,"MF,DF",Al-Taawoun,28,1991,5.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+120,Faisel Darwish,sa KSA,MF,Al-Wehda,28,1991,1.8,0,1,1,100.0,0.55,0.55,0.00,0.00,,0,0,Matches
+121,Abdullaziz Al-Dawsari,sa KSA,MF,Al-Nassr,30,1988,0.9,1,2,2,100.0,2.12,2.12,0.50,0.50,,0,0,Matches
+122,Abdullaziz Al-Dawsari,sa KSA,MF,Al-Faisaly,30,1988,4.5,0,8,1,12.5,1.77,0.22,0.00,0.00,,0,0,Matches
+123,Nasser Al-Dawsari,sa KSA,MF,Al-Hilal,20,1998,2.6,0,1,0,0.0,0.38,0.00,0.00,,,0,0,Matches
+124,Salem Al-Dawsari,sa KSA,MF,Al-Hilal,27,1991,16.7,4,33,11,33.3,1.98,0.66,0.12,0.36,,0,0,Matches
+125,Mohammed Sayed Al-Dhaw,sa KSA,MF,Al-Fateh,25,1993,2.4,0,6,0,0.0,2.55,0.00,0.00,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+126,Abdulaziz Al-Dhiyabi,sa KSA,MF,Damac,27,1992,0.6,0,1,1,100.0,1.76,1.76,0.00,0.00,,0,0,Matches
+127,Makhete Diop,sn SEN,FW,Al-Shabab,32,1987,10.5,6,33,12,36.4,3.14,1.14,0.15,0.42,,1,1,Matches
+128,Djaniny,cv CPV,"FW,MF",Al-Ahli,28,1991,19.5,8,47,19,40.4,2.41,0.97,0.17,0.42,,0,0,Matches
+129,Arnaud Djoum,cm CMR,MF,Al-Raed,30,1989,28.3,4,27,9,33.3,0.96,0.32,0.15,0.44,,0,0,Matches
+130,Jumaan Al Dosari,sa KSA,DF,Damac,32,1987,6.6,0,2,0,0.0,0.30,0.00,0.00,,,0,0,Matches
+131,Abdurahman Al-Dossari,sa KSA,MF,Al-Nassr,21,1997,4.6,0,3,2,66.7,0.65,0.43,0.00,0.00,,0,0,Matches
+132,Saeed Al-Dossari,sa KSA,MF,Al-Fateh,29,1990,2.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+133,Hamad Al Dossary,sa KSA,"DF,MF",Al-Adalah,25,1994,3.1,0,1,1,100.0,0.33,0.33,0.00,0.00,,0,0,Matches
+134,Marzouq Al Dossary,sa KSA,MF,Al-Shabab,17,2002,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+135,Mohammed Al Dossary,sa KSA,DF,Al-Raed,20,1999,21.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+136,Souleymane Doukara,mr MTN,"FW,MF",Al-Ettifaq,27,1991,24.1,6,45,22,48.9,1.86,0.91,0.11,0.23,,1,1,Matches
+137,Azzedine Doukha,dz ALG,GK,Al-Raed,32,1986,29.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+138,Khalid Dubaysh,sa KSA,"DF,MF",Al-Adalah,20,1998,3.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+139,Carlos Eduardo,br BRA,MF,Al-Hilal,29,1989,18.8,12,47,20,42.6,2.50,1.06,0.21,0.50,,2,3,Matches
+140,Hussain Al Essa,sa KSA,"MF,FW",Al-Adalah,18,2000,9.5,2,9,5,55.6,0.95,0.53,0.22,0.40,,0,0,Matches
+141,Jaber Essa,sa KSA,MF,Al-Wehda,22,1997,5.3,0,3,0,0.0,0.57,0.00,0.00,,,0,0,Matches
+142,Abdullah Al-Fahad,sa KSA,DF,Al-Raed,25,1994,30.0,0,10,2,20.0,0.33,0.07,0.00,0.00,,0,0,Matches
+143,Sultan Fahran,sa KSA,MF,Al-Raed,22,1996,24.1,0,2,0,0.0,0.08,0.00,0.00,,,0,0,Matches
+144,Abdulmohsen Fallatah,sa KSA,DF,Al-Ittihad,25,1994,5.4,0,3,1,33.3,0.55,0.18,0.00,0.00,,0,0,Matches
+145,Muhannad Fallatah,sa KSA,MF,Al-Fayha,23,1996,5.2,0,1,0,0.0,0.19,0.00,0.00,,,0,0,Matches
+146,Sultan Faqihi,sa KSA,DF,Al-Hazem,24,1995,2.3,0,1,1,100.0,0.43,0.43,0.00,0.00,,0,0,Matches
+147,Salman Al-Faraj,sa KSA,MF,Al-Hilal,29,1989,14.7,2,10,2,20.0,0.68,0.14,0.20,1.00,,0,0,Matches
+148,Mohammed Al Fatil,sa KSA,DF,Al-Ahli,27,1992,13.9,0,10,3,30.0,0.72,0.22,0.00,0.00,,0,0,Matches
+149,Jorge Fellipe,br BRA,DF,Damac,30,1988,13.0,2,15,5,33.3,1.15,0.38,0.13,0.40,,0,0,Matches
+150,Ronnie Fernández,cl CHI,FW,Al-Fayha,28,1991,15.0,7,53,17,32.1,3.54,1.14,0.08,0.24,,3,3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+151,Driss Fettouhi,ma MAR,MF,Al-Hazem,29,1989,29.4,3,72,27,37.5,2.45,0.92,0.03,0.07,,1,2,Matches
+152,Ahmed Al Fiqi,sa KSA,MF,Al-Faisaly,26,1992,9.8,2,21,5,23.8,2.14,0.51,0.10,0.40,,0,0,Matches
+153,Youssef Fouzai,tn TUN,"FW,MF",Al-Adalah,31,1987,8.6,0,12,2,16.7,1.39,0.23,0.00,0.00,,0,0,Matches
+154,Mohamed Fouzair,ma MAR,MF,Al-Raed,27,1991,26.9,10,76,33,43.4,2.82,1.23,0.05,0.12,,6,8,Matches
+155,Moslem Al Freej,sa KSA,GK,Al-Fayha,31,1988,14.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+156,Mohammed Al-Fuhaid,sa KSA,MF,Al-Fateh,29,1990,19.8,0,6,0,0.0,0.30,0.00,0.00,,,0,0,Matches
+157,Reuben Gabriel,ng NGA,MF,Abha,28,1990,15.4,1,11,4,36.4,0.72,0.26,0.09,0.25,,0,0,Matches
+158,Gegé,cv CPV,DF,Al-Fayha,31,1988,22.6,1,15,6,40.0,0.66,0.27,0.07,0.17,,0,0,Matches
+159,Savvas Gentsoglou,gr GRE,"MF,DF",Al-Adalah,28,1990,11.9,1,6,2,33.3,0.50,0.17,0.00,0.00,,1,1,Matches
+160,Abdullah Al Ghamdi,sa KSA,GK,Damac,29,1990,0.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+161,Abdulrahman Al-Ghamdi,sa KSA,FW,Al-Ittihad,24,1994,0.6,1,1,1,100.0,1.64,1.64,1.00,1.00,,0,0,Matches
+162,Hamed Al-Ghamdi,sa KSA,"MF,FW",Al-Ettifaq,20,1999,7.8,1,10,3,30.0,1.27,0.38,0.10,0.33,,0,0,Matches
+163,Khalid Al-Ghamdi,sa KSA,DF,Al-Faisaly,31,1988,21.0,3,11,3,27.3,0.52,0.14,0.27,1.00,,0,0,Matches
+164,Raed Al-Ghamdi,sa KSA,FW,Al-Raed,25,1994,14.7,6,28,12,42.9,1.91,0.82,0.21,0.50,,0,0,Matches
+165,Sultan Al-Ghanam,sa KSA,DF,Al-Nassr,25,1994,26.7,2,34,7,20.6,1.27,0.26,0.06,0.29,,0,0,Matches
+166,Khalid Al Ghannam,sa KSA,"MF,FW",Al-Nassr,18,2000,4.8,1,10,6,60.0,2.09,1.25,0.10,0.17,,0,0,Matches
+167,Abdulrahman Ghareeb,sa KSA,"MF,FW",Al-Ahli,22,1997,10.0,2,13,6,46.2,1.29,0.60,0.15,0.33,,0,0,Matches
+168,Fahad Ghazi,sa KSA,DF,Al-Ettifaq,25,1994,1.7,0,1,0,0.0,0.59,0.00,0.00,,,0,0,Matches
+169,Fahad Ghazi,sa KSA,"MF,DF",Al-Shabab,25,1994,1.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+170,Khalid Al Ghuwainem,sa KSA,MF,Al-Nassr,20,1999,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+171,Leonardo Gil,ar ARG,MF,Al-Ittihad,28,1991,9.4,1,20,6,30.0,2.14,0.64,0.05,0.17,,0,0,Matches
+172,Sebastian Giovinco,it ITA,MF,Al-Hilal,32,1987,19.3,7,65,25,38.5,3.37,1.30,0.11,0.28,,0,0,Matches
+173,Élton José Xavier Gomes,br BRA,MF,Al-Wehda,33,1986,8.2,0,22,8,36.4,2.67,0.97,0.00,0.00,,0,0,Matches
+174,Bafétimbi Gomis,fr FRA,FW,Al-Hilal,33,1985,23.8,27,83,46,55.4,3.48,1.93,0.23,0.41,,8,9,Matches
+175,Craig Goodwin,au AUS,"MF,FW",Al-Wehda,27,1991,28.0,4,53,20,37.7,1.90,0.72,0.06,0.15,,1,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+176,Marcelo Grohe,br BRA,GK,Al-Ittihad,32,1987,17.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+177,Cristian Guanca,ar ARG,"MF,FW",Al-Shabab,26,1993,29.0,11,79,33,41.8,2.72,1.14,0.13,0.30,,1,3,Matches
+178,Guilherme,br BRA,MF,Al-Faisaly,24,1995,13.6,5,29,16,55.2,2.13,1.17,0.14,0.25,,1,1,Matches
+179,Marcos Guilherme,br BRA,"MF,FW",Al-Wehda,23,1995,9.5,1,17,9,52.9,1.79,0.95,0.06,0.11,,0,0,Matches
+180,Ahmed Al-Habib,sa KSA,DF,Abha,26,1993,6.2,0,1,0,0.0,0.16,0.00,0.00,,,0,0,Matches
+181,Hassan Al-Habib,sa KSA,MF,Al-Hazem,24,1994,11.1,1,10,2,20.0,0.90,0.18,0.10,0.50,,0,1,Matches
+182,Musab Habkour,sa KSA,MF,Abha,20,1999,0.3,0,1,0,0.0,3.91,0.00,0.00,,,0,0,Matches
+183,Oussama Haddadi,tn TUN,DF,Al-Ettifaq,27,1992,14.0,0,5,3,60.0,0.36,0.21,0.00,0.00,,0,0,Matches
+184,Zakaria Hadraf,ma MAR,"MF,FW",Damac,29,1990,11.6,1,24,12,50.0,2.07,1.04,0.04,0.08,,0,0,Matches
+185,Abdullah Al-Hafith,sa KSA,DF,Al-Hilal,26,1992,13.1,0,5,2,40.0,0.38,0.15,0.00,0.00,,0,0,Matches
+186,Marwan Al Haidari,sa KSA,GK,Al-Shabab,23,1996,5.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+187,Asiri Haitham,sa KSA,FW,Al-Ahli,18,2001,0.1,1,3,2,66.7,20.77,13.85,0.33,0.50,,0,0,Matches
+188,Mohammed Al-Haiti,sa KSA,GK,Al-Ettifaq,23,1996,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+189,Othman Al Haj,sa KSA,MF,Al-Fayha,25,1994,3.0,1,9,3,33.3,3.01,1.00,0.11,0.33,,0,0,Matches
+190,Muteb Al-Hamaad,sa KSA,FW,Damac,20,1998,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+191,Fahad Al Hamad,sa KSA,DF,Al-Taawoun,21,1998,3.8,0,2,0,0.0,0.53,0.00,0.00,,,0,0,Matches
+192,Abdullah Al Hamaien,sa KSA,MF,Al-Adalah,31,1988,3.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+193,Abderrazak Hamdallah,ma MAR,FW,Al-Nassr,28,1990,26.8,29,155,67,43.2,5.79,2.50,0.13,0.30,,9,10,Matches
+194,Abdullah Al Hamdan,sa KSA,FW,Al-Shabab,19,1999,13.2,3,40,16,40.0,3.03,1.21,0.08,0.19,,0,1,Matches
+195,Yassin Hamzah,sa KSA,DF,Al-Wehda,28,1990,2.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+196,Mansor Hamzi,sa KSA,MF,Al-Hazem,27,1992,12.1,2,21,11,52.4,1.73,0.91,0.10,0.18,,0,0,Matches
+197,Mansoor Al-Harbi,sa KSA,DF,Al-Ittihad,31,1987,21.5,0,19,6,31.6,0.89,0.28,0.00,0.00,,0,0,Matches
+198,Yousef Al Harbi,sa KSA,MF,Al-Ahli,22,1997,2.7,1,2,1,50.0,0.74,0.37,0.50,1.00,,0,0,Matches
+199,Ali Al Hassan,sa KSA,MF,Al-Fateh,22,1997,18.0,2,13,4,30.8,0.72,0.22,0.15,0.50,,0,0,Matches
+200,Abdullah Hassun,sa KSA,DF,Al-Ahli,22,1997,13.8,1,3,1,33.3,0.22,0.07,0.33,1.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+201,Motaz Hawsawi,sa KSA,DF,Al-Ahli,27,1992,6.0,0,2,1,50.0,0.33,0.17,0.00,0.00,,0,0,Matches
+202,Omar Hawsawi,sa KSA,DF,Al-Nassr,33,1985,5.8,0,3,0,0.0,0.52,0.00,0.00,,,0,0,Matches
+203,Hazaa Al-Hazaa,sa KSA,FW,Al-Ettifaq,27,1991,10.1,6,24,9,37.5,2.39,0.90,0.25,0.67,,0,0,Matches
+204,Ali Hazazi,sa KSA,MF,Al-Ettifaq,25,1994,14.5,1,13,3,23.1,0.89,0.21,0.08,0.33,,0,0,Matches
+205,Majed Hazazi,sa KSA,DF,Damac,31,1988,22.0,0,1,1,100.0,0.05,0.05,0.00,0.00,,0,0,Matches
+206,Naif Hazazi,sa KSA,FW,Al-Adalah,31,1988,5.1,2,8,5,62.5,1.58,0.99,0.13,0.20,,1,1,Matches
+207,Waleed Hazem,sa KSA,MF,Al-Shabab,24,1994,1.1,0,1,1,100.0,0.92,0.92,0.00,0.00,,0,0,Matches
+208,Abdullah Al Hazzan,sa KSA,DF,Al-Faisaly,20,1999,5.6,0,2,0,0.0,0.36,0.00,0.00,,,0,0,Matches
+209,Saeed Hezam,sa KSA,"MF,FW",Damac,29,1990,3.3,0,3,2,66.7,0.92,0.61,0.00,0.00,,0,0,Matches
+210,Abdulbasit Hindi,sa KSA,DF,Al-Ahli,22,1997,12.2,3,7,3,42.9,0.57,0.25,0.43,1.00,,0,0,Matches
+211,Ayman Yusef Al-Hujaili,it ITA,MF,Damac,21,1998,5.5,0,6,2,33.3,1.09,0.36,0.00,0.00,,0,0,Matches
+212,Jehad Al-Hussain,sy SYR,"MF,FW",Al-Raed,37,1982,19.8,3,21,9,42.9,1.06,0.45,0.10,0.22,,1,1,Matches
+213,Saif Hussain,sa KSA,DF,Al-Hazem,26,1993,16.8,0,1,0,0.0,0.06,0.00,0.00,,,0,0,Matches
+214,Khaleem Hyland,tt TRI,MF,Al-Faisaly,30,1989,23.9,3,18,4,22.2,0.75,0.17,0.17,0.75,,0,0,Matches
+215,Jang Hyun-soo,kr KOR,DF,Al-Hilal,27,1991,22.0,0,3,1,33.3,0.14,0.05,0.00,0.00,,0,0,Matches
+216,Mouhcine Iajour,ma MAR,FW,Damac,34,1985,11.6,3,37,14,37.8,3.18,1.20,0.08,0.21,,0,1,Matches
+217,Faneva Imà Andriatsima,mg MAD,FW,Abha,35,1984,9.8,5,24,8,33.3,2.44,0.81,0.21,0.63,,0,0,Matches
+218,Faneva Imà Andriatsima,mg MAD,FW,Al-Fayha,35,1984,11.8,1,36,17,47.2,3.06,1.44,0.03,0.06,,0,0,Matches
+219,Hassan Jaafari,sa KSA,MF,Al-Fayha,28,1991,1.6,0,1,0,0.0,0.63,0.00,0.00,,,0,0,Matches
+220,Abdulwahab Jaafer,sa KSA,MF,Damac,25,1993,7.3,1,14,4,28.6,1.93,0.55,0.07,0.25,,0,0,Matches
+221,Abdullah Al Jadani,sa KSA,GK,Al-Wehda,27,1991,18.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+222,Mohammed Jahfali,sa KSA,DF,Al-Hilal,28,1990,12.6,0,9,3,33.3,0.71,0.24,0.00,0.00,,0,0,Matches
+223,Abdulaziz Al-Jamaan,sa KSA,MF,Abha,23,1996,1.1,0,1,0,0.0,0.90,0.00,0.00,,,0,0,Matches
+224,Michał Janota,pl POL,MF,Al-Fateh,29,1990,8.3,1,8,4,50.0,0.97,0.48,0.13,0.25,,0,0,Matches
+225,Hussain Al Jasim,sa KSA,FW,Al-Adalah,24,1994,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+226,Youssef El Jebli,nl NED,MF,Al-Faisaly,26,1992,25.4,9,40,18,45.0,1.58,0.71,0.13,0.28,,4,5,Matches
+227,Abdulaziz Al-Jebreen,sa KSA,MF,Al-Nassr,29,1990,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+228,Luis Jiménez,cl CHI,"MF,FW",Al-Ittihad,35,1984,1.6,0,2,0,0.0,1.22,0.00,0.00,,,0,0,Matches
+229,Hamad Al-Jizani,sa KSA,DF,Al-Wehda,26,1993,13.0,0,7,2,28.6,0.54,0.15,0.00,0.00,,0,0,Matches
+230,Hamad Al-Jizani,sa KSA,"DF,MF",Damac,26,1993,12.0,0,9,4,44.4,0.75,0.33,0.00,0.00,,0,0,Matches
+231,Jonas,br BRA,DF,Al-Ittihad,27,1991,1.5,0,1,0,0.0,0.67,0.00,0.00,,,0,0,Matches
+232,Brad Jones,au AUS,GK,Al-Nassr,37,1982,28.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+233,Abdullah Al-Jouei,sa KSA,MF,Damac,24,1995,7.6,2,17,5,29.4,2.25,0.66,0.12,0.40,,0,0,Matches
+234,Saša Jovanović,rs SRB,"FW,MF",Al-Fateh,27,1991,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+235,Hamad Al-Juhaim,sa KSA,FW,Al-Fayha,31,1987,4.2,1,16,7,43.8,3.79,1.66,0.06,0.14,,0,0,Matches
+236,Khalid Kaabi,sa KSA,MF,Al-Faisaly,27,1992,14.8,2,27,14,51.9,1.83,0.95,0.07,0.14,,0,0,Matches
+237,Hassan Kadesh,sa KSA,"DF,MF",Al-Taawoun,26,1992,5.1,0,1,0,0.0,0.20,0.00,0.00,,,0,0,Matches
+238,Hassan Kadesh,sa KSA,DF,Al-Hilal,26,1992,5.6,0,1,1,100.0,0.18,0.18,0.00,0.00,,0,0,Matches
+239,Bashkim Kadrii,dk DEN,"FW,MF",Al-Fateh,28,1991,9.7,2,19,4,21.1,1.96,0.41,0.11,0.50,,0,0,Matches
+240,Majed Kanabah,sa KSA,MF,Al-Fateh,26,1993,6.5,0,3,0,0.0,0.46,0.00,0.00,,,0,0,Matches
+241,Abdullah Kanno,sa KSA,DF,Al-Fayha,29,1990,2.2,0,1,0,0.0,0.46,0.00,0.00,,,0,0,Matches
+242,Mohamed Kanno,sa KSA,MF,Al-Hilal,24,1994,13.4,1,14,4,28.6,1.04,0.30,0.07,0.25,,0,0,Matches
+243,Ahmed Al-Kassar,sa KSA,GK,Al-Faisaly,28,1991,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+244,Sami Kassar,sa KSA,"MF,DF",Damac,29,1990,3.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+245,Mohammed Al-Khabrani,sa KSA,DF,Al-Ahli,25,1993,21.1,0,8,2,25.0,0.38,0.09,0.00,0.00,,0,0,Matches
+246,Abdullah Al-Khaibari,sa KSA,MF,Al-Nassr,22,1996,15.7,0,6,0,0.0,0.38,0.00,0.00,,,0,0,Matches
+247,Ali Al Khaibari,sa KSA,DF,Al-Ettifaq,30,1989,0.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+248,Sami Al-Khaibari,sa KSA,DF,Al-Fayha,29,1989,23.6,2,12,3,25.0,0.51,0.13,0.17,0.67,,0,0,Matches
+249,Abdulmalek Al-Khaibri,sa KSA,MF,Al-Shabab,33,1986,12.4,0,5,1,20.0,0.40,0.08,0.00,0.00,,0,0,Matches
+250,Saad Al Khairi,sa KSA,DF,Al-Ettifaq,24,1995,8.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+251,Osama Al-Khalaf,sa KSA,DF,Al-Hazem,22,1996,22.7,3,29,7,24.1,1.28,0.31,0.10,0.43,,0,0,Matches
+252,Awadh Khames,sa KSA,DF,Al-Nassr,31,1988,10.3,0,1,0,0.0,0.10,0.00,0.00,,,0,0,Matches
+253,Omar Kharbin,sy SYR,"MF,FW",Al-Hilal,25,1994,7.5,6,27,14,51.9,3.58,1.86,0.19,0.36,,1,1,Matches
+254,Abdullah Khateeb,sa KSA,DF,Al-Ettifaq,24,1995,9.9,0,6,3,50.0,0.60,0.30,0.00,0.00,,0,0,Matches
+255,Khalid Al-Khathlan,sa KSA,DF,Abha,22,1996,25.4,0,2,0,0.0,0.08,0.00,0.00,,,0,0,Matches
+256,Awadh Khrees,sa KSA,"DF,MF",Al-Adalah,28,1991,7.2,0,4,0,0.0,0.55,0.00,0.00,,,0,0,Matches
+257,Awadh Khrees,sa KSA,DF,Al-Faisaly,28,1991,2.9,0,2,0,0.0,0.70,0.00,0.00,,,0,0,Matches
+258,Ayman Al-Khulaif,sa KSA,MF,Al-Wehda,22,1997,5.6,0,12,3,25.0,2.13,0.53,0.00,0.00,,0,0,Matches
+259,Filip Kiss,sk SVK,"MF,DF",Al-Ettifaq,28,1990,23.3,7,36,13,36.1,1.55,0.56,0.03,0.08,,6,6,Matches
+260,Aubin Kouakou,ci CIV,"DF,MF",Damac,27,1992,3.5,0,1,1,100.0,0.29,0.29,0.00,0.00,,0,0,Matches
+261,Maksym Koval,ua UKR,GK,Al-Fateh,26,1992,18.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+262,Amiri Kurdi,sa KSA,DF,Al-Hilal,27,1991,4.0,0,2,0,0.0,0.50,0.00,0.00,,,0,0,Matches
+263,Mohammed Al-Kwikbi,sa KSA,MF,Al-Ettifaq,24,1994,19.8,2,35,12,34.3,1.77,0.61,0.03,0.08,,1,1,Matches
+264,Ali Lajami,sa KSA,DF,Al-Fateh,23,1996,21.0,0,11,1,9.1,0.52,0.05,0.00,0.00,,0,0,Matches
+265,Lucas Lima,br BRA,DF,Al-Ahli,27,1991,22.5,1,28,6,21.4,1.24,0.27,0.04,0.17,,0,0,Matches
+266,Raïs M'Bolhi,dz ALG,GK,Al-Ettifaq,33,1986,28.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+267,Ricardo Machado,pt POR,DF,Al-Taawoun,30,1988,27.4,0,11,2,18.2,0.40,0.07,0.00,0.00,,0,0,Matches
+268,Mousa Madkhali,sa KSA,FW,Al-Wehda,31,1987,0.7,0,1,0,0.0,1.43,0.00,0.00,,,0,0,Matches
+269,Abdullah Madu,sa KSA,DF,Al-Nassr,26,1993,15.7,0,9,2,22.2,0.57,0.13,0.00,0.00,,0,0,Matches
+270,Ali Maedi,ee EST,DF,Al-Faisaly,28,1991,1.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+271,Abdullah Magrashi,sa KSA,"MF,FW",Al-Raed,21,1997,3.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+272,Ibrahim Mahnashi,sa KSA,"MF,DF",Al-Ettifaq,19,1999,23.4,0,3,1,33.3,0.13,0.04,0.00,0.00,,0,0,Matches
+273,Maicon,br BRA,DF,Al-Nassr,30,1988,28.0,0,26,10,38.5,0.93,0.36,0.00,0.00,,0,0,Matches
+274,Mohammed Al Majhad,sa KSA,MF,Al-Ahli,21,1998,5.1,0,8,1,12.5,1.56,0.19,0.00,0.00,,0,0,Matches
+275,Abdulaziz Majrashi,sa KSA,"DF,MF",Al-Adalah,28,1991,7.0,0,2,0,0.0,0.29,0.00,0.00,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+276,Abdulaziz Majrashi,sa KSA,"MF,DF",Al-Hazem,28,1991,3.5,0,1,1,100.0,0.28,0.28,0.00,0.00,,0,0,Matches
+277,Fahad Majrashi,sa KSA,FW,Al-Ahli,17,2001,0.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+278,Mohammed Majrashi,sa KSA,"FW,MF",Al-Fateh,28,1991,7.2,2,15,3,20.0,2.10,0.42,0.13,0.67,,0,0,Matches
+279,Mustafa Malayekah,sa KSA,GK,Al-Faisaly,33,1986,28.0,1,1,1,100.0,0.04,0.04,1.00,1.00,,0,0,Matches
+280,Abdulellah Al-Malki,sa KSA,MF,Al-Ittihad,24,1994,22.9,2,17,4,23.5,0.74,0.17,0.12,0.50,,0,0,Matches
+281,Ass Mandaw Sy,sn SEN,DF,Al-Adalah,30,1989,13.6,0,8,0,0.0,0.59,0.00,0.00,,,0,0,Matches
+282,Sandro Manoel,br BRA,MF,Al-Taawoun,31,1988,28.1,3,30,7,23.3,1.07,0.25,0.03,0.14,,2,2,Matches
+283,Hamad Al Mansour,sa KSA,DF,Al-Nassr,26,1993,0.5,0,1,1,100.0,2.00,2.00,0.00,0.00,,0,0,Matches
+284,Marko Marin,de GER,MF,Al-Ahli,30,1989,6.4,0,9,1,11.1,1.41,0.16,0.00,0.00,,0,0,Matches
+285,Rayan Al Marshoud,sa KSA,FW,Al-Raed,20,1999,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+286,Naif Al Mas,sa KSA,DF,Al-Nassr,19,2000,3.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+287,Aymen Mathlouthi,tn TUN,GK,Al-Adalah,34,1984,9.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+288,Abdullah Al-Mayouf,sa KSA,GK,Al-Hilal,32,1987,27.0,1,1,1,100.0,0.04,0.04,0.00,0.00,,1,1,Matches
+289,Ali Al-Mazidi,sa KSA,GK,Al-Adalah,33,1985,18.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+290,Sultan Mendash,sa KSA,"MF,FW",Al-Taawoun,24,1994,7.3,0,9,1,11.1,1.23,0.14,0.00,0.00,,0,0,Matches
+291,Sultan Mendash,sa KSA,MF,Al-Ahli,24,1994,0.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+292,Abdelali Mhamdi,ma MAR,GK,Abha,27,1991,30.0,0,1,0,0.0,0.03,0.00,0.00,,,0,0,Matches
+293,Salman Al-Moasher,sa KSA,"MF,FW",Al-Ahli,30,1988,14.3,2,27,9,33.3,1.89,0.63,0.07,0.22,,0,0,Matches
+294,Tariq Mohammed,sa KSA,DF,Al-Ittihad,23,1995,2.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+295,Mohammed Mohsen Harzan,sa KSA,MF,Al-Taawoun,30,1989,0.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+296,Mohammed Mohsen Harzan,sa KSA,MF,Damac,30,1989,7.1,1,4,2,50.0,0.56,0.28,0.25,0.50,,0,0,Matches
+297,Hussain Al Moqahwi,sa KSA,MF,Al-Ahli,31,1988,9.9,2,14,4,28.6,1.42,0.40,0.14,0.50,,0,0,Matches
+298,Mohamed Al Moqahwi,sa KSA,GK,Al-Adalah,24,1995,2.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+299,Anselmo de Moraes,br BRA,MF,Al-Wehda,30,1989,23.9,10,44,20,45.5,1.84,0.84,0.23,0.50,,0,0,Matches
+300,Danilo Moreno Asprilla,co COL,"MF,FW",Al-Shabab,30,1989,27.5,7,68,20,29.4,2.47,0.73,0.10,0.35,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+301,Yasser Al Mosailem,sa KSA,GK,Al-Ahli,35,1984,15.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+302,Ahmed Mostafa,eg EGY,MF,Al-Adalah,21,1997,3.3,0,9,1,11.1,2.76,0.31,0.00,0.00,,0,0,Matches
+303,Ahmed Mostafa,eg EGY,MF,Abha,21,1997,2.8,0,2,2,100.0,0.71,0.71,0.00,0.00,,0,0,Matches
+304,Naif Al-Mousa,sa KSA,"DF,MF",Al-Hazem,32,1986,8.4,0,1,0,0.0,0.12,0.00,0.00,,,0,0,Matches
+305,Nooh Al-Mousa,sa KSA,MF,Al-Ahli,28,1991,4.8,0,2,0,0.0,0.42,0.00,0.00,,,0,0,Matches
+306,Ryan Al-Mousa,sa KSA,MF,Al-Taawoun,25,1994,9.5,0,3,0,0.0,0.31,0.00,0.00,,,0,0,Matches
+307,Saeed Al Mowalad,sa KSA,DF,Al-Ahli,28,1991,13.7,0,8,0,0.0,0.58,0.00,0.00,,,0,0,Matches
+308,Hassan Muath Fallatah,sa KSA,"DF,MF",Al-Shabab,33,1986,18.0,0,23,9,39.1,1.27,0.50,0.00,0.00,,0,0,Matches
+309,Muteb Al Mufarrij,sa KSA,DF,Al-Shabab,22,1996,3.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+310,Abdullah Al Mugren,sa KSA,MF,Al-Raed,22,1996,2.2,0,3,1,33.3,1.36,0.45,0.00,0.00,,0,0,Matches
+311,Muralha,br BRA,MF,Al-Hazem,26,1993,24.4,0,35,12,34.3,1.44,0.49,0.00,0.00,,0,0,Matches
+312,Ahmed Musa,ng NGA,"MF,FW",Al-Nassr,26,1992,17.1,2,50,15,30.0,2.93,0.88,0.04,0.13,,0,0,Matches
+313,Abdullah Al-Mutairi,sa KSA,MF,Al-Fayha,33,1986,3.3,0,4,2,50.0,1.20,0.60,0.00,0.00,,0,0,Matches
+314,Muteb Al-Mutlaq,sa KSA,DF,Al-Raed,21,1997,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+315,Essam Al Muwallad,sa KSA,MF,Al-Ittihad,20,1999,0.5,0,1,1,100.0,1.96,1.96,0.00,0.00,,0,0,Matches
+316,Fahad Al Muwallad,sa KSA,"FW,MF",Al-Ittihad,24,1994,7.3,4,13,7,53.8,1.77,0.95,0.15,0.29,,2,2,Matches
+317,Mansour Al Muwallad,sa KSA,FW,Al-Taawoun,22,1997,1.0,1,5,3,60.0,4.79,2.87,0.20,0.33,,0,0,Matches
+318,Nader Al-Muwallad,sa KSA,MF,Al-Adalah,27,1992,9.9,0,1,0,0.0,0.10,0.00,0.00,,,0,0,Matches
+319,Omar Al-Muziel,sa KSA,"MF,DF",Abha,27,1992,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+320,Omar Al-Muziel,sa KSA,DF,Al-Fayha,27,1992,5.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+321,Alfred N'Diaye,sn SEN,MF,Al-Shabab,29,1990,21.1,0,8,2,25.0,0.38,0.09,0.00,0.00,,0,0,Matches
+322,Sumaihan Al-Nabet,sa KSA,"MF,FW",Al-Taawoun,23,1996,3.5,0,3,1,33.3,0.87,0.29,0.00,0.00,,0,0,Matches
+323,Sumaihan Al-Nabet,sa KSA,MF,Abha,23,1996,14.0,1,24,8,33.3,1.72,0.57,0.04,0.13,,0,0,Matches
+324,Ahmed Al-Nadhri,sa KSA,"FW,MF",Al-Adalah,26,1993,10.1,0,7,2,28.6,0.69,0.20,0.00,0.00,,0,0,Matches
+325,Mojammed Naif,,DF,Al-Hazem,,,3.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+326,Ahmed Al Najai,sa KSA,MF,Abha,24,1995,9.8,0,1,0,0.0,0.10,0.00,0.00,,,0,0,Matches
+327,Ammar Al-Najar,sa KSA,MF,Abha,22,1997,17.9,3,24,11,45.8,1.34,0.61,0.08,0.18,,1,1,Matches
+328,Muhannad Al Najei,sa KSA,MF,Damac,25,1994,8.3,0,5,0,0.0,0.60,0.00,0.00,,,0,0,Matches
+329,Sami Al-Najei,sa KSA,MF,Damac,22,1997,7.3,0,6,2,33.3,0.82,0.27,0.00,0.00,,0,0,Matches
+330,Mohammed Naji,sa KSA,DF,Al-Fateh,25,1993,14.7,2,15,5,33.3,1.02,0.34,0.13,0.40,,0,0,Matches
+331,Majed Al-Najrani,sa KSA,MF,Al-Ettifaq,26,1993,0.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+332,Bader Al-Nakhli,sa KSA,DF,Al-Adalah,31,1988,8.5,0,3,2,66.7,0.35,0.23,0.00,0.00,,0,0,Matches
+333,Hussain Al Nakhli,sa KSA,FW,Al-Adalah,21,1998,2.7,0,14,3,21.4,5.25,1.13,0.00,0.00,,0,0,Matches
+334,Munther Nakhli,sa KSA,MF,Al-Fateh,,,1.8,0,4,0,0.0,2.28,0.00,0.00,,,0,0,Matches
+335,Abdulaziz Al Nashi,sa KSA,MF,Al-Hazem,31,1987,19.0,0,9,0,0.0,0.47,0.00,0.00,,,0,0,Matches
+336,Awad Al Nashri,sa KSA,MF,Al-Ittihad,17,2002,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+337,Bander Nasser,sa KSA,DF,Al-Fayha,29,1990,17.0,0,1,1,100.0,0.06,0.06,0.00,0.00,,0,0,Matches
+338,Ali Al Nemer,sa KSA,"MF,FW",Al-Wehda,27,1991,6.7,0,3,0,0.0,0.45,0.00,0.00,,,0,0,Matches
+339,Neto,br BRA,MF,Al-Fayha,27,1991,25.4,1,42,9,21.4,1.65,0.35,0.02,0.11,,0,1,Matches
+340,Youssouf Niakaté,ml MLI,FW,Al-Wehda,26,1992,28.1,16,72,35,48.6,2.57,1.25,0.21,0.43,,1,1,Matches
+341,Arsénio Martins Lafuente Nunes,pt POR,MF,Al-Fayha,29,1989,24.9,1,47,16,34.0,1.89,0.64,0.02,0.06,,0,0,Matches
+342,Abdurahman Al-Obaid,sa KSA,"DF,MF",Al-Nassr,26,1993,18.9,0,14,2,14.3,0.74,0.11,0.00,0.00,,0,0,Matches
+343,John Ogu,ng NGA,DF,Al-Adalah,31,1988,6.2,0,4,2,50.0,0.64,0.32,0.00,0.00,,0,0,Matches
+344,Madallah Al-Olayan,sa KSA,"DF,MF",Al-Taawoun,24,1994,10.2,1,5,2,40.0,0.49,0.20,0.20,0.50,,0,0,Matches
+345,Madallah Al-Olayan,sa KSA,DF,Al-Hilal,24,1994,7.4,0,3,1,33.3,0.41,0.14,0.00,0.00,,0,0,Matches
+346,Youssouf Omar,ne NIG,"MF,FW",Al-Hazem,25,1994,5.9,2,16,7,43.8,2.71,1.18,0.13,0.29,,0,0,Matches
+347,Nasser Al Omran,sa KSA,MF,Al-Shabab,22,1997,5.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+348,Ibrahim Al Otaibi,sa KSA,MF,Al-Taawoun,22,1997,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+349,Radi Al Otaibi,sa KSA,DF,Al-Wehda,19,2000,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+350,Thaar Al Otaibi,sa KSA,FW,Al-Taawoun,19,1999,0.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+351,Thaar Al Otaibi,sa KSA,FW,Al-Hilal,19,1999,0.2,0,1,1,100.0,5.00,5.00,0.00,0.00,,0,0,Matches
+352,Saqer Otaif,sa KSA,FW,Al-Fateh,28,1990,0.7,0,2,0,0.0,2.73,0.00,0.00,,,0,0,Matches
+353,Abdullah Otayf,sa KSA,MF,Al-Hilal,26,1992,3.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+354,Abdelkader Oueslati,tn TUN,MF,Al-Fateh,27,1991,1.5,0,2,1,50.0,1.35,0.68,0.00,0.00,,0,0,Matches
+355,Mohammed Al Oufi,sa KSA,DF,Al-Ittihad,16,2002,0.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+356,Mohammed Al-Owais,sa KSA,GK,Al-Ahli,27,1991,12.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+357,Abdullah Al-Owaishir,sa KSA,GK,Al-Shabab,28,1991,0.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+358,Samuel Owusu,gh GHA,MF,Al-Fayha,23,1996,24.6,7,65,21,32.3,2.64,0.85,0.11,0.33,,0,0,Matches
+359,Ezequiel Palomeque,co COL,DF,Al-Raed,26,1992,17.1,0,5,1,20.0,0.29,0.06,0.00,0.00,,0,0,Matches
+360,Giuliano de Paula,br BRA,MF,Al-Nassr,29,1990,26.2,11,62,29,46.8,2.36,1.11,0.18,0.38,,0,0,Matches
+361,Marco Pérez,co COL,FW,Al-Raed,28,1990,16.6,4,46,15,32.6,2.78,0.91,0.09,0.27,,0,0,Matches
+362,Nildo Petrolina,br BRA,"MF,DF",Al-Taawoun,33,1986,23.0,3,50,16,32.0,2.17,0.70,0.06,0.19,,0,0,Matches
+363,Petros,br BRA,MF,Al-Nassr,30,1989,25.8,3,30,11,36.7,1.16,0.43,0.10,0.27,,0,0,Matches
+364,Aleksandar Prijović,rs SRB,FW,Al-Ittihad,29,1990,5.8,1,12,7,58.3,2.06,1.20,0.00,0.00,,1,1,Matches
+365,Abdulkareem Al-Qahtani,sa KSA,"MF,FW",Al-Fayha,26,1993,10.5,2,9,4,44.4,0.86,0.38,0.22,0.50,,0,0,Matches
+366,Abdullah Al Qahtani,sa KSA,MF,Abha,20,1999,5.7,1,6,5,83.3,1.06,0.88,0.17,0.20,,0,0,Matches
+367,Husain Al Qahtani,sa KSA,MF,Al-Faisaly,24,1994,19.9,0,12,3,25.0,0.60,0.15,0.00,0.00,,0,0,Matches
+368,Mashari Al-Qahtani,sa KSA,MF,Al-Wehda,22,1997,1.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+369,Abdullah Qaisi,sa KSA,MF,Abha,29,1990,4.0,0,3,0,0.0,0.75,0.00,0.00,,,0,0,Matches
+370,Assaf Al-Qarni,sa KSA,GK,Al-Ittihad,35,1984,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+371,Fawaz Al-Qarni,sa KSA,GK,Al-Ittihad,27,1992,12.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+372,Mohammed Al-Qarni,sa KSA,MF,Al-Wehda,29,1989,10.2,0,3,0,0.0,0.30,0.00,0.00,,,0,0,Matches
+373,Mohammed Qassem,sa KSA,DF,Al-Faisaly,24,1995,28.4,1,17,4,23.5,0.60,0.14,0.06,0.25,,0,0,Matches
+374,Hassan Al-Qeed,sa KSA,MF,Abha,21,1998,9.0,2,12,4,33.3,1.33,0.44,0.17,0.50,,0,0,Matches
+375,Saleh Al-Qumaizi,sa KSA,DF,Al-Ettifaq,27,1991,24.2,1,13,4,30.8,0.54,0.16,0.08,0.25,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+376,Hussain Al Quraish,sa KSA,MF,Al-Faisaly,20,1999,1.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+377,Saeed Al Rabiei,sa KSA,DF,Al-Ettifaq,25,1993,17.3,3,13,8,61.5,0.75,0.46,0.23,0.38,,0,0,Matches
+378,Radhi Al Radhi,sa KSA,DF,Al-Adalah,27,1991,16.0,0,4,2,50.0,0.25,0.13,0.00,0.00,,0,0,Matches
+379,Hassan Raghfawi,sa KSA,"DF,MF",Damac,23,1995,11.1,0,5,0,0.0,0.45,0.00,0.00,,,0,0,Matches
+380,Hassan Al Raheb,sa KSA,FW,Al-Shabab,35,1983,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+381,Chamseddine Rahmani,dz ALG,GK,Damac,28,1990,12.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+382,Héldon Ramos,cv CPV,"MF,FW",Al-Taawoun,30,1988,22.0,7,46,14,30.4,2.09,0.64,0.11,0.36,,2,2,Matches
+383,Raphael,br BRA,DF,Al-Faisaly,27,1992,28.0,2,16,4,25.0,0.57,0.14,0.13,0.50,,0,0,Matches
+384,Fahad Al Rashidi,sa KSA,"MF,FW",Al-Taawoun,22,1997,5.0,0,14,3,21.4,2.78,0.59,0.00,0.00,,0,0,Matches
+385,Murad Al Rashidi,sa KSA,DF,Damac,28,1991,1.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+386,Ahmed Al-Rehaili,sa KSA,GK,Al-Raed,24,1994,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+387,Ali Rie,lb LIB,GK,Al-Ittihad,,,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+388,Abdulrahman Al-Rio,sa KSA,DF,Al-Wehda,25,1994,3.5,0,1,0,0.0,0.28,0.00,0.00,,,0,0,Matches
+389,Rogerinho,br BRA,"MF,FW",Al-Ettifaq,32,1987,9.4,2,22,10,45.5,2.35,1.07,0.09,0.20,,0,1,Matches
+390,Romarinho,br BRA,"MF,FW",Al-Ittihad,28,1990,29.5,15,75,35,46.7,2.54,1.19,0.19,0.40,,1,1,Matches
+391,Igor Rossi Branco,br BRA,DF,Al-Faisaly,30,1989,30.0,4,21,9,42.9,0.70,0.30,0.19,0.44,,0,0,Matches
+392,Hamdan Al Ruwaili,sa KSA,"MF,DF",Al-Taawoun,24,1995,2.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+393,Marwane Saâdane,ma MAR,"DF,MF",Al-Fateh,27,1992,27.7,7,36,14,38.9,1.30,0.51,0.00,0.00,,7,9,Matches
+394,Dawod Al Saeed,sa KSA,GK,Al-Hazem,28,1991,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+395,Mohammed Al-Saeed,sa KSA,"DF,MF",Al-Fateh,22,1996,6.6,0,3,1,33.3,0.45,0.15,0.00,0.00,,0,0,Matches
+396,Abdulrahman Al Safari,sa KSA,MF,Damac,26,1993,5.2,0,7,3,42.9,1.36,0.58,0.00,0.00,,0,0,Matches
+397,Ziyad Al-Sahafi,sa KSA,DF,Al-Ittihad,24,1994,13.8,1,5,2,40.0,0.36,0.14,0.20,0.50,,0,0,Matches
+398,Mohammed Al Sahlawi,sa KSA,FW,Al-Taawoun,32,1987,5.0,2,18,8,44.4,3.58,1.59,0.11,0.25,,0,0,Matches
+399,Mohammed Al Sahlawi,sa KSA,FW,Al-Shabab,32,1987,0.9,0,1,0,0.0,1.11,0.00,0.00,,,0,0,Matches
+400,Mohammed Al Sahli,sa KSA,FW,Al-Raed,27,1992,3.7,2,4,2,50.0,1.08,0.54,0.50,1.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+401,Mohammed Al-Saiari,sa KSA,FW,Al-Wehda,26,1993,1.0,0,4,0,0.0,4.00,0.00,0.00,,,0,0,Matches
+402,Mohammed Al-Saiari,sa KSA,FW,Al-Faisaly,26,1993,3.1,1,8,3,37.5,2.55,0.96,0.13,0.33,,0,0,Matches
+403,Bilel Saidani,tn TUN,MF,Damac,26,1993,14.9,3,12,4,33.3,0.81,0.27,0.25,0.75,,0,0,Matches
+404,Makhir Saleh,sa KSA,DF,Al-Fayha,20,1999,9.7,1,2,1,50.0,0.21,0.10,0.50,1.00,,0,0,Matches
+405,Abdulla Al Salem,sa KSA,FW,Al-Ettifaq,26,1992,6.7,2,13,5,38.5,1.95,0.75,0.15,0.40,,0,0,Matches
+406,Ali Ayesh Al-Salem,sa KSA,"DF,MF",Al-Adalah,20,1998,3.1,0,1,1,100.0,0.32,0.32,0.00,0.00,,0,0,Matches
+407,Mohammed Salem,sa KSA,DF,Al-Shabab,33,1985,27.0,1,18,5,27.8,0.67,0.19,0.06,0.20,,0,0,Matches
+408,Awn Al Saluli,sa KSA,DF,Al-Fayha,20,1998,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+409,Abdullah Al-Samtai,sa KSA,MF,Damac,,,6.1,0,2,2,100.0,0.33,0.33,0.00,0.00,,0,0,Matches
+410,Elvis Sarić,ba BIH,MF,Al-Ahli,29,1990,20.5,0,10,1,10.0,0.49,0.05,0.00,0.00,,0,0,Matches
+411,Babacar Sarr,sn SEN,"DF,MF",Damac,28,1991,12.2,0,4,1,25.0,0.33,0.08,0.00,0.00,,0,0,Matches
+412,Sultan Al-Sawadi,sa KSA,MF,Al-Wehda,26,1992,1.0,0,2,0,0.0,2.02,0.00,0.00,,,0,0,Matches
+413,Sultan Al-Sawadi,sa KSA,"MF,FW",Al-Raed,26,1992,2.2,0,1,1,100.0,0.46,0.46,0.00,0.00,,0,0,Matches
+414,Abdulmajeed Al-Sawat,sa KSA,"MF,FW",Al-Taawoun,24,1995,14.6,3,25,7,28.0,1.71,0.48,0.12,0.43,,0,0,Matches
+415,Ramzi Sawlan,sa KSA,DF,Al-Faisaly,21,1998,1.5,0,1,1,100.0,0.67,0.67,0.00,0.00,,0,0,Matches
+416,Sebá,br BRA,"MF,FW",Al-Shabab,27,1992,24.6,5,39,17,43.6,1.59,0.69,0.08,0.18,,2,3,Matches
+417,Saad Al-Selouli,sa KSA,MF,Al-Ettifaq,21,1998,9.0,2,22,8,36.4,2.46,0.89,0.09,0.25,,0,0,Matches
+418,Hussain Shae'an,sa KSA,GK,Al-Taawoun,30,1989,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+419,Amer Shafi,jo JOR,GK,Al-Fayha,37,1982,16.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+420,Abdulaziz Al Shahrani,sa KSA,"MF,FW",Damac,24,1994,9.0,0,12,2,16.7,1.33,0.22,0.00,0.00,,0,0,Matches
+421,Mohammed Al-Shahrani,sa KSA,MF,Damac,23,1996,0.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+422,Yasser Al-Shahrani,sa KSA,DF,Al-Hilal,27,1992,24.3,0,18,6,33.3,0.74,0.25,0.00,0.00,,0,0,Matches
+423,Ali Al Shaikhi,sa KSA,MF,Al-Ahli,19,2000,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+424,Mohammad Al-Shalhoub,sa KSA,MF,Al-Hilal,38,1980,0.2,0,2,0,0.0,10.00,0.00,0.00,,,0,0,Matches
+425,Abdullah Al-Shamekh,sa KSA,DF,Al-Shabab,26,1993,18.6,0,10,0,0.0,0.54,0.00,0.00,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+426,Abdullah Al-Shammari,sa KSA,DF,Al-Hazem,25,1993,15.2,0,7,0,0.0,0.46,0.00,0.00,,,0,0,Matches
+427,Abdulmalek Al-Shammeri,sa KSA,MF,Al-Shabab,23,1995,1.5,0,1,0,0.0,0.68,0.00,0.00,,,0,0,Matches
+428,Ahmed Al-Shamrani,sa KSA,DF,Al-Hazem,25,1994,6.3,0,5,0,0.0,0.79,0.00,0.00,,,0,0,Matches
+429,Hamdan Al-Shamrani,sa KSA,"DF,MF",Al-Ittihad,22,1996,22.3,4,13,9,69.2,0.58,0.40,0.31,0.44,,0,0,Matches
+430,Mohammed Al Shanqiti,sa KSA,DF,Al-Taawoun,20,1999,2.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+431,Ahmed Sharahili,sa KSA,DF,Al-Shabab,25,1994,20.9,0,9,4,44.4,0.43,0.19,0.00,0.00,,0,0,Matches
+432,Khalid Sharahili,sa KSA,GK,Damac,32,1987,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+433,Riyadh Sharahili,sa KSA,MF,Al-Adalah,26,1993,8.2,1,6,1,16.7,0.73,0.12,0.17,1.00,,0,0,Matches
+434,Nader Al-Sharari,sa KSA,DF,Abha,23,1996,6.8,0,5,0,0.0,0.74,0.00,0.00,,,0,0,Matches
+435,Mahar Sharoma,td CHA,FW,Al-Adalah,23,1996,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+436,Saleh Al-Shehri,sa KSA,FW,Al-Hilal,25,1993,5.1,4,17,8,47.1,3.32,1.56,0.24,0.50,,0,0,Matches
+437,Yahya Al-Shehri,sa KSA,MF,Al-Nassr,29,1990,8.2,3,11,5,45.5,1.35,0.61,0.27,0.60,,0,0,Matches
+438,Muhannad Shenqeeti,sa KSA,"DF,MF",Al-Ittihad,20,1999,4.7,0,1,0,0.0,0.21,0.00,0.00,,,0,0,Matches
+439,Mohanad Al Shudukhi,sa KSA,MF,Al-Raed,20,1999,0.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+440,Mohammed Al Shuraymi,sa KSA,DF,Al-Raed,24,1995,9.3,0,4,1,25.0,0.43,0.11,0.00,0.00,,0,0,Matches
+441,Hussein Al Shuwaysh,sa KSA,DF,Al-Raed,30,1988,13.8,0,5,1,20.0,0.36,0.07,0.00,0.00,,0,0,Matches
+442,Hani Al Sibyani,sa KSA,"DF,MF",Al-Fayha,20,1999,9.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+443,Luis Gustavo Melere da Silva,br BRA,MF,Al-Wehda,28,1991,15.2,8,24,15,62.5,1.58,0.99,0.29,0.47,,1,1,Matches
+444,Luis Gustavo Melere da Silva,br BRA,MF,Al-Faisaly,28,1991,11.3,2,31,8,25.8,2.74,0.71,0.06,0.25,,0,1,Matches
+445,Naïm Sliti,tn TUN,MF,Al-Ettifaq,27,1992,15.2,2,27,9,33.3,1.77,0.59,0.07,0.22,,0,0,Matches
+446,Nawaf Al-Sobhi,sa KSA,DF,Al-Fayha,29,1990,13.2,3,15,6,40.0,1.14,0.46,0.20,0.50,,0,0,Matches
+447,Omar Al Somah,sy SYR,FW,Al-Ahli,30,1989,23.1,19,134,53,39.6,5.81,2.30,0.13,0.32,,2,4,Matches
+448,Somália,br BRA,"MF,DF",Al-Shabab,30,1988,6.0,0,2,0,0.0,0.34,0.00,0.00,,,0,0,Matches
+449,Souza,br BRA,MF,Al-Ettifaq,31,1988,15.0,1,37,16,43.2,2.47,1.07,0.03,0.06,,0,0,Matches
+450,Josef de Souza,br BRA,MF,Al-Ahli,30,1989,18.1,0,11,3,27.3,0.61,0.17,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+451,Wesam Al-Sowayed,sa KSA,DF,Al-Hazem,31,1987,4.9,0,2,0,0.0,0.41,0.00,0.00,,,0,0,Matches
+452,Fawaz Al-Sqoor,sa KSA,DF,Al-Wehda,23,1996,29.6,1,5,2,40.0,0.17,0.07,0.20,0.50,,0,0,Matches
+453,Carlos Strandberg,se SWE,FW,Al-Hazem,23,1996,24.2,13,68,34,50.0,2.81,1.41,0.18,0.35,,1,2,Matches
+454,Rabee Sufyani,sa KSA,"MF,FW",Al-Taawoun,32,1987,14.2,1,23,8,34.8,1.62,0.56,0.04,0.13,,0,0,Matches
+455,Badr Al-Sulaitin,sa KSA,MF,Al-Adalah,29,1990,3.6,0,5,1,20.0,1.38,0.28,0.00,0.00,,0,0,Matches
+456,Abdulmajeed Al-Sulayhem,sa KSA,MF,Al-Shabab,25,1994,23.0,3,21,7,33.3,0.91,0.30,0.14,0.43,,0,0,Matches
+457,Ahmed Al-Sultan,sa KSA,"MF,DF",Al-Adalah,26,1993,14.7,0,4,0,0.0,0.27,0.00,0.00,,,0,0,Matches
+458,Khaled Al-Sumairi,sa KSA,MF,Al-Ittihad,22,1997,8.1,0,9,4,44.4,1.12,0.50,0.00,0.00,,0,0,Matches
+459,Mehdi Tahrat,dz ALG,"DF,MF",Abha,29,1990,24.8,2,20,5,25.0,0.81,0.20,0.10,0.40,,0,0,Matches
+460,Hassan Al Tambakti,sa KSA,DF,Al-Wehda,20,1999,7.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+461,Ibrahima Tandia,ml MLI,MF,Al-Hazem,26,1993,8.1,2,30,7,23.3,3.70,0.86,0.07,0.29,,0,0,Matches
+462,Léandre Tawamba,cm CMR,FW,Al-Taawoun,29,1989,14.9,3,34,14,41.2,2.28,0.94,0.09,0.21,,0,0,Matches
+463,Mitchell te Vrede,sr SUR,FW,Al-Fateh,27,1991,24.5,12,86,34,39.5,3.52,1.39,0.12,0.29,,2,3,Matches
+464,Fawaz Al Terais,sa KSA,MF,Al-Ettifaq,19,2000,8.5,1,12,5,41.7,1.42,0.59,0.08,0.20,,0,0,Matches
+465,Moshari Al-Thamali,sa KSA,MF,Al-Faisaly,27,1992,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+466,Adama Traoré,ml MLI,"MF,FW",Al-Adalah,24,1995,15.7,1,26,7,26.9,1.65,0.44,0.04,0.14,,0,0,Matches
+467,Bruno Uvini,br BRA,DF,Al-Ittihad,28,1991,16.0,1,5,3,60.0,0.31,0.19,0.20,0.33,,0,0,Matches
+468,Emiliano Vecchio,ar ARG,"MF,FW",Al-Ittihad,30,1988,8.0,3,12,5,41.7,1.50,0.63,0.25,0.60,,0,0,Matches
+469,Carlos Villanueva,cl CHI,"MF,FW",Al-Fayha,33,1986,15.9,4,30,16,53.3,1.89,1.01,0.13,0.25,,0,0,Matches
+470,Carlos Villanueva,cl CHI,MF,Al-Ittihad,33,1986,9.8,0,12,5,41.7,1.22,0.51,0.00,0.00,,0,0,Matches
+471,Sergio Vittor,ar ARG,DF,Damac,30,1989,17.0,1,14,5,35.7,0.82,0.29,0.07,0.20,,0,0,Matches
+472,Mohammed Al-Waked,sa KSA,GK,Al-Hilal,27,1992,3.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+473,Habib Al Watyan,sa KSA,GK,Al-Fateh,22,1996,12.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+474,Gustav Wikheim,no NOR,"MF,FW",Al-Fateh,26,1993,21.2,2,33,15,45.5,1.55,0.71,0.06,0.13,,0,0,Matches
+475,William,br BRA,FW,Al-Faisaly,27,1991,26.6,3,36,14,38.9,1.35,0.53,0.08,0.21,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+476,Aiman Yahya,sa KSA,MF,Al-Nassr,18,2001,1.3,0,4,1,25.0,3.08,0.77,0.00,0.00,,0,0,Matches
+477,Cédric Yamberé,cf CTA,DF,Al-Ettifaq,28,1990,22.6,1,8,1,12.5,0.35,0.04,0.13,1.00,,0,0,Matches
+478,Abdulrahman Al Yami,sa KSA,"FW,MF",Al-Hazem,22,1997,3.6,3,9,3,33.3,2.48,0.83,0.33,1.00,,0,0,Matches
+479,Mohammed Al Yami,sa KSA,GK,Al-Ahli,21,1997,0.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+480,Karim Yoda,fr FRA,MF,Al-Hazem,30,1988,8.5,1,21,8,38.1,2.48,0.95,0.05,0.13,,0,0,Matches
+481,Abdullah Al-Yousaf,sa KSA,DF,Al-Adalah,,,19.5,2,14,5,35.7,0.72,0.26,0.07,0.20,,1,1,Matches
+482,Abdullah Al Yousif,sa KSA,DF,Al-Fateh,21,1997,8.0,0,4,2,50.0,0.50,0.25,0.00,0.00,,0,0,Matches
+483,Khalid Zailai,fr FRA,MF,Abha,,,1.9,0,1,0,0.0,0.53,0.00,0.00,,,0,0,Matches
+484,Ahmed Al-Zain,sa KSA,MF,Al-Raed,28,1991,19.3,4,24,11,45.8,1.24,0.57,0.17,0.36,,0,0,Matches
+485,Ali Al Zaqan,sa KSA,MF,Al-Fateh,28,1991,18.4,3,53,18,34.0,2.88,0.98,0.06,0.17,,0,0,Matches
+486,Moustapha Zeghba,dz ALG,GK,Al-Wehda,28,1990,11.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+487,Moustapha Zeghba,dz ALG,GK,Damac,28,1990,16.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+488,Emilio Zelaya,ar ARG,FW,Damac,32,1987,16.0,13,27,17,63.0,1.69,1.06,0.33,0.53,,4,4,Matches
+489,Zezinho,gw GNB,MF,Damac,26,1992,10.4,0,7,1,14.3,0.67,0.10,0.00,0.00,,0,0,Matches
+490,Abdullah Al-Zori,sa KSA,DF,Al-Shabab,31,1987,10.6,1,5,2,40.0,0.47,0.19,0.20,0.50,,0,0,Matches
+491,Abdullah Al-Zori,sa KSA,DF,Al-Wehda,31,1987,11.5,0,4,0,0.0,0.35,0.00,0.00,,,0,0,Matches
+492,Jehad Al-Zowayed,sa KSA,MF,Abha,30,1989,1.4,0,3,0,0.0,2.11,0.00,0.00,,,0,0,Matches
+493,Ibrahim Al-Zubaidi,sa KSA,DF,Al-Taawoun,30,1989,7.4,0,3,1,33.3,0.41,0.14,0.00,0.00,,0,0,Matches
+494,Mohammed Al-Zubaidi,sa KSA,DF,Al-Hazem,21,1997,12.3,1,4,1,25.0,0.32,0.08,0.25,1.00,,0,0,Matches
+495,Ervin Zukanović,ba BIH,DF,Al-Ahli,32,1987,3.0,0,2,2,100.0,0.67,0.67,0.00,0.00,,0,0,Matches

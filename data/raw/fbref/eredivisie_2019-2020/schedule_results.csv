@@ -1,0 +1,316 @@
+wk,day,date,time,home,xg,score,xg_1,away,attendance,venue,referee,match_report,notes
+1,Fri,2019-08-02,20:00,Zwolle,0.6,1–3,1.4,Willem II,13824,MAC³PARK Stadion,Jeroen Manschot,Match Report,
+1,Sat,2019-08-03,18:30,Emmen,0.7,0–1,2.0,Groningen,8245,De Oude Meerdijk,Pol van Boekel,Match Report,
+1,Sat,2019-08-03,18:30,Vitesse,0.6,2–2,3.5,Ajax,18100,GelreDome,Bas Nijhuis,Match Report,
+1,Sat,2019-08-03,20:45,VVV-Venlo,1.8,3–1,1.2,RKC Waalwijk,5560,Seacon Stadion De Koel,Joey Kooij,Match Report,
+1,Sat,2019-08-03,20:45,Twente,0.2,1–1,1.1,PSV Eindhoven,27200,De Grolsch Veste,Serdar Gözübüyük,Match Report,
+1,Sun,2019-08-04,12:15,Heracles Almelo,1.0,0–4,1.2,Heerenveen,9640,Erve Asito,Richard Martens,Match Report,
+1,Sun,2019-08-04,14:30,Feyenoord,2.2,2–2,1.1,Sparta R'dam,41000,Stadion Feijenoord,Danny Makkelie,Match Report,
+1,Sun,2019-08-04,16:45,ADO Den Haag,0.9,2–4,2.5,Utrecht,10633,Cars Jeans Stadion,Kevin Blom,Match Report,
+1,Sun,2019-08-04,20:00,AZ Alkmaar,2.3,4–0,0.3,Fortuna Sittard,13500,AFAS Stadion,Dennis Higler,Match Report,
+2,Fri,2019-08-09,20:00,Sparta R'dam,2.6,4–1,0.3,VVV-Venlo,10012,Sparta-Stadion Het Kasteel,Bas Nijhuis,Match Report,
+2,Sat,2019-08-10,18:30,Groningen,1.4,1–3,2.4,Twente,19049,Hitachi Capital Mobility Stadion,Christiaan Bax,Match Report,
+2,Sat,2019-08-10,19:45,Ajax,4.7,5–0,0.3,Emmen,53124,Johan Cruyff ArenA,Serdar Gözübüyük,Match Report,
+2,Sat,2019-08-10,20:45,Willem II,0.4,0–2,1.8,Vitesse,12825,Koning Willem II Stadion,Siemen Mulder,Match Report,
+2,Sun,2019-08-11,12:15,Fortuna Sittard,1.3,1–1,1.8,Heracles Almelo,5866,Fortuna Sittard Stadion,Kevin Blom,Match Report,
+2,Sun,2019-08-11,14:30,RKC Waalwijk,0.7,0–2,2.0,AZ Alkmaar,6023,Mandemakers Stadion,Allard Lindhout,Match Report,
+2,Sun,2019-08-11,14:30,Heerenveen,1.4,1–1,1.0,Feyenoord,18600,Abe Lenstra Stadion,Jochem Kamphuis,Match Report,
+2,Sun,2019-08-11,16:45,Utrecht,3.6,3–1,0.4,Zwolle,18736,Stadion Galgenwaard,Edwin van de Graaf,Match Report,
+2,Sun,2019-08-11,20:00,PSV Eindhoven,3.4,3–1,0.2,ADO Den Haag,32000,Philips Stadion,Danny Makkelie,Match Report,
+3,Fri,2019-08-16,20:00,Vitesse,1.9,3–0,0.3,Zwolle,12273,GelreDome,Rob Dieperink,Match Report,
+3,Sat,2019-08-17,18:30,VVV-Venlo,1.0,1–4,3.2,Ajax,8000,Seacon Stadion De Koel,Danny Makkelie,Match Report,
+3,Sat,2019-08-17,18:30,ADO Den Haag,1.9,1–2,1.1,Sparta R'dam,12479,Cars Jeans Stadion,Dennis Higler,Match Report,
+3,Sat,2019-08-17,20:45,Emmen,1.9,2–0,1.5,Heerenveen,8145,De Oude Meerdijk,Bas Nijhuis,Match Report,
+3,Sun,2019-08-18,12:15,Fortuna Sittard,2.2,2–3,1.4,Willem II,7273,Fortuna Sittard Stadion,Allard Lindhout,Match Report,
+3,Sun,2019-08-18,14:30,Twente,1.8,3–3,2.4,RKC Waalwijk,25700,De Grolsch Veste,Martin Perez,Match Report,
+3,Sun,2019-08-18,16:45,AZ Alkmaar,0.5,0–0,0.8,Groningen,10000,Cars Jeans Stadion,Serdar Gözübüyük,Match Report,
+3,Sun,2019-08-18,16:45,Feyenoord,1.0,1–1,1.3,Utrecht,37500,Stadion Feijenoord,Pol van Boekel,Match Report,
+3,Sun,2019-08-18,20:00,Heracles Almelo,1.9,0–2,0.5,PSV Eindhoven,10063,Erve Asito,Jochem Kamphuis,Match Report,
+4,Sat,2019-08-24,18:30,Willem II,1.2,2–1,2.1,Emmen,13300,Koning Willem II Stadion,Siemen Mulder,Match Report,
+4,Sat,2019-08-24,19:45,Heracles Almelo,1.3,1–1,1.5,Vitesse,9344,Erve Asito,Jeroen Manschot,Match Report,
+4,Sat,2019-08-24,20:45,Heerenveen,2.5,0–0,0.9,Twente,16328,Abe Lenstra Stadion,Pol van Boekel,Match Report,
+4,Sun,2019-08-25,12:15,RKC Waalwijk,0.9,0–3,1.5,ADO Den Haag,5034,Mandemakers Stadion,Edwin van de Graaf,Match Report,
+4,Sun,2019-08-25,14:30,Utrecht,2.5,1–2,1.2,VVV-Venlo,17986,Stadion Galgenwaard,Jochem Kamphuis,Match Report,
+Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
+4,Sun,2019-08-25,16:45,Zwolle,1.6,2–2,1.7,Sparta R'dam,12532,MAC³PARK Stadion,Serdar Gözübüyük,Match Report,
+5,Fri,2019-08-30,20:00,Emmen,2.0,1–3,1.9,Zwolle,8293,De Oude Meerdijk,Martin van den Kerkhof,Match Report,
+5,Sat,2019-08-31,18:30,Heerenveen,3.0,1–1,1.2,Fortuna Sittard,15000,Abe Lenstra Stadion,Edwin van de Graaf,Match Report,
+5,Sat,2019-08-31,19:45,Groningen,1.0,1–2,0.5,Heracles Almelo,15934,Hitachi Capital Mobility Stadion,Allard Lindhout,Match Report,
+5,Sat,2019-08-31,20:45,ADO Den Haag,2.3,1–0,1.0,VVV-Venlo,10617,Cars Jeans Stadion,Siemen Mulder,Match Report,
+5,Sun,2019-09-01,12:15,Twente,2.1,3–1,2.0,Utrecht,25500,De Grolsch Veste,Jeroen Manschot,Match Report,
+5,Sun,2019-09-01,14:30,Sparta R'dam,1.5,1–4,3.0,Ajax,10599,Sparta-Stadion Het Kasteel,Jochem Kamphuis,Match Report,
+5,Sun,2019-09-01,16:45,Vitesse,2.0,2–1,2.1,AZ Alkmaar,13290,GelreDome,Dennis Higler,Match Report,
+5,Sun,2019-09-01,16:45,Willem II,1.3,0–1,1.3,Feyenoord,13875,Koning Willem II Stadion,Bas Nijhuis,Match Report,
+5,Sun,2019-09-01,20:00,RKC Waalwijk,0.7,1–3,1.9,PSV Eindhoven,6000,Mandemakers Stadion,Kevin Blom,Match Report,
+6,Sat,2019-09-14,18:30,AZ Alkmaar,3.6,5–1,0.8,Sparta R'dam,8327,AFAS Stadion,Danny Makkelie,Match Report,
+6,Sat,2019-09-14,18:30,Ajax,3.4,4–1,1.4,Heerenveen,52921,Johan Cruyff ArenA,Allard Lindhout,Match Report,
+6,Sat,2019-09-14,19:45,VVV-Venlo,0.8,2–1,1.4,Groningen,6265,Seacon Stadion De Koel,Martin van den Kerkhof,Match Report,
+6,Sat,2019-09-14,20:45,Utrecht,2.4,3–1,1.1,Emmen,17661,Stadion Galgenwaard,Rob Dieperink,Match Report,
+6,Sat,2019-09-14,20:45,PSV Eindhoven,3.6,5–0,1.5,Vitesse,33300,Philips Stadion,Pol van Boekel,Match Report,
+6,Sun,2019-09-15,12:15,Zwolle,2.2,6–2,0.5,RKC Waalwijk,13028,MAC³PARK Stadion,Jeroen Manschot,Match Report,
+6,Sun,2019-09-15,14:30,Heracles Almelo,1.8,4–1,1.2,Willem II,11254,Erve Asito,Joey Kooij,Match Report,
+6,Sun,2019-09-15,14:30,Feyenoord,3.7,3–2,0.5,ADO Den Haag,40000,Stadion Feijenoord,Serdar Gözübüyük,Match Report,
+6,Sun,2019-09-15,16:45,Fortuna Sittard,1.8,2–3,1.2,Twente,7377,Fortuna Sittard Stadion,Dennis Higler,Match Report,
+7,Fri,2019-09-20,20:00,Twente,1.0,2–3,0.9,Heracles Almelo,29300,De Grolsch Veste,Jochem Kamphuis,Match Report,
+7,Sat,2019-09-21,18:30,Sparta R'dam,3.8,4–0,1.0,RKC Waalwijk,10231,Sparta-Stadion Het Kasteel,Christiaan Bax,Match Report,
+7,Sat,2019-09-21,19:45,Groningen,1.0,2–0,0.6,Zwolle,16471,Hitachi Capital Mobility Stadion,Sander Van der Eijk,Match Report,
+7,Sat,2019-09-21,19:45,Willem II,3.1,1–0,0.4,VVV-Venlo,13227,Koning Willem II Stadion,Rob Dieperink,Match Report,
+7,Sat,2019-09-21,20:45,Vitesse,2.0,4–2,0.7,Fortuna Sittard,20800,GelreDome,Joey Kooij,Match Report,
+7,Sun,2019-09-22,12:15,Heerenveen,2.3,1–1,0.9,Utrecht,16593,Abe Lenstra Stadion,Siemen Mulder,Match Report,
+7,Sun,2019-09-22,14:30,Emmen,1.2,3–3,2.6,Feyenoord,8309,De Oude Meerdijk,Dennis Higler,Match Report,
+7,Sun,2019-09-22,16:45,PSV Eindhoven,1.5,1–1,1.7,Ajax,35000,Philips Stadion,Danny Makkelie,Match Report,
+7,Sun,2019-09-22,16:45,ADO Den Haag,0.3,0–1,2.2,AZ Alkmaar,12091,Cars Jeans Stadion,Allard Lindhout,Match Report,
+4,Wed,2019-09-25,18:30,PSV Eindhoven,1.0,3–1,0.3,Groningen,32800,Philips Stadion,Bas Nijhuis,Match Report,
+4,Wed,2019-09-25,20:45,Ajax,4.3,5–0,0.2,Fortuna Sittard,53121,Johan Cruyff ArenA,Jeroen Manschot,Match Report,
+4,Thu,2019-09-26,20:00,Feyenoord,0.8,0–3,1.7,AZ Alkmaar,35000,Stadion Feijenoord,Jochem Kamphuis,Match Report,
+Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
+8,Fri,2019-09-27,20:00,Emmen,1.7,3–0,2.3,ADO Den Haag,8002,De Oude Meerdijk,Erwin Blank,Match Report,
+8,Sat,2019-09-28,18:30,VVV-Venlo,2.0,0–3,0.9,Heerenveen,5944,Seacon Stadion De Koel,Serdar Gözübüyük,Match Report,
+8,Sat,2019-09-28,19:45,Ajax,3.5,2–0,0.4,Groningen,53228,Johan Cruyff ArenA,Björn Kuipers,Match Report,
+8,Sat,2019-09-28,20:45,Fortuna Sittard,0.7,0–0,1.1,Sparta R'dam,7483,Fortuna Sittard Stadion,Richard Martens,Match Report,
+8,Sun,2019-09-29,12:15,RKC Waalwijk,1.6,1–2,2.0,Vitesse,4858,Mandemakers Stadion,Bas Nijhuis,Match Report,
+8,Sun,2019-09-29,14:30,Utrecht,1.1,2–0,1.2,Willem II,19419,Stadion Galgenwaard,Edwin van de Graaf,Match Report,
+8,Sun,2019-09-29,14:30,Zwolle,0.8,0–4,2.7,PSV Eindhoven,13482,MAC³PARK Stadion,Dennis Higler,Match Report,
+8,Sun,2019-09-29,16:45,Feyenoord,2.9,5–1,0.8,Twente,32500,Stadion Feijenoord,Danny Makkelie,Match Report,
+8,Sun,2019-09-29,16:45,AZ Alkmaar,3.2,2–0,0.7,Heracles Almelo,7241,AFAS Stadion,Pol van Boekel,Match Report,
+9,Fri,2019-10-04,20:00,Groningen,1.5,3–0,0.9,RKC Waalwijk,16029,Hitachi Capital Mobility Stadion,Joey Kooij,Match Report,
+9,Sat,2019-10-05,18:30,Heracles Almelo,1.9,2–0,1.0,Emmen,10376,Erve Asito,Sander Van der Eijk,Match Report,
+9,Sat,2019-10-05,19:45,Sparta R'dam,1.3,2–1,2.4,Twente,10435,Sparta-Stadion Het Kasteel,Jeroen Manschot,Match Report,
+9,Sat,2019-10-05,19:45,Vitesse,1.3,2–1,1.6,Utrecht,12704,GelreDome,Björn Kuipers,Match Report,
+9,Sat,2019-10-05,20:45,Heerenveen,1.3,1–0,0.5,Zwolle,16632,Abe Lenstra Stadion,Danny Makkelie,Match Report,
+9,Sun,2019-10-06,12:15,ADO Den Haag,0.9,0–2,2.8,Ajax,14733,Cars Jeans Stadion,Kevin Blom,Match Report,
+9,Sun,2019-10-06,14:30,Fortuna Sittard,1.6,4–2,2.4,Feyenoord,8511,Fortuna Sittard Stadion,Pol van Boekel,Match Report,
+9,Sun,2019-10-06,16:45,Willem II,2.3,1–1,2.8,AZ Alkmaar,12707,Koning Willem II Stadion,Dennis Higler,Match Report,
+9,Sun,2019-10-06,16:45,PSV Eindhoven,2.1,4–1,0.5,VVV-Venlo,33000,Philips Stadion,Allard Lindhout,Match Report,
+10,Sat,2019-10-19,18:30,AZ Alkmaar,2.2,2–4,0.8,Heerenveen,7648,AFAS Stadion,Björn Kuipers,Match Report,
+10,Sat,2019-10-19,18:30,RKC Waalwijk,1.7,1–2,1.9,Ajax,7508,Mandemakers Stadion,Allard Lindhout,Match Report,
+10,Sat,2019-10-19,19:45,Twente,0.6,0–1,2.3,Willem II,27500,De Grolsch Veste,Martin van den Kerkhof,Match Report,
+10,Sat,2019-10-19,20:45,VVV-Venlo,1.2,0–4,1.3,Vitesse,5992,Seacon Stadion De Koel,Siemen Mulder,Match Report,
+10,Sat,2019-10-19,20:45,Utrecht,1.2,3–0,0.4,PSV Eindhoven,22632,Stadion Galgenwaard,Danny Makkelie,Match Report,
+10,Sun,2019-10-20,12:15,Zwolle,2.7,3–1,1.7,ADO Den Haag,12943,MAC³PARK Stadion,Serdar Gözübüyük,Match Report,
+10,Sun,2019-10-20,14:30,Groningen,1.6,2–0,1.7,Sparta R'dam,17582,Hitachi Capital Mobility Stadion,Kevin Blom,Match Report,
+10,Sun,2019-10-20,14:30,Emmen,1.1,2–1,1.4,Fortuna Sittard,8130,De Oude Meerdijk,Bas Nijhuis,Match Report,
+10,Sun,2019-10-20,16:45,Feyenoord,2.4,1–1,0.5,Heracles Almelo,37000,Stadion Feijenoord,Jeroen Manschot,Match Report,
+11,Fri,2019-10-25,20:00,Twente,3.6,4–1,0.8,Emmen,27400,De Grolsch Veste,Christiaan Bax,Match Report,
+11,Sat,2019-10-26,18:30,Willem II,1.7,2–1,0.9,RKC Waalwijk,13877,Koning Willem II Stadion,Kevin Blom,Match Report,
+11,Sat,2019-10-26,19:45,Vitesse,2.6,0–2,1.4,ADO Den Haag,12663,GelreDome,Jeroen Manschot,Match Report,
+11,Sat,2019-10-26,19:45,Fortuna Sittard,1.3,4–1,1.1,VVV-Venlo,8388,Fortuna Sittard Stadion,Danny Makkelie,Match Report,
+Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
+11,Sat,2019-10-26,20:45,Heracles Almelo,2.2,4–0,1.2,Zwolle,10157,Erve Asito,Martin Perez,Match Report,
+11,Sun,2019-10-27,12:15,Heerenveen,1.6,1–1,1.2,Groningen,22428,Abe Lenstra Stadion,Allard Lindhout,Match Report,
+11,Sun,2019-10-27,14:30,PSV Eindhoven,0.4,0–4,2.8,AZ Alkmaar,34000,Philips Stadion,Pol van Boekel,Match Report,
+11,Sun,2019-10-27,14:30,Sparta R'dam,1.1,1–2,2.1,Utrecht,10344,Sparta-Stadion Het Kasteel,Sander Van der Eijk,Match Report,
+11,Sun,2019-10-27,16:45,Ajax,3.1,4–0,0.2,Feyenoord,53968,Johan Cruyff ArenA,Serdar Gözübüyük,Match Report,
+12,Fri,2019-11-01,20:00,Zwolle,2.0,2–4,4.0,Ajax,14000,MAC³PARK Stadion,Björn Kuipers,Match Report,
+12,Sat,2019-11-02,18:30,RKC Waalwijk,2.2,2–0,1.2,Heracles Almelo,4689,Mandemakers Stadion,Edwin van de Graaf,Match Report,
+12,Sat,2019-11-02,19:45,Sparta R'dam,2.1,2–2,2.6,PSV Eindhoven,10387,Sparta-Stadion Het Kasteel,Bas Nijhuis,Match Report,
+12,Sat,2019-11-02,20:45,AZ Alkmaar,2.8,3–0,0.4,Twente,4689,AFAS Stadion,Danny Makkelie,Match Report,
+12,Sun,2019-11-03,12:15,Emmen,1.8,2–1,1.7,Vitesse,8048,De Oude Meerdijk,Joey Kooij,Match Report,
+12,Sun,2019-11-03,14:30,Groningen,2.2,2–0,0.5,Willem II,16590,Hitachi Capital Mobility Stadion,Pol van Boekel,Match Report,
+12,Sun,2019-11-03,14:30,VVV-Venlo,0.6,0–3,1.6,Feyenoord,6572,Seacon Stadion De Koel,Kevin Blom,Match Report,
+12,Sun,2019-11-03,14:30,Utrecht,3.5,6–0,0.1,Fortuna Sittard,18776,Stadion Galgenwaard,Jochem Kamphuis,Match Report,
+12,Sun,2019-11-03,16:45,ADO Den Haag,1.4,1–1,1.0,Heerenveen,12681,Cars Jeans Stadion,Sander Van der Eijk,Match Report,
+13,Fri,2019-11-08,20:00,Vitesse,2.5,1–2,1.2,Groningen,12590,GelreDome,Serdar Gözübüyük,Match Report,
+13,Sat,2019-11-09,18:30,Heerenveen,1.2,2–1,0.8,Sparta R'dam,18089,Abe Lenstra Stadion,Joey Kooij,Match Report,
+13,Sat,2019-11-09,19:45,Fortuna Sittard,1.5,1–0,1.3,ADO Den Haag,8223,Fortuna Sittard Stadion,Martin van den Kerkhof,Match Report,
+13,Sat,2019-11-09,20:45,Heracles Almelo,4.7,6–1,0.5,VVV-Venlo,9400,Erve Asito,Jochem Kamphuis,Match Report,
+13,Sun,2019-11-10,12:15,Ajax,3.0,4–0,0.2,Utrecht,53381,Johan Cruyff ArenA,Bas Nijhuis,Match Report,
+13,Sun,2019-11-10,14:30,Willem II,1.5,2–1,0.8,PSV Eindhoven,14400,Koning Willem II Stadion,Björn Kuipers,Match Report,
+13,Sun,2019-11-10,14:30,Twente,0.6,2–1,0.9,Zwolle,26900,De Grolsch Veste,Kevin Blom,Match Report,
+13,Sun,2019-11-10,16:45,Feyenoord,4.0,3–2,0.6,RKC Waalwijk,47431,Stadion Feijenoord,Danny Makkelie,Match Report,
+13,Sun,2019-11-10,20:00,AZ Alkmaar,4.9,3–0,0.4,Emmen,7000,AFAS Stadion,Siemen Mulder,Match Report,
+14,Sat,2019-11-23,18:30,Utrecht,1.6,0–3,1.4,AZ Alkmaar,22401,Stadion Galgenwaard,Björn Kuipers,Match Report,
+14,Sat,2019-11-23,19:45,Ajax,2.8,4–1,1.5,Heracles Almelo,53226,Johan Cruyff ArenA,Dennis Higler,Match Report,
+14,Sat,2019-11-23,19:45,Zwolle,2.5,3–1,1.5,Fortuna Sittard,13912,MAC³PARK Stadion,Joey Kooij,Match Report,
+14,Sat,2019-11-23,20:45,ADO Den Haag,1.5,3–3,4.1,Willem II,10889,Cars Jeans Stadion,Allard Lindhout,Match Report,
+14,Sun,2019-11-24,12:15,Groningen,1.5,1–1,1.5,Feyenoord,21096,Hitachi Capital Mobility Stadion,Jeroen Manschot,Match Report,
+14,Sun,2019-11-24,14:30,PSV Eindhoven,1.3,2–1,0.9,Heerenveen,33800,Philips Stadion,Bas Nijhuis,Match Report,
+14,Sun,2019-11-24,14:30,RKC Waalwijk,1.6,1–1,0.6,Emmen,6645,Mandemakers Stadion,Richard Martens,Match Report,
+14,Sun,2019-11-24,16:45,Sparta R'dam,1.1,2–0,1.0,Vitesse,10020,Sparta-Stadion Het Kasteel,Christiaan Bax,Match Report,
+14,Sun,2019-11-24,16:45,VVV-Venlo,2.3,2–1,2.5,Twente,6730,Seacon Stadion De Koel,Sander Van der Eijk,Match Report,
+Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
+15,Fri,2019-11-29,20:00,Heerenveen,2.9,3–2,1.5,Vitesse,17833,Abe Lenstra Stadion,Danny Makkelie,Match Report,
+15,Sat,2019-11-30,18:30,Willem II,1.7,4–0,0.6,Sparta R'dam,14250,Koning Willem II Stadion,Siemen Mulder,Match Report,
+15,Sat,2019-11-30,19:45,Fortuna Sittard,1.8,1–0,0.8,Groningen,7632,Fortuna Sittard Stadion,Richard Martens,Match Report,
+15,Sat,2019-11-30,20:45,Heracles Almelo,2.2,4–0,0.9,ADO Den Haag,10150,Erve Asito,Jeroen Manschot,Match Report,
+15,Sun,2019-12-01,12:15,Twente,0.9,2–5,3.6,Ajax,30000,De Grolsch Veste,Pol van Boekel,Match Report,
+15,Sun,2019-12-01,14:30,Utrecht,1.2,0–1,0.8,RKC Waalwijk,18103,Stadion Galgenwaard,Sander Van der Eijk,Match Report,
+15,Sun,2019-12-01,16:45,AZ Alkmaar,1.8,1–0,0.5,VVV-Venlo,6007,AFAS Stadion,Martin van den Kerkhof,Match Report,
+15,Sun,2019-12-01,16:45,Feyenoord,2.3,1–0,1.4,Zwolle,44513,Stadion Feijenoord,Allard Lindhout,Match Report,
+15,Sun,2019-12-01,20:00,Emmen,1.4,1–1,1.8,PSV Eindhoven,8309,De Oude Meerdijk,Dennis Higler,Match Report,
+16,Fri,2019-12-06,20:15,Ajax,2.3,0–2,1.2,Willem II,54022,Johan Cruyff ArenA,Björn Kuipers,Match Report,
+16,Sat,2019-12-07,18:30,ADO Den Haag,0.9,0–0,0.6,Twente,11439,Cars Jeans Stadion,Siemen Mulder,Match Report,
+16,Sat,2019-12-07,19:45,PSV Eindhoven,6.2,5–0,0.4,Fortuna Sittard,33300,Philips Stadion,Allard Lindhout,Match Report,
+16,Sat,2019-12-07,19:45,VVV-Venlo,3.9,2–0,1.2,Emmen,6580,Seacon Stadion De Koel,Christiaan Bax,Match Report,
+16,Sat,2019-12-07,20:45,Zwolle,0.9,0–3,1.5,AZ Alkmaar,13708,MAC³PARK Stadion,Serdar Gözübüyük,Match Report,
+16,Sun,2019-12-08,12:15,Vitesse,1.8,0–0,2.8,Feyenoord,16455,GelreDome,Pol van Boekel,Match Report,
+16,Sun,2019-12-08,14:30,RKC Waalwijk,0.8,1–3,1.9,Heerenveen,5174,Mandemakers Stadion,Marc Nagtegaal,Match Report,
+16,Sun,2019-12-08,14:30,Groningen,1.3,0–1,1.2,Utrecht,18741,Hitachi Capital Mobility Stadion,Kevin Blom,Match Report,
+16,Sun,2019-12-08,16:45,Sparta R'dam,0.4,0–0,0.7,Heracles Almelo,9934,Sparta-Stadion Het Kasteel,Richard Martens,Match Report,
+17,Fri,2019-12-13,20:00,Heerenveen,1.2,1–2,0.9,Willem II,18121,Abe Lenstra Stadion,Dennis Higler,Match Report,
+17,Sat,2019-12-14,18:30,ADO Den Haag,1.3,1–1,2.5,Groningen,11000,Cars Jeans Stadion,Joey Kooij,Match Report,
+17,Sat,2019-12-14,19:45,Fortuna Sittard,2.4,3–2,1.2,RKC Waalwijk,8391,Fortuna Sittard Stadion,Jochem Kamphuis,Match Report,
+17,Sat,2019-12-14,19:45,VVV-Venlo,1.5,1–2,2.5,Zwolle,6861,Seacon Stadion De Koel,Marc Nagtegaal,Match Report,
+17,Sat,2019-12-14,20:45,Twente,0.8,0–3,1.3,Vitesse,26500,De Grolsch Veste,Allard Lindhout,Match Report,
+17,Sun,2019-12-15,12:15,Emmen,2.5,2–0,0.6,Sparta R'dam,8145,De Oude Meerdijk,Edwin van de Graaf,Match Report,
+17,Sun,2019-12-15,14:30,Feyenoord,2.5,3–1,2.2,PSV Eindhoven,47625,Stadion Feijenoord,Bas Nijhuis,Match Report,
+17,Sun,2019-12-15,16:45,AZ Alkmaar,1.8,1–0,1.3,Ajax,17000,AFAS Stadion,Danny Makkelie,Match Report,
+17,Sun,2019-12-15,16:45,Heracles Almelo,1.6,1–3,1.7,Utrecht,10200,Erve Asito,Serdar Gözübüyük,Match Report,
+18,Fri,2019-12-20,20:00,RKC Waalwijk,1.6,3–0,1.0,Twente,5154,Mandemakers Stadion,Martin van den Kerkhof,Match Report,
+18,Sat,2019-12-21,18:30,Heerenveen,2.0,1–1,0.7,Heracles Almelo,20424,Abe Lenstra Stadion,Jochem Kamphuis,Match Report,
+18,Sat,2019-12-21,19:45,Sparta R'dam,1.9,3–0,0.8,AZ Alkmaar,10031,Sparta-Stadion Het Kasteel,Kevin Blom,Match Report,
+18,Sat,2019-12-21,19:45,PSV Eindhoven,2.8,4–1,1.0,Zwolle,33000,Philips Stadion,Jeroen Manschot,Match Report,
+Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
+18,Sat,2019-12-21,20:45,Willem II,0.9,0–0,0.6,Fortuna Sittard,13587,Koning Willem II Stadion,Bas Nijhuis,Match Report,
+18,Sun,2019-12-22,12:15,Ajax,4.0,6–1,1.2,ADO Den Haag,53976,Johan Cruyff ArenA,Dennis Higler,Match Report,
+18,Sun,2019-12-22,14:30,Utrecht,1.1,1–2,1.4,Feyenoord,21103,Stadion Galgenwaard,Björn Kuipers,Match Report,
+18,Sun,2019-12-22,14:30,Groningen,2.7,2–0,1.4,Emmen,20136,Hitachi Capital Mobility Stadion,Danny Makkelie,Match Report,
+18,Sun,2019-12-22,16:45,Vitesse,0.9,3–0,0.9,VVV-Venlo,13454,GelreDome,Siemen Mulder,Match Report,
+19,Fri,2020-01-17,20:00,Zwolle,1.7,3–3,2.2,Utrecht,13102,MAC³PARK Stadion,Jochem Kamphuis,Match Report,
+19,Sat,2020-01-18,18:30,Fortuna Sittard,1.6,1–3,2.8,Vitesse,8238,Fortuna Sittard Stadion,Sander Van der Eijk,Match Report,
+19,Sat,2020-01-18,19:45,Feyenoord,1.6,3–1,1.2,Heerenveen,46000,Stadion Feijenoord,Siemen Mulder,Match Report,
+19,Sat,2020-01-18,19:45,Twente,0.6,0–0,1.1,Groningen,26500,De Grolsch Veste,Dennis Higler,Match Report,
+19,Sat,2020-01-18,20:45,AZ Alkmaar,0.8,1–3,1.8,Willem II,15442,AFAS Stadion,Björn Kuipers,Match Report,
+19,Sun,2020-01-19,12:15,VVV-Venlo,1.6,1–1,1.9,PSV Eindhoven,7059,Seacon Stadion De Koel,Danny Makkelie,Match Report,
+19,Sun,2020-01-19,14:30,Emmen,3.1,1–0,0.9,Heracles Almelo,8176,De Oude Meerdijk,Joey Kooij,Match Report,
+19,Sun,2020-01-19,14:30,Ajax,4.2,2–1,2.4,Sparta R'dam,53426,Johan Cruyff ArenA,Allard Lindhout,Match Report,
+19,Sun,2020-01-19,16:45,ADO Den Haag,0.6,2–0,0.6,RKC Waalwijk,12433,Cars Jeans Stadion,Jeroen Manschot,Match Report,
+20,Fri,2020-01-24,20:00,Utrecht,1.5,4–0,0.9,ADO Den Haag,17319,Stadion Galgenwaard,Bas Nijhuis,Match Report,
+20,Sat,2020-01-25,18:30,Heerenveen,1.1,1–2,2.1,AZ Alkmaar,19638,Abe Lenstra Stadion,Kevin Blom,Match Report,
+20,Sat,2020-01-25,19:45,RKC Waalwijk,0.5,1–2,2.9,VVV-Venlo,6103,Mandemakers Stadion,Edwin van de Graaf,Match Report,
+20,Sat,2020-01-25,19:45,Heracles Almelo,1.0,2–3,1.7,Feyenoord,10686,Erve Asito,Danny Makkelie,Match Report,
+20,Sat,2020-01-25,20:45,Sparta R'dam,1.4,1–1,1.4,Fortuna Sittard,9821,Sparta-Stadion Het Kasteel,Dennis Higler,Match Report,
+20,Sun,2020-01-26,12:15,Vitesse,1.1,1–1,1.7,Emmen,13265,GelreDome,Marc Nagtegaal,Match Report,
+20,Sun,2020-01-26,14:30,Willem II,0.8,0–0,1.0,Zwolle,13337,Koning Willem II Stadion,Erwin Blank,Match Report,
+20,Sun,2020-01-26,14:30,Groningen,1.5,2–1,1.1,Ajax,22315,Hitachi Capital Mobility Stadion,Jeroen Manschot,Match Report,
+20,Sun,2020-01-26,16:45,PSV Eindhoven,1.7,1–1,0.9,Twente,33600,Philips Stadion,Siemen Mulder,Match Report,
+21,Fri,2020-01-31,20:00,AZ Alkmaar,2.6,4–0,0.9,RKC Waalwijk,14712,AFAS Stadion,Serdar Gözübüyük,Match Report,
+21,Sat,2020-02-01,18:30,ADO Den Haag,1.7,0–0,0.9,Vitesse,12387,Cars Jeans Stadion,Joey Kooij,Match Report,
+21,Sat,2020-02-01,19:45,Feyenoord,2.4,3–0,0.9,Emmen,47084,Stadion Feijenoord,Edwin van de Graaf,Match Report,
+21,Sat,2020-02-01,19:45,Twente,1.2,2–0,0.4,Sparta R'dam,26300,De Grolsch Veste,Jochem Kamphuis,Match Report,
+21,Sat,2020-02-01,20:45,Zwolle,0.8,1–0,1.1,Groningen,12844,MAC³PARK Stadion,Pol van Boekel,Match Report,
+21,Sun,2020-02-02,12:15,Willem II,1.3,1–0,0.8,Heracles Almelo,13417,Koning Willem II Stadion,Kevin Blom,Match Report,
+21,Sun,2020-02-02,14:30,Fortuna Sittard,1.2,2–1,0.9,Heerenveen,8371,Fortuna Sittard Stadion,Ingmar Oostrom,Match Report,
+21,Sun,2020-02-02,14:30,VVV-Venlo,1.6,1–1,1.4,Utrecht,6265,Seacon Stadion De Koel,Dennis Higler,Match Report,
+21,Sun,2020-02-02,16:45,Ajax,2.6,1–0,0.3,PSV Eindhoven,53055,Johan Cruyff ArenA,Björn Kuipers,Match Report,
+Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
+22,Fri,2020-02-07,20:00,Heracles Almelo,1.6,2–0,1.5,Fortuna Sittard,10235,Erve Asito,Björn Kuipers,Match Report,
+22,Sat,2020-02-08,18:30,Groningen,1.9,1–0,1.0,Vitesse,17884,Hitachi Capital Mobility Stadion,Martin van den Kerkhof,Match Report,
+22,Sat,2020-02-08,19:45,PSV Eindhoven,1.5,3–0,0.6,Willem II,34700,Philips Stadion,Allard Lindhout,Match Report,
+22,Sat,2020-02-08,19:45,Heerenveen,2.5,1–1,0.9,VVV-Venlo,16400,Abe Lenstra Stadion,Richard Martens,Match Report,
+22,Sat,2020-02-08,20:45,RKC Waalwijk,1.3,0–0,0.3,Zwolle,5257,Mandemakers Stadion,Siemen Mulder,Match Report,
+22,Tue,2020-02-11,18:30,Emmen,2.0,2–0,0.2,Twente,8039,De Oude Meerdijk,Christiaan Bax,Match Report,
+22,Tue,2020-02-11,20:45,Sparta R'dam,1.9,4–2,1.5,ADO Den Haag,8083,Sparta-Stadion Het Kasteel,Danny Makkelie,Match Report,
+23,Fri,2020-02-14,20:00,VVV-Venlo,1.5,1–0,0.9,Heracles Almelo,6594,Seacon Stadion De Koel,Ingmar Oostrom,Match Report,
+23,Sat,2020-02-15,18:30,Twente,1.7,2–0,0.3,AZ Alkmaar,27300,De Grolsch Veste,Allard Lindhout,Match Report,
+23,Sat,2020-02-15,19:45,ADO Den Haag,0.5,0–3,3.8,PSV Eindhoven,13370,Cars Jeans Stadion,Pol van Boekel,Match Report,
+23,Sat,2020-02-15,20:45,Fortuna Sittard,1.1,0–0,0.6,Emmen,7856,Fortuna Sittard Stadion,Jeroen Manschot,Match Report,
+23,Sun,2020-02-16,12:15,Vitesse,3.1,4–2,1.3,Heerenveen,14113,GelreDome,Edwin van de Graaf,Match Report,
+23,Sun,2020-02-16,14:30,Ajax,3.8,3–0,1.4,RKC Waalwijk,53291,Johan Cruyff ArenA,Dennis Higler,Match Report,
+23,Sun,2020-02-16,14:30,Sparta R'dam,2.1,1–2,0.5,Groningen,10143,Sparta-Stadion Het Kasteel,Sander Van der Eijk,Match Report,
+23,Sun,2020-02-16,16:45,Zwolle,2.0,3–4,1.2,Feyenoord,13822,MAC³PARK Stadion,Serdar Gözübüyük,Match Report,
+23,Sun,2020-02-16,16:45,Willem II,1.8,1–1,1.7,Utrecht,14107,Koning Willem II Stadion,Siemen Mulder,Match Report,
+24,Fri,2020-02-21,20:00,RKC Waalwijk,0.5,0–1,1.6,Sparta R'dam,5343,Mandemakers Stadion,Joey Kooij,Match Report,
+24,Sat,2020-02-22,18:30,Emmen,1.1,4–2,2.3,Willem II,8190,De Oude Meerdijk,Martin Perez,Match Report,
+24,Sat,2020-02-22,19:45,Feyenoord,3.5,2–1,1.1,Fortuna Sittard,46016,Stadion Feijenoord,Bas Nijhuis,Match Report,
+24,Sat,2020-02-22,19:45,Heerenveen,2.4,2–2,0.9,ADO Den Haag,16640,Abe Lenstra Stadion,Martin van den Kerkhof,Match Report,
+24,Sat,2020-02-22,20:45,Groningen,1.2,0–1,1.0,VVV-Venlo,16734,Hitachi Capital Mobility Stadion,Björn Kuipers,Match Report,
+24,Sun,2020-02-23,12:15,Utrecht,1.1,2–1,2.1,Twente,18491,Stadion Galgenwaard,Jeroen Manschot,Match Report,
+24,Sun,2020-02-23,14:30,Vitesse,1.7,1–2,1.8,PSV Eindhoven,15509,GelreDome,Danny Makkelie,Match Report,
+24,Sun,2020-02-23,14:30,AZ Alkmaar,4.3,2–0,0.7,Zwolle,15306,AFAS Stadion,Jochem Kamphuis,Match Report,
+24,Sun,2020-02-23,16:45,Heracles Almelo,1.6,1–0,1.9,Ajax,12080,Erve Asito,Pol van Boekel,Match Report,
+25,Fri,2020-02-28,20:00,Willem II,1.3,3–1,0.9,Groningen,13607,Koning Willem II Stadion,Richard Martens,Match Report,
+25,Sat,2020-02-29,18:30,ADO Den Haag,1.0,0–0,1.0,Heracles Almelo,11207,Cars Jeans Stadion,Christiaan Bax,Match Report,
+25,Sat,2020-02-29,19:45,Zwolle,2.0,4–3,1.2,Vitesse,13088,MAC³PARK Stadion,Allard Lindhout,Match Report,
+25,Sat,2020-02-29,19:45,VVV-Venlo,0.8,0–0,0.2,Fortuna Sittard,7115,Seacon Stadion De Koel,Danny Makkelie,Match Report,
+25,Sat,2020-02-29,20:45,Twente,2.0,2–3,2.1,Heerenveen,27000,De Grolsch Veste,Joey Kooij,Match Report,
+25,Sun,2020-03-01,12:15,RKC Waalwijk,0.9,2–1,0.8,Utrecht,5134,Mandemakers Stadion,Jochem Kamphuis,Match Report,
+Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
+25,Sun,2020-03-01,14:30,PSV Eindhoven,1.0,1–1,1.1,Feyenoord,35000,Philips Stadion,Dennis Higler,Match Report,
+25,Sun,2020-03-01,16:45,Sparta R'dam,2.1,5–1,1.4,Emmen,10600,Sparta-Stadion Het Kasteel,Bas Nijhuis,Match Report,
+25,Sun,2020-03-01,20:00,Ajax,1.2,0–2,2.3,AZ Alkmaar,52707,Johan Cruyff ArenA,Serdar Gözübüyük,Match Report,
+26,Fri,2020-03-06,20:00,Fortuna Sittard,0.9,1–1,2.0,Zwolle,10071,Fortuna Sittard Stadion,Martin van den Kerkhof,Match Report,
+26,Sat,2020-03-07,18:30,AZ Alkmaar,2.2,4–0,0.3,ADO Den Haag,16117,AFAS Stadion,Dennis Higler,Match Report,
+26,Sat,2020-03-07,19:45,Emmen,2.7,3–0,0.5,VVV-Venlo,8100,De Oude Meerdijk,Siemen Mulder,Match Report,
+26,Sat,2020-03-07,19:45,Vitesse,0.8,1–0,0.9,Twente,14210,GelreDome,Richard Martens,Match Report,
+26,Sat,2020-03-07,20:45,Heerenveen,0.6,1–3,3.5,Ajax,25950,Abe Lenstra Stadion,Jeroen Manschot,Match Report,
+26,Sun,2020-03-08,12:15,Utrecht,2.8,5–1,0.3,Sparta R'dam,20624,Stadion Galgenwaard,Allard Lindhout,Match Report,
+26,Sun,2020-03-08,14:30,Feyenoord,1.9,2–0,0.3,Willem II,47500,Stadion Feijenoord,Pol van Boekel,Match Report,
+26,Sun,2020-03-08,14:30,Heracles Almelo,4.3,4–2,1.3,RKC Waalwijk,10412,Erve Asito,Edwin van de Graaf,Match Report,
+26,Sun,2020-03-08,16:45,Groningen,0.8,0–1,0.4,PSV Eindhoven,19116,Hitachi Capital Mobility Stadion,Serdar Gözübüyük,Match Report,
+27,Fri,2020-03-13,20:00,ADO Den Haag,,,,Fortuna Sittard,,Cars Jeans Stadion,,Match Report,Match Cancelled
+27,Sat,2020-03-14,18:30,Willem II,,,,Heerenveen,,Koning Willem II Stadion,,Match Report,Match Cancelled
+27,Sat,2020-03-14,19:45,PSV Eindhoven,,,,Emmen,,Philips Stadion,,Match Report,Match Cancelled
+27,Sat,2020-03-14,19:45,Zwolle,,,,Heracles Almelo,,MAC³PARK Stadion,,Match Report,Match Cancelled
+27,Sat,2020-03-14,20:45,Utrecht,,,,Vitesse,,Stadion Galgenwaard,,Match Report,Match Cancelled
+27,Sun,2020-03-15,12:15,Sparta R'dam,,,,Feyenoord,,Sparta-Stadion Het Kasteel,,Match Report,Match Cancelled
+27,Sun,2020-03-15,14:30,RKC Waalwijk,,,,Groningen,,Mandemakers Stadion,,Match Report,Match Cancelled
+27,Sun,2020-03-15,14:30,Ajax,,,,Twente,,Johan Cruyff ArenA,,Match Report,Match Cancelled
+27,Sun,2020-03-15,16:45,VVV-Venlo,,,,AZ Alkmaar,,Seacon Stadion De Koel,,Match Report,Match Cancelled
+28,Fri,2020-03-20,20:00,Heracles Almelo,,,,Sparta R'dam,,Erve Asito,,Match Report,Match Cancelled
+28,Sat,2020-03-21,18:30,Twente,,,,ADO Den Haag,,De Grolsch Veste,,Match Report,Match Cancelled
+28,Sat,2020-03-21,19:45,Vitesse,,,,Willem II,,GelreDome,,Match Report,Match Cancelled
+28,Sat,2020-03-21,19:45,Zwolle,,,,VVV-Venlo,,MAC³PARK Stadion,,Match Report,Match Cancelled
+28,Sat,2020-03-21,20:45,Heerenveen,,,,RKC Waalwijk,,Abe Lenstra Stadion,,Match Report,Match Cancelled
+28,Sun,2020-03-22,12:15,Fortuna Sittard,,,,PSV Eindhoven,,Fortuna Sittard Stadion,,Match Report,Match Cancelled
+28,Sun,2020-03-22,14:30,Emmen,,,,Utrecht,,De Oude Meerdijk,,Match Report,Match Cancelled
+28,Sun,2020-03-22,14:30,Feyenoord,,,,Ajax,,Stadion Feijenoord,,Match Report,Match Cancelled
+28,Sun,2020-03-22,16:45,Groningen,,,,AZ Alkmaar,,Hitachi Capital Mobility Stadion,,Match Report,Match Cancelled
+29,Sat,2020-04-04,18:30,PSV Eindhoven,,,,Heracles Almelo,,Philips Stadion,,Match Report,Match Cancelled
+Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
+29,Sat,2020-04-04,18:30,Sparta R'dam,,,,Heerenveen,,Sparta-Stadion Het Kasteel,,Match Report,Match Cancelled
+29,Sat,2020-04-04,19:45,VVV-Venlo,,,,Willem II,,Seacon Stadion De Koel,,Match Report,Match Cancelled
+29,Sat,2020-04-04,20:45,Utrecht,,,,Groningen,,Stadion Galgenwaard,,Match Report,Match Cancelled
+29,Sat,2020-04-04,20:45,AZ Alkmaar,,,,Vitesse,,AFAS Stadion,,Match Report,Match Cancelled
+29,Sun,2020-04-05,12:15,RKC Waalwijk,,,,Feyenoord,,Mandemakers Stadion,,Match Report,Match Cancelled
+29,Sun,2020-04-05,14:30,ADO Den Haag,,,,Emmen,,Cars Jeans Stadion,,Match Report,Match Cancelled
+29,Sun,2020-04-05,14:30,Ajax,,,,Zwolle,,Johan Cruyff ArenA,,Match Report,Match Cancelled
+29,Sun,2020-04-05,16:45,Twente,,,,Fortuna Sittard,,De Grolsch Veste,,Match Report,Match Cancelled
+22,Wed,2020-04-08,18:45,AZ Alkmaar,,,,Feyenoord,,AFAS Stadion,,Match Report,Match Cancelled
+22,Thu,2020-04-09,19:15,Utrecht,,,,Ajax,,Stadion Galgenwaard,,Match Report,Match Cancelled
+30,Fri,2020-04-10,20:00,Groningen,,,,Heerenveen,,Hitachi Capital Mobility Stadion,,Match Report,Match Cancelled
+30,Sat,2020-04-11,18:30,Vitesse,,,,RKC Waalwijk,,GelreDome,,Match Report,Match Cancelled
+30,Sat,2020-04-11,19:45,Heracles Almelo,,,,AZ Alkmaar,,Erve Asito,,Match Report,Match Cancelled
+30,Sat,2020-04-11,19:45,Feyenoord,,,,VVV-Venlo,,Stadion Feijenoord,,Match Report,Match Cancelled
+30,Sat,2020-04-11,20:45,Willem II,,,,ADO Den Haag,,Koning Willem II Stadion,,Match Report,Match Cancelled
+30,Sun,2020-04-12,12:15,PSV Eindhoven,,,,Sparta R'dam,,,,Match Report,Match Cancelled
+30,Sun,2020-04-12,14:30,Fortuna Sittard,,,,Utrecht,,Fortuna Sittard Stadion,,Match Report,Match Cancelled
+30,Sun,2020-04-12,14:30,Emmen,,,,Ajax,,De Oude Meerdijk,,Match Report,Match Cancelled
+30,Sun,2020-04-12,16:45,Zwolle,,,,Twente,,MAC³PARK Stadion,,Match Report,Match Cancelled
+31,Tue,2020-04-21,18:30,AZ Alkmaar,,,,PSV Eindhoven,,AFAS Stadion,,Match Report,Match Cancelled
+31,Tue,2020-04-21,20:45,Sparta R'dam,,,,Zwolle,,Sparta-Stadion Het Kasteel,,Match Report,Match Cancelled
+31,Wed,2020-04-22,18:30,RKC Waalwijk,,,,Willem II,,Mandemakers Stadion,,Match Report,Match Cancelled
+31,Wed,2020-04-22,18:30,ADO Den Haag,,,,Feyenoord,,Cars Jeans Stadion,,Match Report,Match Cancelled
+31,Wed,2020-04-22,19:45,Groningen,,,,Fortuna Sittard,,Hitachi Capital Mobility Stadion,,Match Report,Match Cancelled
+31,Wed,2020-04-22,20:45,Utrecht,,,,Heracles Almelo,,Stadion Galgenwaard,,Match Report,Match Cancelled
+31,Wed,2020-04-22,20:45,Heerenveen,,,,Emmen,,Abe Lenstra Stadion,,Match Report,Match Cancelled
+31,Thu,2020-04-23,18:30,Twente,,,,VVV-Venlo,,De Grolsch Veste,,Match Report,Match Cancelled
+31,Thu,2020-04-23,20:45,Ajax,,,,Vitesse,,Johan Cruyff ArenA,,Match Report,Match Cancelled
+32,Sat,2020-04-25,18:30,Fortuna Sittard,,,,AZ Alkmaar,,Fortuna Sittard Stadion,,Match Report,Match Cancelled
+32,Sat,2020-04-25,18:30,PSV Eindhoven,,,,Utrecht,,Philips Stadion,,Match Report,Match Cancelled
+32,Sat,2020-04-25,19:45,Emmen,,,,RKC Waalwijk,,De Oude Meerdijk,,Match Report,Match Cancelled
+Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee,Match Report,Notes
+32,Sat,2020-04-25,20:45,Zwolle,,,,Heerenveen,,MAC³PARK Stadion,,Match Report,Match Cancelled
+32,Sat,2020-04-25,20:45,Feyenoord,,,,Groningen,,Stadion Feijenoord,,Match Report,Match Cancelled
+32,Sun,2020-04-26,12:15,Heracles Almelo,,,,Twente,,Erve Asito,,Match Report,Match Cancelled
+32,Sun,2020-04-26,14:30,VVV-Venlo,,,,ADO Den Haag,,Seacon Stadion De Koel,,Match Report,Match Cancelled
+32,Sun,2020-04-26,14:30,Willem II,,,,Ajax,,Koning Willem II Stadion,,Match Report,Match Cancelled
+32,Sun,2020-04-26,16:45,Vitesse,,,,Sparta R'dam,,GelreDome,,Match Report,Match Cancelled
+33,Sun,2020-05-03,14:30,RKC Waalwijk,,,,Fortuna Sittard,,Mandemakers Stadion,,Match Report,Match Cancelled
+33,Sun,2020-05-03,14:30,Twente,,,,Feyenoord,,De Grolsch Veste,,Match Report,Match Cancelled
+33,Sun,2020-05-03,14:30,Groningen,,,,ADO Den Haag,,Hitachi Capital Mobility Stadion,,Match Report,Match Cancelled
+33,Sun,2020-05-03,14:30,Zwolle,,,,Emmen,,MAC³PARK Stadion,,Match Report,Match Cancelled
+33,Sun,2020-05-03,14:30,Heerenveen,,,,PSV Eindhoven,,Abe Lenstra Stadion,,Match Report,Match Cancelled
+33,Sun,2020-05-03,14:30,AZ Alkmaar,,,,Utrecht,,AFAS Stadion,,Match Report,Match Cancelled
+33,Sun,2020-05-03,14:30,Sparta R'dam,,,,Willem II,,Sparta-Stadion Het Kasteel,,Match Report,Match Cancelled
+33,Sun,2020-05-03,14:30,Vitesse,,,,Heracles Almelo,,GelreDome,,Match Report,Match Cancelled
+33,Sun,2020-05-03,14:30,Ajax,,,,VVV-Venlo,,Johan Cruyff ArenA,,Match Report,Match Cancelled
+34,Sun,2020-05-10,14:30,ADO Den Haag,,,,Zwolle,,Cars Jeans Stadion,,Match Report,Match Cancelled
+34,Sun,2020-05-10,14:30,VVV-Venlo,,,,Sparta R'dam,,Seacon Stadion De Koel,,Match Report,Match Cancelled
+34,Sun,2020-05-10,14:30,PSV Eindhoven,,,,RKC Waalwijk,,Philips Stadion,,Match Report,Match Cancelled
+34,Sun,2020-05-10,14:30,Willem II,,,,Twente,,Koning Willem II Stadion,,Match Report,Match Cancelled
+34,Sun,2020-05-10,14:30,Heracles Almelo,,,,Groningen,,Erve Asito,,Match Report,Match Cancelled
+34,Sun,2020-05-10,14:30,Utrecht,,,,Heerenveen,,Stadion Galgenwaard,,Match Report,Match Cancelled
+34,Sun,2020-05-10,14:30,Feyenoord,,,,Vitesse,,Stadion Feijenoord,,Match Report,Match Cancelled
+34,Sun,2020-05-10,14:30,Fortuna Sittard,,,,Ajax,,Fortuna Sittard Stadion,,Match Report,Match Cancelled
+34,Sun,2020-05-10,14:30,Emmen,,,,AZ Alkmaar,,De Oude Meerdijk,,Match Report,Match Cancelled
