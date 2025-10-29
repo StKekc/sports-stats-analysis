@@ -1,0 +1,41 @@
+rk,player,nation,pos,squad,age,born,mp,starts,min,90s,ga,ga90,sota,saves,save,w,d,l,cs,cs_perf,pkatt,pka,pksv,pkm,save_penalt,matches
+1,Carlos Acevedo,mx MEX,GK,Santos,25,1996,26,26,2340,26.0,31,1.19,103,71,72.8,8,11,7,6,23.1,7,3,2,2,40.0,Matches
+2,Washington Aguerre,uy URU,GK,Querétaro,28,1993,32,32,2874,31.9,34,1.06,142,106,78.9,6,14,12,9,28.1,6,4,2,0,33.3,Matches
+3,Gil Alcalá,mx MEX,GK,Tijuana,29,1992,7,5,540,6.0,11,1.83,35,25,74.3,0,2,3,2,40.0,4,2,0,2,0.0,Matches
+4,Esteban Andrada,ar ARG,GK,Monterrey,30,1991,31,31,2790,31.0,29,0.94,112,84,78.6,12,12,7,12,38.7,5,5,0,0,0.0,Matches
+5,Luis Ángel Malagón,mx MEX,GK,Necaxa,24,1997,27,27,2372,26.4,29,1.10,101,73,75.2,10,4,13,8,29.6,4,4,0,0,0.0,Matches
+6,José Antonio Rodríguez,mx MEX,GK,Querétaro,29,1992,1,1,90,1.0,2,2.00,4,2,50.0,0,0,1,0,0.0,0,0,0,0,,Matches
+7,José Antonio Rodríguez,mx MEX,GK,Guadalajara,29,1992,5,5,450,5.0,7,1.40,15,8,60.0,1,2,2,2,40.0,1,1,0,0,0.0,Matches
+8,Marcelo Barovero,ar ARG,GK,Atlético,37,1984,30,30,2700,30.0,41,1.37,118,78,72.0,9,9,12,9,30.0,9,8,1,0,11.1,Matches
+9,Alfonso Blanco Antúnez,mx MEX,GK,León,34,1987,1,1,90,1.0,1,1.00,2,1,50.0,0,0,1,0,0.0,0,0,0,0,,Matches
+10,Luis Cárdenas,mx MEX,GK,Monterrey,27,1993,3,3,270,3.0,4,1.33,9,5,55.6,0,0,3,0,0.0,0,0,0,0,,Matches
+11,José Corona,mx MEX,GK,Cruz Azul,40,1981,17,17,1530,17.0,19,1.12,72,54,73.6,7,6,4,5,29.4,0,0,0,0,,Matches
+12,Rodolfo Cota,mx MEX,GK,León,34,1987,31,31,2790,31.0,30,0.97,147,118,81.0,12,11,8,12,38.7,3,2,1,0,33.3,Matches
+13,Benny Díaz,mx MEX,GK,Tijuana,22,1998,2,2,180,2.0,4,2.00,7,3,57.1,0,0,2,0,0.0,1,1,0,0,0.0,Matches
+14,Ricardo Díaz,mx MEX,GK,Querétaro,25,1995,1,1,90,1.1,2,2.00,6,4,66.7,0,0,1,0,0.0,0,0,0,0,,Matches
+15,Carlos Felipe Rodríguez,mx MEX,GK,FC Juárez,32,1989,6,4,433,4.8,9,1.87,28,18,71.4,0,1,3,1,25.0,2,1,1,0,50.0,Matches
+16,Hugo González Durán,mx MEX,GK,FC Juárez,30,1990,30,30,2627,29.2,44,1.51,116,74,62.9,7,5,18,5,16.7,3,1,1,1,50.0,Matches
+17,Andrés Gudiño,mx MEX,GK,Cruz Azul,24,1997,6,6,540,6.0,7,1.17,22,14,77.3,2,2,2,1,16.7,3,2,1,0,33.3,Matches
+18,Raúl Gudiño,mx MEX,GK,Guadalajara,25,1996,21,21,1890,21.0,21,1.00,71,51,73.2,6,8,7,8,38.1,3,2,0,1,0.0,Matches
+19,Gustavo Gutiérrez,mx MEX,GK,Toluca,24,1996,11,10,954,10.6,21,1.98,59,38,66.1,1,4,5,2,20.0,1,1,0,0,0.0,Matches
+20,Nahuel Guzmán,ar ARG,GK,UANL,35,1986,34,34,3060,34.0,34,1.00,137,105,76.6,17,10,7,12,35.3,5,2,2,1,50.0,Matches
+21,Édgar Hernández,mx MEX,GK,Necaxa,38,1982,10,7,682,7.6,14,1.85,36,21,63.9,3,0,4,2,28.6,3,1,2,0,66.7,Matches
+22,Oscar Jiménez,mx MEX,GK,América,32,1988,3,3,270,3.0,1,0.33,14,13,92.9,2,1,0,2,66.7,0,0,0,0,,Matches
+23,Miguel Jiménez Ponce,mx MEX,GK,Guadalajara,31,1990,8,8,720,8.0,6,0.75,25,20,76.0,5,2,1,4,50.0,0,0,0,0,,Matches
+24,Julio José González,mx MEX,GK,UNAM,30,1991,9,9,810,9.0,13,1.44,38,26,73.7,0,5,4,3,33.3,3,3,0,0,0.0,Matches
+25,Sebastián Jurado,mx MEX,GK,Cruz Azul,23,1997,11,11,990,11.0,8,0.73,43,36,81.4,3,4,4,5,45.5,0,0,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+26,Gibran Lajud,mx MEX,GK,Santos,27,1993,8,8,720,8.0,10,1.25,30,20,70.0,2,3,3,2,25.0,1,1,0,0,0.0,Matches
+27,Luis Manuel García,mx MEX,GK,Toluca,28,1992,23,23,1936,21.5,33,1.53,96,60,70.8,10,5,8,3,13.0,8,5,3,0,37.5,Matches
+28,Carlos Moreno,mx MEX,GK,Pachuca,23,1998,2,2,180,2.0,2,1.00,6,3,66.7,1,0,1,1,50.0,1,0,1,0,100.0,Matches
+29,Guillermo Ochoa,mx MEX,GK,América,36,1985,31,31,2790,31.0,26,0.84,92,67,75.0,15,9,7,16,51.6,4,3,0,1,0.0,Matches
+30,Jonathan Orozco,mx MEX,GK,Tijuana,35,1986,27,27,2340,26.0,38,1.46,96,59,63.5,7,9,11,5,18.5,3,3,0,0,0.0,Matches
+31,Jesús Rodríguez,mx MEX,GK,Puebla,28,1993,4,4,360,4.0,3,0.75,7,4,71.4,3,1,0,2,50.0,1,1,0,0,0.0,Matches
+32,Alfredo Saldívar,mx MEX,GK,Toluca,31,1990,2,1,170,1.9,4,2.12,5,1,20.0,0,1,0,0,0.0,0,0,0,0,,Matches
+33,Andrés Sánchez,mx MEX,GK,Atlético,23,1997,4,4,360,4.0,4,1.00,13,9,76.9,2,1,1,0,0.0,1,1,0,0,0.0,Matches
+34,Antony Silva,py PAR,GK,Puebla,37,1984,30,30,2700,30.0,32,1.07,121,87,76.9,10,10,10,8,26.7,8,4,3,1,42.9,Matches
+35,Alfredo Talavera,mx MEX,GK,UNAM,38,1982,25,25,2250,25.0,31,1.24,105,75,75.2,11,5,9,9,36.0,6,5,0,1,0.0,Matches
+36,Óscar Ustari,ar ARG,GK,Pachuca,35,1986,32,32,2880,32.0,34,1.06,110,78,73.6,15,8,9,10,31.3,5,5,0,0,0.0,Matches
+37,Camilo Vargas,co COL,GK,Atlas,32,1989,34,34,3060,34.0,25,0.74,118,91,82.2,15,11,8,14,41.2,6,4,2,0,33.3,Matches
+38,Iván Vázquez,mx MEX,GK,León,38,1982,2,2,180,2.0,5,2.50,13,7,69.2,1,0,1,0,0.0,2,1,1,0,50.0,Matches
+39,Nicolás Vikonis,uy URU,GK,Mazatlán,37,1984,34,34,3060,34.0,48,1.41,151,102,75.5,11,8,15,7,20.6,14,11,1,2,8.3,Matches

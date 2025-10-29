@@ -1,0 +1,766 @@
+rk,player,nation,pos,squad,age,born,90s,att,live,dead,fk,tb,sw,crs,ti,ck,in,out,str,cmp,off,blocks,matches
+1,Max Aarons,eng ENG,DF,Norwich City,20,2000,45.0,2638,2187,447,46,2,29,132,400,1,0,0,0,2146,4,53,Matches
+2,Rolando Aarons,eng ENG,"FW,DF",Huddersfield,24,1995,5.5,168,163,5,2,0,1,16,2,1,0,0,0,110,0,15,Matches
+3,Elijah Adebayo,eng ENG,FW,Luton Town,22,1998,14.4,289,284,0,0,0,0,14,0,0,0,0,0,155,5,6,Matches
+4,Victor Adeboyejo,eng ENG,"FW,MF",Barnsley,22,1998,13.5,286,280,5,0,1,0,12,1,0,0,0,0,176,1,11,Matches
+5,Hakeeb Adelakun,eng ENG,MF,Bristol City,24,1996,1.6,45,45,0,0,0,0,3,0,0,0,0,0,35,0,2,Matches
+6,Dennis Adeniran,eng ENG,MF,Wycombe,21,1999,16.4,387,382,4,2,0,1,2,1,0,0,0,0,271,1,9,Matches
+7,Albert Adomah,gh GHA,"FW,MF",QPR,32,1987,9.6,429,392,34,3,1,1,60,26,5,0,0,0,297,3,17,Matches
+8,Joost van Aken,nl NED,DF,Sheffield Weds,26,1994,14.1,591,518,72,9,0,7,0,63,0,0,0,0,428,1,7,Matches
+9,Adebayo Akinfenwa,eng ENG,FW,Wycombe,38,1982,14.4,378,374,2,0,0,0,1,0,0,0,0,0,147,2,3,Matches
+10,Chuba Akpom,eng ENG,FW,Middlesbrough,24,1995,21.4,265,260,4,0,0,2,6,0,0,0,0,0,131,1,11,Matches
+11,Jamie Allen,eng ENG,"MF,FW",Coventry City,25,1995,14.8,451,421,28,12,1,3,17,0,10,1,1,4,370,2,12,Matches
+12,Joe Allen,wls WAL,MF,Stoke City,30,1990,15.3,700,659,38,6,1,3,21,1,5,0,1,0,561,3,21,Matches
+13,Ryan Allsop,eng ENG,GK,Wycombe,28,1992,29.0,1063,546,513,250,0,1,0,0,0,0,0,0,417,4,0,Matches
+14,Sone Aluko,ng NGA,"FW,MF",Reading,31,1989,11.0,462,423,36,17,0,2,57,5,9,2,5,0,340,3,15,Matches
+15,Sammy Ameobi,eng ENG,"FW,MF",Nott'ham Forest,28,1992,24.7,955,934,18,5,1,8,59,13,0,0,0,0,633,3,41,Matches
+16,Luke Amos,eng ENG,MF,QPR,23,1997,4.4,127,126,1,1,0,0,3,0,0,0,0,0,100,0,3,Matches
+17,Miguel Ángel Guerrero,es ESP,"FW,MF",Nott'ham Forest,30,1990,4.4,117,113,4,0,0,0,2,1,0,0,0,0,85,0,4,Matches
+18,Jaidon Anthony,eng ENG,"FW,MF",Bournemouth,20,1999,0.8,48,46,2,0,0,0,5,2,0,0,0,0,35,0,2,Matches
+19,Felipe Araruna,br BRA,DF,Reading,24,1996,1.7,98,70,28,0,0,1,2,28,0,0,0,0,66,0,3,Matches
+20,Jordan Archer,sct SCO,GK,Middlesbrough,27,1993,5.0,161,97,64,24,0,1,0,0,0,0,0,0,65,0,1,Matches
+21,Adam Armstrong,eng ENG,FW,Blackburn,23,1997,38.4,788,717,65,3,2,10,42,12,0,0,0,0,569,6,25,Matches
+22,Paul Arriola,us USA,MF,Swansea City,25,1995,0.2,7,6,1,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+23,Harry Arter,ie IRL,MF,Nott'ham Forest,30,1989,8.0,373,313,57,28,0,3,26,2,17,16,0,0,297,3,5,Matches
+24,Britt Assombalonga,cd COD,FW,Middlesbrough,27,1992,19.2,232,227,3,0,1,1,3,2,0,0,0,0,154,2,4,Matches
+25,Charlie Austin,eng ENG,FW,QPR,31,1989,15.7,364,357,5,0,0,17,17,4,0,0,0,0,221,2,13,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+26,Daniel Ayala,es ESP,DF,Blackburn,29,1990,8.7,493,464,28,21,0,2,0,6,0,0,0,0,412,1,2,Matches
+27,André Ayew,gh GHA,FW,Swansea City,30,1989,40.6,1164,1118,38,4,0,3,38,5,1,0,0,0,802,8,48,Matches
+28,Femi Azeez,eng ENG,MF,Reading,19,2001,0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+29,Fouad Bachirou,km COM,MF,Nott'ham Forest,30,1990,0.4,10,10,0,0,0,0,1,0,0,0,0,0,7,0,0,Matches
+30,Daniel Bachmann,at AUT,GK,Watford,26,1994,23.0,857,611,244,67,0,2,0,0,0,0,0,0,606,2,1,Matches
+31,Juninho Bacuna,cw CUW,"MF,FW",Huddersfield,22,1997,36.8,1351,1205,142,45,8,11,82,31,50,22,14,2,961,4,30,Matches
+32,Leandro Bacuna,cw CUW,"DF,MF",Cardiff City,28,1991,32.4,1103,953,146,17,1,17,32,123,0,0,0,0,822,4,16,Matches
+33,Joel Bagan,ie IRL,DF,Cardiff City,20,2000,5.2,195,169,24,6,0,0,10,18,0,0,0,0,119,2,4,Matches
+34,Amadou Bakayoko,sl SLE,"FW,MF",Coventry City,24,1996,3.5,87,86,1,0,0,1,0,0,0,0,0,0,64,0,0,Matches
+35,Nathan Baker,eng ENG,DF,Bristol City,29,1991,2.2,78,70,7,2,0,0,0,5,0,0,0,0,55,1,0,Matches
+36,Tyreeq Bakinson,eng ENG,MF,Bristol City,21,1998,22.9,1019,1006,12,10,2,2,7,1,0,0,0,0,745,1,13,Matches
+37,Sam Baldock,eng ENG,FW,Reading,31,1989,5.7,114,107,7,0,1,0,8,1,0,0,0,0,79,0,5,Matches
+38,Dominic Ball,eng ENG,MF,QPR,24,1995,24.3,1123,1094,27,19,1,11,11,7,0,0,0,0,903,2,12,Matches
+39,Sol Bamba,ci CIV,DF,Cardiff City,35,1985,0.3,8,8,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+40,Beni Baningime,cd COD,MF,Derby County,21,1998,1.0,40,39,1,1,0,0,0,0,0,0,0,0,36,0,0,Matches
+41,Barry Bannan,sct SCO,MF,Sheffield Weds,30,1989,44.6,2732,2351,360,196,3,38,259,17,145,83,38,5,1953,21,36,Matches
+42,Will Bapaga,eng ENG,"MF,FW",Coventry City,17,2002,0.3,8,8,0,0,0,0,0,0,0,0,0,0,6,0,0,Matches
+43,Shandon Baptiste,gd GRN,MF,Brentford,22,1998,0.1,6,6,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+44,Yoann Barbet,fr FRA,DF,QPR,27,1993,46.0,2672,2510,149,101,1,46,51,41,7,7,0,0,2050,13,25,Matches
+45,Daniel Barden,wls WAL,GK,Norwich City,19,2001,1.5,56,41,15,4,0,0,0,0,0,0,0,0,48,0,0,Matches
+46,Tom Barkhuizen,eng ENG,"FW,DF",Preston,27,1993,29.8,1068,910,155,3,0,3,76,149,0,0,0,0,690,3,40,Matches
+47,Daniel Barlaser,tr TUR,MF,Rotherham Utd,23,1997,26.6,1157,960,185,97,2,17,128,1,81,21,16,28,755,12,14,Matches
+48,Danny Batth,eng ENG,DF,Stoke City,29,1990,26.0,1062,1036,24,22,0,14,0,2,0,0,0,0,755,2,4,Matches
+49,Patrick Bauer,de GER,DF,Preston,27,1992,11.5,406,400,4,4,0,4,3,0,0,0,0,0,292,2,5,Matches
+50,Tom Bayliss,eng ENG,"MF,FW",Preston,21,1999,2.9,113,110,1,0,0,1,4,1,0,0,0,0,82,2,7,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+51,Mads Bech Sørensen,dk DEN,DF,Brentford,21,1999,29.8,1733,1491,238,34,1,10,12,204,0,0,0,0,1332,4,14,Matches
+52,Asmir Begović,ba BIH,GK,Bournemouth,33,1987,45.0,1408,952,452,115,0,1,0,0,0,0,0,0,1058,4,1,Matches
+53,Jérémie Bela,ao ANG,"FW,MF",Birmingham City,27,1993,25.0,820,705,111,34,1,11,172,13,64,33,17,0,498,4,28,Matches
+54,Amari'i Bell,jm JAM,DF,Blackburn,26,1994,17.0,870,693,169,8,0,1,36,160,1,0,0,0,601,8,17,Matches
+55,Sam Bell,eng ENG,"MF,FW",Bristol City,18,2002,0.4,12,12,0,0,0,0,1,0,0,0,0,0,7,0,1,Matches
+56,Steven Benda,de GER,GK,Swansea City,21,1998,1.0,44,39,5,1,0,0,0,0,0,0,0,0,31,0,0,Matches
+57,Filip Benković,hr CRO,DF,Cardiff City,23,1997,0.8,38,38,0,0,0,0,0,0,0,0,0,0,29,0,0,Matches
+58,Elliott Bennett,eng ENG,"DF,FW",Blackburn,31,1988,2.8,138,105,32,3,0,3,4,29,0,0,0,0,99,1,2,Matches
+59,Joe Bennett,eng ENG,DF,Cardiff City,30,1990,26.5,1215,997,211,20,1,7,56,190,1,0,1,0,880,7,22,Matches
+60,Mason Bennett,eng ENG,"FW,MF",Millwall,24,1996,25.5,619,612,6,0,1,1,34,2,1,0,0,0,377,1,29,Matches
+61,Ryan Bennett,eng ENG,DF,Swansea City,30,1990,26.9,1216,1188,23,22,0,11,0,1,0,0,0,0,925,5,6,Matches
+62,Saïd Benrahma,dz ALG,"MF,FW",Brentford,24,1995,0.5,17,16,1,0,0,0,2,0,0,0,0,0,13,0,0,Matches
+63,Daniel Bentley,eng ENG,GK,Bristol City,27,1993,43.0,1547,892,644,220,0,2,0,0,0,0,0,0,877,11,1,Matches
+64,Luke Berry,eng ENG,MF,Luton Town,28,1992,20.8,774,627,141,34,1,6,101,7,58,26,20,5,545,6,16,Matches
+65,Faysal Bettache,eng ENG,MF,QPR,20,2000,0.8,60,55,5,1,0,0,2,3,1,1,0,0,53,0,0,Matches
+66,Marcus Bettinelli,eng ENG,GK,Middlesbrough,28,1992,41.0,1339,844,491,219,0,0,0,0,0,0,0,0,490,4,0,Matches
+67,Maxime Biamou,fr FRA,FW,Coventry City,29,1990,22.4,446,442,1,0,0,0,15,0,0,0,0,0,256,3,13,Matches
+68,Bartosz Białkowski,pl POL,GK,Millwall,33,1987,46.0,1128,617,510,149,0,0,0,0,0,0,0,0,591,1,0,Matches
+69,Mads Bidstrup,dk DEN,"MF,FW",Brentford,19,2001,1.3,77,77,0,0,0,1,0,0,0,0,0,0,66,0,1,Matches
+70,Jake Bidwell,eng ENG,DF,Swansea City,27,1993,34.9,1527,1147,360,8,0,3,111,352,0,0,0,0,962,20,46,Matches
+71,Krystian Bielik,pl POL,MF,Derby County,22,1998,12.1,679,671,7,6,1,9,3,1,0,0,0,0,561,1,6,Matches
+72,Philip Billing,dk DEN,MF,Bournemouth,24,1996,23.0,977,960,14,6,2,8,17,5,1,0,0,0,752,3,25,Matches
+73,Max Bird,eng ENG,MF,Derby County,19,2000,23.0,1256,1200,52,17,5,12,31,7,18,6,9,0,1039,4,15,Matches
+74,Tyler Blackett,eng ENG,DF,Nott'ham Forest,26,1994,9.4,505,416,86,6,1,2,25,80,0,0,0,0,342,3,10,Matches
+75,Jamal Blackman,eng ENG,GK,Rotherham Utd,26,1993,25.9,822,421,398,206,0,0,0,0,0,0,0,0,349,3,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+76,Matt Bloomfield,eng ENG,"MF,FW",Wycombe,36,1984,7.7,139,126,13,0,0,0,6,1,0,0,0,0,81,0,5,Matches
+77,Billy Bodin,wls WAL,"FW,MF",Preston,28,1992,1.0,41,35,6,2,0,0,2,0,0,0,0,0,31,0,0,Matches
+78,Marc Bola,eng ENG,"DF,FW",Middlesbrough,22,1997,40.1,1868,1347,505,30,1,7,128,449,26,18,1,0,1175,16,53,Matches
+79,Yannick Bolasie,cd COD,"FW,MF",Middlesbrough,31,1989,10.3,268,264,2,0,0,1,41,2,0,0,0,0,146,2,9,Matches
+80,Gaëtan Bong,cm CMR,DF,Nott'ham Forest,32,1988,8.7,419,307,108,1,1,0,28,107,0,0,0,0,267,4,10,Matches
+81,Macauley Bonne,zw ZIM,FW,QPR,24,1995,12.2,273,267,3,0,0,2,9,1,0,0,0,0,157,3,8,Matches
+82,Julian Börner,de GER,DF,Sheffield Weds,29,1991,23.3,1126,1066,56,22,0,14,8,34,0,0,0,0,871,4,14,Matches
+83,Caolan Boyd-Munce,nir NIR,DF,Birmingham City,20,2000,1.0,26,20,6,0,0,0,2,6,0,0,0,0,17,0,0,Matches
+84,Sonny Bradley,eng ENG,DF,Luton Town,28,1991,36.5,1858,1746,104,86,1,16,3,17,1,0,0,0,1387,8,11,Matches
+85,Tom Bradshaw,wls WAL,"FW,MF",Millwall,28,1992,11.7,245,244,1,0,0,0,10,0,0,0,0,0,149,0,9,Matches
+86,Jarrad Branthwaite,eng ENG,DF,Blackburn,18,2002,10.0,432,413,19,18,0,5,1,1,0,0,0,0,315,0,1,Matches
+87,James Bree,eng ENG,DF,Luton Town,22,1997,17.8,868,654,209,18,0,6,90,161,30,22,4,2,579,5,21,Matches
+88,Luke Brennan,eng ENG,FW,Blackburn,18,2001,0.1,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+89,Ben Brereton,cl CHI,FW,Blackburn,21,1999,27.0,677,641,32,9,3,6,25,14,7,0,0,0,503,4,20,Matches
+90,Callum Brittain,eng ENG,"DF,MF",Barnsley,22,1998,39.4,1872,1350,519,5,0,8,161,503,11,10,0,0,989,3,71,Matches
+91,Louis Britton,eng ENG,FW,Bristol City,19,2001,0.2,5,5,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+92,David Brooks,wls WAL,"FW,MF",Bournemouth,23,1997,23.8,1024,910,111,44,4,11,72,18,45,25,9,0,767,3,26,Matches
+93,Ciaron Brown,nir NIR,DF,Cardiff City,22,1998,11.6,403,333,69,2,0,4,13,67,0,0,0,0,224,1,12,Matches
+94,Izzy Brown,eng ENG,MF,Sheffield Weds,23,1997,6.0,254,226,26,15,1,0,29,3,6,5,0,0,162,2,8,Matches
+95,Jacob Brown,sct SCO,FW,Stoke City,22,1998,26.9,579,561,16,0,0,1,44,14,0,0,0,0,347,2,36,Matches
+96,Jaden Brown,eng ENG,"DF,FW",Huddersfield,21,1999,2.7,121,93,28,3,0,0,4,25,0,0,0,0,91,0,3,Matches
+97,Alan Browne,ie IRL,"MF,DF",Preston,25,1995,36.0,1688,1498,183,32,0,19,55,133,2,2,0,0,1170,7,50,Matches
+98,Marcus Browne,eng ENG,FW,Middlesbrough,22,1997,1.6,38,36,1,0,0,0,4,0,0,0,0,0,23,1,4,Matches
+99,Chris Brunt,nir NIR,MF,Bristol City,35,1984,5.7,303,261,38,25,0,3,20,2,11,5,6,0,227,4,0,Matches
+100,Lee Buchanan,eng ENG,"DF,MF",Derby County,19,2001,28.7,1513,1199,312,19,0,5,95,293,0,0,0,0,980,2,62,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+101,John Buckley,eng ENG,"MF,FW",Blackburn,20,1999,11.1,626,579,46,8,2,9,21,18,16,3,3,1,478,1,14,Matches
+102,Emi Buendía,ar ARG,FW,Norwich City,23,1996,36.8,2094,1867,218,63,15,36,168,27,128,71,45,5,1557,9,44,Matches
+103,Ajani Burchall,bm BER,FW,Bournemouth,15,2004,0.0,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+104,Tyler Burey,eng ENG,"FW,MF",Millwall,18,2001,1.6,46,45,1,1,0,1,10,0,0,0,0,0,28,0,6,Matches
+105,Jack Burroughs,sct SCO,DF,Coventry City,19,2001,1.0,66,44,21,0,0,0,1,21,0,0,0,0,43,1,1,Matches
+106,Josef Bursik,eng ENG,GK,Stoke City,20,2000,15.0,541,370,168,63,0,2,0,0,0,0,0,0,329,3,1,Matches
+107,Daniel Butterworth,eng ENG,FW,Blackburn,20,1999,0.3,12,12,0,0,0,0,1,0,0,0,0,0,11,0,1,Matches
+108,Nathan Byrne,eng ENG,"DF,MF",Derby County,28,1992,38.5,2265,1710,549,54,1,14,230,441,54,42,9,0,1639,6,49,Matches
+109,Ben Cabango,wls WAL,DF,Swansea City,20,2000,28.2,1274,1235,34,30,0,12,2,4,0,0,0,0,922,5,5,Matches
+110,Rafael Cabral,br BRA,GK,Reading,30,1990,45.0,1579,1107,468,117,0,1,0,0,0,0,0,0,1076,4,1,Matches
+111,Cafú,pt POR,MF,Nott'ham Forest,27,1993,26.0,991,931,58,28,1,15,37,1,26,12,12,0,826,2,16,Matches
+112,Mamadi Camará,gw GNB,MF,Reading,16,2003,0.1,5,4,1,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+113,Geoff Cameron,us USA,"MF,DF",QPR,35,1985,30.9,1353,1337,10,8,4,3,2,2,0,0,0,0,968,6,13,Matches
+114,Fraizer Campbell,eng ENG,FW,Huddersfield,32,1987,33.1,604,555,45,1,3,4,14,6,0,0,0,0,406,4,25,Matches
+115,Tyrese Campbell,eng ENG,"FW,MF",Stoke City,20,1999,12.1,336,329,7,2,0,2,42,2,1,0,0,0,220,0,13,Matches
+116,Sergi Canós,es ESP,"FW,DF",Brentford,23,1997,31.9,964,940,19,4,10,14,104,11,2,0,1,0,607,5,48,Matches
+117,Todd Cantwell,eng ENG,FW,Norwich City,22,1998,29.0,1536,1488,43,24,6,16,16,16,1,0,0,0,1252,5,33,Matches
+118,Étienne Capoue,fr FRA,MF,Watford,32,1988,7.8,481,466,14,14,2,26,3,0,0,0,0,0,397,1,4,Matches
+119,Tom Carroll,eng ENG,MF,QPR,28,1992,18.3,1076,1021,50,36,0,13,44,5,8,0,7,0,844,5,12,Matches
+120,Hayden Carter,eng ENG,DF,Blackburn,20,1999,0.2,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+121,Cameron Carter-Vickers,us USA,DF,Bournemouth,22,1997,20.5,1138,1107,31,25,0,5,0,6,0,0,0,0,963,0,7,Matches
+122,Joel Castro Pereira,pt POR,GK,Huddersfield,24,1996,2.0,82,62,20,6,0,0,0,0,0,0,0,0,69,0,0,Matches
+123,Craig Cathcart,nir NIR,DF,Watford,31,1989,21.3,1188,1111,74,42,1,31,7,32,0,0,0,0,1015,3,9,Matches
+124,Ilias Chair,ma MAR,"MF,FW",QPR,22,1997,38.9,1727,1403,319,55,5,9,265,13,171,46,75,6,1287,5,31,Matches
+125,Nathaniel Chalobah,eng ENG,MF,Watford,25,1994,29.2,1295,1238,50,43,4,15,14,6,0,0,0,0,968,7,29,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+126,Conor Chaplin,eng ENG,"FW,MF",Barnsley,23,1997,23.5,776,714,57,3,5,2,45,10,0,0,0,0,488,5,27,Matches
+127,Harry Chapman,eng ENG,"FW,MF",Blackburn,22,1997,1.0,46,39,7,1,0,0,8,2,4,1,1,0,36,0,1,Matches
+128,Darius Charles,eng ENG,DF,Wycombe,32,1987,4.6,112,112,0,0,0,0,0,0,0,0,0,0,72,0,0,Matches
+129,James Chester,wls WAL,DF,Stoke City,31,1989,31.0,1489,1425,62,50,0,9,0,12,0,0,0,0,1287,2,13,Matches
+130,Cyrus Christie,ie IRL,DF,Nott'ham Forest,27,1992,43.9,2544,2040,494,22,0,14,160,472,0,0,0,0,1759,10,55,Matches
+131,Jordan Clark,eng ENG,"DF,MF",Luton Town,26,1993,24.3,952,818,125,6,1,1,73,114,5,3,1,0,615,9,33,Matches
+132,Jack Clarke,eng ENG,"FW,DF",Stoke City,19,2000,6.5,245,232,12,0,0,8,24,4,8,3,3,1,172,1,10,Matches
+133,Matthew Clarke,eng ENG,DF,Derby County,23,1996,41.0,2212,2153,55,47,0,34,4,8,0,0,0,0,1734,4,11,Matches
+134,Trevor Clarke,ie IRL,"DF,MF",Rotherham Utd,22,1998,2.2,73,52,20,2,0,0,16,17,1,1,0,0,29,1,4,Matches
+135,Jake Clarke-Salter,eng ENG,DF,Birmingham City,22,1997,8.8,443,379,61,11,0,6,4,50,0,0,0,0,313,3,4,Matches
+136,Adam Clayton,eng ENG,MF,Birmingham City,31,1989,9.7,438,398,37,36,0,10,5,0,0,0,0,0,329,3,10,Matches
+137,Tom Cleverley,eng ENG,MF,Watford,30,1989,28.9,1535,1359,166,66,1,15,99,22,56,28,8,9,1187,10,33,Matches
+138,Sam Clucas,eng ENG,MF,Stoke City,29,1990,17.9,857,703,154,38,0,9,118,14,81,37,26,11,637,0,17,Matches
+139,Josh Coburn,eng ENG,"FW,MF",Middlesbrough,17,2002,0.6,8,8,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+140,Josh Cogley,eng ENG,"DF,FW",Birmingham City,24,1996,4.3,194,145,48,5,0,2,12,43,0,0,0,0,113,1,6,Matches
+141,Jack Colback,eng ENG,MF,Nott'ham Forest,30,1989,12.2,533,508,24,21,0,6,5,3,0,0,0,0,461,1,7,Matches
+142,Maxime Colin,fr FRA,DF,Birmingham City,28,1991,39.0,1681,1281,390,33,0,4,91,355,1,1,0,0,1109,10,62,Matches
+143,Bradley Collins,eng ENG,GK,Barnsley,23,1997,22.0,759,445,313,177,0,2,0,0,0,0,0,0,299,1,0,Matches
+144,James Collins,ie IRL,FW,Luton Town,29,1990,29.5,718,693,20,3,0,9,19,8,0,0,0,0,484,5,17,Matches
+145,Nathan Collins,ie IRL,DF,Stoke City,19,2001,19.6,1066,898,166,17,1,9,29,149,0,0,0,0,783,2,18,Matches
+146,Rubin Colwill,wls WAL,MF,Cardiff City,18,2002,2.1,50,50,0,0,2,0,4,0,0,0,0,0,28,0,3,Matches
+147,Tommy Conway,sct SCO,"FW,MF",Bristol City,17,2002,3.0,45,38,7,0,0,0,0,0,0,0,0,0,37,0,0,Matches
+148,Lewis Cook,eng ENG,MF,Bournemouth,23,1997,27.8,1527,1433,86,68,2,15,22,11,3,1,0,2,1245,8,32,Matches
+149,Steve Cook,eng ENG,DF,Bournemouth,29,1991,40.6,2490,2376,104,72,0,44,3,32,0,0,0,0,1953,10,16,Matches
+150,Brandon Cooper,wls WAL,FW,Swansea City,20,2000,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+151,Jake Cooper,eng ENG,DF,Millwall,25,1995,41.2,1873,1772,93,43,0,17,15,50,0,0,0,0,1309,8,19,Matches
+152,Oliver Cooper,wls WAL,FW,Swansea City,20,1999,0.6,17,16,1,0,0,0,0,1,0,0,0,0,15,0,0,Matches
+153,Harry Cornick,eng ENG,"FW,MF",Luton Town,25,1995,28.4,733,627,102,0,0,3,121,96,3,1,0,0,415,4,43,Matches
+154,Sam Cosgrove,eng ENG,FW,Birmingham City,23,1996,2.6,62,62,0,0,0,1,1,0,0,0,0,0,35,0,1,Matches
+155,Nuno da Costa,cv CPV,FW,Nott'ham Forest,29,1991,1.1,24,24,0,0,1,0,3,0,0,0,0,0,13,0,0,Matches
+156,Hayden Coulson,eng ENG,"FW,MF",Middlesbrough,22,1998,7.0,177,151,25,0,0,0,18,22,3,3,0,0,115,1,4,Matches
+157,Jordan Cousins,eng ENG,MF,Stoke City,26,1994,9.4,325,316,9,5,1,0,2,1,0,0,0,0,233,0,8,Matches
+158,Martin Cranie,eng ENG,DF,Luton Town,33,1986,19.3,1062,859,199,14,0,1,18,185,0,0,0,0,766,4,17,Matches
+159,Cameron Cresswell,eng ENG,"FW,DF",Derby County,20,1999,0.1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+160,Romoney Crichlow-Noble,eng ENG,DF,Huddersfield,21,1999,2.7,132,129,3,1,0,0,0,2,0,0,0,0,110,0,2,Matches
+161,Matt Crooks,eng ENG,"MF,FW",Rotherham Utd,26,1994,34.3,926,905,16,0,1,5,19,8,2,0,1,0,642,5,18,Matches
+162,Daniel Crowley,eng ENG,"MF,FW",Birmingham City,22,1997,1.2,55,53,2,0,0,1,4,0,2,0,0,0,44,0,3,Matches
+163,Liam Cullen,wls WAL,FW,Swansea City,21,1999,5.6,127,119,6,1,0,1,8,0,0,0,0,0,70,2,7,Matches
+164,Greg Cunningham,ie IRL,DF,Preston,29,1991,10.1,423,302,119,7,0,4,18,112,0,0,0,0,279,2,12,Matches
+165,Greg Cunningham,ie IRL,DF,Cardiff City,29,1991,3.2,151,112,39,2,0,1,7,37,0,0,0,0,111,0,6,Matches
+166,Fankaty Dabo,eng ENG,"DF,MF",Coventry City,24,1995,22.1,1178,870,305,8,0,5,80,297,0,0,0,0,875,3,43,Matches
+167,Bradley Dack,eng ENG,"MF,FW",Blackburn,26,1993,9.0,316,291,24,10,0,1,9,2,2,2,0,0,231,1,11,Matches
+168,Julien Dacosta,fr FRA,DF,Coventry City,24,1996,10.3,414,302,111,1,0,0,44,110,0,0,0,0,263,1,14,Matches
+169,Henrik Dalsgaard,dk DEN,DF,Brentford,31,1989,33.5,1801,1480,317,30,2,18,59,287,0,0,0,0,1294,4,29,Matches
+170,Matty Daly,eng ENG,"FW,MF",Huddersfield,19,2001,0.8,19,19,0,0,0,0,1,0,0,0,0,0,8,0,0,Matches
+171,Luke Daniels,eng ENG,GK,Brentford,32,1988,4.0,155,128,27,3,0,0,0,0,0,0,0,0,114,0,0,Matches
+172,Arnaut Danjuma,nl NED,FW,Bournemouth,23,1997,27.7,837,742,92,23,0,4,76,18,48,19,15,1,624,3,20,Matches
+173,Jay Dasilva,wls WAL,DF,Bristol City,22,1998,9.0,384,318,65,8,0,4,10,57,0,0,0,0,308,1,3,Matches
+174,Josh Dasilva,eng ENG,MF,Brentford,21,1998,23.7,1081,1055,24,14,3,10,30,4,0,0,0,0,930,2,20,Matches
+175,Jacob Davenport,eng ENG,MF,Blackburn,21,1998,6.8,317,309,7,3,0,1,2,3,1,1,0,0,259,1,2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+176,Adam Davies,wls WAL,GK,Stoke City,28,1992,16.5,572,380,189,59,0,0,0,1,0,0,0,0,371,3,0,Matches
+177,Ben Davies,eng ENG,DF,Preston,24,1995,18.8,769,751,14,9,0,9,4,5,0,0,0,0,602,4,6,Matches
+178,Curtis Davies,sl SLE,DF,Derby County,35,1985,10.8,507,498,9,7,0,1,2,2,0,0,0,0,416,0,1,Matches
+179,Cameron Dawson,eng ENG,GK,Sheffield Weds,25,1995,8.0,261,151,109,44,0,0,0,0,0,0,0,0,119,1,0,Matches
+180,Jón Daði Böðvarsson,is ISL,FW,Millwall,28,1992,15.4,388,384,2,0,0,0,11,1,0,0,0,0,218,2,13,Matches
+181,Harlee Dean,eng ENG,DF,Birmingham City,29,1991,41.9,1551,1448,96,31,0,17,15,65,0,0,0,0,972,7,17,Matches
+182,Troy Deeney,eng ENG,FW,Watford,32,1988,14.2,429,413,11,1,3,2,8,4,1,0,0,0,261,5,9,Matches
+183,Fisayo Dele-Bashiru,ng NGA,MF,Sheffield Weds,19,2001,3.2,57,56,1,0,0,0,4,1,0,0,0,0,42,0,3,Matches
+184,Tom Dele-Bashiru,ng NGA,MF,Watford,20,1999,0.7,22,22,0,0,0,0,0,0,0,0,0,0,16,0,1,Matches
+185,Sepp van den Berg,nl NED,DF,Preston,18,2001,15.0,612,457,155,9,0,2,10,146,0,0,0,0,392,0,19,Matches
+186,Kiernan Dewsbury-Hall,eng ENG,MF,Luton Town,21,1998,35.8,1902,1698,197,68,3,29,202,7,120,72,29,4,1351,7,32,Matches
+187,Yan Dhanda,eng ENG,MF,Swansea City,21,1998,14.6,536,496,33,9,0,8,42,3,18,13,1,0,370,7,8,Matches
+188,Adama Diakhaby,fr FRA,FW,Huddersfield,24,1996,6.7,223,217,4,1,0,1,15,3,0,0,0,0,158,2,8,Matches
+189,Brahima Diarra,ml MLI,FW,Huddersfield,17,2003,0.4,12,12,0,0,0,0,0,0,0,0,0,0,9,0,1,Matches
+190,Robert Dickie,eng ENG,DF,QPR,24,1996,42.3,2525,2418,97,79,0,26,21,18,0,0,0,0,1960,10,12,Matches
+191,Famara Diedhiou,sn SEN,FW,Bristol City,27,1992,23.6,574,569,4,0,0,3,1,2,1,0,0,0,322,1,11,Matches
+192,Seny Dieng,sn SEN,GK,QPR,25,1994,41.6,1581,1079,494,138,0,5,0,0,0,0,0,0,1088,8,1,Matches
+193,Anfernee Dijksteel,sr SUR,DF,Middlesbrough,23,1996,28.1,1096,807,285,17,1,4,20,268,0,0,0,0,681,4,19,Matches
+194,Daryl Dike,us USA,FW,Barnsley,20,2000,14.3,307,305,0,0,0,0,10,0,0,0,0,0,140,2,13,Matches
+195,Tyrhys Dolan,eng ENG,FW,Blackburn,18,2001,14.1,451,437,10,2,0,2,25,2,1,0,0,0,361,4,8,Matches
+196,Barry Douglas,sct SCO,DF,Blackburn,30,1989,27.0,1921,1449,460,86,0,25,151,317,57,16,29,1,1403,12,33,Matches
+197,Kieran Dowell,eng ENG,"MF,FW",Norwich City,22,1997,10.4,441,409,30,9,5,2,37,3,18,13,5,0,328,2,13,Matches
+198,Stewart Downing,eng ENG,MF,Blackburn,36,1984,6.1,491,447,43,25,1,18,27,6,12,6,2,0,406,1,7,Matches
+199,Demeaco Duhaney,eng ENG,DF,Huddersfield,21,1998,7.3,317,266,51,2,0,0,6,49,0,0,0,0,250,0,5,Matches
+200,Stephen Duke-McKenna,gy GUY,FW,QPR,19,2000,0.1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+201,Chey Dunkley,eng ENG,DF,Sheffield Weds,28,1992,9.3,256,254,2,2,0,1,0,0,0,0,0,0,152,0,1,Matches
+202,Lyndon Dykes,sct SCO,FW,QPR,24,1995,34.0,844,818,21,0,0,3,17,18,0,0,0,0,476,5,35,Matches
+203,Josh Earl,eng ENG,DF,Preston,21,1998,3.9,183,143,40,0,0,1,9,40,0,0,0,0,125,0,7,Matches
+204,Festy Ebosele,ie IRL,"MF,DF",Derby County,17,2002,0.3,13,9,4,0,0,0,1,4,0,0,0,0,10,0,1,Matches
+205,Josh Eccles,eng ENG,"DF,MF",Coventry City,20,2000,3.9,148,123,24,0,2,1,4,23,1,1,0,0,102,1,3,Matches
+206,Rarmani Edmonds-Green,eng ENG,DF,Huddersfield,21,1999,16.4,881,812,66,17,0,10,0,49,0,0,0,0,667,3,4,Matches
+207,George Edmundson,eng ENG,DF,Derby County,22,1997,8.3,446,412,33,15,1,9,3,18,0,0,0,0,320,1,8,Matches
+208,Opi Edwards,eng ENG,"MF,DF",Bristol City,21,1999,0.3,19,15,4,1,0,0,0,2,1,0,0,0,14,0,0,Matches
+209,Owura Edwards,eng ENG,"FW,MF",Bristol City,19,2001,1.2,24,23,1,0,0,2,2,1,0,0,0,0,17,0,0,Matches
+210,Carel Eiting,nl NED,MF,Huddersfield,22,1998,17.3,845,778,61,27,3,2,28,2,27,11,2,1,663,6,12,Matches
+211,Ovie Ejaria,eng ENG,FW,Reading,22,1997,34.9,1502,1395,102,34,6,7,52,17,20,13,4,0,1256,5,19,Matches
+212,Harvey Elliott,eng ENG,"FW,MF",Blackburn,17,2003,30.6,1593,1471,111,21,11,22,111,24,47,24,0,4,1173,11,31,Matches
+213,Tomás Esteves,pt POR,"DF,FW",Reading,18,2002,13.8,715,567,147,16,0,1,28,126,5,0,4,0,522,1,21,Matches
+214,Neil Etheridge,ph PHI,GK,Birmingham City,30,1990,43.0,1326,812,504,185,0,3,0,0,0,0,0,0,668,10,0,Matches
+215,Ched Evans,wls WAL,FW,Preston,31,1988,18.3,465,458,4,0,1,2,12,3,0,0,0,0,287,3,17,Matches
+216,Corry Evans,nir NIR,MF,Blackburn,30,1990,9.0,505,484,19,6,0,1,7,10,1,0,0,0,415,2,9,Matches
+217,George Evans,eng ENG,"DF,MF",Derby County,25,1994,5.0,218,206,11,10,0,4,4,1,0,0,0,0,164,1,5,Matches
+218,George Evans,eng ENG,"DF,MF",Millwall,25,1994,18.8,858,764,85,64,0,13,9,20,0,0,0,0,579,9,8,Matches
+219,Kiko Femenía,es ESP,DF,Watford,29,1991,33.6,2153,1730,419,48,0,14,115,366,4,0,3,0,1698,4,33,Matches
+220,Shane Ferguson,nir NIR,"FW,MF",Millwall,29,1991,2.7,103,93,10,1,0,1,16,5,3,1,2,0,78,0,2,Matches
+221,Sam Field,eng ENG,MF,QPR,22,1998,10.8,547,542,5,1,1,4,2,3,1,0,0,0,442,0,10,Matches
+222,Tobias Figueiredo,pt POR,DF,Nott'ham Forest,26,1994,31.5,1430,1360,64,61,0,16,2,3,0,0,0,0,1056,6,12,Matches
+223,Darnell Fisher,eng ENG,DF,Preston,26,1994,12.8,645,503,139,7,0,2,31,132,0,0,0,0,429,3,13,Matches
+224,Darnell Fisher,eng ENG,"DF,FW",Middlesbrough,26,1994,10.0,435,296,135,2,0,2,28,133,0,0,0,0,252,4,8,Matches
+225,Ashley Fletcher,eng ENG,FW,Middlesbrough,24,1995,5.6,113,110,1,0,0,0,4,0,0,0,0,0,63,2,2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+226,Steven Fletcher,sct SCO,FW,Stoke City,33,1987,26.1,633,622,5,3,4,1,9,1,0,0,0,0,401,6,18,Matches
+227,Aden Flint,eng ENG,DF,Cardiff City,31,1989,22.0,568,543,20,12,0,4,2,8,0,0,0,0,290,5,4,Matches
+228,Aden Flint,eng ENG,DF,Sheffield Weds,31,1989,3.2,165,161,2,1,0,2,1,1,0,0,0,0,109,2,0,Matches
+229,Samuel Folarin,ng NGA,"FW,MF",Middlesbrough,19,2000,0.3,15,14,1,0,0,0,2,1,0,0,0,0,8,0,2,Matches
+230,William Forrester,eng ENG,DF,Stoke City,19,2001,1.0,21,21,0,0,0,0,0,0,0,0,0,0,14,0,0,Matches
+231,Marcus Forss,fi FIN,"FW,MF",Brentford,21,1999,12.3,168,165,2,0,1,0,8,0,0,0,0,0,105,1,12,Matches
+232,Craig Forsyth,sct SCO,DF,Derby County,31,1989,18.1,1014,830,177,21,0,18,58,156,0,0,0,0,639,7,23,Matches
+233,Ben Foster,eng ENG,GK,Watford,37,1983,23.0,778,520,258,69,0,4,0,0,0,0,0,0,546,0,2,Matches
+234,Tariqe Fosu,gh GHA,"FW,MF",Brentford,24,1995,20.0,738,712,24,2,0,4,45,22,0,0,0,0,540,2,28,Matches
+235,Morgan Fox,wls WAL,DF,Stoke City,26,1993,19.3,1075,872,198,12,0,8,53,186,0,0,0,0,711,5,29,Matches
+236,Luke Freeman,eng ENG,"FW,MF",Nott'ham Forest,28,1992,14.1,450,381,66,24,1,2,92,1,39,13,21,0,299,3,20,Matches
+237,Nick Freeman,eng ENG,MF,Wycombe,24,1995,3.9,147,142,5,0,0,0,7,0,0,0,0,0,102,0,3,Matches
+238,George Friend,eng ENG,DF,Birmingham City,32,1987,21.4,988,815,166,10,0,9,21,156,0,0,0,0,627,7,26,Matches
+239,Dominik Frieser,at AUT,"MF,FW",Barnsley,26,1993,23.6,581,465,116,1,1,3,28,99,0,0,0,0,359,0,18,Matches
+240,Dael Fry,eng ENG,DF,Middlesbrough,22,1997,29.6,1058,1030,23,16,0,8,4,7,0,0,0,0,615,5,11,Matches
+241,Jay Fulton,sct SCO,MF,Swansea City,26,1994,30.2,1133,1102,24,19,2,6,32,2,1,0,0,0,800,7,33,Matches
+242,Jordan Gabriel,eng ENG,DF,Nott'ham Forest,21,1998,1.0,52,31,21,0,0,0,1,21,0,0,0,0,28,0,2,Matches
+243,Paul Gallagher,sct SCO,MF,Preston,35,1984,6.3,505,434,70,32,0,21,65,2,36,16,16,2,346,1,6,Matches
+244,Sam Gallagher,eng ENG,FW,Blackburn,24,1995,24.6,555,547,5,0,2,1,18,5,0,0,0,0,302,3,23,Matches
+245,Dominic Gape,eng ENG,MF,Wycombe,25,1994,9.6,264,260,2,0,0,3,4,1,0,0,0,0,138,2,9,Matches
+246,Gary Gardner,eng ENG,MF,Birmingham City,28,1992,24.9,937,882,45,21,1,15,60,2,19,6,10,1,572,10,26,Matches
+247,James Garner,eng ENG,MF,Watford,19,2001,12.6,597,517,78,28,2,3,70,1,49,14,28,0,446,2,5,Matches
+248,James Garner,eng ENG,MF,Nott'ham Forest,19,2001,18.9,815,743,69,32,2,14,37,2,24,10,9,0,635,3,6,Matches
+249,Jordan Garrick,eng ENG,"FW,MF",Swansea City,22,1998,0.6,13,13,0,0,0,0,3,0,0,0,0,0,7,0,1,Matches
+250,Saman Ghoddos,ir IRN,"MF,FW",Brentford,26,1993,16.4,560,506,53,27,1,3,34,4,13,9,3,0,389,1,13,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+251,Dimitris Giannoulis,gr GRE,DF,Norwich City,24,1995,14.5,882,723,157,9,0,1,25,148,0,0,0,0,704,2,23,Matches
+252,Morgan Gibbs-White,eng ENG,MF,Swansea City,20,2000,3.5,170,160,9,4,0,1,17,0,5,4,0,0,118,1,4,Matches
+253,Ben Gibson,eng ENG,DF,Norwich City,27,1993,26.2,2136,2052,81,66,0,10,3,15,0,0,0,0,1833,3,10,Matches
+254,Lewis Gibson,eng ENG,DF,Reading,20,2000,8.3,501,413,86,14,0,15,10,72,0,0,0,0,343,2,7,Matches
+255,Ryan Giles,eng ENG,"DF,MF",Rotherham Utd,20,2000,13.0,390,312,72,9,0,5,115,33,30,27,1,0,207,6,24,Matches
+256,Ryan Giles,eng ENG,"DF,MF",Coventry City,20,2000,15.1,688,549,136,5,0,0,96,127,4,1,0,0,502,3,26,Matches
+257,Robert Glatzel,de GER,FW,Cardiff City,26,1994,10.2,262,257,4,1,0,0,2,1,0,0,0,0,171,1,10,Matches
+258,Matthew Godden,eng ENG,FW,Coventry City,29,1991,16.1,260,238,21,1,0,1,5,1,0,0,0,0,173,1,9,Matches
+259,Ben Godfrey,eng ENG,DF,Norwich City,22,1998,3.0,168,162,6,5,0,2,1,1,0,0,0,0,140,0,1,Matches
+260,Charlie Goode,eng ENG,DF,Brentford,24,1995,4.9,306,271,35,8,0,1,0,27,0,0,0,0,249,0,2,Matches
+261,Anthony Gordon,eng ENG,FW,Preston,19,2001,5.7,148,124,22,9,1,1,31,0,13,4,9,0,95,2,4,Matches
+262,Kaide Gordon,eng ENG,MF,Derby County,15,2004,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Matches
+263,Nico Gordon,ms MSR,DF,Birmingham City,18,2002,1.3,43,40,3,1,0,0,0,2,0,0,0,0,33,0,0,Matches
+264,Dan Gosling,eng ENG,MF,Watford,30,1990,6.5,243,234,9,3,0,1,1,3,1,1,0,0,193,0,9,Matches
+265,Dan Gosling,eng ENG,MF,Bournemouth,30,1990,8.6,371,358,12,9,0,4,2,3,0,0,0,0,288,1,3,Matches
+266,Lewis Grabban,eng ENG,FW,Nott'ham Forest,32,1988,22.1,400,381,18,1,0,2,25,7,0,0,0,0,295,1,18,Matches
+267,Andre Gray,jm JAM,FW,Watford,29,1991,14.2,222,205,16,0,0,1,6,2,1,0,0,0,144,1,6,Matches
+268,André Green,eng ENG,"FW,MF",Sheffield Weds,22,1998,3.4,60,60,0,0,0,0,5,0,0,0,0,0,40,0,4,Matches
+269,Lee Gregory,eng ENG,FW,Stoke City,31,1988,2.8,78,76,1,0,0,0,3,0,0,0,0,0,46,1,4,Matches
+270,Lee Gregory,eng ENG,"FW,MF",Derby County,31,1988,6.3,88,77,10,0,0,0,2,0,0,0,0,0,54,1,3,Matches
+271,Matt Grimes,eng ENG,MF,Swansea City,25,1995,43.1,2634,2367,253,138,2,28,115,2,79,56,5,1,2002,14,33,Matches
+272,Jack Grimmer,sct SCO,DF,Wycombe,26,1994,38.3,1383,947,432,9,0,13,97,423,0,0,0,0,709,4,29,Matches
+273,Marc Guéhi,eng ENG,DF,Swansea City,20,2000,39.4,1949,1827,117,63,1,23,9,54,0,0,0,0,1504,5,10,Matches
+274,Angus Gunn,sct SCO,GK,Stoke City,24,1996,14.5,457,270,186,54,0,0,0,0,0,0,0,0,279,1,0,Matches
+275,Viktor Gyökeres,se SWE,FW,Coventry City,22,1998,8.5,199,195,3,0,0,1,4,1,1,0,0,0,141,1,9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+276,Viktor Gyökeres,se SWE,FW,Swansea City,22,1998,3.1,98,94,4,0,0,0,2,0,0,0,0,0,65,0,4,Matches
+277,Hayden Hackney,eng ENG,FW,Middlesbrough,18,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+278,Alen Halilović,hr CRO,"MF,FW",Birmingham City,24,1996,8.7,282,238,43,19,0,7,30,4,13,8,2,0,196,1,7,Matches
+279,Grant Hall,eng ENG,DF,Middlesbrough,28,1991,17.2,574,561,13,11,0,1,2,2,0,0,0,0,385,0,1,Matches
+280,Aapo Halme,fi FIN,"MF,DF",Barnsley,22,1998,7.4,240,237,3,3,0,1,0,0,0,0,0,0,129,0,4,Matches
+281,Niko Hämäläinen,fi FIN,DF,QPR,23,1997,19.3,928,712,213,2,0,5,40,211,0,0,0,0,635,3,28,Matches
+282,Ben Hamer,eng ENG,GK,Huddersfield,32,1987,14.5,679,496,180,63,0,3,0,1,0,0,0,0,534,3,0,Matches
+283,Gustavo Hamer,nl NED,MF,Coventry City,23,1997,33.2,1939,1688,235,117,4,40,156,10,100,35,20,29,1350,16,28,Matches
+284,Grant Hanley,sct SCO,DF,Norwich City,28,1991,42.0,2887,2759,127,126,0,14,1,1,0,0,0,0,2572,1,16,Matches
+285,Wes Harding,jm JAM,DF,Rotherham Utd,23,1996,41.5,1670,1073,588,72,1,4,105,516,0,0,0,0,929,9,37,Matches
+286,Rekeem Harper,eng ENG,MF,Birmingham City,20,2000,11.3,335,328,5,2,0,7,2,0,0,0,0,0,270,2,3,Matches
+287,Kadeem Harris,eng ENG,"DF,MF",Sheffield Weds,27,1993,29.6,764,661,101,3,0,3,116,74,22,17,0,0,528,2,45,Matches
+288,Mark Harris,wls WAL,"FW,MF",Cardiff City,21,1998,7.2,117,109,7,0,0,0,6,0,0,0,0,0,87,1,3,Matches
+289,Josh Harrop,eng ENG,"FW,MF",Preston,24,1995,2.2,93,79,13,2,0,0,14,1,10,7,3,0,65,1,1,Matches
+290,Taylor Harwood-Bellis,eng ENG,DF,Blackburn,18,2002,17.1,890,860,28,19,0,16,2,9,0,0,0,0,710,2,6,Matches
+291,Maxwell Haygarth,eng ENG,FW,Brentford,18,2002,0.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+292,Jahmal Hector-Ingram,eng ENG,"FW,MF",Derby County,21,1998,0.7,10,10,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+293,Michał Helik,pl POL,DF,Barnsley,24,1995,41.7,1361,1318,37,34,0,6,2,2,0,0,0,0,713,6,7,Matches
+294,Rico Henry,eng ENG,DF,Brentford,23,1997,28.0,1474,1198,274,23,0,5,76,251,0,0,0,0,1129,2,35,Matches
+295,Onel Hernández,cu CUB,"FW,MF",Norwich City,27,1993,6.5,178,174,3,0,0,1,6,3,0,0,0,0,135,1,6,Matches
+296,Scott High,sct SCO,"MF,FW",Huddersfield,19,2001,3.5,149,147,1,1,0,0,3,0,0,0,0,0,126,1,4,Matches
+297,George Hirst,sct SCO,FW,Rotherham Utd,21,1999,7.6,149,144,2,0,0,0,3,1,0,0,0,0,67,3,4,Matches
+298,Scott Hogan,ie IRL,FW,Birmingham City,28,1992,23.4,364,322,42,0,0,3,11,3,0,0,0,0,244,0,12,Matches
+299,Jonathan Hogg,eng ENG,MF,Huddersfield,31,1988,34.4,2164,2101,57,52,2,19,4,5,0,0,0,0,1854,6,22,Matches
+300,Junior Hoilett,ca CAN,"FW,MF",Cardiff City,30,1990,13.0,398,380,15,1,1,2,37,3,0,0,0,0,273,3,15,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+301,Duane Holmes,us USA,"MF,FW",Derby County,25,1994,6.7,247,233,13,1,0,2,11,10,0,0,0,0,172,1,6,Matches
+302,Duane Holmes,us USA,"FW,MF",Huddersfield,25,1994,13.7,512,408,103,16,0,2,53,45,29,12,10,1,338,1,14,Matches
+303,Tom Holmes,eng ENG,DF,Reading,20,2000,30.4,1706,1511,192,43,0,11,23,149,0,0,0,0,1340,3,13,Matches
+304,Lewis Holtby,de GER,MF,Blackburn,29,1990,20.1,1141,1015,117,64,0,22,52,16,36,9,14,0,923,9,15,Matches
+305,Daryl Horgan,ie IRL,"MF,FW",Wycombe,27,1992,28.0,741,688,43,2,1,3,125,17,3,2,0,0,428,10,25,Matches
+306,Conor Hourihane,ie IRL,MF,Swansea City,29,1991,15.5,721,621,95,35,1,9,71,16,43,19,11,0,538,5,6,Matches
+307,Jonny Howson,eng ENG,MF,Middlesbrough,32,1988,40.2,1655,1581,60,27,0,11,38,33,0,0,0,0,1071,14,31,Matches
+308,Andrew Hughes,wls WAL,DF,Preston,28,1992,32.2,1596,1354,234,22,0,9,36,212,0,0,0,0,1048,8,27,Matches
+309,Will Hughes,eng ENG,MF,Watford,25,1995,21.6,1206,1128,76,44,1,4,43,1,29,17,9,0,984,2,12,Matches
+310,Jordan Hugill,eng ENG,"FW,MF",Norwich City,28,1992,7.7,118,111,7,0,0,0,4,0,0,0,0,0,74,0,8,Matches
+311,Joseph Hungbo,eng ENG,"FW,MF",Watford,20,2000,1.0,35,34,1,0,0,0,2,1,0,0,0,0,24,0,1,Matches
+312,Alex Hunt,eng ENG,"MF,DF",Sheffield Weds,20,2000,0.8,29,29,0,0,0,0,0,0,0,0,0,0,22,0,0,Matches
+313,Jack Hunt,eng ENG,DF,Bristol City,29,1990,36.1,1682,1263,411,47,0,19,128,358,6,1,5,0,1059,8,54,Matches
+314,Paul Huntington,eng ENG,DF,Preston,32,1987,17.9,598,589,7,4,0,4,0,3,0,0,0,0,390,2,2,Matches
+315,Sam Hutchinson,eng ENG,"DF,MF",Sheffield Weds,30,1989,21.0,1001,884,116,39,0,19,10,65,0,0,0,0,752,1,8,Matches
+316,Shaun Hutchinson,eng ENG,DF,Millwall,29,1990,38.3,2133,1881,247,85,0,14,16,162,0,0,0,0,1503,5,31,Matches
+317,Dominic Hyam,sct SCO,DF,Coventry City,24,1995,43.0,2064,1988,70,66,0,30,1,4,0,0,0,0,1533,6,19,Matches
+318,Danny Hylton,eng ENG,FW,Luton Town,31,1989,6.6,113,106,7,3,0,0,3,1,0,0,0,0,74,0,3,Matches
+319,Jordon Ibe,eng ENG,FW,Derby County,24,1995,0.0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,Matches
+320,Adam Idah,ie IRL,"FW,MF",Norwich City,19,2001,3.8,94,92,1,0,0,1,7,1,0,0,0,0,56,1,5,Matches
+321,Michael Ihiekwe,eng ENG,DF,Rotherham Utd,27,1992,42.0,1375,1285,83,14,0,6,24,69,0,0,0,0,741,7,21,Matches
+322,Uche Ikpeazu,ug UGA,FW,Wycombe,25,1995,22.9,387,383,2,0,0,2,12,0,0,0,0,0,204,2,9,Matches
+323,Tom Ince,eng ENG,"FW,MF",Stoke City,28,1992,2.8,83,76,7,3,0,2,15,0,4,2,1,0,58,0,0,Matches
+324,Tom Ince,eng ENG,"FW,MF",Luton Town,28,1992,3.0,88,84,4,0,0,0,4,1,0,0,0,0,65,0,3,Matches
+325,Nicholas Ioannou,cy CYP,DF,Nott'ham Forest,24,1995,4.5,299,226,72,2,0,1,25,70,0,0,0,0,206,1,9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+326,Dominic Iorfa,eng ENG,"DF,MF",Sheffield Weds,25,1995,9.0,309,280,26,4,0,1,1,22,0,0,0,0,222,3,4,Matches
+327,Daniel Iversen,dk DEN,GK,Preston,23,1997,23.0,759,463,288,84,0,1,0,0,0,0,0,0,345,8,2,Matches
+328,Ben Jackson,eng ENG,MF,Huddersfield,19,2001,0.6,7,6,1,1,0,2,0,0,0,0,0,0,2,0,0,Matches
+329,Joe Jacobson,wls WAL,DF,Wycombe,33,1986,35.5,1694,1046,643,167,0,17,250,330,146,87,19,29,904,5,17,Matches
+330,Matty James,eng ENG,MF,Barnsley,29,1991,10.5,441,394,43,18,1,4,37,0,25,5,3,12,289,4,7,Matches
+331,Matty James,eng ENG,MF,Coventry City,29,1991,20.0,1032,917,108,53,2,11,62,3,46,22,12,3,776,7,14,Matches
+332,Vitaly Janelt,de GER,MF,Brentford,22,1998,34.2,1504,1416,85,54,1,16,29,3,19,13,4,0,1213,3,11,Matches
+333,Saikou Janneh,eng ENG,FW,Bristol City,19,2001,0.9,14,14,0,0,0,0,1,0,0,0,0,0,9,0,0,Matches
+334,Pontus Jansson,se SWE,DF,Brentford,29,1991,22.7,1450,1364,82,39,0,9,1,43,0,0,0,0,1256,4,3,Matches
+335,Zach Jeacock,eng ENG,GK,Birmingham City,19,2001,2.0,78,53,24,12,0,0,0,0,0,0,0,0,50,1,0,Matches
+336,Carl Jenkinson,eng ENG,DF,Nott'ham Forest,28,1992,1.4,91,69,22,2,0,0,5,20,0,0,0,0,65,0,2,Matches
+337,Mathias Jensen,dk DEN,MF,Brentford,24,1996,35.3,1814,1553,254,106,6,48,163,21,101,52,23,11,1342,7,30,Matches
+338,Lucas João,ao ANG,FW,Reading,26,1993,34.1,602,575,23,2,1,3,1,3,0,0,0,0,456,4,17,Matches
+339,João Pedro,br BRA,FW,Watford,18,2001,30.5,808,763,36,3,0,5,17,4,3,0,0,0,562,9,20,Matches
+340,Wesley Jobello,fr FRA,"DF,MF",Coventry City,26,1994,0.3,8,6,2,0,0,0,0,1,0,0,0,0,6,0,0,Matches
+341,Stefan Johansen,no NOR,MF,QPR,29,1991,19.6,1188,1071,110,62,2,15,48,11,34,13,14,1,959,7,13,Matches
+342,Viktor Johansson,se SWE,GK,Rotherham Utd,21,1998,20.1,619,309,306,157,0,0,0,0,0,0,0,0,236,4,1,Matches
+343,Bradley Johnson,eng ENG,MF,Blackburn,33,1987,23.5,1224,1165,49,34,2,12,11,15,0,0,0,0,919,10,16,Matches
+344,Daniel Johnson,jm JAM,MF,Preston,27,1992,23.1,919,844,63,23,3,3,31,8,7,2,4,0,695,12,25,Matches
+345,Marvin Johnson,eng ENG,"FW,MF",Middlesbrough,29,1990,23.9,918,749,161,26,0,5,186,99,36,16,1,0,452,8,48,Matches
+346,Billy Jones,eng ENG,DF,Rotherham Utd,33,1987,2.6,98,61,37,0,0,0,1,37,0,0,0,0,68,0,0,Matches
+347,Patrick Jones,wls WAL,"FW,MF",Huddersfield,17,2003,0.6,20,20,0,0,0,0,2,0,0,0,0,0,14,0,1,Matches
+348,Florian Jozefzoon,sr SUR,"MF,FW",Rotherham Utd,29,1991,10.4,213,198,15,6,0,0,52,1,7,5,2,0,122,0,23,Matches
+349,Kamil Jóźwiak,pl POL,"FW,MF",Derby County,22,1998,29.8,847,832,14,7,0,0,56,1,3,3,0,0,602,1,26,Matches
+350,Mads Juel Andersen,dk DEN,DF,Barnsley,22,1997,45.7,1870,1806,54,43,0,26,9,7,0,0,0,0,1022,10,14,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+351,Lukas Jutkiewicz,eng ENG,FW,Birmingham City,31,1989,27.7,669,659,5,0,0,3,15,0,0,0,0,0,306,5,15,Matches
+352,Christian Kabasele,be BEL,DF,Watford,29,1991,18.9,1063,1045,15,14,1,12,0,1,0,0,0,0,919,3,4,Matches
+353,Elias Kachunga,cd COD,"FW,MF",Sheffield Weds,28,1992,10.6,251,243,6,1,1,0,9,2,0,0,0,0,181,2,7,Matches
+354,Adan Kai George,eng ENG,MF,Birmingham City,18,2002,0.2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+355,Osman Kakay,sl SLE,DF,QPR,22,1997,23.4,1255,1018,232,9,2,1,72,223,0,0,0,0,945,5,28,Matches
+356,Tomáš Kalas,cz CZE,DF,Bristol City,27,1993,37.6,1404,1373,29,12,0,5,6,17,0,0,0,0,1074,2,6,Matches
+357,Thomas Kaminski,be BEL,GK,Blackburn,27,1992,43.0,1822,1346,475,138,0,3,0,2,0,0,0,0,1229,1,1,Matches
+358,Herbie Kane,eng ENG,MF,Barnsley,21,1998,10.2,590,488,100,32,1,6,43,41,25,10,7,4,346,2,9,Matches
+359,Todd Kane,eng ENG,DF,QPR,26,1993,24.3,1307,1020,283,18,1,16,120,265,0,0,0,0,900,4,38,Matches
+360,Scott Kashket,eng ENG,"FW,MF",Wycombe,24,1996,17.3,219,183,33,1,1,0,14,3,1,0,0,0,148,3,17,Matches
+361,Gervane Kastaneer,cw CUW,"MF,FW",Coventry City,24,1996,0.2,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+362,Colin Kazim-Richards,tr TUR,FW,Derby County,33,1986,30.4,655,643,9,1,1,5,11,1,0,0,0,0,422,3,12,Matches
+363,Neeskens Kebano,cd COD,"FW,MF",Middlesbrough,28,1992,13.5,383,339,43,7,0,2,74,1,22,7,3,0,280,1,8,Matches
+364,Liam Kelly,sct SCO,MF,Coventry City,30,1990,18.1,772,763,6,5,1,7,13,1,0,0,0,0,502,3,13,Matches
+365,Lloyd Kelly,eng ENG,DF,Bournemouth,21,1998,33.8,2141,1801,334,59,0,8,62,274,1,0,0,0,1637,6,41,Matches
+366,Charlie Kelman,us USA,"FW,MF",QPR,18,2001,1.7,36,32,3,0,0,0,0,1,0,0,0,0,29,1,1,Matches
+367,Richard Keogh,ie IRL,DF,Huddersfield,33,1986,20.2,1154,1123,29,22,0,5,1,7,0,0,0,0,982,2,8,Matches
+368,Maikel Kieftenbeld,nl NED,MF,Millwall,30,1990,8.2,258,256,2,0,0,4,4,0,0,0,0,0,185,0,6,Matches
+369,Maikel Kieftenbeld,nl NED,MF,Birmingham City,30,1990,8.5,283,280,2,1,0,3,1,1,0,0,0,0,215,1,2,Matches
+370,Gavin Kilkenny,ie IRL,MF,Bournemouth,20,2000,0.0,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+371,Joshua King,no NOR,FW,Bournemouth,28,1992,6.5,183,177,6,0,2,0,7,0,1,0,0,0,129,0,10,Matches
+372,Liam Kitching,eng ENG,DF,Barnsley,20,1999,0.1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+373,Jason Knight,ie IRL,"MF,FW",Derby County,19,2001,39.8,1452,1400,46,6,0,10,52,7,0,0,0,0,1125,6,35,Matches
+374,Josh Knight,eng ENG,"DF,MF",Wycombe,22,1997,35.9,1029,944,80,6,0,15,7,74,0,0,0,0,561,5,24,Matches
+375,Anthony Knockaert,fr FRA,"FW,MF",Nott'ham Forest,28,1991,27.1,1233,1042,181,66,3,13,211,16,99,62,22,0,877,10,29,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+376,Josh Koroma,sl SLE,FW,Huddersfield,21,1998,18.0,518,504,13,6,1,4,33,5,0,0,0,0,393,1,25,Matches
+377,Filip Krovinović,hr CRO,"MF,FW",Nott'ham Forest,24,1995,17.5,651,621,28,6,0,3,32,4,17,16,1,0,515,2,14,Matches
+378,Tim Krul,nl NED,GK,Norwich City,32,1988,35.4,1721,1370,347,97,0,2,0,0,0,0,0,0,1367,4,1,Matches
+379,Freddie Ladapo,eng ENG,FW,Rotherham Utd,27,1993,23.3,358,348,8,0,0,1,13,1,0,0,0,0,225,2,21,Matches
+380,Henri Lansbury,eng ENG,MF,Bristol City,29,1990,10.5,473,434,36,23,1,10,18,0,12,3,2,7,315,3,3,Matches
+381,Joël Latibeaudière,jm JAM,DF,Swansea City,20,2000,4.7,190,186,4,2,0,2,0,2,0,0,0,0,155,0,2,Matches
+382,Josh Laurent,eng ENG,MF,Reading,25,1995,44.4,2364,2274,84,56,2,10,15,21,1,0,0,0,1963,6,24,Matches
+383,Tom Lawrence,wls WAL,"FW,MF",Derby County,26,1994,18.5,612,563,47,14,1,5,57,1,25,7,14,1,473,2,14,Matches
+384,Achraf Lazaar,ma MAR,DF,Watford,28,1992,2.5,134,104,29,3,0,0,9,24,2,0,2,0,83,1,1,Matches
+385,Ryan Ledson,eng ENG,MF,Preston,22,1997,29.9,1534,1317,199,118,3,21,135,13,68,28,27,7,939,18,22,Matches
+386,Elliot Lee,eng ENG,"FW,MF",Luton Town,25,1994,6.9,209,199,8,4,1,2,5,1,0,0,0,0,163,2,6,Matches
+387,Tom Lees,eng ENG,DF,Sheffield Weds,29,1990,36.8,1388,1315,71,22,0,2,0,48,0,0,0,0,955,2,5,Matches
+388,Jonathan Leko,eng ENG,"FW,MF",Birmingham City,21,1999,17.8,315,305,9,0,1,2,27,1,0,0,0,0,231,1,15,Matches
+389,Darragh Lenihan,ie IRL,DF,Blackburn,26,1994,40.4,2577,2504,62,49,0,34,9,13,0,0,0,0,1970,11,19,Matches
+390,Ryan Leonard,eng ENG,"MF,DF",Millwall,28,1992,24.0,1069,989,77,8,0,13,25,56,10,1,3,6,785,3,21,Matches
+391,Jefferson Lerma,co COL,MF,Bournemouth,25,1994,37.1,1997,1946,45,36,5,25,11,9,0,0,0,0,1541,6,25,Matches
+392,Jamie Lindsay,sct SCO,MF,Rotherham Utd,24,1995,25.8,791,725,64,8,1,3,51,3,7,4,2,1,515,2,20,Matches
+393,Liam Lindsay,sct SCO,DF,Preston,24,1995,12.4,375,357,15,14,0,3,1,1,0,0,0,0,225,3,1,Matches
+394,Tom Lockyer,wls WAL,DF,Luton Town,25,1994,16.8,793,743,47,27,0,3,12,20,0,0,0,0,536,3,9,Matches
+395,Joe Lolley,eng ENG,"FW,MF",Nott'ham Forest,27,1992,16.5,575,539,32,5,0,7,60,12,8,6,2,0,394,4,20,Matches
+396,Shane Long,ie IRL,FW,Bournemouth,33,1987,5.1,98,96,1,0,0,0,2,0,0,0,0,0,53,1,5,Matches
+397,Jamal Lowe,jm JAM,FW,Swansea City,26,1994,38.2,882,863,16,0,3,3,43,10,2,0,0,0,582,3,48,Matches
+398,Kazenga LuaLua,cd COD,"FW,MF",Luton Town,29,1990,8.6,232,230,2,0,0,1,35,1,0,0,0,0,167,0,11,Matches
+399,Kilian Ludewig,de GER,DF,Barnsley,20,2000,3.4,192,132,59,0,0,0,10,59,0,0,0,0,109,1,12,Matches
+400,Joe Lumley,eng ENG,GK,QPR,25,1995,4.3,172,130,42,15,0,0,0,0,0,0,0,0,141,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+401,Massimo Luongo,au AUS,MF,Sheffield Weds,27,1992,9.2,309,307,2,2,0,2,3,0,0,0,0,0,219,0,4,Matches
+402,Angus MacDonald,eng ENG,DF,Rotherham Utd,27,1992,34.7,962,875,81,3,0,5,17,78,0,0,0,0,521,6,18,Matches
+403,Cornell MacDonald,eng ENG,DF,Derby County,18,2001,2.3,109,83,26,1,0,0,3,25,0,0,0,0,78,0,10,Matches
+404,Shaun MacDonald,wls WAL,MF,Rotherham Utd,32,1988,12.3,484,468,14,8,1,6,10,1,4,0,0,3,339,2,10,Matches
+405,Seán Maguire,ie IRL,FW,Preston,26,1994,15.1,420,406,13,1,2,1,13,2,0,0,0,0,304,1,23,Matches
+406,Connor Mahoney,eng ENG,"MF,FW",Millwall,23,1997,6.3,218,186,31,7,0,2,46,4,18,15,3,0,145,1,13,Matches
+407,Connor Malley,eng ENG,"MF,DF",Middlesbrough,20,2000,1.3,70,69,1,0,0,2,2,0,1,0,0,0,54,0,2,Matches
+408,Scott Malone,eng ENG,"DF,MF",Millwall,29,1991,37.4,1703,1263,430,38,0,8,186,322,70,30,29,8,1166,10,41,Matches
+409,Ryan Manning,ie IRL,DF,Swansea City,24,1996,12.0,721,562,155,13,0,3,38,138,4,4,0,0,488,4,23,Matches
+410,Emiliano Marcondes,dk DEN,MF,Brentford,25,1995,15.0,569,518,48,30,0,2,37,1,16,7,2,4,402,3,11,Matches
+411,Adrian Mariappa,jm JAM,DF,Bristol City,33,1986,19.5,777,666,110,16,0,6,7,94,0,0,0,0,559,1,7,Matches
+412,Marko Maroši,sk SVK,GK,Coventry City,26,1993,20.0,729,492,235,80,0,11,0,0,0,0,0,0,481,2,1,Matches
+413,Jack Marriott,eng ENG,FW,Derby County,25,1994,2.2,32,26,6,0,0,0,1,0,1,0,0,0,25,0,2,Matches
+414,Jack Marriott,eng ENG,FW,Sheffield Weds,25,1994,4.3,66,59,7,0,0,0,4,0,0,0,0,0,46,0,1,Matches
+415,David Marshall,sct SCO,GK,Derby County,35,1985,32.5,1372,974,393,148,0,11,0,1,0,0,0,0,940,5,0,Matches
+416,Chris Martin,sct SCO,FW,Bristol City,31,1988,20.4,665,654,4,2,1,2,7,0,0,0,0,0,445,7,14,Matches
+417,Josh Martin,eng ENG,FW,Norwich City,18,2001,5.0,166,163,3,1,3,0,5,0,2,1,0,0,126,0,6,Matches
+418,Bruno Martins Indi,nl NED,DF,Stoke City,28,1992,1.9,105,96,9,3,0,2,0,6,0,0,0,0,84,0,2,Matches
+419,Adam Masina,ma MAR,DF,Watford,26,1994,21.4,1294,1036,256,28,0,36,44,228,0,0,0,0,915,2,27,Matches
+420,Han-Noah Massengo,fr FRA,MF,Bristol City,19,2001,16.8,555,536,19,10,1,4,7,2,0,0,0,0,439,0,16,Matches
+421,Conor Masterson,ie IRL,"DF,FW",QPR,21,1998,3.7,130,121,8,8,0,4,0,0,0,0,0,0,91,1,3,Matches
+422,Rabbi Matondo,wls WAL,"DF,MF",Stoke City,19,2000,5.9,121,118,1,0,0,0,17,1,0,0,0,0,77,2,4,Matches
+423,Joe Mattock,eng ENG,DF,Rotherham Utd,30,1990,10.1,494,316,175,25,0,2,69,132,18,11,3,3,317,3,13,Matches
+424,Alfie Mawson,eng ENG,DF,Bristol City,26,1994,10.6,573,527,45,19,1,7,1,26,0,0,0,0,445,1,2,Matches
+425,Loïc Mbe Soh,fr FRA,DF,Nott'ham Forest,19,2001,5.1,238,234,4,4,1,0,0,0,0,0,0,0,184,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+426,Isaac Mbenza,be BEL,FW,Huddersfield,24,1996,25.8,850,728,117,33,3,6,126,7,69,32,24,0,606,5,16,Matches
+427,Bryan Mbeumo,cm CMR,FW,Brentford,20,1999,34.1,890,782,103,28,0,7,123,8,66,43,10,5,617,5,22,Matches
+428,Reece McAlear,sct SCO,DF,Norwich City,18,2002,0.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+429,Sam McCallum,eng ENG,DF,Coventry City,19,2000,37.0,1806,1297,503,41,0,7,134,450,12,12,0,0,1019,6,50,Matches
+430,Jason McCarthy,eng ENG,DF,Wycombe,24,1995,21.7,742,568,171,16,0,4,76,131,24,16,4,0,398,3,25,Matches
+431,James McClean,ie IRL,"FW,DF",Stoke City,31,1989,17.8,685,576,99,14,0,4,102,71,14,8,5,0,418,10,20,Matches
+432,Garath McCleary,jm JAM,"MF,FW",Wycombe,33,1987,20.5,539,500,37,1,0,2,89,11,5,2,0,2,308,2,24,Matches
+433,Kyle McFadzean,sct SCO,DF,Coventry City,33,1987,36.6,1450,1353,93,89,0,14,4,4,0,0,0,0,1087,4,6,Matches
+434,Michael McGovern,nir NIR,GK,Norwich City,36,1984,9.1,386,274,111,24,0,0,0,0,0,0,0,0,289,1,2,Matches
+435,Riley McGree,au AUS,"MF,DF",Birmingham City,21,1998,8.2,304,272,29,4,0,1,23,1,7,2,3,0,219,3,11,Matches
+436,Tom McIntyre,sct SCO,"DF,MF",Reading,21,1998,17.4,920,859,59,16,0,2,8,43,0,0,0,0,677,2,9,Matches
+437,Scott McKenna,sct SCO,DF,Nott'ham Forest,23,1996,23.5,1034,1014,19,18,0,4,2,1,0,0,0,0,796,1,8,Matches
+438,Kenny McLean,sct SCO,MF,Norwich City,28,1992,30.2,1866,1804,55,40,4,21,31,14,1,1,0,0,1499,7,28,Matches
+439,Paddy McNair,nir NIR,DF,Middlesbrough,25,1995,45.4,2123,1703,410,241,2,36,217,55,111,87,2,0,1420,10,32,Matches
+440,Dan McNamara,ie IRL,"DF,MF",Millwall,21,1998,13.8,532,462,70,3,0,2,31,67,0,0,0,0,388,0,14,Matches
+441,Anis Mehmeti,al ALB,MF,Wycombe,19,2001,16.6,379,370,7,1,1,3,20,1,1,0,1,0,250,2,13,Matches
+442,Yakou Méïte,ci CIV,FW,Reading,24,1996,18.7,294,289,4,1,1,0,16,3,0,0,0,0,190,1,9,Matches
+443,Nathaniel Mendez-Laing,gt GUA,"FW,MF",Middlesbrough,28,1992,3.3,138,134,3,0,0,1,12,3,0,0,0,0,97,1,9,Matches
+444,Teden Mengi,eng ENG,DF,Derby County,18,2002,7.4,411,397,14,2,0,0,1,12,0,0,0,0,352,0,1,Matches
+445,Chris Mepham,wls WAL,DF,Bournemouth,22,1997,21.1,1407,1352,53,37,0,18,2,16,0,0,0,0,1123,2,16,Matches
+446,Alex Mighten,eng ENG,FW,Nott'ham Forest,18,2002,13.3,245,238,6,2,0,1,19,4,0,0,0,0,180,1,12,Matches
+447,Amari Miller,eng ENG,"FW,MF",Birmingham City,17,2002,2.1,25,25,0,0,0,0,0,0,0,0,0,0,21,0,0,Matches
+448,George Miller,eng ENG,FW,Barnsley,21,1998,0.9,17,17,0,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+449,Mickel Miller,eng ENG,"FW,MF",Rotherham Utd,24,1995,5.9,156,145,10,5,0,2,24,4,1,0,0,1,86,1,3,Matches
+450,Billy Mitchell,eng ENG,MF,Millwall,20,2000,9.3,453,446,4,3,0,11,5,1,0,0,0,0,361,3,8,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+451,Jayden Mitchell-Lawson,eng ENG,FW,Derby County,20,1999,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+452,Jayson Molumby,ie IRL,MF,Preston,20,1999,7.5,278,265,12,1,0,2,9,1,0,0,0,0,217,1,9,Matches
+453,George Moncur,eng ENG,"FW,MF",Luton Town,26,1993,9.1,323,301,19,6,0,0,36,2,11,4,3,2,253,3,6,Matches
+454,Jasper Moon,eng ENG,MF,Barnsley,19,2000,1.3,20,20,0,0,0,0,0,0,0,0,0,0,14,0,1,Matches
+455,Kieffer Moore,wls WAL,FW,Cardiff City,27,1992,37.9,1070,1064,3,0,1,7,30,1,0,0,0,0,528,3,30,Matches
+456,Liam Moore,jm JAM,DF,Reading,27,1993,30.9,1663,1601,60,53,1,21,3,7,0,0,0,0,1394,2,8,Matches
+457,Taylor Moore,eng ENG,DF,Bristol City,23,1997,15.2,905,845,58,22,0,6,4,36,0,0,0,0,676,2,5,Matches
+458,Joe Morrell,wls WAL,MF,Luton Town,23,1997,5.0,268,254,9,7,0,2,3,1,1,1,0,0,218,5,3,Matches
+459,Carlton Morris,eng ENG,"MF,FW",Barnsley,24,1995,12.0,366,358,7,1,0,0,27,1,1,0,0,0,217,1,16,Matches
+460,Jordan Morris,us USA,"FW,MF",Swansea City,25,1994,1.0,19,18,1,0,0,0,1,0,1,0,0,0,12,0,2,Matches
+461,Michael Morrison,eng ENG,DF,Reading,32,1988,33.8,1805,1703,98,89,0,22,3,9,0,0,0,0,1417,4,14,Matches
+462,Sean Morrison,eng ENG,DF,Cardiff City,29,1991,36.6,1355,1229,121,28,0,17,5,93,0,0,0,0,827,5,15,Matches
+463,Sam Morsy,eg EGY,MF,Middlesbrough,28,1991,26.0,935,926,3,2,1,4,23,0,1,0,0,0,679,6,8,Matches
+464,Alex Mowatt,eng ENG,MF,Barnsley,25,1995,42.6,2103,1861,232,149,1,3,191,9,73,46,20,0,1266,10,38,Matches
+465,Hayden Muller,eng ENG,DF,Millwall,18,2002,0.2,22,20,2,0,0,1,0,2,0,0,0,0,15,0,1,Matches
+466,Bali Mumba,eng ENG,DF,Norwich City,18,2001,1.3,82,69,13,0,0,1,2,13,0,0,0,0,64,0,3,Matches
+467,Josh Murphy,eng ENG,"FW,MF",Cardiff City,25,1995,12.6,281,252,26,6,3,3,49,5,10,5,1,2,164,3,17,Matches
+468,Glenn Murray,eng ENG,"FW,MF",Watford,36,1983,1.3,16,14,1,0,0,0,0,0,0,0,0,0,10,1,1,Matches
+469,Glenn Murray,eng ENG,FW,Nott'ham Forest,36,1983,8.0,145,140,4,1,0,0,4,1,0,0,0,0,75,1,8,Matches
+470,Admiral Muskwe,zw ZIM,"FW,MF",Wycombe,21,1998,11.9,160,148,11,1,0,0,3,1,0,0,0,0,109,1,5,Matches
+471,Ádám Nagy,hu HUN,MF,Bristol City,25,1995,23.7,876,838,35,8,0,6,12,7,6,2,0,0,690,3,19,Matches
+472,Kal Naismith,sct SCO,DF,Luton Town,28,1992,17.8,893,787,104,28,0,18,30,75,1,0,0,0,627,2,10,Matches
+473,Kyle Naughton,eng ENG,DF,Swansea City,31,1988,26.4,1416,1299,106,28,0,10,10,78,0,0,0,0,1080,11,25,Matches
+474,Marc Navarro,es ESP,DF,Watford,25,1995,2.5,114,94,19,0,0,0,8,19,0,0,0,0,76,1,3,Matches
+475,Curtis Nelson,eng ENG,DF,Cardiff City,27,1993,43.8,1679,1536,133,17,0,16,5,116,0,0,0,0,1069,10,12,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+476,Perry Ng,eng ENG,DF,Cardiff City,24,1996,18.2,506,444,57,4,0,1,18,53,0,0,0,0,318,5,12,Matches
+477,Jeremy Ngakia,,DF,Watford,19,2000,17.8,975,782,189,11,1,11,58,178,0,0,0,0,690,4,26,Matches
+478,Sam Nombe,eng ENG,"FW,MF",Luton Town,21,1998,2.0,33,32,1,0,0,0,4,1,0,0,0,0,10,0,3,Matches
+479,Rhys Norrington-Davies,wls WAL,DF,Stoke City,21,1999,18.6,987,780,205,14,1,1,67,190,1,0,1,0,639,2,41,Matches
+480,Rhys Norrington-Davies,wls WAL,DF,Luton Town,21,1999,15.9,754,592,160,6,0,2,67,152,2,0,2,0,519,2,38,Matches
+481,Christian Norton,wls WAL,FW,Stoke City,19,2001,1.7,29,29,0,0,0,0,3,0,0,0,0,0,16,0,3,Matches
+482,Ryan Nyambe,na NAM,DF,Blackburn,22,1997,33.2,1541,1185,354,13,0,3,55,341,0,0,0,0,1239,2,36,Matches
+483,Christian Nørgaard,dk DEN,"MF,DF",Brentford,26,1994,14.5,872,833,37,30,0,4,6,1,1,1,0,0,730,2,7,Matches
+484,Lewis O'Brien,eng ENG,MF,Huddersfield,21,1998,39.0,1773,1697,69,19,3,2,55,38,0,0,0,0,1336,7,60,Matches
+485,Callum O'Dowda,ie IRL,"MF,FW",Bristol City,25,1995,14.7,549,484,63,23,0,0,66,7,27,15,8,1,395,2,10,Matches
+486,Callum O'Hare,eng ENG,"MF,FW",Coventry City,22,1998,39.9,1368,1282,70,2,3,2,31,9,2,0,0,0,1020,16,53,Matches
+487,Max O'Leary,ie IRL,GK,Bristol City,23,1996,3.0,128,100,28,8,0,0,0,0,0,0,0,0,66,0,1,Matches
+488,Tashan Oakley-Boothe,eng ENG,"MF,FW",Stoke City,20,2000,4.9,178,167,11,3,0,0,9,0,2,0,0,0,128,0,12,Matches
+489,John Obi Mikel,ng NGA,MF,Stoke City,33,1987,35.6,1469,1422,42,39,0,6,8,1,0,0,0,0,1230,5,15,Matches
+490,Jordan Obita,ug UGA,DF,Wycombe,26,1993,7.1,249,137,110,28,0,4,30,71,11,6,2,3,120,2,4,Matches
+491,Moses Odubajo,eng ENG,DF,Sheffield Weds,27,1993,15.9,559,424,134,6,1,3,23,128,0,0,0,0,400,1,13,Matches
+492,Clarke Oduor,ke KEN,"DF,MF",Barnsley,21,1999,6.2,295,215,79,5,0,2,11,66,8,1,0,3,203,1,7,Matches
+493,Nnamdi Ofoborh,ng NGA,MF,Wycombe,20,1999,3.5,96,93,1,1,0,1,5,0,0,0,0,0,49,2,2,Matches
+494,Nnamdi Ofoborh,ng NGA,"MF,DF",Bournemouth,20,1999,0.0,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+495,Chiedozie Ogbene,ie IRL,"MF,FW",Rotherham Utd,23,1997,6.8,161,155,5,1,0,1,26,3,1,1,0,0,82,1,16,Matches
+496,Sheyi Ojo,eng ENG,"FW,MF",Cardiff City,23,1997,26.2,614,581,30,6,2,2,64,5,5,1,2,0,455,3,25,Matches
+497,Michael Olise,fr FRA,"MF,FW",Reading,18,2001,36.0,1977,1654,311,126,5,15,254,30,140,76,42,7,1463,12,44,Matches
+498,Matthew Olosunde,us USA,DF,Rotherham Utd,22,1998,21.6,642,462,177,0,0,1,30,177,0,0,0,0,425,3,17,Matches
+499,Andrew Omobamidele,ie IRL,DF,Norwich City,18,2002,7.9,486,459,26,25,0,1,0,1,0,0,0,0,434,1,2,Matches
+500,Tyrese Omotoye,be BEL,"MF,FW",Norwich City,17,2002,0.1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+501,Jayden Onen,eng ENG,MF,Reading,19,2001,0.1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+502,Fred Onyedinma,eng ENG,"MF,FW",Wycombe,23,1996,27.5,469,449,17,3,0,5,42,8,4,2,2,0,281,3,30,Matches
+503,Bright Osayi-Samuel,ng NGA,FW,QPR,22,1997,19.1,486,465,19,2,0,1,32,14,1,0,0,0,387,2,19,Matches
+504,Jordi Osei-Tutu,eng ENG,DF,Cardiff City,21,1998,6.2,255,197,58,4,0,0,6,54,0,0,0,0,186,0,5,Matches
+505,Marlon Pack,eng ENG,MF,Cardiff City,29,1991,29.9,1392,1218,165,66,1,31,59,61,38,15,12,8,1063,9,18,Matches
+506,Kasey Palmer,jm JAM,"MF,FW",Bristol City,23,1996,15.7,531,473,54,21,5,4,33,4,20,7,6,2,346,4,21,Matches
+507,Kasey Palmer,jm JAM,"MF,FW",Swansea City,23,1996,4.1,137,127,9,5,2,1,1,3,0,0,0,0,93,1,2,Matches
+508,Liam Palmer,sct SCO,DF,Sheffield Weds,28,1991,33.0,1339,1077,255,10,1,7,62,242,3,2,0,0,890,7,45,Matches
+509,Romal Palmer,eng ENG,MF,Barnsley,20,1999,17.4,518,501,15,4,0,2,16,2,7,5,0,1,302,2,12,Matches
+510,Josh Parker,ag ATG,"MF,FW",Wycombe,29,1990,0.5,20,17,3,0,0,0,4,1,2,1,0,1,11,0,2,Matches
+511,Troy Parrott,ie IRL,"FW,MF",Millwall,18,2002,6.7,170,162,6,0,0,5,1,3,0,0,0,0,127,2,9,Matches
+512,Josh Pask,eng ENG,DF,Coventry City,22,1997,7.8,300,220,78,2,0,1,3,76,0,0,0,0,169,2,10,Matches
+513,Callum Paterson,sct SCO,"FW,MF",Sheffield Weds,25,1994,32.4,853,728,122,3,0,3,33,115,0,0,0,0,416,3,19,Matches
+514,Jamie Paterson,eng ENG,MF,Bristol City,28,1991,15.1,559,470,87,34,0,10,50,9,32,23,1,0,393,2,13,Matches
+515,Alexander Pattison,eng ENG,MF,Wycombe,22,1997,4.4,103,103,0,0,0,1,0,0,0,0,0,0,56,0,2,Matches
+516,Alex Pearce,ie IRL,DF,Millwall,31,1988,19.0,792,782,9,9,0,5,0,0,0,0,0,0,581,1,5,Matches
+517,Aynsley Pears,eng ENG,GK,Blackburn,22,1998,3.0,113,85,27,6,0,1,0,0,0,0,0,0,92,1,0,Matches
+518,Ben Pearson,eng ENG,MF,Preston,25,1995,7.3,395,389,6,6,0,7,4,0,0,0,0,0,347,0,4,Matches
+519,Ben Pearson,eng ENG,MF,Bournemouth,25,1995,10.7,656,632,23,21,0,10,2,2,0,0,0,0,565,1,9,Matches
+520,Matty Pearson,eng ENG,DF,Luton Town,26,1993,36.2,1753,1555,188,38,0,2,19,149,1,0,0,0,1090,10,15,Matches
+521,Sam Pearson,wls WAL,"FW,MF",Bristol City,18,2001,2.5,66,61,4,1,0,0,3,3,0,0,0,0,38,1,0,Matches
+522,Kristian Pedersen,dk DEN,DF,Birmingham City,25,1994,34.3,1410,1103,297,2,0,6,60,295,0,0,0,0,892,10,36,Matches
+523,Joey Pelupessy,id IDN,MF,Sheffield Weds,27,1993,26.4,902,891,8,2,0,6,3,5,0,0,0,0,746,3,11,Matches
+524,Matt Penney,eng ENG,"DF,MF",Sheffield Weds,22,1998,9.4,371,300,68,1,1,4,27,67,0,0,0,0,227,3,25,Matches
+525,Dion Pereira,ag ATG,DF,Luton Town,21,1999,0.1,3,2,1,0,0,0,0,1,0,0,0,0,3,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+526,Stipe Perica,hr CRO,"FW,MF",Watford,25,1995,4.1,61,56,3,0,0,0,1,0,1,0,0,0,41,2,1,Matches
+527,Daniel Phillips,tt TRI,MF,Watford,19,2001,0.1,13,11,2,0,0,0,1,0,2,1,0,0,11,0,0,Matches
+528,Dillon Phillips,eng ENG,GK,Cardiff City,25,1995,15.9,404,208,195,87,0,0,0,0,0,0,0,0,172,1,0,Matches
+529,Kieran Phillips,eng ENG,"FW,DF",Huddersfield,20,2000,2.3,24,23,1,0,0,0,0,0,0,0,0,0,17,0,1,Matches
+530,Ethan Pinnock,jm JAM,DF,Brentford,27,1993,38.1,2653,2527,126,75,0,21,12,51,0,0,0,0,2237,0,6,Matches
+531,Pipa,es ESP,DF,Huddersfield,22,1998,33.7,1737,1405,326,27,3,8,61,291,8,1,1,0,1395,6,30,Matches
+532,Maurizio Pochettino,es ESP,MF,Watford,19,2001,0.1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,1,Matches
+533,Brad Potts,eng ENG,"MF,FW",Preston,26,1994,23.7,851,820,29,0,0,2,29,4,0,0,0,0,622,2,32,Matches
+534,Dan Potts,eng ENG,DF,Luton Town,26,1994,18.9,845,672,171,10,1,0,23,161,0,0,0,0,539,2,22,Matches
+535,Nick Powell,eng ENG,"MF,FW",Stoke City,26,1994,34.5,1389,1284,93,19,7,20,77,39,14,2,2,0,830,12,45,Matches
+536,Aaron Pressley,sct SCO,FW,Brentford,19,2001,0.1,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+537,Alex Pritchard,eng ENG,MF,Huddersfield,27,1993,7.4,311,274,36,14,0,1,22,2,16,8,2,2,233,1,10,Matches
+538,Teemu Pukki,fi FIN,FW,Norwich City,30,1990,38.1,633,570,60,0,1,2,13,8,0,0,0,0,465,3,25,Matches
+539,George Pușcaș,ro ROU,FW,Reading,24,1996,9.4,181,176,5,0,1,0,4,1,0,0,0,0,122,0,11,Matches
+540,Ignacio Pussetto,ar ARG,MF,Watford,24,1995,0.1,2,2,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+541,Przemysław Płacheta,pl POL,"FW,MF",Norwich City,22,1998,12.5,447,410,36,5,0,2,71,10,18,11,6,0,323,1,22,Matches
+542,Domingos Quina,pt POR,MF,Watford,20,1999,8.2,352,323,28,8,0,4,26,6,13,1,7,0,263,1,7,Matches
+543,Xavi Quintillà,es ESP,DF,Norwich City,23,1996,10.8,847,672,173,22,0,5,123,98,53,22,26,0,674,2,10,Matches
+544,Joe Rafferty,ie IRL,DF,Preston,26,1993,14.8,840,630,204,13,1,5,61,173,18,3,14,1,580,6,15,Matches
+545,Joe Ralls,eng ENG,MF,Cardiff City,26,1993,33.2,1440,1320,104,29,1,17,115,16,58,11,41,2,1021,16,39,Matches
+546,Joe Rankin-Costello,eng ENG,DF,Blackburn,21,1999,12.0,682,547,134,6,0,5,46,127,0,0,0,0,483,1,17,Matches
+547,David Raya,es ESP,GK,Brentford,24,1995,42.0,2083,1709,370,138,0,10,0,0,0,0,0,0,1634,4,0,Matches
+548,Glen Rea,ie IRL,"MF,DF",Luton Town,25,1994,32.2,1416,1358,51,46,1,14,5,5,0,0,0,0,1018,7,19,Matches
+549,Adam Reach,eng ENG,"DF,MF",Sheffield Weds,27,1993,38.4,1692,1461,222,11,2,15,168,187,5,3,1,0,1170,9,65,Matches
+550,Winston Reid,nz NZL,DF,Brentford,32,1988,7.3,433,422,11,10,0,8,0,1,0,0,0,0,349,0,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+551,Jordan Rhodes,sct SCO,FW,Sheffield Weds,30,1990,16.6,324,307,17,1,0,2,4,2,0,0,0,0,201,0,13,Matches
+552,Yuri Ribeiro,pt POR,DF,Nott'ham Forest,23,1997,24.3,1464,1195,268,9,0,0,70,258,1,0,0,0,1056,1,51,Matches
+553,Omar Richards,eng ENG,DF,Reading,22,1998,36.8,2133,1707,419,42,2,6,122,371,6,1,4,0,1599,7,54,Matches
+554,Diego Rico,es ESP,"DF,MF",Bournemouth,27,1993,22.5,1567,1270,291,51,0,9,144,186,54,18,24,1,1103,6,34,Matches
+555,Emil Riis Jakobsen,dk DEN,FW,Preston,22,1998,18.1,363,357,6,0,0,2,15,2,0,0,0,0,220,0,19,Matches
+556,Andy Rinomhota,zw ZIM,MF,Reading,23,1997,40.4,1697,1652,44,25,1,3,16,17,0,0,0,0,1418,1,30,Matches
+557,Connor Ripley,eng ENG,GK,Preston,27,1993,1.0,40,26,14,3,0,1,0,0,0,0,0,0,26,0,0,Matches
+558,Rodrigo Riquelme,es ESP,"MF,FW",Bournemouth,20,2000,3.8,186,174,11,4,1,1,12,2,5,0,4,0,137,1,7,Matches
+559,Marcel Ritzmaier,at AUT,"MF,DF",Barnsley,27,1993,2.2,102,88,14,4,0,1,12,7,3,0,0,3,72,0,2,Matches
+560,Connor Roberts,wls WAL,"DF,FW",Swansea City,24,1995,43.7,2593,1879,699,93,2,31,223,518,88,48,20,1,1690,15,60,Matches
+561,Marc Roberts,eng ENG,DF,Birmingham City,30,1990,30.5,1378,1128,244,33,0,30,26,211,0,0,0,0,730,6,20,Matches
+562,Patrick Roberts,eng ENG,"MF,FW",Derby County,23,1997,7.5,229,202,24,6,2,1,21,8,10,4,3,0,176,3,10,Matches
+563,Patrick Roberts,eng ENG,"MF,FW",Middlesbrough,23,1997,3.7,108,101,7,2,0,0,5,0,4,1,0,0,73,0,5,Matches
+564,Clark Robertson,sct SCO,DF,Rotherham Utd,26,1993,10.8,344,286,57,0,0,2,9,57,0,0,0,0,189,1,5,Matches
+565,Jack Robinson,eng ENG,MF,Middlesbrough,19,2001,0.0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+566,Joe Rodon,wls WAL,DF,Swansea City,22,1997,4.0,216,215,1,0,0,1,0,1,0,0,0,0,175,0,0,Matches
+567,Mads Roerslev,dk DEN,"DF,FW",Brentford,21,1999,9.6,400,338,62,5,0,1,29,57,0,0,0,0,271,0,10,Matches
+568,Mahlon Romeo,ag ATG,"DF,MF",Millwall,24,1995,29.9,1375,1119,252,3,0,6,97,249,0,0,0,0,910,4,43,Matches
+569,Wayne Rooney,eng ENG,"MF,FW",Derby County,34,1985,8.8,558,478,79,33,2,16,47,2,36,16,9,1,449,1,13,Matches
+570,Kelle Roos,nl NED,GK,Derby County,28,1992,13.5,539,355,177,79,0,2,0,0,0,0,0,0,303,7,0,Matches
+571,Michael Rose,sct SCO,DF,Coventry City,24,1995,13.6,700,673,24,20,0,19,2,4,0,0,0,0,519,3,7,Matches
+572,Joe Rothwell,eng ENG,"MF,FW",Blackburn,25,1995,25.9,1324,1240,77,33,8,14,42,13,27,7,11,1,1090,7,9,Matches
+573,Wayne Routledge,eng ENG,FW,Swansea City,35,1985,5.9,193,185,7,1,0,2,19,2,2,0,0,0,118,1,11,Matches
+574,Aaron Rowe,eng ENG,"DF,FW",Huddersfield,19,2000,11.0,336,287,48,1,1,0,23,46,1,1,0,0,247,1,11,Matches
+575,Tommy Rowe,eng ENG,DF,Bristol City,31,1988,24.9,1156,897,257,27,0,6,70,203,27,19,2,0,752,2,30,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+576,Declan Rudd,eng ENG,GK,Preston,29,1991,22.0,791,500,288,97,0,6,0,1,0,0,0,0,429,3,1,Matches
+577,Pelly Ruddock Mpanzu,cd COD,MF,Luton Town,27,1993,38.3,1335,1258,69,32,0,15,47,18,1,0,0,0,975,8,43,Matches
+578,Lukas Rupp,de GER,MF,Norwich City,29,1991,14.1,956,942,12,7,4,3,20,3,1,1,0,0,821,2,21,Matches
+579,Kieran Sadlier,ie IRL,"MF,FW",Rotherham Utd,25,1994,4.9,131,112,19,7,0,3,29,2,10,4,2,2,53,0,3,Matches
+580,Brice Samba,fr FRA,GK,Nott'ham Forest,26,1994,45.0,1558,1023,526,187,1,15,0,0,0,0,0,0,943,9,0,Matches
+581,Alex Samuel,wls WAL,FW,Wycombe,24,1995,6.8,94,90,3,0,0,0,10,0,0,0,0,0,57,1,4,Matches
+582,Mikel San José,es ESP,"MF,DF",Birmingham City,31,1989,20.1,884,821,58,53,0,17,14,3,1,1,0,0,609,5,13,Matches
+583,Carlos Sánchez,co COL,MF,Watford,34,1986,3.0,148,144,4,4,0,1,0,0,0,0,0,0,121,0,1,Matches
+584,Iván Sánchez,es ESP,"FW,MF",Birmingham City,27,1992,30.7,1165,1039,124,41,3,35,154,9,73,41,21,0,885,2,19,Matches
+585,Thomas Sang,eng ENG,"DF,MF",Cardiff City,21,1999,8.2,275,250,23,0,2,1,19,23,0,0,0,0,168,2,8,Matches
+586,Yaya Sanogo,fr FRA,FW,Huddersfield,27,1993,5.5,104,101,2,0,0,0,1,0,0,0,0,0,68,1,7,Matches
+587,Ismaila Sarr,sn SEN,"FW,MF",Watford,22,1998,38.4,1183,1157,22,1,1,6,150,14,5,0,0,0,831,4,58,Matches
+588,Mouhamadou-Naby Sarr,fr FRA,DF,Huddersfield,26,1993,40.4,2638,2534,92,69,0,63,8,23,0,0,0,0,2085,12,13,Matches
+589,George Saville,nir NIR,MF,Middlesbrough,27,1993,36.1,1176,1090,78,12,1,0,20,4,0,0,0,0,813,8,30,Matches
+590,Christopher Schindler,de GER,DF,Huddersfield,30,1990,8.9,530,522,7,6,0,1,0,1,0,0,0,0,447,1,0,Matches
+591,Patrick Schmidt,at AUT,FW,Barnsley,22,1998,2.4,55,52,2,0,0,0,0,0,0,0,0,0,35,1,2,Matches
+592,Ryan Schofield,eng ENG,GK,Huddersfield,20,1999,29.5,981,673,304,82,0,2,0,0,0,0,0,0,690,4,1,Matches
+593,Alex Scott,eng ENG,MF,Bristol City,16,2003,1.7,61,54,7,3,0,0,3,0,2,1,0,0,43,0,3,Matches
+594,Steve Seddon,eng ENG,DF,Birmingham City,22,1997,5.0,224,191,32,10,0,3,14,22,0,0,0,0,130,1,8,Matches
+595,Ken Sema,se SWE,"FW,DF",Watford,26,1993,36.3,1254,1056,194,12,1,10,176,114,68,22,30,0,863,4,50,Matches
+596,Alfa Semedo,gw GNB,"MF,FW",Reading,22,1997,23.8,970,926,40,14,0,6,18,18,0,0,0,0,698,4,19,Matches
+597,Antoine Semenyo,gh GHA,"FW,MF",Bristol City,20,2000,27.2,630,616,12,1,3,1,35,6,2,1,0,0,446,2,16,Matches
+598,Steven Sessegnon,eng ENG,"DF,FW",Bristol City,20,2000,10.9,522,394,127,11,1,6,18,116,0,0,0,0,363,1,9,Matches
+599,Liam Shaw,eng ENG,"MF,DF",Sheffield Weds,19,2001,10.9,376,368,6,3,0,2,5,3,0,0,0,0,290,2,4,Matches
+600,Ryan Shawcross,eng ENG,DF,Stoke City,32,1987,0.5,15,15,0,0,0,0,0,0,0,0,0,0,14,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+601,James Shea,eng ENG,GK,Luton Town,29,1991,7.0,221,144,77,29,0,0,0,0,0,0,0,0,137,0,0,Matches
+602,Ben Sheaf,eng ENG,MF,Coventry City,22,1998,20.1,1069,1031,36,22,0,13,13,1,11,4,2,0,885,2,13,Matches
+603,Graeme Shinnie,sct SCO,MF,Derby County,28,1991,37.1,1601,1464,126,80,1,5,101,3,41,33,7,1,1210,11,23,Matches
+604,Jordan Shipley,ie IRL,"MF,FW",Coventry City,22,1997,15.2,452,435,15,3,1,4,13,10,1,0,0,0,313,2,15,Matches
+605,Toby Sibbick,ug UGA,DF,Barnsley,21,1999,13.4,329,325,3,1,0,0,0,2,0,0,0,0,170,1,3,Matches
+606,Louie Sibley,eng ENG,"MF,FW",Derby County,18,2001,11.6,233,221,11,1,1,2,21,2,5,3,0,2,143,1,15,Matches
+607,Francisco Sierralta,cl CHI,DF,Watford,23,1997,24.5,1242,1202,38,34,0,14,0,4,0,0,0,0,1060,2,5,Matches
+608,Keke Simmonds,eng ENG,FW,Birmingham City,19,2001,0.1,4,2,2,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+609,Elliot Simoes,ao ANG,MF,Barnsley,20,1999,3.6,81,78,1,0,0,0,2,1,0,0,0,0,54,2,7,Matches
+610,Danny Simpson,eng ENG,DF,Bristol City,33,1987,3.0,175,128,47,2,0,0,6,45,0,0,0,0,113,0,2,Matches
+611,Jack Simpson,eng ENG,DF,Bournemouth,23,1996,6.2,355,349,6,4,0,2,2,2,0,0,0,0,299,0,2,Matches
+612,Scott Sinclair,eng ENG,FW,Preston,31,1989,29.5,635,616,17,2,0,1,31,8,5,0,4,0,477,2,23,Matches
+613,Jiří Skalák,cz CZE,"MF,FW",Millwall,28,1992,1.1,22,16,6,0,0,0,5,4,2,1,1,0,15,0,1,Matches
+614,Oliver Skipp,eng ENG,MF,Norwich City,19,2000,42.8,2541,2488,50,36,4,14,15,14,0,0,0,0,2225,3,26,Matches
+615,Leo Skiri Østigård,no NOR,DF,Coventry City,20,1999,34.7,1517,1473,38,33,0,33,7,5,0,0,0,0,1025,6,19,Matches
+616,Simon Sluga,hr CRO,GK,Luton Town,27,1993,39.0,1297,794,493,156,0,3,0,0,0,0,0,0,793,10,0,Matches
+617,Adam Smith,eng ENG,"DF,MF",Bournemouth,29,1991,37.0,1903,1519,377,33,0,7,68,341,3,1,0,0,1504,7,38,Matches
+618,Jordan Smith,eng ENG,GK,Nott'ham Forest,25,1994,1.0,30,21,9,1,0,0,0,0,0,0,0,0,21,0,0,Matches
+619,Korey Smith,eng ENG,MF,Swansea City,29,1991,28.4,1028,1011,12,9,2,7,18,3,0,0,0,0,804,5,15,Matches
+620,Matt Smith,eng ENG,FW,Millwall,31,1989,10.2,268,265,0,0,0,0,1,0,0,0,0,0,131,3,3,Matches
+621,Michael Smith,eng ENG,FW,Rotherham Utd,28,1991,34.8,986,969,11,2,0,8,43,5,0,0,0,0,539,6,24,Matches
+622,Tommy Smith,eng ENG,DF,Stoke City,28,1992,32.5,1846,1364,473,74,0,16,174,377,22,14,3,4,1306,9,39,Matches
+623,Alex Smithies,eng ENG,GK,Cardiff City,30,1990,30.1,922,562,356,132,0,3,0,0,0,0,0,0,465,4,0,Matches
+624,Paul Smyth,nir NIR,"FW,MF",QPR,22,1997,0.4,7,6,1,0,0,0,3,1,0,0,0,0,4,0,0,Matches
+625,Dominic Solanke,eng ENG,FW,Bournemouth,22,1997,37.1,690,625,59,0,2,0,7,6,0,0,0,0,489,6,28,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+626,Michael Sollbauer,at AUT,DF,Barnsley,30,1990,31.5,1003,968,30,25,0,1,2,5,0,0,0,0,593,5,14,Matches
+627,Luke Southwood,nir NIR,GK,Reading,22,1997,1.0,40,33,7,2,0,1,0,0,0,0,0,0,26,0,0,Matches
+628,Harry Souttar,au AUS,DF,Stoke City,21,1998,38.0,1991,1934,54,51,1,48,0,3,0,0,0,0,1422,3,12,Matches
+629,Samba Sow,ml MLI,MF,Nott'ham Forest,31,1989,10.0,427,419,7,5,0,4,1,2,0,0,0,0,344,1,5,Matches
+630,Djed Spence,eng ENG,"FW,DF",Middlesbrough,19,2000,23.2,737,623,109,3,0,0,53,105,1,0,0,0,483,5,27,Matches
+631,Jack Stacey,eng ENG,"DF,MF",Bournemouth,24,1996,19.0,1046,852,186,8,0,0,59,177,1,0,0,0,795,8,28,Matches
+632,Junior Stanislas,eng ENG,"FW,MF",Bournemouth,30,1989,26.9,1267,1108,155,36,4,9,109,34,79,26,24,0,963,4,27,Matches
+633,Richard Stearman,eng ENG,DF,Huddersfield,32,1987,14.0,925,871,53,23,0,5,2,30,0,0,0,0,749,1,11,Matches
+634,Finley Stevens,wls WAL,"FW,DF",Brentford,17,2003,0.1,8,8,0,0,0,0,2,0,0,0,0,0,5,0,0,Matches
+635,Anthony Stewart,eng ENG,DF,Wycombe,27,1992,31.3,741,727,13,2,0,2,5,11,0,0,0,0,414,1,6,Matches
+636,Marco Stiepermann,de GER,"MF,FW",Norwich City,29,1991,11.3,423,408,11,0,1,2,5,2,1,0,0,0,317,4,10,Matches
+637,Ryan Stirk,wls WAL,MF,Birmingham City,19,2000,1.9,71,67,4,1,0,2,3,0,2,1,1,0,45,0,1,Matches
+638,David Stockdale,eng ENG,GK,Wycombe,34,1985,17.0,644,346,296,137,0,3,0,0,0,0,0,0,241,2,3,Matches
+639,Jayden Stockley,eng ENG,"FW,DF",Preston,26,1993,5.9,163,161,1,0,0,0,4,0,0,0,0,0,85,1,2,Matches
+640,Jordan Storey,eng ENG,DF,Preston,22,1997,27.4,961,916,41,25,0,10,1,16,0,0,0,0,650,4,10,Matches
+641,Jack Stretton,eng ENG,MF,Derby County,18,2001,0.4,5,4,1,0,0,0,1,0,0,0,0,0,4,0,1,Matches
+642,Callum Styles,hu HUN,"DF,MF",Barnsley,20,2000,37.8,1788,1278,503,24,0,10,91,436,43,16,2,12,1044,7,36,Matches
+643,Isaac Success,ng NGA,"FW,MF",Watford,24,1996,4.0,122,121,0,0,1,2,3,0,0,0,0,0,80,1,6,Matches
+644,Ivan Šunjić,ba BIH,MF,Birmingham City,23,1996,37.1,1095,1081,8,1,0,9,25,2,3,0,0,0,754,6,25,Matches
+645,Sam Surridge,eng ENG,"FW,MF",Bournemouth,22,1998,11.4,193,179,13,0,0,0,4,1,0,0,0,0,125,1,5,Matches
+646,Will Swan,eng ENG,FW,Nott'ham Forest,19,2000,0.4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+647,John Swift,eng ENG,MF,Reading,25,1995,8.7,467,419,40,21,0,10,30,1,14,7,5,0,358,8,7,Matches
+648,Jakob Sørensen,dk DEN,"DF,MF",Norwich City,22,1998,21.8,1362,1165,194,17,1,3,15,176,1,1,0,0,1044,3,23,Matches
+649,Ryan Tafazolli,eng ENG,DF,Wycombe,28,1991,17.4,481,476,1,0,0,4,1,1,0,0,0,0,239,4,4,Matches
+650,Marcus Tavernier,eng ENG,"MF,FW",Middlesbrough,21,1999,24.5,874,750,120,32,2,2,95,18,62,37,3,0,603,4,19,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+651,Connor Taylor,eng ENG,DF,Stoke City,18,2001,0.8,25,25,0,0,0,0,0,0,0,0,0,0,20,0,0,Matches
+652,Lyle Taylor,ms MSR,FW,Nott'ham Forest,30,1990,19.3,412,397,14,0,1,6,31,4,1,0,0,0,283,1,22,Matches
+653,Mike te Wierik,nl NED,DF,Derby County,28,1992,3.0,170,159,11,4,0,0,0,7,0,0,0,0,142,0,1,Matches
+654,Dejan Tetek,rs SRB,"MF,FW",Reading,17,2002,1.4,63,62,1,1,0,0,0,0,0,0,0,0,56,0,0,Matches
+655,Alexander Tettey,no NOR,MF,Norwich City,34,1986,5.2,327,319,7,7,1,0,1,0,0,0,0,0,285,1,2,Matches
+656,George Thomas,wls WAL,"MF,FW",QPR,23,1997,5.4,167,165,2,0,1,1,8,0,1,1,0,0,122,0,4,Matches
+657,Luke Thomas,eng ENG,"MF,FW",Barnsley,21,1999,8.1,226,215,10,2,0,1,4,3,1,0,0,0,147,1,12,Matches
+658,Sorba Thomas,wls WAL,"FW,DF",Huddersfield,20,1999,2.0,57,47,10,0,0,0,10,8,2,1,1,0,34,0,2,Matches
+659,Ben Thompson,eng ENG,MF,Millwall,24,1995,15.0,352,348,2,0,1,1,9,1,0,0,0,0,245,2,9,Matches
+660,Curtis Thompson,eng ENG,MF,Wycombe,26,1993,27.8,798,738,51,1,0,6,18,46,1,1,0,0,444,9,19,Matches
+661,Dominic Thompson,eng ENG,DF,Brentford,20,2000,2.6,145,119,26,2,0,1,6,24,0,0,0,0,101,0,5,Matches
+662,Jordan Thompson,nir NIR,MF,Stoke City,23,1997,22.3,935,780,146,71,1,3,116,2,60,23,19,6,657,9,13,Matches
+663,Jordon Thompson,eng ENG,DF,Coventry City,21,1999,0.4,19,18,1,0,0,0,0,1,0,0,0,0,12,0,0,Matches
+664,Harry Toffolo,eng ENG,DF,Huddersfield,24,1995,29.7,1810,1441,364,36,0,7,108,328,0,0,0,0,1402,5,39,Matches
+665,Lee Tomlin,eng ENG,MF,Cardiff City,31,1989,1.8,76,70,6,2,0,1,3,2,0,0,0,0,49,0,4,Matches
+666,Ivan Toney,eng ENG,FW,Brentford,24,1996,42.8,882,831,46,11,3,3,20,8,1,0,0,0,566,5,33,Matches
+667,Jon Toral,es ESP,MF,Birmingham City,25,1995,8.2,274,246,24,1,0,2,13,2,4,2,1,0,170,4,6,Matches
+668,Ryley Towler,eng ENG,DF,Bristol City,19,2001,1.9,54,46,8,0,0,0,2,8,0,0,0,0,38,0,2,Matches
+669,Mark Travers,ie IRL,GK,Bournemouth,21,1999,1.0,35,19,16,3,0,1,0,0,0,0,0,0,17,0,2,Matches
+670,Lewis Travis,eng ENG,MF,Blackburn,22,1997,14.5,572,554,17,11,0,1,5,5,0,0,0,0,464,1,12,Matches
+671,William Troost-Ekong,ng NGA,DF,Watford,26,1993,29.7,1626,1594,24,21,0,40,0,2,0,0,0,0,1311,8,10,Matches
+672,Connal Trueman,eng ENG,GK,Birmingham City,24,1996,1.0,42,24,17,7,0,1,0,0,0,0,0,0,24,1,0,Matches
+673,Tom Trybull,de GER,MF,Blackburn,27,1993,14.8,922,897,24,15,0,11,2,7,1,0,0,0,792,1,11,Matches
+674,Ryan Tunnicliffe,eng ENG,MF,Luton Town,27,1992,15.7,584,531,46,10,0,1,16,20,2,0,0,0,440,7,13,Matches
+675,Josh Tymon,eng ENG,"MF,DF",Stoke City,21,1999,17.8,680,585,92,13,0,0,64,75,4,2,2,0,458,3,19,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+676,Osaze Urhoghide,nl NED,DF,Sheffield Weds,20,2000,12.7,473,418,55,1,0,1,4,54,0,0,0,0,316,0,10,Matches
+677,Yan Valery,tn TUN,"DF,MF",Birmingham City,21,1999,2.6,83,70,13,0,0,1,5,13,0,0,0,0,41,0,4,Matches
+678,Álex Vallejo,es ESP,"MF,DF",Huddersfield,28,1992,11.4,772,746,26,18,1,15,2,8,0,0,0,0,659,0,5,Matches
+679,Kyle Vassell,nir NIR,"FW,MF",Rotherham Utd,27,1993,5.7,111,109,2,0,0,0,11,1,0,0,0,0,58,0,5,Matches
+680,Will Vaulks,wls WAL,MF,Cardiff City,26,1993,34.8,1686,1387,291,74,2,16,78,193,21,8,7,6,1060,8,31,Matches
+681,Thibaud Verlinden,be BEL,FW,Stoke City,21,1999,0.1,7,6,1,0,0,0,3,1,0,0,0,0,3,0,1,Matches
+682,Sam Vokes,wls WAL,FW,Stoke City,30,1989,9.2,226,226,0,0,0,3,1,0,0,0,0,0,114,0,4,Matches
+683,Mario Vrančić,ba BIH,MF,Norwich City,31,1989,19.1,1002,963,31,17,5,9,22,1,4,4,0,0,784,8,17,Matches
+684,Zak Vyner,ke KEN,"DF,MF",Bristol City,23,1997,37.4,1544,1457,85,26,0,25,14,58,0,0,0,0,1057,2,22,Matches
+685,Martyn Waghorn,eng ENG,"FW,MF",Derby County,30,1990,21.0,471,428,43,15,1,3,46,0,16,11,4,0,309,0,9,Matches
+686,Tyler Walker,eng ENG,FW,Coventry City,23,1996,20.0,291,286,2,0,0,1,18,0,0,0,0,0,154,3,13,Matches
+687,Jed Wallace,eng ENG,"FW,MF",Millwall,26,1994,42.5,1794,1520,265,72,0,27,277,25,92,55,11,20,1206,9,58,Matches
+688,Lee Wallace,sct SCO,DF,QPR,32,1987,25.1,1182,943,236,6,0,6,71,230,0,0,0,0,857,3,30,Matches
+689,Murray Wallace,sct SCO,DF,Millwall,27,1993,20.0,938,775,160,11,0,0,27,149,0,0,0,0,617,3,19,Matches
+690,Liam Walsh,eng ENG,MF,Bristol City,22,1997,1.4,84,79,5,2,0,1,3,0,3,0,0,0,69,0,0,Matches
+691,Jack Walton,eng ENG,GK,Barnsley,22,1998,24.0,690,433,255,89,0,1,0,0,0,0,0,0,316,2,0,Matches
+692,Danny Ward,eng ENG,FW,Huddersfield,28,1991,8.1,162,144,16,0,0,0,2,0,0,0,0,0,110,2,3,Matches
+693,Marley Watkins,wls WAL,FW,Bristol City,29,1990,0.3,10,10,0,0,0,0,0,0,0,0,0,0,9,0,0,Matches
+694,Duncan Watmore,eng ENG,"FW,MF",Middlesbrough,26,1994,20.6,322,309,10,0,0,0,20,3,4,0,0,0,201,3,26,Matches
+695,Louie Watson,ie IRL,"MF,FW",Derby County,19,2001,1.8,100,97,3,0,0,0,0,0,2,0,0,0,87,0,1,Matches
+696,Tennai Watson,eng ENG,FW,Reading,23,1997,0.0,3,3,0,0,0,0,0,0,0,0,0,0,2,0,1,Matches
+697,Max Watters,eng ENG,FW,Cardiff City,21,1999,1.0,12,12,0,0,0,0,0,0,0,0,0,0,9,0,0,Matches
+698,Andreas Weimann,at AUT,MF,Bristol City,28,1991,6.7,218,209,8,5,2,0,5,3,0,0,0,0,162,1,4,Matches
+699,Nahki Wells,bm BER,FW,Bristol City,30,1990,33.7,806,741,61,6,1,17,34,8,0,0,0,0,584,4,14,Matches
+700,Keiren Westwood,ie IRL,GK,Sheffield Weds,35,1984,19.1,586,363,222,80,0,1,0,0,0,0,0,0,266,1,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+701,Scott Wharton,eng ENG,DF,Blackburn,22,1997,4.4,302,296,5,5,0,0,0,0,0,0,0,0,241,1,4,Matches
+702,David Wheeler,eng ENG,"MF,FW",Wycombe,29,1990,27.2,577,572,1,0,0,2,13,0,0,0,0,0,276,4,10,Matches
+703,Ben Whiteman,eng ENG,MF,Preston,24,1996,19.1,801,736,58,25,1,10,43,3,29,7,13,7,565,7,7,Matches
+704,Morgan Whittaker,eng ENG,"FW,DF",Derby County,19,2001,2.4,95,91,4,0,0,0,16,3,1,1,0,0,68,0,6,Matches
+705,Morgan Whittaker,eng ENG,FW,Swansea City,19,2001,4.5,93,90,2,0,0,1,11,1,1,0,0,0,58,1,6,Matches
+706,Gavin Whyte,nir NIR,"FW,MF",Cardiff City,24,1996,1.2,28,28,0,0,0,0,2,0,0,0,0,0,22,0,1,Matches
+707,Jordy de Wijs,nl NED,DF,QPR,25,1995,7.1,437,433,3,3,1,1,0,0,0,0,0,0,371,1,1,Matches
+708,Joe Wildsmith,eng ENG,GK,Sheffield Weds,24,1995,18.9,663,421,239,76,0,1,0,0,0,0,0,0,362,3,0,Matches
+709,Ben Wiles,eng ENG,"MF,DF",Rotherham Utd,21,1999,37.3,1133,989,139,17,1,9,74,80,21,11,1,3,757,5,22,Matches
+710,Derrick Williams,ie IRL,DF,Blackburn,27,1993,9.8,643,620,22,21,0,6,0,1,0,0,0,0,546,1,3,Matches
+711,Joe Williams,eng ENG,MF,Bristol City,23,1996,0.7,29,29,0,0,0,2,0,0,0,0,0,0,22,0,0,Matches
+712,Jonny Williams,wls WAL,MF,Cardiff City,26,1993,2.0,60,55,5,1,0,0,2,3,1,0,0,0,47,0,2,Matches
+713,Jordan Williams,eng ENG,"DF,MF",Barnsley,20,1999,9.8,478,373,99,5,0,3,16,93,1,0,0,1,314,6,17,Matches
+714,Shaun Williams,ie IRL,MF,Millwall,33,1986,13.5,678,647,28,15,0,14,22,2,8,2,1,4,486,3,13,Matches
+715,Chris Willock,eng ENG,"MF,FW",QPR,22,1998,21.6,857,843,13,4,1,5,76,0,4,2,0,0,706,1,17,Matches
+716,Ben Wilmot,eng ENG,DF,Watford,20,1999,14.8,841,792,46,16,2,28,4,30,0,0,0,0,623,3,7,Matches
+717,Jack Wilshere,eng ENG,MF,Bournemouth,28,1992,7.8,309,289,19,14,0,2,2,2,1,0,0,0,269,1,6,Matches
+718,Ben Wilson,eng ENG,GK,Coventry City,27,1992,26.0,848,529,317,129,0,3,0,0,0,0,0,0,494,2,0,Matches
+719,Harry Wilson,wls WAL,"MF,FW",Cardiff City,23,1997,31.2,906,689,207,71,7,8,157,13,81,52,20,2,597,10,16,Matches
+720,Josh Windass,eng ENG,"FW,MF",Sheffield Weds,26,1994,32.2,880,806,71,5,0,17,84,10,16,9,2,2,645,3,34,Matches
+721,Lewis Wing,eng ENG,MF,Rotherham Utd,25,1995,18.2,719,609,107,42,1,20,100,4,49,28,5,8,417,3,21,Matches
+722,Lewis Wing,eng ENG,MF,Middlesbrough,25,1995,4.2,131,123,7,0,0,1,11,2,3,3,0,0,73,1,4,Matches
+723,Andre Wisdom,eng ENG,DF,Derby County,27,1993,34.6,1662,1535,118,59,1,20,8,59,0,0,0,0,1343,9,19,Matches
+724,Richard Wood,eng ENG,DF,Rotherham Utd,35,1985,25.9,566,562,2,0,0,0,0,2,0,0,0,0,311,2,1,Matches
+725,Nathan Wood-Gordon,eng ENG,DF,Middlesbrough,18,2002,2.8,108,103,5,4,0,8,0,1,0,0,0,0,76,0,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+726,Freddie Woodman,eng ENG,GK,Swansea City,23,1997,45.0,1455,942,510,151,0,5,0,0,0,0,0,0,971,3,2,Matches
+727,Cauley Woodrow,eng ENG,"FW,MF",Barnsley,25,1994,36.3,1119,1078,34,2,1,8,32,5,11,3,2,2,681,7,34,Matches
+728,Ryan Woods,eng ENG,MF,Millwall,26,1993,38.0,1778,1729,46,41,1,37,8,5,0,0,0,0,1477,3,28,Matches
+729,Joe Worrall,eng ENG,DF,Nott'ham Forest,23,1997,31.0,1321,1268,51,47,1,16,5,4,0,0,0,0,1009,2,13,Matches
+730,Ryan Yates,eng ENG,MF,Nott'ham Forest,22,1997,30.2,1343,1273,66,30,0,12,9,3,0,0,0,0,1058,4,20,Matches
+731,Andy Yiadom,gh GHA,DF,Reading,28,1991,18.0,949,744,203,26,0,3,54,177,0,0,0,0,701,2,19,Matches
+732,Jan Žambůrek,cz CZE,"MF,FW",Brentford,19,2001,0.6,30,30,0,0,1,0,1,0,0,0,0,0,21,0,0,Matches
+733,Jordan Zemura,zw ZIM,"FW,DF",Bournemouth,20,1999,0.1,5,3,2,0,0,0,0,2,0,0,0,0,2,0,0,Matches
+734,Christoph Zimmermann,de GER,DF,Norwich City,27,1993,13.5,802,765,35,30,0,6,0,5,0,0,0,0,655,2,4,Matches
+735,Philip Zinckernagel,dk DEN,MF,Watford,25,1994,10.2,396,361,33,10,3,1,28,0,23,8,7,1,309,2,9,Matches
+736,Kenneth Zohore,dk DEN,FW,Millwall,26,1994,9.6,197,196,1,0,0,1,4,1,0,0,0,0,109,0,8,Matches

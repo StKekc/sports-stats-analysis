@@ -1,0 +1,182 @@
+# Основная конфигурация лиг для сбора данных с FBref
+
+leagues:
+  epl:
+    name: "Premier League"
+    comp_id: 9
+    country: "England"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+
+  laliga:
+    name: "La Liga"
+    comp_id: 12
+    country: "Spain"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+
+  bundesliga:
+    name: "Bundesliga"
+    comp_id: 20
+    country: "Germany"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+
+  seriea:
+    name: "Serie A"
+    comp_id: 11
+    country: "Italy"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+
+  ligue1:
+    name: "Ligue 1"
+    comp_id: 13
+    country: "France"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+
+  eredivisie:
+    name: "Eredivisie"
+    comp_id: 23
+    country: "Netherlands"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+
+  primeira:
+    name: "Primeira Liga"
+    comp_id: 32
+    country: "Portugal"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+
+  superlig:
+    name: "Süper Lig"
+    comp_id: 26
+    country: "Turkey"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+
+  mls:
+    name: "Major League Soccer"
+    comp_id: 22
+    country: "USA / Canada"
+    seasons:
+      - "2020"
+      - "2021"
+      - "2022"
+      - "2023"
+      - "2024"
+      - "2025"
+
+  brasileirao:
+    name: "Série A"
+    comp_id: 24
+    country: "Brazil"
+    seasons:
+      - "2020"
+      - "2021"
+      - "2022"
+      - "2023"
+      - "2024"
+      - "2025"
+
+  argentina:
+    name: "Primera División"
+    comp_id: 21
+    country: "Argentina"
+    seasons:
+      - "2019-2020"
+      - "2021"
+      - "2022"
+      - "2023"
+      - "2024"
+      - "2025"
+
+  ligamx:
+    name: "Liga MX"
+    comp_id: 31
+    country: "Mexico"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+
+  j1:
+    name: "J1 League"
+    comp_id: 25
+    country: "Japan"
+    seasons:
+      - "2020"
+      - "2021"
+      - "2022"
+      - "2023"
+      - "2024"
+      - "2025"
+
+  saudiprol:
+    name: "Saudi Pro League"
+    comp_id: 70
+    country: "Saudi Arabia"
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"
+  
+  championship:
+    name: Championship
+    comp_id: 10
+    country: England
+    seasons:
+      - "2019-2020"
+      - "2020-2021"
+      - "2021-2022"
+      - "2022-2023"
+      - "2023-2024"
+      - "2024-2025"

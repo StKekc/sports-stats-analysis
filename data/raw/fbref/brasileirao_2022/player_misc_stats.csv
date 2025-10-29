@@ -1,0 +1,792 @@
+rk,player,nation,pos,squad,age,born,90s,crdy,crdr,2crdy,fls,fld,off,crs,int,tklw,pkwon,pkcon,og,recov,won,lost,won_aerial,matches
+1,Abner,br BRA,DF,Ath Paranaense,21,2000,23.4,6,0,0,26,12,1,49,39,28,0,0,0,149,21,28,42.9,Matches
+2,Adryelson,br BRA,DF,Botafogo (RJ),23,1998,16.1,1,0,0,10,4,2,0,22,12,0,0,1,56,76,34,69.1,Matches
+3,Adson,br BRA,"FW,MF",Corinthians,21,2000,13.8,2,0,0,25,20,3,15,13,22,0,0,0,54,8,19,29.6,Matches
+4,Airton,br BRA,FW,Atl Goianiense,22,1999,19.3,3,0,0,33,24,1,81,10,24,0,0,0,60,21,23,47.7,Matches
+5,Carlos Alberto,br BRA,"FW,MF",América (MG),19,2002,1.7,1,0,0,1,1,0,3,4,1,0,0,0,5,4,9,30.8,Matches
+6,Yuri Alberto,br BRA,FW,Corinthians,20,2001,16.1,4,1,1,26,33,7,9,2,8,0,0,0,37,37,49,43.0,Matches
+7,Ale,br BRA,MF,América (MG),31,1990,21.4,2,1,0,46,50,0,23,28,21,0,2,0,184,27,29,48.2,Matches
+8,Alexandre Alemão,br BRA,FW,Internacional,23,1998,22.3,3,0,0,56,65,2,12,4,11,3,0,0,47,53,81,39.6,Matches
+9,Alerrandro,br BRA,FW,RB Bragantino,22,2000,10.3,3,0,0,11,15,5,2,4,1,0,0,0,20,10,29,25.6,Matches
+10,Alesson,br BRA,"MF,FW",Cuiabá,22,1999,11.4,3,0,0,18,7,0,33,3,9,0,0,0,41,16,27,37.2,Matches
+11,Alex,br BRA,DF,Santos,22,1999,3.7,1,0,0,2,4,0,0,8,3,0,0,0,19,9,4,69.2,Matches
+12,Caio Alexandre,br BRA,MF,Fortaleza,22,1999,11.0,3,1,1,23,12,0,5,11,22,0,0,0,82,5,11,31.3,Matches
+13,Matheus Alexandre,br BRA,DF,Coritiba,22,1999,15.6,5,0,0,18,5,1,39,30,22,0,0,0,72,22,20,52.4,Matches
+14,Alexsander,br BRA,DF,Fluminense,18,2003,2.5,0,0,0,2,3,0,5,6,1,0,0,0,14,2,2,50.0,Matches
+15,Alisson,br BRA,"MF,FW",São Paulo,28,1993,10.5,5,0,0,14,17,0,33,5,9,0,0,0,42,10,13,43.5,Matches
+16,Allan,br BRA,MF,Atlético Mineiro,24,1997,30.4,10,0,0,47,26,1,11,25,30,0,1,0,168,16,6,72.7,Matches
+17,Henrique Almeida,br BRA,FW,América (MG),30,1991,16.6,7,0,0,38,13,13,5,3,11,1,0,0,40,24,54,30.8,Matches
+18,Júnior Alonso,py PAR,DF,Atlético Mineiro,28,1993,28.9,4,0,0,17,8,1,7,28,14,0,2,0,148,76,36,67.9,Matches
+19,Diego Alves,br BRA,GK,Flamengo,36,1985,4.7,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Matches
+20,Felipe Alves Raymundo,br BRA,GK,São Paulo,33,1988,17.0,1,0,0,1,0,0,0,0,0,0,1,0,30,2,1,66.7,Matches
+21,Felipe Alves Raymundo,br BRA,GK,Juventude,33,1988,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+22,Rodrigo Alves Soares,br BRA,DF,Juventude,29,1992,31.0,4,0,0,24,6,0,110,13,25,0,0,0,180,12,32,27.3,Matches
+23,Anderson,br BRA,GK,Ath Paranaense,23,1998,5.0,1,0,0,0,1,0,0,0,0,0,0,0,3,4,1,80.0,Matches
+24,Thonny Anderson,br BRA,MF,Coritiba,24,1997,8.1,5,2,1,21,15,0,29,5,17,0,0,0,42,17,19,47.2,Matches
+25,André,br BRA,MF,Fluminense,20,2001,33.5,10,1,1,38,54,0,5,36,38,0,1,0,253,9,20,31.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+26,André,br BRA,FW,Cuiabá,31,1990,8.1,2,0,0,16,21,1,2,3,4,0,0,0,29,12,30,28.6,Matches
+27,Andrey,br BRA,MF,Avaí,19,2002,0.3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+28,Ângelo,br BRA,"FW,MF",Santos,17,2004,17.0,5,0,0,19,37,3,51,6,6,1,0,0,78,4,14,22.2,Matches
+29,Brayan Angulo,ec ECU,"FW,MF",Santos,26,1995,5.3,0,0,0,2,7,4,1,1,2,0,0,0,17,7,18,28.0,Matches
+30,Apodi,br BRA,"MF,FW",Goiás,35,1986,10.1,3,0,0,21,17,2,12,4,5,1,0,0,38,17,24,41.5,Matches
+31,Guilherme Arana,br BRA,DF,Atlético Mineiro,24,1997,19.1,4,0,0,26,15,2,89,10,16,0,1,0,111,11,12,47.8,Matches
+32,Willian Arão,br BRA,"MF,DF",Flamengo,29,1992,10.2,1,0,0,12,6,0,4,17,4,0,0,0,59,22,15,59.5,Matches
+33,Michel Araujo,uy URU,"FW,MF",Fluminense,25,1996,0.9,1,0,0,1,5,0,7,0,3,0,0,0,8,1,2,33.3,Matches
+34,Robert Arboleda,ec ECU,DF,São Paulo,30,1991,8.0,1,0,0,9,3,0,0,6,6,0,0,0,29,37,11,77.1,Matches
+35,Jhon Arias,co COL,"FW,MF",Fluminense,24,1997,29.6,4,0,0,46,55,3,172,7,31,0,0,0,145,11,16,40.7,Matches
+36,Arthur,br BRA,"MF,DF",América (MG),18,2003,2.0,2,0,0,10,0,0,4,1,3,0,0,0,19,1,5,16.7,Matches
+37,Arthur,br BRA,FW,Corinthians,18,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+38,Artur,br BRA,"FW,MF",RB Bragantino,23,1998,31.0,3,0,0,18,51,12,160,15,18,0,0,0,134,15,36,29.4,Matches
+39,Eduard Atuesta,co COL,MF,Palmeiras,24,1997,7.3,4,0,0,15,9,3,20,10,7,0,0,0,32,6,15,28.6,Matches
+40,Felipe Augusto,br BRA,FW,Corinthians,17,2004,0.8,0,0,0,4,4,0,0,0,0,0,0,0,0,1,2,33.3,Matches
+41,Leo Augusto Pereira,br BRA,"FW,MF",Atl Goianiense,21,2000,12.6,9,0,0,38,23,4,55,10,16,0,0,0,71,9,18,33.3,Matches
+42,Renato Augusto,br BRA,MF,Corinthians,33,1988,15.6,0,0,0,16,23,2,75,14,15,0,0,0,67,11,13,45.8,Matches
+43,Auremir,br BRA,MF,Goiás,30,1991,16.4,5,0,0,32,18,0,3,26,29,0,0,0,82,27,20,57.4,Matches
+44,Auro,br BRA,DF,Santos,26,1996,4.3,3,0,0,8,1,0,5,3,6,0,0,0,22,0,5,0.0,Matches
+45,Danilo Avelar,br BRA,DF,América (MG),32,1989,9.6,2,0,0,21,8,0,24,16,8,0,0,0,31,51,25,67.1,Matches
+46,Felipe Azevedo,br BRA,"MF,FW",América (MG),35,1987,25.3,3,1,1,34,32,3,50,14,18,0,0,0,129,47,46,50.5,Matches
+47,Matheus Babi,br BRA,"FW,MF",Ath Paranaense,24,1997,0.9,1,0,0,6,4,2,0,0,1,0,0,0,3,6,4,60.0,Matches
+48,Fabrício Baiano,br BRA,"FW,MF",Fortaleza,29,1992,0.6,0,0,0,1,1,0,8,1,2,0,0,0,5,2,7,22.2,Matches
+49,Fabián Balbuena,py PAR,DF,Corinthians,30,1991,12.0,2,0,0,8,4,0,0,12,11,0,1,0,73,27,16,62.8,Matches
+50,Robson Bambu,br BRA,DF,Corinthians,24,1997,4.4,0,0,0,3,4,0,0,8,7,0,0,0,22,4,4,50.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+51,Léo Baptistão,br BRA,"FW,MF",Santos,29,1992,12.6,2,0,0,17,33,1,15,7,9,0,0,1,72,25,34,42.4,Matches
+52,Gabriel Baralhas,br BRA,MF,Atl Goianiense,23,1998,24.0,12,0,0,40,17,0,7,35,37,0,1,0,133,25,19,56.8,Matches
+53,Danilo Barbosa,br BRA,MF,Botafogo (RJ),25,1996,1.8,1,0,0,4,4,0,0,5,3,0,0,0,11,2,0,100.0,Matches
+54,Gabriel Barbosa,br BRA,FW,Flamengo,25,1996,22.7,11,1,1,10,19,17,34,2,5,1,0,0,53,4,6,40.0,Matches
+55,Lucas Barbosa,br BRA,"FW,MF",Santos,20,2001,8.6,4,1,1,25,28,4,14,10,19,0,0,0,54,28,31,47.5,Matches
+56,Danilo Barcelos,br BRA,"DF,MF",Goiás,30,1991,11.4,8,0,0,29,9,1,56,11,17,0,0,0,40,38,35,52.1,Matches
+57,Leandro Barcia,uy URU,FW,Atl Goianiense,29,1992,0.3,0,0,0,1,0,0,0,2,2,0,0,1,1,0,0,,Matches
+58,Barreto,br BRA,MF,Botafogo (RJ),26,1995,0.3,0,0,0,1,1,0,0,0,2,0,0,0,2,1,0,100.0,Matches
+59,Fellipe Bastos,br BRA,MF,Goiás,31,1990,9.6,10,1,0,22,14,0,35,11,11,0,1,0,81,10,8,55.6,Matches
+60,Ramiro Benetti,br BRA,"MF,FW",Corinthians,28,1993,6.1,3,0,0,8,5,2,4,6,7,1,0,0,28,11,17,39.3,Matches
+61,Martín Benítez,ar ARG,MF,América (MG),27,1994,8.4,2,0,0,7,24,1,63,5,6,0,0,0,54,7,6,53.8,Matches
+62,Bento,br BRA,GK,Ath Paranaense,22,1999,33.0,3,0,0,0,2,0,0,1,1,0,0,0,32,5,3,62.5,Matches
+63,Lucas Beraldo,br BRA,DF,São Paulo,18,2003,1.4,0,1,0,1,1,0,0,2,4,0,0,0,6,3,1,75.0,Matches
+64,Pedro Bicalho,br BRA,MF,Palmeiras,20,2001,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,Matches
+65,Biro,br BRA,FW,Corinthians,17,2004,1.2,1,0,0,3,1,0,3,0,2,0,0,0,2,1,0,100.0,Matches
+66,Guilherme Biro,br BRA,DF,Coritiba,21,2000,8.2,3,0,0,14,3,1,19,14,12,0,0,0,35,8,13,38.1,Matches
+67,Guilherme Bissoli,br BRA,FW,Avaí,24,1998,27.1,6,0,0,52,28,12,15,13,14,1,0,0,59,37,73,33.6,Matches
+68,Marcelo Boeck,br BRA,GK,Fortaleza,37,1984,13.0,2,0,0,1,3,0,0,1,0,0,1,0,7,6,0,100.0,Matches
+69,Vinícius Boff,br BRA,MF,Cuiabá,22,1999,0.1,0,0,0,1,0,0,0,1,0,0,0,0,3,0,1,0.0,Matches
+70,Paulinho Bóia,br BRA,"FW,MF",América (MG),23,1998,3.2,0,0,0,6,11,4,12,0,1,1,0,0,9,0,5,0.0,Matches
+71,Daniel Borges,br BRA,DF,Botafogo (RJ),28,1993,20.8,4,1,1,21,13,1,115,17,18,0,0,0,118,12,20,37.5,Matches
+72,Douglas Borges,br BRA,GK,Botafogo (RJ),31,1990,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,100.0,Matches
+73,Marllon Borges,br BRA,DF,Cuiabá,29,1992,33.4,3,0,0,27,16,1,2,35,31,0,2,0,170,67,46,59.3,Matches
+74,Gabriel Boschilia,br BRA,"MF,FW",Internacional,25,1996,0.6,1,0,0,3,2,0,2,0,1,0,0,0,7,0,0,,Matches
+75,Gabriel Boschilia,br BRA,MF,Coritiba,25,1996,5.3,2,0,0,11,8,0,10,6,3,0,0,0,28,0,1,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+76,Lucas Braga,br BRA,"FW,MF",Santos,25,1996,23.1,3,0,0,24,71,4,49,15,19,0,0,0,91,24,29,45.3,Matches
+77,David Braz,br BRA,DF,Fluminense,34,1987,7.9,4,3,1,11,2,0,2,7,5,0,0,0,22,24,15,61.5,Matches
+78,Breno,br BRA,FW,Palmeiras,26,1996,3.7,2,0,0,5,9,3,14,1,2,1,0,0,20,7,9,43.8,Matches
+79,Bressan,br BRA,DF,Avaí,29,1993,20.6,5,0,0,25,9,0,0,22,7,0,1,0,92,31,37,45.6,Matches
+80,Emanuel Brítez,ar ARG,DF,Fortaleza,29,1992,20.0,1,0,0,37,12,4,6,30,32,0,0,0,95,31,25,55.4,Matches
+81,Bruninho,br BRA,"MF,FW",Juventude,21,2000,1.3,0,0,0,4,5,0,7,1,0,0,0,0,11,1,1,50.0,Matches
+82,Bruninho,br BRA,MF,RB Bragantino,18,2003,0.4,0,0,0,0,0,1,0,0,1,0,0,0,2,0,1,0.0,Matches
+83,Fabrício Bruno,br BRA,DF,Flamengo,25,1996,13.0,4,0,0,8,9,0,2,10,6,0,0,0,61,27,20,57.4,Matches
+84,Ricardo Bueno,br BRA,FW,Juventude,34,1987,9.0,3,0,0,14,30,4,11,0,8,1,0,0,32,34,47,42.0,Matches
+85,Vitor Bueno,br BRA,"MF,FW",Ath Paranaense,27,1994,12.5,2,0,0,11,20,1,28,7,5,0,0,0,64,17,24,41.5,Matches
+86,Busanello,br BRA,DF,Juventude,23,1998,3.2,0,0,0,6,2,0,12,8,4,0,0,0,15,6,2,75.0,Matches
+87,Fabricio Bustos,ar ARG,DF,Internacional,25,1996,29.7,3,0,0,24,12,2,35,31,37,0,1,0,163,12,9,57.1,Matches
+88,Nahuel Bustos,ar ARG,FW,São Paulo,23,1998,3.2,0,0,0,7,7,2,3,0,2,0,0,0,8,0,7,0.0,Matches
+89,Daniel Cabral,br BRA,FW,Flamengo,19,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+90,Patric Cabral Lalau,br BRA,DF,América (MG),32,1989,19.1,6,0,0,28,19,4,118,19,20,0,0,0,130,19,26,42.2,Matches
+91,Raúl Cáceres,py PAR,DF,América (MG),30,1991,18.0,1,0,0,23,6,3,89,17,19,0,0,0,60,16,30,34.8,Matches
+92,Matheus Cadorini,br BRA,FW,Internacional,19,2002,1.0,0,1,0,3,2,0,1,0,0,0,0,0,2,3,9,25.0,Matches
+93,Matheus Cadorini,br BRA,FW,Coritiba,19,2002,3.5,1,0,0,2,2,1,0,1,2,0,0,0,3,15,13,53.6,Matches
+94,Caetano,br BRA,DF,Goiás,22,1999,24.6,1,0,0,25,10,0,4,37,19,0,2,0,90,23,26,46.9,Matches
+95,Jonathan Cafu,br BRA,"DF,MF",Cuiabá,30,1991,6.2,0,1,0,9,11,1,15,1,6,0,0,0,36,12,20,37.5,Matches
+96,Rodrigo Caio,br BRA,DF,Flamengo,28,1993,6.5,0,0,0,3,4,0,0,8,4,0,0,0,44,11,6,64.7,Matches
+97,Calebe,br BRA,"MF,FW",Atlético Mineiro,21,2000,2.9,1,0,0,4,11,0,4,3,7,0,0,0,26,2,3,40.0,Matches
+98,Lucas Calegari,br BRA,DF,Fluminense,19,2002,7.3,1,0,0,6,17,0,13,5,5,0,0,0,46,13,7,65.0,Matches
+99,Jonathan Calleri,ar ARG,FW,São Paulo,28,1993,31.3,5,0,0,43,70,28,38,5,12,0,1,0,70,115,106,52.0,Matches
+100,Guilherme Camacho,br BRA,MF,Santos,31,1990,18.1,8,0,0,38,7,0,4,18,26,0,0,0,103,23,26,46.9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+101,Nathan Camargo,br BRA,"MF,FW",RB Bragantino,16,2005,0.8,1,0,0,4,1,0,0,1,3,0,0,0,6,0,5,0.0,Matches
+102,Camilo,br BRA,MF,Cuiabá,22,1999,18.5,3,0,0,21,11,0,7,26,22,0,0,0,109,14,18,43.8,Matches
+103,Camutanga,br BRA,DF,Atl Goianiense,28,1993,0.8,0,0,0,0,0,0,0,2,2,0,0,0,4,5,0,100.0,Matches
+104,Luan Cândido,br BRA,DF,RB Bragantino,20,2001,29.2,4,2,0,44,14,9,46,32,21,0,4,0,131,98,48,67.1,Matches
+105,Germán Cano,ar ARG,FW,Fluminense,33,1988,34.2,2,0,0,26,16,25,12,8,6,1,0,0,84,21,28,42.9,Matches
+106,Agustín Canobbio,uy URU,FW,Ath Paranaense,23,1998,15.6,2,0,0,25,34,3,35,7,16,1,0,0,79,6,9,40.0,Matches
+107,Víctor Cantillo,co COL,MF,Corinthians,28,1993,10.2,1,0,0,11,21,0,23,12,12,0,0,0,80,15,6,71.4,Matches
+108,Capixaba,br BRA,"FW,MF",Juventude,25,1997,18.4,6,0,0,24,41,0,58,19,27,0,0,0,68,11,23,32.4,Matches
+109,Juninho Capixaba,br BRA,DF,Fortaleza,24,1997,32.3,8,0,0,61,67,1,157,66,38,0,0,0,223,88,53,62.4,Matches
+110,Gabriel Carabajal,ar ARG,"MF,FW",Santos,30,1991,5.5,2,0,0,11,8,0,26,3,4,0,0,0,21,6,6,50.0,Matches
+111,Danilo Cardoso,br BRA,DF,Goiás,24,1997,2.6,0,0,0,3,1,0,0,2,0,0,0,0,6,4,4,50.0,Matches
+112,Johnny Cardoso,us USA,MF,Internacional,20,2001,15.7,5,0,0,29,17,1,5,39,22,0,1,0,103,33,13,71.7,Matches
+113,Igor Cariús,br BRA,"DF,MF",Cuiabá,28,1993,12.9,6,1,1,22,13,1,41,23,20,0,0,0,73,33,28,54.1,Matches
+114,Joel Carli,ar ARG,DF,Botafogo (RJ),35,1986,4.1,3,0,0,3,1,0,0,5,2,0,0,0,11,12,6,66.7,Matches
+115,Ed Carlos,br BRA,MF,Santos,20,2001,2.9,0,0,0,2,0,0,10,0,3,0,0,0,14,4,2,66.7,Matches
+116,Jan Carlos Hurtado,ve VEN,FW,RB Bragantino,21,2000,5.4,0,0,0,22,5,3,1,3,1,0,0,0,13,7,16,30.4,Matches
+117,João Carlos,br BRA,GK,Cuiabá,33,1988,10.6,1,0,0,0,1,0,0,0,0,0,0,0,10,1,0,100.0,Matches
+118,Alan Carvalho,cn CHN,"FW,MF",Fluminense,32,1989,0.4,0,0,0,1,1,0,0,0,0,0,0,0,2,0,1,0.0,Matches
+119,Guilherme Carvalho,br BRA,MF,Ceará,22,1999,7.6,2,0,0,12,11,1,26,8,10,0,0,0,40,4,12,25.0,Matches
+120,Guilherme Carvalho,br BRA,"MF,DF",Atlético Mineiro,22,1999,1.6,0,0,0,4,0,0,1,1,3,0,0,0,11,4,3,57.1,Matches
+121,Cássio,br BRA,GK,Corinthians,34,1987,34.0,3,0,0,0,7,0,0,1,0,0,0,0,26,14,0,100.0,Matches
+122,Luciano Castán,br BRA,DF,Coritiba,32,1989,35.0,7,1,0,28,19,1,2,35,17,0,1,0,152,64,52,55.2,Matches
+123,Iury de Castilho,br BRA,FW,Ceará,26,1995,5.8,3,0,0,11,24,6,13,1,3,1,0,0,37,6,10,37.5,Matches
+124,Cauã,br BRA,DF,Juventude,18,2003,0.5,0,0,0,1,1,0,0,0,3,0,0,0,4,0,1,0.0,Matches
+125,Matheus Cavichioli,br BRA,GK,América (MG),35,1986,25.0,1,0,0,2,4,0,0,2,1,0,1,0,23,17,0,100.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+126,Brayan Ceballos,co COL,DF,Fortaleza,20,2001,11.9,8,1,1,15,4,1,3,14,9,0,0,0,55,42,24,63.6,Matches
+127,Murilo Cerqueira,br BRA,DF,Palmeiras,24,1997,31.5,7,0,0,25,10,2,0,39,21,0,0,0,153,96,40,70.6,Matches
+128,Reynaldo Cesar Moraes,br BRA,DF,Goiás,25,1997,30.5,4,0,0,34,8,0,2,40,26,0,0,0,94,62,28,68.9,Matches
+129,Jhon Chancellor,ve VEN,DF,Coritiba,30,1992,13.0,3,0,0,13,3,1,0,9,7,0,0,0,42,33,19,63.5,Matches
+130,Arthur Chaves,br BRA,DF,Avaí,21,2001,16.5,5,0,0,16,10,1,0,13,15,0,3,0,71,27,21,56.3,Matches
+131,Renato Chaves,br BRA,DF,Juventude,31,1990,1.8,0,0,0,1,0,0,0,5,0,0,0,0,7,5,0,100.0,Matches
+132,Chico,br BRA,"MF,FW",Juventude,30,1991,24.2,3,1,0,54,69,3,145,25,31,0,0,0,132,21,34,38.2,Matches
+133,Christian,br BRA,MF,Ath Paranaense,21,2000,4.8,3,0,0,17,6,2,3,5,6,0,0,0,21,5,3,62.5,Matches
+134,Diego Churín,ar ARG,FW,Atl Goianiense,32,1989,26.5,6,0,0,51,52,5,11,8,18,0,0,0,72,119,103,53.6,Matches
+135,Marcelo Cirino,br BRA,FW,Ath Paranaense,30,1992,5.2,1,0,0,5,5,5,7,5,3,1,0,0,16,7,20,25.9,Matches
+136,Léo Cittadini,br BRA,"MF,FW",Ath Paranaense,27,1994,8.0,2,0,0,16,16,0,5,5,10,0,0,0,37,8,11,42.1,Matches
+137,Luccas Claro,br BRA,DF,Fluminense,30,1991,5.2,1,0,0,6,7,0,0,8,1,0,0,1,20,16,8,66.7,Matches
+138,Clayton,br BRA,"FW,MF",Coritiba,23,1999,3.6,1,0,0,10,11,5,1,0,1,0,0,0,13,8,17,32.0,Matches
+139,Cléber,br BRA,FW,Ceará,25,1996,10.9,6,1,1,38,6,4,5,2,10,0,0,0,26,56,49,53.3,Matches
+140,Jean Cléber,br BRA,MF,Avaí,31,1990,9.6,2,0,0,16,14,0,6,13,11,0,0,0,56,9,14,39.1,Matches
+141,Cleiton,br BRA,DF,Flamengo,18,2003,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+142,Andrés Colorado,co COL,MF,São Paulo,23,1998,3.4,0,0,0,10,1,0,1,5,9,0,0,0,23,7,4,63.6,Matches
+143,Germán Conti,ar ARG,DF,América (MG),27,1994,18.4,1,0,0,15,1,0,0,28,13,0,0,0,69,97,40,70.8,Matches
+144,Jonathan Copete,co COL,FW,Avaí,34,1988,3.1,1,0,0,7,4,2,6,3,2,0,0,0,17,8,8,50.0,Matches
+145,Bruno Cortez,br BRA,DF,Avaí,34,1987,27.0,7,0,0,21,25,1,28,12,25,0,0,0,163,22,25,46.8,Matches
+146,Talles Costa,br BRA,MF,São Paulo,19,2002,6.1,1,0,0,6,15,0,5,8,8,0,0,0,28,5,4,55.6,Matches
+147,Lucas Crispim,br BRA,"DF,MF",Fortaleza,27,1994,13.0,4,0,0,14,14,1,79,15,13,0,0,0,75,11,12,47.8,Matches
+148,Daniel Cruz,br BRA,"FW,DF",Botafogo (RJ),20,2001,0.1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,50.0,Matches
+149,Tomás Cuello,ar ARG,FW,Ath Paranaense,21,2000,18.0,6,1,1,26,34,5,74,12,25,0,0,0,98,6,18,25.0,Matches
+150,Víctor Cuesta,ar ARG,DF,Botafogo (RJ),33,1988,28.5,8,0,0,28,11,2,8,59,29,0,0,0,153,67,27,71.3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+151,Andrés D'Alessandro,ar ARG,FW,Internacional,40,1981,0.8,1,0,0,0,1,0,3,0,0,0,0,0,4,0,2,0.0,Matches
+152,Adailson Dadá,br BRA,"MF,FW",Goiás,24,1997,27.9,10,1,1,52,71,3,105,15,22,0,0,0,132,7,27,20.6,Matches
+153,Daniel,br BRA,GK,Internacional,27,1994,23.0,5,0,0,0,6,0,0,1,0,0,0,0,9,1,1,50.0,Matches
+154,Danilo,br BRA,MF,Palmeiras,20,2001,30.5,5,1,0,46,21,1,16,29,40,0,1,0,190,20,31,39.2,Matches
+155,David,br BRA,MF,Ceará,17,2004,0.1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+156,David,br BRA,FW,Internacional,26,1995,9.1,1,0,0,21,16,7,12,0,6,0,0,0,25,14,32,30.4,Matches
+157,Kayke David,br BRA,"FW,MF",Flamengo,19,2003,0.3,0,0,0,1,3,0,2,0,0,0,0,0,4,0,0,,Matches
+158,Giorgian De Arrascaeta,uy URU,MF,Flamengo,27,1994,16.4,1,0,0,9,48,2,132,5,23,1,0,0,74,13,17,43.3,Matches
+159,Denilson,br BRA,MF,Cuiabá,20,2001,7.8,4,0,0,18,16,0,1,9,12,0,0,0,54,4,4,50.0,Matches
+160,Dentinho,br BRA,FW,Ceará,33,1989,0.6,0,0,0,5,0,1,2,0,1,0,0,0,4,1,2,33.3,Matches
+161,Dentinho,br BRA,"FW,MF",Avaí,24,1997,3.2,4,0,0,6,11,0,7,3,3,1,0,0,16,2,6,25.0,Matches
+162,Valentín Depietri,ar ARG,"FW,MF",Fortaleza,21,2000,2.6,0,0,0,7,2,0,13,2,2,0,0,0,16,4,3,57.1,Matches
+163,Deyverson,br BRA,FW,Cuiabá,30,1991,14.1,4,0,0,13,28,13,10,4,3,0,0,0,45,73,59,55.3,Matches
+164,DG,br BRA,DF,Botafogo (RJ),20,2001,0.7,1,0,0,0,1,0,1,0,0,0,0,0,2,1,1,50.0,Matches
+165,Luan Dias,br BRA,"MF,FW",Goiás,24,1997,8.6,7,0,0,21,15,1,19,9,12,0,0,0,50,5,4,55.6,Matches
+166,Matheus Dias,br BRA,MF,Internacional,19,2002,1.2,0,0,0,1,2,0,0,1,2,0,0,0,4,2,0,100.0,Matches
+167,Juan Díaz,co COL,MF,Coritiba,20,2001,1.5,0,0,0,2,2,0,0,1,6,0,0,0,4,2,1,66.7,Matches
+168,Diego,br BRA,"MF,DF",Ceará,33,1988,2.3,1,0,0,4,6,0,8,7,0,0,0,0,11,4,0,100.0,Matches
+169,Diego,br BRA,GK,Atl Goianiense,23,1998,2.0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
+170,Diego,br BRA,DF,São Paulo,22,1999,19.1,7,0,0,36,8,0,6,24,25,0,1,0,68,47,33,58.8,Matches
+171,Diego,br BRA,MF,Flamengo,36,1985,9.8,3,0,0,20,19,1,6,10,15,0,1,0,62,6,6,50.0,Matches
+172,Diego,br BRA,GK,Botafogo (RJ),23,1998,2.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+173,Dieguinho,br BRA,"MF,DF",Goiás,26,1995,32.1,4,0,0,34,77,1,87,35,39,1,0,0,204,28,26,51.9,Matches
+174,Dodô,br BRA,DF,Atlético Mineiro,29,1992,10.1,2,0,0,10,7,1,34,13,11,0,0,0,39,10,10,50.0,Matches
+175,Matheus Donelli,br BRA,GK,Corinthians,19,2002,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+176,Renan dos Santos,br BRA,GK,Atl Goianiense,32,1989,16.0,2,0,0,0,3,0,0,0,0,0,0,0,4,4,0,100.0,Matches
+177,Rodrigo Dourado,br BRA,MF,Internacional,27,1994,5.0,2,0,0,9,4,0,0,7,6,0,0,0,24,10,5,66.7,Matches
+178,David Duarte,br BRA,DF,Fluminense,27,1995,0.9,2,0,0,2,0,0,0,4,1,0,0,0,7,8,0,100.0,Matches
+179,Dudu,br BRA,DF,Juventude,19,2002,1.2,0,0,0,3,1,0,1,3,0,0,0,0,6,1,2,33.3,Matches
+180,Dudu,br BRA,FW,Palmeiras,30,1992,31.3,2,0,0,16,63,6,77,24,7,0,0,0,151,7,25,21.9,Matches
+181,Pablo Dyego,br BRA,FW,Avaí,27,1994,5.4,1,0,0,8,13,0,7,6,7,0,0,0,20,3,14,17.6,Matches
+182,Edenílson,br BRA,MF,Internacional,32,1989,24.3,3,0,0,18,23,1,62,15,22,1,0,0,132,14,29,32.6,Matches
+183,Eder,br BRA,DF,América (MG),26,1995,32.7,6,0,0,45,9,0,1,54,13,0,0,1,162,84,54,60.9,Matches
+184,Éder,it ITA,"FW,MF",São Paulo,35,1986,7.4,4,0,0,8,10,9,11,1,5,1,0,0,18,10,16,38.5,Matches
+185,Edinho,br BRA,MF,Juventude,27,1994,4.1,0,0,0,4,7,0,18,2,0,0,0,0,16,2,2,50.0,Matches
+186,Edson,br BRA,"MF,DF",Atl Goianiense,23,1998,9.1,7,0,0,18,23,0,16,10,12,0,0,0,61,7,10,41.2,Matches
+187,Edson,br BRA,"DF,MF",Atl Goianiense,30,1991,15.8,5,0,0,12,16,1,1,27,15,1,1,0,86,35,26,57.4,Matches
+188,Eduardo,br BRA,MF,Avaí,25,1997,20.8,6,0,0,47,36,1,26,12,19,0,0,0,113,16,14,53.3,Matches
+189,Carlos Eduardo,br BRA,MF,Botafogo (RJ),32,1989,12.2,3,0,0,21,28,0,11,10,10,0,0,0,56,16,18,47.1,Matches
+190,Carlos Eduardo,br BRA,"FW,MF",RB Bragantino,25,1996,10.0,4,0,0,30,28,5,15,5,9,1,0,0,37,10,25,28.6,Matches
+191,Elton,br BRA,MF,Juventude,31,1990,12.9,5,0,0,25,9,1,0,20,18,0,0,0,71,14,12,53.8,Matches
+192,Leandro Emmanuel Martínez,ar ARG,MF,América (MG),27,1994,2.9,1,0,0,3,6,0,19,3,6,0,0,0,15,0,1,0.0,Matches
+193,Alan Empereur,br BRA,DF,Cuiabá,27,1994,24.7,9,1,1,21,22,1,6,38,9,0,0,0,97,34,26,56.7,Matches
+194,Endrick,br BRA,FW,Palmeiras,15,2006,3.4,1,0,0,9,4,3,2,0,4,0,0,0,5,0,5,0.0,Matches
+195,Erick,br BRA,MF,Ath Paranaense,24,1997,20.5,2,0,0,30,14,0,5,31,26,0,0,0,97,32,23,58.2,Matches
+196,Erick,br BRA,"FW,MF",Ceará,24,1997,11.7,5,0,0,13,36,6,62,5,5,0,0,0,58,6,8,42.9,Matches
+197,Erison,br BRA,FW,Botafogo (RJ),22,1999,16.5,2,0,0,29,25,13,10,1,3,0,0,0,26,26,80,24.5,Matches
+198,Estevão,br BRA,"FW,MF",Internacional,19,2002,1.2,0,0,0,2,3,0,0,1,1,0,0,0,6,3,3,50.0,Matches
+199,Lucas Evangelista,br BRA,MF,RB Bragantino,26,1995,29.0,2,1,0,41,58,2,29,27,36,0,0,0,151,62,56,52.5,Matches
+200,Everaldo,br BRA,"MF,FW",América (MG),27,1994,21.0,6,0,0,31,52,5,117,16,17,0,0,0,100,6,18,25.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+201,Éverson,br BRA,GK,Atlético Mineiro,31,1990,37.0,5,0,0,0,4,0,0,0,0,0,0,0,40,5,1,83.3,Matches
+202,Éverton,br BRA,"MF,FW",Cuiabá,33,1988,4.4,2,0,0,12,13,1,9,4,6,0,0,0,30,5,9,35.7,Matches
+203,Fabinho,br BRA,MF,Palmeiras,19,2002,0.8,1,0,0,4,0,0,0,2,3,0,0,0,6,0,0,,Matches
+204,Fábio,br BRA,"FW,MF",Atlético Mineiro,24,1997,1.5,0,0,0,1,1,0,0,0,1,0,0,0,6,4,9,30.8,Matches
+205,Fábio,br BRA,GK,Fluminense,41,1980,38.0,2,0,0,0,5,0,0,0,1,0,0,0,31,14,0,100.0,Matches
+206,Fabrício,br BRA,"FW,MF",Coritiba,24,1997,16.7,3,0,0,17,41,1,24,7,19,0,0,0,77,7,33,17.5,Matches
+207,Fagner,br BRA,DF,Corinthians,32,1989,10.0,3,0,0,15,11,2,51,11,21,0,0,0,44,7,8,46.7,Matches
+208,Willian Farias,br BRA,MF,Coritiba,32,1989,17.7,7,0,0,12,25,0,2,19,21,0,0,0,99,16,9,64.0,Matches
+209,Lucas Fasson,br BRA,DF,Ath Paranaense,20,2001,0.8,0,0,0,0,0,0,0,1,0,0,0,0,7,1,1,50.0,Matches
+210,Felipe,br BRA,MF,Fortaleza,27,1994,9.8,2,1,0,12,13,0,3,13,7,0,0,0,56,15,8,65.2,Matches
+211,Luiz Felipe,br BRA,DF,Santos,28,1993,10.9,3,0,0,14,4,1,0,20,7,0,0,0,42,19,11,63.3,Matches
+212,Matheus Felipe,br BRA,DF,Ath Paranaense,23,1998,19.8,3,0,0,21,5,0,2,17,20,0,0,0,70,33,22,60.0,Matches
+213,Lucas Fernandes,br BRA,MF,Botafogo (RJ),24,1997,18.6,3,0,0,30,29,0,63,8,10,0,0,0,92,9,13,40.9,Matches
+214,Matheus Fernandes,br BRA,MF,Ath Paranaense,23,1998,7.6,2,0,0,14,3,0,1,9,13,0,0,0,55,6,4,60.0,Matches
+215,Gatito Fernández,py PAR,GK,Botafogo (RJ),33,1988,31.2,1,0,0,0,6,0,0,2,1,0,0,0,28,5,0,100.0,Matches
+216,Ignacio Fernández,ar ARG,MF,Atlético Mineiro,32,1990,24.7,7,0,0,22,59,3,154,21,24,2,0,0,141,7,19,26.9,Matches
+217,Rodrigo Fernández,uy URU,MF,Santos,26,1996,25.7,15,0,0,84,27,0,17,20,52,0,2,0,205,29,16,64.4,Matches
+218,Fernandinho,br BRA,MF,Ath Paranaense,36,1985,10.8,5,0,0,26,16,1,13,11,8,0,0,0,71,17,19,47.2,Matches
+219,Derick Fernando,br BRA,DF,Santos,19,2002,0.2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
+220,Luiz Fernando,br BRA,"FW,MF",Atl Goianiense,25,1996,19.4,7,2,1,26,39,12,25,11,10,0,0,0,102,26,37,41.3,Matches
+221,Nahuel Ferraresi,ve VEN,DF,São Paulo,23,1998,7.9,1,1,0,9,10,0,0,12,11,0,1,0,53,14,8,63.6,Matches
+222,Luiz Filipe,br BRA,"MF,FW",Goiás,20,2001,0.4,1,0,0,1,2,0,1,0,1,1,0,0,2,0,0,,Matches
+223,Flávio,br BRA,MF,América (MG),21,2000,0.3,0,0,0,1,1,0,1,2,2,0,0,0,1,1,0,100.0,Matches
+224,Biel Fonseca,br BRA,"FW,MF",Coritiba,19,2002,1.1,1,0,0,1,4,0,0,3,3,0,0,0,4,0,2,0.0,Matches
+225,Rafael Forster,br BRA,DF,Juventude,31,1990,18.1,1,0,0,15,14,0,7,26,18,0,0,0,116,36,32,52.9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+226,Matheus França,br BRA,"FW,MF",Flamengo,17,2004,7.5,1,0,0,15,5,0,8,3,5,0,0,0,27,13,14,48.1,Matches
+227,Fred,br BRA,"FW,MF",Fluminense,38,1983,1.4,1,0,0,2,0,0,1,0,0,0,0,0,1,3,4,42.9,Matches
+228,Marlon Freitas,br BRA,MF,Atl Goianiense,26,1995,27.5,2,0,0,16,5,2,23,28,29,0,0,1,164,17,18,48.6,Matches
+229,Rodrigo Freitas,br BRA,DF,Avaí,23,1998,5.3,2,0,0,3,5,0,2,10,2,0,0,0,24,9,6,60.0,Matches
+230,Douglas Friedrich,br BRA,GK,Avaí,33,1988,10.4,1,1,0,1,2,0,0,0,0,0,0,0,8,6,0,100.0,Matches
+231,Gabriel,br BRA,MF,Internacional,29,1992,23.8,2,0,0,45,26,0,8,44,58,0,0,0,162,17,16,51.5,Matches
+232,Gabriel,br BRA,GK,Coritiba,29,1992,13.0,2,0,0,1,1,0,0,0,0,0,1,0,11,4,1,80.0,Matches
+233,Gabriel,br BRA,MF,Botafogo (RJ),28,1993,8.3,3,0,0,13,11,0,11,17,9,0,1,0,41,17,6,73.9,Matches
+234,Eduardo Gabriel,br BRA,DF,Santos,25,1996,33.0,7,0,0,13,36,1,0,49,17,1,0,0,122,80,58,58.0,Matches
+235,Marquinhos Gabriel,br BRA,"MF,FW",Goiás,31,1990,8.4,1,0,0,6,17,3,20,1,6,0,0,0,37,5,7,41.7,Matches
+236,Vitor Gabriel,br BRA,"FW,MF",Juventude,22,2000,8.6,6,0,0,30,12,3,3,0,3,0,0,0,25,37,42,46.8,Matches
+237,Matías Galarza,py PAR,MF,Coritiba,19,2002,6.7,4,0,0,26,15,0,10,13,9,0,0,0,53,4,11,26.7,Matches
+238,Matheus Galdezani,br BRA,MF,Avaí,29,1992,3.2,3,0,0,10,4,0,4,6,8,0,0,0,16,1,5,16.7,Matches
+239,Thiago Galhardo,br BRA,"FW,MF",Fortaleza,32,1989,15.0,5,0,0,16,20,2,10,6,7,1,0,0,44,38,50,43.2,Matches
+240,Giuliano Galoppo,ar ARG,MF,São Paulo,22,1999,7.9,1,0,0,13,7,0,7,3,11,0,0,0,34,13,13,50.0,Matches
+241,Léo Gamalho,br BRA,FW,Coritiba,36,1986,18.4,2,0,0,24,35,7,6,0,6,1,0,0,36,66,65,50.4,Matches
+242,Ganso,br BRA,"MF,FW",Fluminense,32,1989,27.5,7,0,0,30,46,0,60,9,22,1,0,0,125,9,25,26.5,Matches
+243,García,br BRA,"DF,MF",Palmeiras,20,2002,1.1,1,0,0,0,1,0,1,2,0,0,0,0,4,3,1,75.0,Matches
+244,Bryan García,ec ECU,MF,Ath Paranaense,21,2001,3.1,2,0,0,4,4,0,1,2,4,0,0,0,28,0,4,0.0,Matches
+245,Luan Garcia,br BRA,DF,Palmeiras,28,1993,13.6,2,0,0,21,10,1,1,22,4,0,0,1,58,19,11,63.3,Matches
+246,Gaspar,br BRA,FW,Avaí,19,2002,0.4,0,0,0,0,1,1,1,1,2,0,0,0,2,0,0,,Matches
+247,Rafael Gava,br BRA,MF,Cuiabá,28,1993,22.7,2,0,0,29,22,4,178,15,17,0,0,0,131,22,25,46.8,Matches
+248,Lucas Gazal,br BRA,DF,Atl Goianiense,22,1999,14.5,1,1,0,19,2,1,3,16,4,0,0,0,51,33,21,61.1,Matches
+249,Guilherme Gehring,br BRA,MF,Juventude,16,2005,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+250,Geovane,br BRA,MF,Ceará,22,1999,6.1,4,0,0,19,13,0,6,5,4,0,0,0,35,5,7,41.7,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+251,Gil,br BRA,DF,Corinthians,34,1987,22.7,4,0,0,13,7,3,0,29,13,0,1,0,116,62,24,72.1,Matches
+252,Giovane,br BRA,"FW,DF",Corinthians,18,2003,3.3,2,0,0,9,4,1,6,1,2,1,0,0,7,5,10,33.3,Matches
+253,Giovani,br BRA,"FW,MF",Palmeiras,18,2004,0.4,0,0,0,0,1,0,2,0,0,0,0,0,2,0,1,0.0,Matches
+254,Glédson,br BRA,GK,Avaí,38,1983,5.0,2,0,0,0,3,0,0,0,0,0,0,0,4,0,1,0.0,Matches
+255,Diego Godín,uy URU,DF,Atlético Mineiro,35,1986,1.0,0,0,0,2,2,0,0,2,2,0,0,0,6,3,3,50.0,Matches
+256,Bruno Gomes,br BRA,MF,Coritiba,20,2001,16.6,3,0,0,29,48,0,21,23,21,0,0,0,94,9,13,40.9,Matches
+257,Igor Gomes,br BRA,MF,São Paulo,22,1999,22.9,5,1,1,35,28,3,64,18,13,0,0,0,117,32,22,59.3,Matches
+258,Igor Gomes,br BRA,DF,Internacional,20,2001,1.3,0,0,0,1,2,0,1,1,0,0,1,0,5,0,1,0.0,Matches
+259,João Gomes,br BRA,MF,Flamengo,20,2001,20.9,8,0,0,54,49,0,11,26,51,0,0,0,130,13,18,41.9,Matches
+260,Gustavo Gómez,py PAR,DF,Palmeiras,28,1993,30.0,9,0,0,31,19,7,12,48,21,0,1,0,146,103,71,59.2,Matches
+261,Aloísio dos Santos Gonçalves,cn CHN,"FW,MF",América (MG),33,1988,10.5,4,0,0,37,18,10,6,4,8,0,0,0,30,8,27,22.9,Matches
+262,Diego Gonçalves,br BRA,FW,Botafogo (RJ),27,1994,4.7,1,0,0,8,6,2,21,2,3,0,0,0,23,11,12,47.8,Matches
+263,Matheus Gonçalves,br BRA,FW,Flamengo,16,2005,0.3,0,0,0,0,0,1,1,0,0,0,0,0,5,0,0,,Matches
+264,Ricardo Goulart,br BRA,"MF,FW",Santos,30,1991,4.5,2,0,0,6,8,0,6,1,3,0,0,0,17,8,6,57.1,Matches
+265,Daniel Guedes,br BRA,"DF,MF",Cuiabá,27,1994,8.8,4,0,0,12,5,3,85,15,9,0,0,0,36,7,10,41.2,Matches
+266,Roger Guedes,br BRA,"FW,MF",Corinthians,25,1996,28.3,6,0,0,17,56,10,27,3,3,0,0,0,86,33,35,48.5,Matches
+267,Paolo Guerrero,pe PER,FW,Avaí,38,1984,4.8,2,0,0,11,8,2,2,1,0,0,0,0,18,19,22,46.3,Matches
+268,Guga,br BRA,DF,Atlético Mineiro,23,1998,18.6,1,0,0,19,22,1,78,27,35,0,0,0,89,14,21,40.0,Matches
+269,Guilherme,br BRA,DF,RB Bragantino,19,2002,1.0,0,0,0,2,3,0,3,2,2,0,0,0,5,0,0,,Matches
+270,Marcos Guilherme,br BRA,"FW,MF",São Paulo,26,1995,6.4,1,0,0,4,6,1,9,3,2,0,0,0,23,2,4,33.3,Matches
+271,Marcos Guilherme,br BRA,MF,Santos,26,1995,0.3,0,0,0,1,0,0,1,0,1,0,0,0,3,2,0,100.0,Matches
+272,Gustavinho,br BRA,MF,América (MG),20,2001,4.3,2,0,0,7,12,0,14,4,9,0,0,0,21,4,7,36.4,Matches
+273,Raul Gustavo,br BRA,DF,Corinthians,22,1999,18.7,3,0,0,16,19,0,5,32,15,0,1,0,101,35,27,56.5,Matches
+274,Habraão,br BRA,DF,Fortaleza,20,2001,2.4,0,0,0,6,4,0,0,1,2,0,1,0,8,11,8,57.9,Matches
+275,Lucas Halter,br BRA,DF,Ath Paranaense,21,2000,1.1,1,0,0,3,1,0,0,2,0,0,0,0,5,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+276,Lucas Halter,br BRA,DF,Goiás,21,2000,11.9,2,0,0,7,1,1,2,9,7,0,0,0,38,16,14,53.3,Matches
+277,Hayner,br BRA,DF,Atl Goianiense,26,1995,15.3,8,1,0,28,33,6,70,22,10,1,0,0,54,18,19,48.6,Matches
+278,Heitor,br BRA,DF,Internacional,21,2000,4.4,2,0,0,2,1,0,13,9,13,0,0,0,17,2,1,66.7,Matches
+279,Thiago Heleno,br BRA,DF,Ath Paranaense,33,1988,12.7,4,1,0,11,4,0,1,23,6,0,0,0,59,16,19,45.7,Matches
+280,Helinho,br BRA,"FW,MF",RB Bragantino,21,2000,19.0,8,0,0,36,21,4,69,19,15,0,0,0,108,9,17,34.6,Matches
+281,Henrique,br BRA,DF,Coritiba,35,1986,17.9,5,1,0,15,5,1,3,21,12,0,2,1,70,21,24,46.7,Matches
+282,Arthur Henrique,br BRA,DF,Atl Goianiense,27,1994,10.7,0,1,0,14,10,0,27,16,19,0,0,0,57,11,10,52.4,Matches
+283,Bruno Henrique,br BRA,"FW,MF",Flamengo,31,1990,6.8,3,0,0,11,20,8,11,4,8,0,0,0,28,13,11,54.2,Matches
+284,Daniel Henrique,br BRA,FW,Ceará,17,2004,0.3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
+285,Gustavo Henrique,br BRA,DF,Flamengo,28,1993,3.8,0,0,0,5,0,0,0,5,3,0,0,0,11,13,2,86.7,Matches
+286,Luis Henrique,br BRA,"FW,MF",Botafogo (RJ),20,2001,2.9,1,0,0,4,3,2,6,3,1,0,0,0,17,2,0,100.0,Matches
+287,Luiz Henrique,br BRA,"FW,MF",Fluminense,21,2001,11.7,0,0,0,18,21,2,21,9,19,0,0,0,64,19,27,41.3,Matches
+288,Paulo Henrique,br BRA,"DF,MF",Juventude,25,1996,16.7,3,0,0,33,13,3,94,11,27,0,1,0,130,19,17,52.8,Matches
+289,Pedro Henrique,br BRA,"DF,FW",Ath Paranaense,19,2002,15.4,4,0,0,19,8,1,49,27,13,0,0,0,84,12,12,50.0,Matches
+290,Pedro Henrique,br BRA,DF,Ath Paranaense,26,1995,25.6,7,0,0,21,22,0,3,42,24,0,0,0,123,70,38,64.8,Matches
+291,Pedro Henrique,br BRA,"FW,MF",Internacional,31,1990,17.7,6,0,0,41,47,18,81,9,21,1,0,0,61,26,26,50.0,Matches
+292,Hércules,br BRA,"MF,FW",Fortaleza,21,2000,15.2,1,0,0,17,11,1,17,10,16,0,0,0,100,13,9,59.1,Matches
+293,Nicolás Hernández,co COL,DF,Ath Paranaense,24,1998,18.0,3,0,0,18,5,0,1,22,17,0,0,1,70,17,26,39.5,Matches
+294,Hugo,br BRA,"DF,MF",Goiás,24,1997,7.8,3,0,0,11,6,1,22,11,11,0,0,0,49,17,10,63.0,Matches
+295,Hugo,br BRA,"DF,MF",Botafogo (RJ),20,2001,12.2,3,1,0,18,12,0,35,20,19,0,0,0,57,13,14,48.1,Matches
+296,José Hugo,br BRA,"FW,MF",Coritiba,22,1999,4.4,0,0,0,6,15,1,9,1,5,0,0,0,26,9,6,60.0,Matches
+297,Victor Hugo,br BRA,MF,Flamengo,17,2004,13.9,1,0,0,7,13,1,14,11,11,0,0,0,61,17,35,32.7,Matches
+298,Vitor Hugo,br BRA,FW,Goiás,17,2004,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+299,Hulk,br BRA,FW,Atlético Mineiro,35,1986,23.2,6,0,0,35,59,15,43,3,6,0,0,0,49,17,42,28.8,Matches
+300,José Hurtado,ec ECU,DF,RB Bragantino,20,2001,6.6,1,0,0,8,4,1,33,5,11,0,1,0,31,11,11,50.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+301,Hyoran,br BRA,MF,RB Bragantino,28,1993,14.2,1,0,0,17,14,1,75,10,16,0,0,0,60,7,12,36.8,Matches
+302,Igor,br BRA,"MF,FW",Flamengo,18,2003,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+303,André Inácio,br BRA,FW,Flamengo,19,2002,0.5,0,0,0,0,2,0,1,0,0,0,0,0,6,1,0,100.0,Matches
+304,Mauricio Isla,cl CHI,DF,Flamengo,33,1988,3.8,0,0,0,3,2,0,13,6,3,0,1,0,19,7,8,46.7,Matches
+305,Jadsom,br BRA,MF,RB Bragantino,20,2001,14.1,7,0,0,27,9,0,3,34,18,0,0,0,98,6,7,46.2,Matches
+306,Jadson,br BRA,MF,Juventude,28,1993,29.1,9,1,0,39,50,1,31,24,46,0,0,0,181,7,18,28.0,Matches
+307,Jailson,br BRA,GK,América (MG),40,1981,12.0,1,0,0,0,0,0,0,0,0,0,0,0,9,0,0,,Matches
+308,Jair,br BRA,MF,Atlético Mineiro,27,1994,23.0,5,0,0,46,31,0,12,32,41,0,1,0,127,33,22,60.0,Matches
+309,Jandrei,br BRA,GK,São Paulo,28,1993,18.3,0,0,0,0,3,0,0,1,0,0,0,0,25,9,0,100.0,Matches
+310,Vinícius Jaú,br BRA,MF,Avaí,23,1998,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+311,Pablo Javier García,uy URU,FW,Coritiba,22,1999,0.1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,Matches
+312,Jean,br BRA,MF,Juventude,27,1994,13.1,6,0,0,24,15,1,5,39,30,0,0,0,69,27,24,52.9,Matches
+313,Jefferson,br BRA,DF,Atl Goianiense,25,1997,25.3,5,0,0,38,21,0,74,23,22,0,0,0,140,28,23,54.9,Matches
+314,Jeffinho,br BRA,FW,Botafogo (RJ),22,1999,17.8,3,0,0,23,34,1,12,12,16,0,0,0,111,10,17,37.0,Matches
+315,Jemerson,br BRA,DF,Atlético Mineiro,29,1992,11.1,6,0,0,21,6,1,0,10,8,0,0,0,46,19,13,59.4,Matches
+316,Jenison,br BRA,FW,Cuiabá,30,1991,3.6,2,0,0,8,3,1,3,2,1,0,0,0,15,18,11,62.1,Matches
+317,Alexandre Jesus,br BRA,"MF,DF",Fluminense,20,2001,0.7,0,0,0,1,1,0,5,5,0,0,0,0,10,2,5,28.6,Matches
+318,Jô,br BRA,FW,Ceará,34,1987,8.7,1,1,0,14,10,8,2,2,1,0,0,0,15,39,22,63.9,Matches
+319,Jô,br BRA,FW,Corinthians,34,1987,2.2,1,0,0,4,5,1,1,1,1,0,0,0,4,13,8,61.9,Matches
+320,Joaquim,br BRA,DF,Cuiabá,23,1998,23.9,4,0,0,27,20,1,4,36,28,0,0,0,140,91,32,74.0,Matches
+321,John,br BRA,GK,Santos,25,1996,1.0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,,Matches
+322,Jonas,br BRA,MF,São Paulo,22,1999,0.3,0,0,0,1,1,0,2,1,0,0,0,0,1,0,0,,Matches
+323,Felipe Jonatan,br BRA,DF,Santos,23,1998,23.0,3,0,0,25,21,2,95,34,17,0,0,0,156,23,28,45.1,Matches
+324,Jonathan,br BRA,DF,Botafogo (RJ),23,1998,0.5,0,0,0,1,0,0,0,1,1,0,0,0,2,1,4,20.0,Matches
+325,Jorge,br BRA,DF,Palmeiras,25,1996,5.2,1,0,0,5,10,0,18,3,8,0,0,1,25,8,9,47.1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+326,Jorginho,br BRA,MF,Atl Goianiense,31,1991,18.2,8,0,0,17,30,6,67,6,18,0,0,0,107,27,24,52.9,Matches
+327,Jhojan Julio,ec ECU,"FW,MF",Santos,23,1998,9.2,2,0,0,22,21,5,21,9,13,0,0,0,49,12,18,40.0,Matches
+328,Juninho,br BRA,MF,América (MG),35,1986,0.2,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,,Matches
+329,Juninho,br BRA,MF,América (MG),34,1987,34.5,6,0,0,33,36,3,29,31,28,1,1,0,231,22,63,25.9,Matches
+330,Renato Junior,br BRA,"FW,MF",Goiás,19,2002,5.5,3,0,0,13,10,1,4,2,4,0,0,0,27,14,20,41.2,Matches
+331,Pedrinho Junqueira,br BRA,"MF,FW",Goiás,17,2004,3.6,1,0,0,4,6,1,11,2,7,0,0,0,20,1,9,10.0,Matches
+332,Jussa,br BRA,"MF,DF",Fortaleza,25,1996,7.0,1,0,0,16,0,1,2,8,1,0,1,2,39,9,9,50.0,Matches
+333,Kaiky,br BRA,DF,Santos,18,2004,1.0,0,0,0,0,3,0,0,2,0,0,0,0,2,2,0,100.0,Matches
+334,Lucas Kal,br BRA,MF,América (MG),25,1996,24.0,4,0,0,28,10,0,3,32,19,0,0,0,142,37,23,61.7,Matches
+335,Kanu,br BRA,DF,Botafogo (RJ),24,1997,16.1,5,0,0,15,11,0,1,23,10,0,0,0,73,42,25,62.7,Matches
+336,Alan Kardec,br BRA,"FW,MF",Atlético Mineiro,33,1989,2.9,0,0,0,6,4,0,0,0,1,0,0,0,7,14,12,53.8,Matches
+337,Kauan,br BRA,FW,RB Bragantino,18,2003,0.3,1,0,0,4,0,0,0,0,0,0,0,0,1,1,1,50.0,Matches
+338,Kawê,br BRA,"MF,FW",América (MG),19,2002,0.3,0,0,0,2,1,1,1,0,0,0,0,0,3,0,3,0.0,Matches
+339,Kayque,br BRA,MF,Botafogo (RJ),21,2000,3.1,3,0,0,8,11,1,2,2,5,0,0,0,22,3,5,37.5,Matches
+340,Renato Kayser,br BRA,FW,Fortaleza,25,1996,1.8,0,0,0,3,3,0,1,0,0,0,0,0,8,1,4,20.0,Matches
+341,Gabriel Kazu,br BRA,MF,Avaí,22,1999,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,Matches
+342,Keiller,br BRA,GK,Internacional,25,1996,15.0,2,0,0,1,6,0,0,0,0,0,1,0,5,8,0,100.0,Matches
+343,Thalisson Kelven,br BRA,DF,Juventude,23,1998,20.0,3,0,0,17,7,0,0,31,13,0,0,1,64,40,39,50.6,Matches
+344,Kelvi,br BRA,MF,Juventude,19,2002,0.5,0,0,0,1,2,0,0,0,1,0,0,0,1,0,0,,Matches
+345,Kelvin,br BRA,"MF,FW",Atl Goianiense,24,1997,3.4,0,0,0,0,4,1,20,1,3,0,0,0,13,2,8,20.0,Matches
+346,Kelvyn,br BRA,"FW,DF",Ceará,22,1999,0.6,0,0,0,2,0,0,2,0,1,0,0,0,3,0,0,,Matches
+347,John Kennedy,br BRA,"FW,MF",Fluminense,19,2002,1.6,3,0,0,5,1,0,1,1,0,0,0,0,1,3,8,27.3,Matches
+348,Keno,br BRA,"FW,MF",Atlético Mineiro,32,1989,20.6,5,0,0,21,30,7,101,3,20,0,0,0,77,13,11,54.2,Matches
+349,Kevin,br BRA,DF,Avaí,24,1997,29.2,3,0,0,34,20,3,184,37,40,0,0,0,185,32,25,56.1,Matches
+350,Khellven,br BRA,DF,Ath Paranaense,20,2001,23.4,1,0,0,36,21,0,137,39,25,0,1,0,104,12,20,37.5,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+351,Willian Klaus,br BRA,DF,Atl Goianiense,28,1994,6.0,1,0,0,6,2,1,0,8,3,0,0,0,18,18,8,69.2,Matches
+352,Willian Klaus,br BRA,DF,Botafogo (RJ),28,1994,1.0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,100.0,Matches
+353,Benjamín Kuscevic,cl CHI,DF,Palmeiras,25,1996,3.3,1,0,0,0,3,1,0,9,4,0,0,0,10,10,5,66.7,Matches
+354,Gabriel Lacerda,br BRA,DF,Ceará,22,1999,21.0,4,0,0,15,3,0,6,21,14,0,1,0,91,49,31,61.3,Matches
+355,Anthony Landazuri,ec ECU,DF,Fortaleza,24,1997,5.8,1,0,0,15,6,0,5,8,4,1,0,0,30,6,9,40.0,Matches
+356,Thauan Lara,br BRA,"DF,FW",Internacional,18,2004,3.8,2,0,0,6,6,0,5,4,6,0,0,0,13,5,5,50.0,Matches
+357,Lázaro,br BRA,"FW,MF",Flamengo,19,2002,9.1,2,0,0,17,17,3,23,3,7,0,0,0,33,11,16,40.7,Matches
+358,Anderson Leite,br BRA,MF,Juventude,28,1993,0.8,0,0,0,3,1,0,1,4,1,0,0,0,5,1,0,100.0,Matches
+359,Vinícius Leite,br BRA,MF,Avaí,28,1993,1.5,0,0,0,1,2,0,5,6,2,0,0,0,10,0,6,0.0,Matches
+360,Bernardo Lemes,br BRA,"MF,FW",Coritiba,20,2002,10.5,1,0,0,20,17,0,6,16,15,0,0,0,63,11,6,64.7,Matches
+361,Marcos Leonardo,br BRA,FW,Santos,18,2003,32.0,8,0,0,35,84,19,8,2,2,1,0,0,55,34,71,32.4,Matches
+362,Vitor Leque,br BRA,"MF,DF",Juventude,21,2001,0.6,2,1,1,2,3,1,1,0,0,0,0,0,1,1,1,50.0,Matches
+363,Lima,br BRA,"FW,MF",Ceará,25,1996,21.5,2,1,0,26,54,3,61,18,23,0,0,0,116,10,27,27.0,Matches
+364,Anderson Lima,br BRA,"MF,FW",São Paulo,22,1999,2.3,3,0,0,10,8,0,6,1,6,1,0,0,5,1,3,25.0,Matches
+365,Lucas Lima,br BRA,"DF,MF",Atl Goianiense,21,2000,1.4,0,0,0,4,2,0,4,0,2,0,0,0,5,2,2,50.0,Matches
+366,Lucas Lima,br BRA,"MF,FW",Fortaleza,31,1990,13.0,4,0,0,21,24,3,81,4,10,1,0,0,70,2,12,14.3,Matches
+367,Rodrigo Lindoso,br BRA,MF,Ceará,32,1989,9.6,6,0,0,12,13,0,4,7,7,0,0,0,50,18,10,64.3,Matches
+368,Liziero,br BRA,MF,Internacional,23,1998,5.6,3,0,0,15,10,0,7,7,12,0,0,0,39,1,5,16.7,Matches
+369,David Loiola,br BRA,DF,Ceará,19,2002,4.4,2,0,0,4,6,0,2,4,2,0,0,0,19,6,6,50.0,Matches
+370,Marcelo Lomba,br BRA,GK,Palmeiras,35,1986,3.0,1,0,0,0,1,0,0,0,0,0,0,0,5,0,0,,Matches
+371,Kevin Lomónaco,ar ARG,DF,RB Bragantino,20,2002,12.4,3,0,0,14,9,1,7,9,6,0,0,0,86,14,25,35.9,Matches
+372,Henrique Lordelo,br BRA,"MF,DF",Goiás,21,2000,1.4,2,1,1,9,1,0,0,2,4,0,0,0,13,2,1,66.7,Matches
+373,Guillermo de los Santos,uy URU,DF,Coritiba,30,1991,10.5,2,1,0,5,5,0,4,17,12,0,0,0,52,28,17,62.2,Matches
+374,Luan,br BRA,MF,Goiás,31,1990,0.5,1,0,0,1,0,0,1,0,1,0,0,0,7,0,0,,Matches
+375,Lucão,br BRA,GK,RB Bragantino,20,2001,1.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+376,Lucas,br BRA,DF,Santos,20,2001,16.2,2,1,0,16,9,1,143,13,22,0,0,0,98,9,12,42.9,Matches
+377,Ayrton Lucas,br BRA,DF,Flamengo,24,1997,28.4,4,0,0,43,46,0,64,27,39,0,0,0,174,27,20,57.4,Matches
+378,João Lucas,br BRA,"DF,MF",Cuiabá,23,1998,23.8,8,1,1,38,27,2,84,33,46,0,2,0,113,19,30,38.8,Matches
+379,Luciano,br BRA,FW,São Paulo,28,1993,22.6,9,0,0,24,34,10,5,7,9,1,0,0,70,19,21,47.5,Matches
+380,André Luis,br BRA,"FW,MF",Cuiabá,24,1997,20.4,5,0,0,30,56,3,19,7,13,3,0,0,76,23,22,51.1,Matches
+381,Filipe Luís,br BRA,DF,Flamengo,36,1985,7.1,1,0,0,7,10,0,23,12,12,0,0,0,42,2,4,33.3,Matches
+382,Victor Luis,br BRA,DF,Ceará,28,1993,15.7,1,0,0,25,22,0,57,15,9,0,0,0,77,11,27,28.9,Matches
+383,David Luiz,br BRA,DF,Flamengo,34,1987,15.8,4,0,0,25,5,2,6,13,4,0,0,0,67,27,12,69.2,Matches
+384,Luizão,br BRA,DF,São Paulo,19,2002,11.0,5,0,0,11,4,0,1,10,10,0,0,0,41,21,19,52.5,Matches
+385,Vinícius Machado,br BRA,GK,Ceará,21,2000,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+386,Mádson,br BRA,DF,Santos,30,1992,23.8,5,0,0,19,20,1,55,32,25,0,0,0,82,47,34,58.0,Matches
+387,Maguinho,br BRA,"DF,MF",Goiás,29,1993,21.6,10,0,0,43,21,2,41,34,26,1,1,0,114,25,32,43.9,Matches
+388,Gustavo Maia,br BRA,FW,Internacional,21,2001,0.2,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,,Matches
+389,Pablo Maia,br BRA,MF,São Paulo,20,2002,22.8,7,0,0,56,20,0,8,21,19,0,1,0,164,36,13,73.5,Matches
+390,Thiago Maia,br BRA,MF,Flamengo,24,1997,17.2,6,0,0,30,6,0,3,24,26,0,0,0,132,21,10,67.7,Matches
+391,Maicon,br BRA,DF,Santos,33,1988,21.3,2,0,0,8,7,2,16,29,20,0,0,0,112,60,43,58.3,Matches
+392,Iago Maidana,br BRA,DF,América (MG),25,1996,11.5,5,1,1,20,2,0,0,8,6,0,0,0,36,34,17,66.7,Matches
+393,Léo Mana,br BRA,DF,Corinthians,17,2004,0.5,0,0,0,0,0,0,1,3,0,0,0,0,0,1,0,100.0,Matches
+394,Alef Manga,br BRA,"FW,MF",Coritiba,27,1994,27.0,13,1,1,31,20,24,87,15,23,0,0,0,116,24,27,47.1,Matches
+395,Manoel,br BRA,DF,Fluminense,31,1990,27.2,5,2,1,22,21,0,5,22,12,0,1,0,100,29,46,38.7,Matches
+396,Gustavo Mantuan,br BRA,"FW,DF",Corinthians,20,2001,9.6,0,0,0,8,11,3,24,7,7,0,0,0,41,9,7,56.3,Matches
+397,José Manuel López,ar ARG,FW,Palmeiras,21,2000,6.1,3,0,0,7,6,7,3,1,2,0,0,0,15,17,22,43.6,Matches
+398,Luis Manuel Orejuela,co COL,DF,Ath Paranaense,26,1995,13.0,1,0,0,17,19,0,37,10,14,0,0,0,68,19,17,52.8,Matches
+399,Willian Maranhão,br BRA,"MF,DF",Atl Goianiense,26,1995,14.8,7,1,0,24,10,1,3,22,12,0,1,0,76,12,21,36.4,Matches
+400,Willian Maranhão,br BRA,MF,Santos,26,1995,1.8,0,0,0,2,0,1,0,1,3,0,0,0,6,2,2,50.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+401,Fernando Marçal,br BRA,DF,Botafogo (RJ),32,1989,17.1,6,0,0,26,18,0,124,34,21,0,0,0,119,30,14,68.2,Matches
+402,Marcelo,br BRA,DF,Fortaleza,26,1996,29.0,5,0,0,23,19,0,4,52,20,0,2,0,144,94,42,69.1,Matches
+403,Marcinho,br BRA,"FW,MF",Avaí,26,1995,5.8,1,0,0,13,11,1,14,1,9,0,1,0,18,3,9,25.0,Matches
+404,Mariano,br BRA,DF,Atlético Mineiro,35,1986,19.2,5,0,0,19,13,1,78,23,30,0,0,0,133,15,17,46.9,Matches
+405,Marinho,br BRA,FW,Flamengo,31,1990,15.3,6,1,0,21,72,6,94,7,12,2,0,0,60,3,9,25.0,Matches
+406,Rodriguinho Marinho,br BRA,"FW,MF",Cuiabá,33,1988,16.5,0,0,0,15,23,6,8,4,6,0,0,0,72,28,42,40.0,Matches
+407,Marlon,br BRA,DF,América (MG),27,1994,24.3,5,1,0,34,31,0,71,44,37,0,0,0,168,29,20,59.2,Matches
+408,Marlon,br BRA,DF,Fluminense,24,1997,3.0,0,0,0,6,1,0,15,5,4,0,0,0,15,2,0,100.0,Matches
+409,Marlon,br BRA,"MF,FW",Juventude,31,1990,4.5,1,0,0,13,6,0,10,6,2,0,0,0,23,2,4,33.3,Matches
+410,Marlos,ua UKR,"MF,FW",Ath Paranaense,33,1988,1.7,0,0,0,1,2,0,4,0,0,0,0,0,7,1,2,33.3,Matches
+411,Felipe Marques,br BRA,"FW,MF",Cuiabá,32,1990,10.6,1,0,0,11,19,4,38,13,7,1,0,0,39,7,15,31.8,Matches
+412,Gustavo Marques,br BRA,DF,América (MG),20,2001,0.5,0,0,0,1,0,0,0,0,0,0,0,0,3,1,0,100.0,Matches
+413,Marquinhos,br BRA,MF,São Paulo,18,2003,0.3,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,,Matches
+414,Marquinhos,br BRA,"FW,MF",Cuiabá,25,1997,2.2,0,0,0,3,10,0,4,3,5,0,0,0,19,1,2,33.3,Matches
+415,Marrony,br BRA,"FW,MF",Fluminense,22,1999,2.0,1,1,0,4,11,0,5,1,3,0,0,0,15,5,6,45.5,Matches
+416,Martinelli,br BRA,MF,Fluminense,20,2001,18.0,1,0,0,23,8,0,13,14,26,0,0,0,96,20,23,46.5,Matches
+417,Adrián Martínez,ar ARG,"FW,MF",Coritiba,29,1992,11.1,7,0,0,22,9,6,4,4,5,0,0,0,18,18,41,30.5,Matches
+418,Matheus Martins,br BRA,"FW,MF",Fluminense,18,2003,17.8,2,0,0,20,43,14,52,10,15,2,0,0,65,6,28,17.6,Matches
+419,Wellington Martins,br BRA,MF,Fluminense,31,1991,7.0,2,0,0,9,5,0,3,7,3,0,0,0,29,2,3,40.0,Matches
+420,Gonzalo Mastriani,uy URU,FW,América (MG),28,1993,5.2,1,0,0,9,7,1,1,0,2,1,0,0,15,9,24,27.3,Matches
+421,Mateusão,br BRA,"FW,MF",Flamengo,17,2004,2.5,1,0,0,2,4,1,2,0,0,1,0,0,5,8,8,50.0,Matches
+422,William Matheus,br BRA,DF,Juventude,31,1990,10.1,4,1,0,14,6,0,16,5,6,0,2,0,39,18,12,60.0,Matches
+423,Matheusinho,br BRA,"MF,FW",América (MG),23,1998,15.3,2,1,0,18,33,3,46,17,16,0,0,0,110,6,13,31.6,Matches
+424,Matheusinho,br BRA,MF,Goiás,23,1998,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+425,Matheuzinho,br BRA,DF,Flamengo,21,2000,23.9,4,0,0,24,13,0,71,26,38,0,1,0,119,22,16,57.9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+426,Diego Matos,br BRA,DF,Avaí,25,1997,1.2,2,1,1,2,0,0,2,2,3,0,0,0,7,2,1,66.7,Matches
+427,Mauricio,br BRA,"FW,MF",Internacional,20,2001,17.4,2,0,0,7,30,2,43,16,8,0,0,0,84,7,21,25.0,Matches
+428,Maycon,br BRA,MF,Corinthians,24,1997,8.8,4,0,0,11,6,0,35,11,3,0,0,0,45,2,7,22.2,Matches
+429,Mayke,br BRA,"DF,FW",Palmeiras,29,1992,16.3,2,0,0,17,11,3,57,30,20,0,0,0,98,28,18,60.9,Matches
+430,Bruno Melo,br BRA,"DF,MF",Corinthians,29,1992,4.9,1,0,0,6,5,3,10,3,3,0,0,0,14,21,10,67.7,Matches
+431,Felipe Melo,br BRA,"DF,MF",Fluminense,38,1983,8.1,6,0,0,14,14,0,0,11,5,0,0,0,34,11,9,55.0,Matches
+432,Nathan Melo,br BRA,MF,Goiás,20,2001,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+433,Darlan Mendes,br BRA,"MF,FW",Juventude,23,1998,1.3,1,0,0,1,2,0,2,1,1,0,0,0,8,0,1,0.0,Matches
+434,Douglas Mendes,br BRA,DF,RB Bragantino,17,2004,0.8,0,0,0,1,0,0,1,0,1,0,1,0,3,1,0,100.0,Matches
+435,Nathan Mendes,br BRA,DF,Coritiba,19,2002,5.0,1,1,0,8,12,0,5,6,6,0,0,0,29,10,6,62.5,Matches
+436,Vitor Mendes,br BRA,DF,Juventude,22,1999,18.3,10,1,1,16,15,0,0,28,9,0,1,1,71,37,26,58.7,Matches
+437,Bruno Méndez,uy URU,DF,Internacional,22,1999,4.8,1,0,0,3,1,0,1,6,3,0,0,0,22,11,10,52.4,Matches
+438,Bruno Méndez,uy URU,DF,Corinthians,22,1999,12.6,1,1,0,9,5,1,11,18,19,0,0,0,47,29,20,59.2,Matches
+439,Stiven Mendoza,co COL,FW,Ceará,29,1992,25.9,6,0,0,27,54,13,53,4,9,0,0,0,107,21,24,46.7,Matches
+440,Ramon Menezes Roma,br BRA,DF,Atl Goianiense,26,1995,14.0,2,0,0,10,0,0,0,15,3,0,0,0,66,46,25,64.8,Matches
+441,Gabriel Menino,br BRA,MF,Palmeiras,21,2000,10.2,3,1,0,13,19,1,39,12,16,0,0,0,64,17,14,54.8,Matches
+442,Gabriel Mercado,ar ARG,DF,Internacional,34,1987,23.6,9,1,1,23,19,2,4,30,21,1,0,0,91,38,35,52.1,Matches
+443,John Mercado,ec ECU,FW,Ath Paranaense,19,2002,0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,Matches
+444,Miguel Merentiel,uy URU,"FW,MF",Palmeiras,25,1996,2.6,0,0,0,2,1,1,1,0,0,0,0,0,4,1,6,14.3,Matches
+445,Messias,br BRA,DF,Ceará,27,1994,23.0,4,0,0,23,7,0,1,23,8,0,1,0,69,75,14,84.3,Matches
+446,Lucas Mezenga,br BRA,DF,Botafogo (RJ),20,2001,3.1,1,0,0,5,1,1,0,8,4,0,1,0,21,11,4,73.3,Matches
+447,Michel,br BRA,DF,Ceará,31,1990,11.8,2,0,0,12,14,1,34,15,8,0,0,0,57,20,10,66.7,Matches
+448,Carlos Miguel,br BRA,GK,Corinthians,23,1998,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+449,Fernando Miguel,br BRA,GK,Fortaleza,36,1985,20.0,2,0,0,0,4,0,0,0,0,0,0,0,11,4,0,100.0,Matches
+450,Miranda,br BRA,DF,São Paulo,37,1984,12.8,4,0,0,14,9,0,0,13,15,0,0,0,63,21,25,45.7,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+451,Paulo Miranda,br BRA,DF,Juventude,33,1988,16.4,4,0,0,18,7,0,0,22,4,0,3,1,63,52,28,65.0,Matches
+452,Paulinho Moccelin,br BRA,"MF,FW",Juventude,27,1994,4.3,2,2,0,14,8,2,14,4,7,0,0,0,25,4,11,26.7,Matches
+453,Moisés,br BRA,DF,Internacional,26,1995,6.5,5,0,0,9,8,1,15,6,8,0,0,0,42,9,4,69.2,Matches
+454,Moises,br BRA,"FW,MF",Fortaleza,25,1996,25.0,0,0,0,10,22,5,27,10,12,0,0,0,77,16,34,32.0,Matches
+455,Rodrigo Moledo,br BRA,DF,Internacional,34,1987,13.5,3,0,0,10,13,1,0,23,16,1,0,0,53,46,23,66.7,Matches
+456,Jacob Montes,ni NCA,MF,Botafogo (RJ),23,1998,1.0,0,0,0,0,1,0,0,1,1,0,0,0,3,0,0,,Matches
+457,Moraes,br BRA,"DF,MF",Juventude,24,1997,15.2,4,0,0,12,15,3,53,31,19,0,0,0,103,14,18,43.8,Matches
+458,Airton Moraes,br BRA,GK,América (MG),27,1994,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+459,Júnior Moraes,ua UKR,FW,Corinthians,34,1987,4.5,1,0,0,10,5,0,2,2,4,0,0,0,10,6,9,40.0,Matches
+460,Wesley Moraes,br BRA,FW,Internacional,25,1996,3.3,1,0,0,6,6,3,0,0,0,0,0,0,7,7,9,43.8,Matches
+461,Morato,br BRA,"FW,MF",Avaí,29,1992,7.3,0,1,0,17,19,3,5,2,9,0,0,0,27,2,14,12.5,Matches
+462,João Moreira,pt POR,DF,São Paulo,17,2004,3.2,1,0,0,6,5,0,8,6,2,0,1,0,18,4,1,80.0,Matches
+463,Lucas Moreira,br BRA,"MF,FW",Cuiabá,21,2000,1.4,0,0,0,4,0,0,3,1,1,0,0,0,8,0,1,0.0,Matches
+464,Gustavo Mosquito,br BRA,"FW,MF",Corinthians,24,1997,12.6,1,0,0,9,26,1,51,4,4,0,0,0,55,3,14,17.6,Matches
+465,Hugo Moura,br BRA,MF,Ath Paranaense,24,1998,19.4,5,1,0,31,20,1,8,43,23,0,2,0,128,18,13,58.1,Matches
+466,Alex Muralha,br BRA,GK,Coritiba,32,1989,19.0,1,0,0,0,4,0,0,0,0,0,0,0,17,7,2,77.8,Matches
+467,Muriqui,br BRA,"FW,MF",Avaí,35,1986,14.3,2,0,0,15,30,6,12,10,6,1,0,0,44,12,21,36.4,Matches
+468,Andrey Ramos do Nascimento,br BRA,MF,Coritiba,23,1998,5.4,1,0,0,11,12,0,8,7,11,1,0,0,35,3,4,42.9,Matches
+469,Matheus Nascimento,br BRA,"FW,MF",Botafogo (RJ),17,2004,6.8,1,0,0,11,11,1,1,1,4,1,0,0,13,17,30,36.2,Matches
+470,Natan,br BRA,DF,RB Bragantino,20,2001,32.0,5,0,0,19,19,1,9,32,25,0,1,0,126,61,53,53.5,Matches
+471,Natanael,br BRA,DF,Coritiba,20,2002,16.0,3,0,0,23,25,0,43,22,27,0,0,0,85,11,16,40.7,Matches
+472,Natanael,br BRA,"DF,FW",Avaí,31,1990,13.4,0,0,0,16,13,2,106,12,19,0,0,0,70,8,8,50.0,Matches
+473,Léo Natel,br BRA,FW,Corinthians,24,1997,0.3,0,0,0,0,1,0,2,0,0,0,0,0,2,0,1,0.0,Matches
+474,Nathan,br BRA,DF,Santos,20,2001,6.9,1,1,0,11,6,0,9,9,7,0,1,0,43,7,12,36.8,Matches
+475,Nathan,br BRA,"MF,FW",Fluminense,25,1996,10.7,3,0,0,16,10,1,57,11,12,0,0,0,31,12,13,48.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+476,Nathan,br BRA,"FW,MF",Avaí,22,1999,1.1,0,0,0,1,0,0,0,0,3,0,0,0,6,5,6,45.5,Matches
+477,Rafael Navarro,br BRA,"FW,MF",Palmeiras,21,2000,8.0,0,0,0,35,12,6,6,0,9,0,0,0,24,18,46,28.1,Matches
+478,Kaiky Naves,br BRA,"DF,MF",Palmeiras,19,2002,0.4,0,0,0,3,0,0,0,1,0,0,0,0,3,0,2,0.0,Matches
+479,Bruno Nazário,br BRA,MF,Juventude,26,1995,6.5,4,0,0,11,13,0,46,1,6,0,0,0,21,3,22,12.0,Matches
+480,Neílton,br BRA,"FW,DF",Coritiba,27,1994,0.9,1,0,0,1,2,0,4,1,1,0,0,0,3,0,0,,Matches
+481,Gustavo Nescau,br BRA,FW,Cuiabá,21,2000,0.3,1,0,0,0,0,0,0,0,0,0,0,0,1,2,4,33.3,Matches
+482,Rodrigo Nestor,br BRA,MF,São Paulo,21,2000,23.6,7,0,0,40,16,2,87,26,19,0,0,0,124,11,18,37.9,Matches
+483,Gabriel Neves,uy URU,MF,São Paulo,24,1997,6.3,4,0,0,11,1,0,0,9,11,0,0,0,47,4,5,44.4,Matches
+484,Nicolas,br BRA,"FW,MF",Goiás,32,1989,11.1,0,0,0,25,23,10,2,4,3,0,0,0,31,77,71,52.0,Matches
+485,Nikão,br BRA,"FW,MF",São Paulo,29,1992,5.8,2,0,0,2,12,3,36,1,1,0,0,0,11,2,5,28.6,Matches
+486,Nino,br BRA,DF,Fluminense,24,1997,27.9,4,0,0,29,40,2,1,31,21,0,1,0,138,61,35,63.5,Matches
+487,Gabriel Noga,br BRA,MF,Atl Goianiense,20,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+488,Ygor Nogueira,br BRA,DF,Juventude,26,1995,5.0,1,0,0,3,3,0,0,9,5,0,1,0,23,10,6,62.5,Matches
+489,Nonato,br BRA,MF,Fluminense,23,1998,12.1,3,1,0,16,33,1,38,12,14,0,0,0,65,13,17,43.3,Matches
+490,Nonoca,br BRA,MF,Avaí,23,1998,11.5,5,0,0,24,26,0,1,8,14,0,1,0,94,12,10,54.5,Matches
+491,Gabriel Novaes,br BRA,"FW,MF",RB Bragantino,22,1999,4.3,2,0,0,7,11,2,2,2,2,1,0,0,12,6,5,54.5,Matches
+492,Thales Oleques,br BRA,DF,Avaí,27,1994,6.2,1,0,0,1,0,0,21,4,6,0,0,0,25,6,8,42.9,Matches
+493,Bruno Oliveira,br BRA,"MF,FW",Santos,23,1998,5.0,2,0,0,6,18,0,33,2,4,0,0,0,35,0,5,0.0,Matches
+494,Yuri Oliveira Lima,br BRA,MF,Juventude,27,1994,16.8,6,1,0,42,13,0,6,20,15,0,0,0,73,14,19,42.4,Matches
+495,Leo Ortiz,br BRA,DF,RB Bragantino,26,1996,21.4,4,0,0,14,8,1,13,27,11,0,0,0,132,45,20,69.2,Matches
+496,Kelvin Osorio,co COL,"MF,DF",Cuiabá,28,1993,10.5,2,0,0,19,5,2,71,8,14,0,1,0,47,22,14,61.1,Matches
+497,Otávio,br BRA,MF,Atlético Mineiro,27,1994,12.9,2,0,0,26,6,0,5,12,19,0,0,0,93,8,8,50.0,Matches
+498,Luiz Otávio,br BRA,DF,Ceará,33,1988,20.2,8,1,0,20,11,1,1,48,21,1,3,0,75,73,39,65.2,Matches
+499,Rómulo Otero,ve VEN,"MF,FW",Fortaleza,29,1992,2.6,0,0,0,5,11,1,30,0,1,0,0,0,10,2,7,22.2,Matches
+500,Luis Oyama,br BRA,MF,Botafogo (RJ),25,1997,12.0,1,0,0,21,21,0,1,17,17,0,0,0,86,9,7,56.3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+501,Pablo,br BRA,FW,Ath Paranaense,29,1992,16.6,6,0,0,40,18,14,5,11,10,0,0,0,51,53,59,47.3,Matches
+502,Pablo,br BRA,DF,Flamengo,30,1991,21.6,5,0,0,30,5,1,1,34,18,0,0,0,129,57,22,72.2,Matches
+503,Juan Pablo,br BRA,"DF,MF",Goiás,19,2002,1.9,0,0,0,6,0,0,2,2,2,0,0,0,10,3,2,60.0,Matches
+504,Juan Pablo Ramírez,co COL,"MF,FW",América (MG),24,1997,4.5,3,0,0,11,12,1,8,4,3,0,0,0,32,4,7,36.4,Matches
+505,Bruno Pacheco,br BRA,DF,Ceará,30,1991,26.1,5,1,0,40,49,3,65,27,33,1,1,0,142,37,21,63.8,Matches
+506,Igor Paixão,br BRA,"FW,MF",Coritiba,21,2000,17.2,3,0,0,10,43,0,83,15,9,0,0,0,66,19,24,44.2,Matches
+507,Pará,br BRA,MF,Juventude,19,2002,0.9,1,0,0,2,0,0,0,1,1,0,0,0,6,0,1,0.0,Matches
+508,Nino Paraíba,br BRA,DF,Ceará,36,1986,24.6,11,0,0,34,45,1,174,36,22,1,0,0,122,36,35,50.7,Matches
+509,Guilherme Parede,br BRA,"FW,MF",Juventude,26,1995,6.6,3,0,0,8,6,1,28,3,1,0,0,0,19,5,3,62.5,Matches
+510,Weslley Patati,br BRA,FW,Santos,18,2003,0.2,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,100.0,Matches
+511,Patrick,br BRA,"MF,FW",São Paulo,29,1992,21.8,6,0,0,30,38,3,62,13,36,0,0,0,114,31,46,40.3,Matches
+512,Alan Patrick,br BRA,"MF,FW",Internacional,30,1991,17.5,3,0,0,21,41,1,56,6,3,0,0,0,106,8,15,34.8,Matches
+513,Luan Patrick,br BRA,DF,América (MG),20,2002,9.0,3,0,0,7,3,0,12,12,6,0,0,0,46,7,7,50.0,Matches
+514,Patryck,br BRA,DF,São Paulo,19,2003,0.3,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,,Matches
+515,Giuliano de Paula,br BRA,MF,Corinthians,31,1990,18.4,2,0,0,15,15,2,18,10,13,0,0,0,102,8,17,32.0,Matches
+516,Patrick de Paula,br BRA,MF,Botafogo (RJ),22,1999,11.3,4,0,0,12,25,0,14,17,7,0,1,0,71,11,12,47.8,Matches
+517,Paulão,br BRA,DF,Cuiabá,35,1986,8.0,2,1,1,7,1,0,3,8,1,0,1,1,20,28,7,80.0,Matches
+518,Paulinho,br BRA,MF,Corinthians,33,1988,1.8,0,0,0,2,1,0,0,0,0,0,0,0,11,5,9,35.7,Matches
+519,Caio Paulista,br BRA,DF,Fluminense,23,1998,17.9,3,1,0,10,24,2,42,11,19,0,0,0,100,10,16,38.5,Matches
+520,Wellington Paulista,br BRA,FW,América (MG),37,1984,5.7,2,0,0,12,7,4,3,0,0,0,0,0,15,10,12,45.5,Matches
+521,João Paulo,br BRA,DF,América (MG),35,1986,3.9,0,0,0,2,0,0,21,7,5,0,0,0,21,6,6,50.0,Matches
+522,João Paulo,br BRA,GK,Santos,26,1995,37.0,5,0,0,0,7,0,0,2,2,0,0,0,41,8,2,80.0,Matches
+523,Marcos Paulo,br BRA,DF,Flamengo,19,2003,0.3,1,0,0,2,0,0,0,2,2,0,0,0,3,0,0,,Matches
+524,Cristian Pavón,ar ARG,"FW,MF",Atlético Mineiro,26,1996,7.7,2,0,0,11,9,1,31,3,7,0,0,0,52,5,13,27.8,Matches
+525,Pedrinho,br BRA,"FW,MF",América (MG),22,1999,10.8,3,0,0,19,10,4,26,8,6,0,0,0,60,3,7,30.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+526,Pedrinho,br BRA,"MF,FW",Atlético Mineiro,23,1998,2.5,0,0,0,1,6,0,7,3,3,0,0,0,19,3,3,50.0,Matches
+527,Pedrinho,br BRA,FW,Flamengo,18,2003,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
+528,Pedro,br BRA,FW,Flamengo,24,1997,13.0,3,0,0,18,15,4,3,3,3,1,0,0,25,29,16,64.4,Matches
+529,João Pedro,br BRA,"DF,FW",Corinthians,25,1996,1.3,1,0,0,1,0,0,0,1,0,0,0,0,4,2,0,100.0,Matches
+530,João Pedro Pepê,br BRA,MF,Cuiabá,24,1998,25.8,4,0,0,40,44,0,73,17,34,0,0,0,153,26,29,47.3,Matches
+531,Peglow,br BRA,"FW,MF",Atl Goianiense,20,2002,2.6,1,0,0,2,5,1,14,4,4,0,0,0,14,3,3,50.0,Matches
+532,Pegorari,br BRA,GK,Juventude,30,1991,12.7,3,0,0,0,2,0,0,0,0,0,0,0,11,3,0,100.0,Matches
+533,Matheus Peixoto,br BRA,FW,Ceará,26,1995,5.2,0,0,0,7,10,4,1,2,3,0,0,0,9,19,33,36.5,Matches
+534,Douglas Pelé,br BRA,"FW,DF",Goiás,22,1999,1.0,0,0,0,0,2,0,3,1,2,0,0,0,3,0,4,0.0,Matches
+535,Léo Pelé,br BRA,DF,São Paulo,25,1996,27.6,4,1,0,25,11,0,9,15,15,0,1,0,118,40,34,54.1,Matches
+536,Carlos de Pena,uy URU,"MF,FW",Internacional,29,1992,29.3,6,0,0,29,24,0,177,54,26,0,0,0,202,31,31,50.0,Matches
+537,Andreas Pereira,br BRA,MF,Flamengo,26,1996,8.8,2,0,0,14,8,1,51,4,5,0,0,0,44,9,8,52.9,Matches
+538,Egídio Pereira Júnior,br BRA,"DF,MF",Coritiba,35,1986,14.0,1,1,0,14,18,2,117,20,13,0,1,0,98,11,8,57.9,Matches
+539,Léo Pereira,br BRA,DF,Flamengo,26,1996,12.4,4,0,0,16,8,2,6,11,9,0,1,0,68,24,10,70.6,Matches
+540,Hernán Pérez,py PAR,FW,Coritiba,32,1989,1.1,1,0,0,5,2,0,4,0,0,0,0,0,4,2,3,40.0,Matches
+541,Lucas Perri,br BRA,GK,Botafogo (RJ),24,1997,3.8,1,0,0,0,0,0,0,0,0,0,0,0,1,5,0,100.0,Matches
+542,Petterson,br BRA,"FW,MF",Flamengo,18,2004,0.3,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0.0,Matches
+543,Yan Phillipe,br BRA,FW,Atlético Mineiro,17,2004,0.2,0,0,0,0,3,0,1,0,0,0,0,0,2,0,0,,Matches
+544,Del Piage,br BRA,MF,Botafogo (RJ),21,2000,5.7,3,0,0,16,14,0,5,7,13,1,0,0,27,6,5,54.5,Matches
+545,Lucas Piazon,br BRA,"FW,MF",Botafogo (RJ),28,1994,8.3,2,0,0,7,6,1,23,2,9,0,0,0,41,10,19,34.5,Matches
+546,Yago Pikachu,br BRA,"DF,MF",Fortaleza,29,1992,13.4,3,0,0,12,30,2,48,5,9,0,0,0,82,4,14,22.2,Matches
+547,Mario Pineida,ec ECU,DF,Fluminense,29,1992,3.7,0,0,0,7,6,0,9,2,2,0,0,0,12,5,1,83.3,Matches
+548,Joaquín Piquerez,uy URU,DF,Palmeiras,23,1998,24.7,5,0,0,22,22,0,54,38,36,0,1,0,166,18,18,50.0,Matches
+549,Gabriel Pirani,br BRA,"FW,MF",Santos,19,2002,0.5,0,0,0,3,1,0,2,0,0,0,0,0,2,0,0,,Matches
+550,Gabriel Pirani,br BRA,"MF,FW",Cuiabá,19,2002,4.9,1,0,0,6,4,1,14,2,3,0,0,0,23,1,1,50.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+551,Felipe Pires,br BRA,"MF,FW",Juventude,26,1995,7.4,5,0,0,14,16,3,9,0,1,0,0,0,23,2,4,33.3,Matches
+552,Rafael Pires,br BRA,GK,Atlético Mineiro,32,1989,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
+553,Lucas Piton,br BRA,"DF,FW",Corinthians,21,2000,19.7,2,0,0,40,10,1,86,32,23,0,0,0,92,23,27,46.0,Matches
+554,Isidro Pitta,py PAR,FW,Juventude,22,1999,26.8,2,0,0,27,51,18,31,4,6,0,0,0,51,35,59,37.2,Matches
+555,Luan Polli,br BRA,GK,Atl Goianiense,28,1993,2.0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,100.0,Matches
+556,Werik Popó,br BRA,FW,RB Bragantino,20,2001,5.7,4,0,0,11,6,1,2,0,2,0,0,0,12,11,11,50.0,Matches
+557,Diego Porfirio,br BRA,DF,Coritiba,22,1999,5.0,4,1,1,3,6,1,11,5,6,0,0,0,23,4,8,33.3,Matches
+558,William Pottker,br BRA,"FW,MF",Avaí,28,1993,21.9,6,0,0,23,50,12,55,17,11,4,1,0,117,26,49,34.7,Matches
+559,Bruno Praxedes,br BRA,MF,RB Bragantino,19,2002,6.5,3,0,0,13,19,2,13,4,3,0,0,0,40,2,10,16.7,Matches
+560,Erick Pulgar,cl CHI,MF,Flamengo,28,1994,3.9,1,0,0,11,2,0,9,3,3,0,0,0,23,11,5,68.8,Matches
+561,Jean Pyerre,br BRA,MF,Avaí,23,1998,8.4,2,0,0,4,13,1,26,7,4,0,0,0,51,7,7,50.0,Matches
+562,Du Queiroz,br BRA,MF,Corinthians,22,2000,28.9,4,0,0,49,11,1,26,33,29,0,0,0,159,13,18,41.9,Matches
+563,Igor Rabello,br BRA,DF,Atlético Mineiro,26,1995,6.7,1,0,0,7,3,0,0,14,5,0,0,0,27,21,11,65.6,Matches
+564,Rafael,br BRA,DF,Botafogo (RJ),31,1990,3.1,1,0,0,7,3,0,9,9,7,0,0,0,10,1,4,20.0,Matches
+565,Caio Rafael,br BRA,FW,Ceará,17,2004,0.4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0.0,Matches
+566,Léo Rafael,br BRA,"FW,MF",Ceará,20,2001,1.0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,1,0.0,Matches
+567,Zé Rafael,br BRA,MF,Palmeiras,28,1993,28.5,12,1,1,50,64,1,13,27,30,0,0,0,227,34,18,65.4,Matches
+568,Rafinha,br BRA,DF,São Paulo,36,1985,28.5,7,1,1,30,21,0,30,32,34,0,0,0,143,18,19,48.6,Matches
+569,Eric Ramires,br BRA,"MF,FW",RB Bragantino,21,2000,12.9,1,2,0,18,11,0,13,4,16,1,1,0,86,5,21,19.2,Matches
+570,Lucas Ramires,br BRA,DF,Juventude,19,2002,0.3,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,100.0,Matches
+571,Ramon,br BRA,DF,RB Bragantino,20,2001,8.0,3,1,0,14,7,0,32,11,10,0,0,0,57,8,11,42.1,Matches
+572,Lucas Ramos,br BRA,"MF,FW",Internacional,21,2001,0.9,1,0,0,1,4,0,1,2,0,0,0,0,6,1,1,50.0,Matches
+573,Rafael Ramos,pt POR,DF,Corinthians,27,1995,14.5,3,0,0,21,15,0,36,19,23,0,0,0,81,8,24,25.0,Matches
+574,Raniele,br BRA,"MF,DF",Avaí,25,1996,31.3,9,0,0,38,87,0,13,39,33,3,0,0,139,71,56,55.9,Matches
+575,Wellington Rato,br BRA,"FW,MF",Atl Goianiense,29,1992,30.9,3,0,0,31,51,5,115,10,22,0,0,0,154,18,27,40.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+576,Raul,br BRA,MF,RB Bragantino,25,1996,27.5,3,0,0,36,50,0,9,48,42,0,1,0,183,20,22,47.6,Matches
+577,Pedro Raul,br BRA,FW,Goiás,25,1996,30.5,8,0,0,49,32,20,7,4,9,0,0,0,61,98,135,42.1,Matches
+578,Leonardo Realpe,ec ECU,DF,RB Bragantino,20,2001,7.4,3,0,0,6,2,0,2,15,3,0,0,0,51,11,11,50.0,Matches
+579,Rafinha Rech,br BRA,"FW,MF",Juventude,19,2002,4.2,0,0,0,3,1,0,5,4,2,0,0,0,14,6,5,54.5,Matches
+580,Régis,br BRA,MF,Coritiba,29,1992,8.5,2,0,0,16,10,1,28,1,10,2,0,0,28,5,16,23.8,Matches
+581,Reinaldo,br BRA,"DF,FW",São Paulo,32,1989,16.3,3,0,0,16,12,1,138,10,12,0,0,0,84,7,10,41.2,Matches
+582,César Reis,br BRA,GK,Juventude,26,1995,24.3,1,0,0,0,4,0,0,0,0,0,0,0,18,5,0,100.0,Matches
+583,Robert Renan,br BRA,DF,Corinthians,18,2003,10.0,2,0,0,6,2,0,0,19,11,0,0,0,43,10,17,37.0,Matches
+584,Renato,br BRA,"DF,MF",Avaí,32,1990,11.3,2,0,0,11,25,5,63,8,9,0,0,0,53,19,27,41.3,Matches
+585,Renê,br BRA,DF,Internacional,29,1992,27.5,0,0,0,20,31,0,39,52,49,0,1,0,186,23,22,51.1,Matches
+586,Réver,br BRA,DF,Atlético Mineiro,37,1985,10.5,2,0,0,9,6,0,0,12,9,0,1,0,45,27,13,67.5,Matches
+587,Rhaldney,br BRA,"MF,FW",Atl Goianiense,23,1998,2.0,1,0,0,5,2,0,1,2,4,0,0,0,16,6,3,66.7,Matches
+588,Everton Ribeiro,br BRA,"MF,FW",Flamengo,32,1989,19.9,0,0,0,32,62,1,63,19,20,0,0,0,131,11,28,28.2,Matches
+589,Lucas Ribeiro,br BRA,"DF,MF",Ceará,23,1999,5.6,2,0,0,7,5,0,0,9,0,0,0,0,30,8,9,47.1,Matches
+590,Matheus Ribeiro,br BRA,DF,Avaí,28,1993,0.2,0,0,0,1,0,0,0,0,1,0,0,0,2,0,1,0.0,Matches
+591,Ricardinho,br BRA,FW,Atl Goianiense,20,2001,2.6,2,0,0,4,3,2,1,0,0,0,0,0,5,4,11,26.7,Matches
+592,João Ricardo Riedi,br BRA,GK,Ceará,33,1988,35.0,5,0,0,0,1,0,0,0,1,0,0,0,33,9,0,100.0,Matches
+593,Vitor Ricardo,br BRA,DF,Fortaleza,21,2000,1.3,1,0,0,0,0,0,6,0,2,0,0,0,7,1,1,50.0,Matches
+594,Zé Ricardo,br BRA,MF,América (MG),25,1996,2.6,0,0,0,5,4,0,2,5,2,0,0,0,18,1,2,33.3,Matches
+595,Richard,br BRA,GK,Ceará,30,1991,1.0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+596,Richard,br BRA,MF,Ceará,27,1994,26.3,12,1,0,57,36,3,9,35,38,0,0,0,158,60,37,61.9,Matches
+597,Richardson,br BRA,MF,Ceará,30,1991,23.0,14,1,0,65,38,0,9,20,31,0,1,0,118,26,15,63.4,Matches
+598,Rickson,br BRA,"MF,FW",Atl Goianiense,23,1998,0.8,1,0,0,2,3,1,1,0,2,0,0,0,3,3,7,30.0,Matches
+599,Emiliano Rigoni,ar ARG,"FW,MF",São Paulo,28,1993,2.7,0,0,0,6,3,0,34,2,3,0,0,0,13,5,1,83.3,Matches
+600,Rikelme,br BRA,DF,Cuiabá,18,2003,0.2,0,0,0,0,1,0,2,1,0,0,0,0,2,1,0,100.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+601,Rikelmi,br BRA,DF,Botafogo (RJ),20,2001,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+602,Cristian Rivas,ve VEN,MF,Cuiabá,25,1997,2.4,2,0,0,3,0,0,1,5,1,0,0,0,16,1,0,100.0,Matches
+603,Zé Roberto,br BRA,FW,Ceará,28,1993,8.2,3,1,0,24,25,3,5,7,2,1,0,0,19,34,33,50.7,Matches
+604,Robinho,br BRA,MF,Coritiba,34,1987,9.8,2,0,0,13,14,2,61,6,17,0,0,0,54,0,2,0.0,Matches
+605,Robson,br BRA,"FW,MF",Fortaleza,30,1991,16.1,6,0,0,47,37,18,20,6,12,1,0,0,51,42,63,40.0,Matches
+606,Felipe Rocha,br BRA,FW,Avaí,19,2002,0.5,0,0,0,0,2,0,0,0,0,0,0,0,5,0,2,0.0,Matches
+607,Kaique Rocha,br BRA,DF,Internacional,20,2001,5.0,2,0,0,3,3,0,1,9,2,0,0,0,18,8,4,66.7,Matches
+608,Marcos Rocha,br BRA,DF,Palmeiras,33,1988,25.0,4,0,0,29,20,0,40,31,54,2,0,0,165,18,13,58.1,Matches
+609,Pedro Rocha Neves,br BRA,FW,Ath Paranaense,27,1994,3.1,0,0,0,1,4,1,9,2,1,0,0,0,12,2,7,22.2,Matches
+610,Pedro Rocha Neves,br BRA,"FW,MF",Fortaleza,27,1994,7.7,1,0,0,7,6,5,12,4,5,1,0,0,26,9,8,52.9,Matches
+611,Rodinei,br BRA,DF,Flamengo,30,1992,9.8,0,1,0,3,11,0,44,13,17,0,0,1,48,4,7,36.4,Matches
+612,Rodrigo,br BRA,"FW,MF",São Paulo,17,2004,0.8,0,0,0,0,1,0,0,0,1,0,0,0,4,0,1,0.0,Matches
+613,Élton Rodrigues Brandão,br BRA,FW,Cuiabá,36,1985,3.3,1,0,0,7,5,2,4,0,1,0,0,0,6,14,12,53.8,Matches
+614,Raphael Rodrigues,br BRA,DF,Avaí,23,1999,1.4,0,0,0,0,1,0,0,0,0,0,0,0,4,3,4,42.9,Matches
+615,Rodriguinho,br BRA,MF,América (MG),18,2003,2.1,2,0,0,5,5,0,10,5,3,0,0,0,19,3,4,42.9,Matches
+616,Romarinho,br BRA,"FW,MF",Fortaleza,27,1994,14.6,4,1,0,18,32,3,40,4,11,0,0,0,74,5,19,20.8,Matches
+617,Braian Romero,ar ARG,FW,Internacional,30,1991,3.8,1,0,0,9,8,1,2,1,6,0,0,0,12,6,14,30.0,Matches
+618,Silvio Romero,ar ARG,FW,Fortaleza,33,1988,12.9,1,0,0,8,10,13,5,2,2,0,0,0,30,8,17,32.0,Matches
+619,Rômulo,br BRA,FW,Ath Paranaense,19,2002,13.3,1,0,0,14,14,1,5,4,13,0,0,0,50,26,53,32.9,Matches
+620,Romulo,br BRA,DF,Juventude,21,2000,1.9,1,0,0,1,2,0,6,2,1,0,0,0,16,3,2,60.0,Matches
+621,Rômulo,br BRA,"FW,MF",Avaí,26,1995,4.7,0,0,0,6,10,0,7,5,4,0,0,0,18,6,6,50.0,Matches
+622,Ronald,br BRA,"MF,FW",Fortaleza,24,1997,11.7,5,0,0,21,9,0,10,8,17,0,0,0,79,5,15,25.0,Matches
+623,Ronaldo,br BRA,GK,Atl Goianiense,25,1996,18.0,1,0,0,0,2,0,0,0,0,0,0,0,10,2,0,100.0,Matches
+624,Budiga Roni,br BRA,MF,Corinthians,22,1999,8.3,5,1,0,15,6,0,5,7,14,0,1,1,52,7,7,50.0,Matches
+625,Rony,br BRA,FW,Palmeiras,26,1995,26.5,3,0,0,37,37,27,32,7,8,1,0,0,57,40,69,36.7,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+626,Vitor Roque,br BRA,FW,Ath Paranaense,16,2005,14.6,6,0,0,29,43,5,3,9,9,5,0,0,37,21,60,25.9,Matches
+627,Ruan,br BRA,"FW,MF",Juventude,16,2005,2.5,1,0,0,3,6,0,5,0,5,0,0,0,12,3,2,60.0,Matches
+628,Rubens,br BRA,"DF,MF",Atlético Mineiro,20,2001,13.7,3,0,0,26,18,0,46,21,31,0,0,0,79,17,21,44.7,Matches
+629,Óscar Ruiz,py PAR,"MF,FW",Juventude,30,1991,11.0,1,0,0,4,15,5,29,5,7,1,0,0,32,15,28,34.9,Matches
+630,Rwan,br BRA,"FW,MF",Santos,20,2001,5.2,1,0,0,11,14,2,6,4,5,0,0,0,23,13,20,39.4,Matches
+631,Victor Sá,br BRA,FW,Botafogo (RJ),27,1994,20.4,3,0,0,20,31,3,37,16,25,0,0,0,83,12,32,27.3,Matches
+632,Matheus Sales,br BRA,"MF,DF",Goiás,26,1995,19.9,5,0,0,25,12,0,13,16,24,0,1,0,76,16,23,41.0,Matches
+633,Philipe Sampaio,br BRA,DF,Botafogo (RJ),27,1994,12.5,4,2,1,19,8,2,1,27,8,0,1,0,63,36,17,67.9,Matches
+634,Carlos Sánchez,uy URU,MF,Santos,37,1984,8.7,3,0,0,11,14,2,63,5,8,0,0,0,44,4,6,40.0,Matches
+635,Sandry,br BRA,MF,Santos,19,2002,7.7,2,0,0,14,6,0,20,11,14,0,1,0,51,2,3,40.0,Matches
+636,Alex Santana,br BRA,MF,Ath Paranaense,26,1995,9.9,4,0,0,17,10,1,0,12,8,0,0,0,73,5,7,41.7,Matches
+637,Santos,br BRA,GK,Flamengo,31,1990,19.0,1,0,0,0,2,0,0,0,0,0,0,0,10,3,0,100.0,Matches
+638,Ademir Santos,br BRA,"FW,MF",Atlético Mineiro,26,1995,16.6,4,0,0,21,59,12,45,8,18,1,0,0,71,6,30,16.7,Matches
+639,Chayene Santos,br BRA,"MF,FW",Botafogo (RJ),31,1990,6.5,3,0,0,10,18,0,17,5,9,0,0,0,33,3,14,17.6,Matches
+640,Fábio Santos,br BRA,DF,Corinthians,36,1985,17.4,4,0,0,12,14,0,33,19,15,0,0,0,92,27,21,56.3,Matches
+641,Guilherme Santos,br BRA,"FW,MF",RB Bragantino,20,2001,0.8,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,,Matches
+642,Gustavo Santos,br BRA,FW,Avaí,19,2002,0.2,0,0,0,1,1,0,1,0,0,0,0,0,5,0,3,0.0,Matches
+643,Juan Santos,br BRA,FW,São Paulo,19,2002,0.6,0,0,0,2,1,3,0,0,0,0,0,0,1,0,2,0.0,Matches
+644,Júnior Santos,br BRA,"FW,MF",Botafogo (RJ),27,1994,11.9,1,0,0,20,12,4,15,2,13,0,1,0,49,19,16,54.3,Matches
+645,Luis Eduardo Marques dos Santos,br BRA,DF,Atl Goianiense,24,1997,18.2,1,0,0,11,15,2,72,26,19,0,0,0,101,17,14,54.8,Matches
+646,Rafael Santos,br BRA,DF,Coritiba,23,1998,12.7,2,0,0,8,7,0,72,7,9,0,0,0,60,13,10,56.5,Matches
+647,Gabriel Sara,br BRA,MF,São Paulo,22,1999,0.5,0,0,0,2,1,0,1,0,0,0,0,0,1,0,1,0.0,Matches
+648,Mateus Sarará,br BRA,MF,Avaí,19,2002,4.8,3,0,0,7,10,0,1,4,3,0,0,0,24,9,5,64.3,Matches
+649,Renzo Saravia,ar ARG,"DF,MF",Botafogo (RJ),28,1993,20.2,10,0,0,36,42,0,46,32,31,0,0,0,137,26,36,41.9,Matches
+650,Eduardo Sasha,br BRA,"FW,MF",Atlético Mineiro,29,1992,14.3,1,0,0,11,20,4,9,6,6,0,0,0,45,27,24,52.9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+651,Lucas Sasha,br BRA,MF,Fortaleza,31,1990,14.1,2,0,0,21,16,1,8,20,46,0,0,0,98,19,20,48.7,Matches
+652,Gustavo Sauer,br BRA,"FW,MF",Botafogo (RJ),28,1993,3.2,1,0,0,5,4,0,7,1,3,0,0,0,13,4,3,57.1,Matches
+653,Jefferson Savarino,ve VEN,FW,Atlético Mineiro,25,1996,1.0,0,0,0,0,2,0,3,0,1,0,0,0,5,0,0,,Matches
+654,Sávio,br BRA,"FW,MF",Atlético Mineiro,17,2004,2.4,0,0,0,3,7,0,7,3,1,0,0,0,11,1,2,33.3,Matches
+655,Savio,br BRA,DF,Goiás,26,1995,9.4,6,1,1,7,9,0,54,6,12,0,0,0,55,8,10,44.4,Matches
+656,Gustavo Scarpa,br BRA,"MF,FW",Palmeiras,28,1994,28.6,3,0,0,14,72,13,342,13,10,0,0,0,133,20,27,42.6,Matches
+657,Cleiton Schwengber,br BRA,GK,RB Bragantino,24,1997,37.0,3,0,0,2,11,0,0,0,1,0,2,1,36,6,1,85.7,Matches
+658,Shaylon,br BRA,"FW,MF",Atl Goianiense,24,1997,15.0,3,0,0,14,4,2,74,5,9,0,0,0,78,2,18,10.0,Matches
+659,Sidcley,br BRA,"DF,MF",Cuiabá,28,1993,3.7,0,0,0,0,2,0,6,9,1,0,0,0,13,3,3,50.0,Matches
+660,Sidimar,br BRA,DF,Goiás,29,1992,5.0,0,0,0,2,4,0,0,8,4,0,0,0,11,20,6,76.9,Matches
+661,Sidnei,br BRA,DF,Goiás,32,1989,3.3,1,0,0,1,2,0,0,7,3,0,0,0,16,5,5,50.0,Matches
+662,Pablo Siles,uy URU,MF,Ath Paranaense,24,1997,1.8,2,0,0,7,2,0,2,3,1,0,1,0,14,2,2,50.0,Matches
+663,Aderlan Silva,br BRA,DF,RB Bragantino,31,1990,29.7,10,0,0,77,16,5,158,45,62,0,0,0,172,51,36,58.6,Matches
+664,Bruno Silva,br BRA,MF,Avaí,35,1986,28.9,14,1,1,74,37,1,14,30,52,0,0,0,184,48,41,53.9,Matches
+665,Da Silva,br BRA,DF,Goiás,20,2001,6.3,3,0,0,4,1,0,0,7,3,0,0,0,16,20,7,74.1,Matches
+666,Cristiano da Silva Leite,br BRA,DF,Fluminense,28,1993,8.3,1,0,0,10,12,0,48,10,8,0,0,0,50,9,10,47.4,Matches
+667,Felipe Silva Lipe,br BRA,DF,Avaí,19,2002,3.0,0,0,0,0,0,0,0,9,5,0,0,0,8,2,3,40.0,Matches
+668,Luan Silva,br BRA,MF,São Paulo,22,1999,1.8,1,0,0,1,0,0,0,3,1,0,0,0,14,3,0,100.0,Matches
+669,Lucas Silva,br BRA,"FW,MF",Avaí,24,1998,1.2,0,0,0,1,5,0,3,2,0,0,0,0,7,0,0,,Matches
+670,Marcão Silva,br BRA,"MF,DF",Cuiabá,31,1991,14.1,1,0,0,25,6,0,1,11,16,0,0,0,76,34,19,64.2,Matches
+671,Márcio Silva,br BRA,DF,Coritiba,20,2001,2.0,0,0,0,0,3,0,0,1,1,0,0,0,3,3,2,60.0,Matches
+672,Nathan Silva,br BRA,DF,Atlético Mineiro,24,1997,19.2,8,0,0,36,7,0,2,29,14,0,1,0,111,56,39,58.9,Matches
+673,Ricardo Silva,br BRA,DF,América (MG),29,1992,8.3,1,0,0,15,7,0,0,7,6,0,1,0,43,31,22,58.5,Matches
+674,Miguel Silveira,br BRA,"MF,FW",RB Bragantino,18,2003,6.3,1,0,0,8,14,0,33,1,6,1,0,0,28,3,5,37.5,Matches
+675,Vinicius Silvestre,br BRA,GK,Palmeiras,27,1994,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+676,Jailson Siqueira,br BRA,MF,Palmeiras,26,1995,0.2,0,0,0,0,0,0,3,0,0,0,0,0,0,2,3,40.0,Matches
+677,Everton Soares,br BRA,"FW,MF",Flamengo,25,1996,15.7,0,1,0,16,19,0,47,6,13,0,0,0,67,11,19,36.7,Matches
+678,Tiquinho Soares,br BRA,FW,Botafogo (RJ),31,1991,13.7,1,0,0,21,41,12,6,2,4,0,0,0,45,39,51,43.3,Matches
+679,Val Soares,br BRA,MF,Coritiba,24,1997,6.9,6,0,0,15,11,0,12,9,12,0,0,0,38,7,6,53.8,Matches
+680,Fernando Sobral,br BRA,MF,Ceará,27,1994,11.2,2,0,0,14,15,0,9,4,22,0,0,0,62,15,11,57.7,Matches
+681,Yeferson Soteldo,ve VEN,"FW,MF",Santos,24,1997,6.3,1,0,0,4,13,1,38,1,0,0,0,0,20,3,3,50.0,Matches
+682,Yan Souto,br BRA,DF,Goiás,20,2001,6.8,3,0,0,13,2,0,1,11,4,0,3,0,39,16,10,61.5,Matches
+683,Hugo Souza,br BRA,GK,Flamengo,23,1999,14.3,3,0,0,0,1,0,0,1,1,0,0,0,19,5,1,83.3,Matches
+684,Igor Vinícius de Souza,br BRA,"DF,FW",São Paulo,24,1997,12.9,2,0,0,16,11,0,57,12,24,0,0,0,58,14,9,60.9,Matches
+685,Bruno Tabata,br BRA,"MF,FW",Palmeiras,24,1997,5.2,0,0,0,8,7,0,26,2,5,0,0,0,17,3,7,30.0,Matches
+686,Tadeu,br BRA,GK,Goiás,29,1992,38.0,0,0,0,0,13,0,0,2,0,0,0,0,23,18,2,90.0,Matches
+687,Tailson,br BRA,"FW,DF",Santos,22,1999,0.4,0,0,0,0,0,0,0,1,0,0,0,0,4,0,1,0.0,Matches
+688,Taison,br BRA,"MF,FW",Internacional,34,1988,8.1,6,0,0,8,24,3,13,7,7,0,0,0,39,3,9,25.0,Matches
+689,Tchê Tchê,br BRA,MF,Botafogo (RJ),29,1992,25.7,3,0,0,39,43,0,6,27,18,1,0,0,128,7,16,30.4,Matches
+690,David Terans,uy URU,MF,Ath Paranaense,27,1994,22.3,3,0,0,22,23,6,102,5,10,0,0,0,102,6,30,16.7,Matches
+691,Miguel Terceros,bo BOL,FW,Santos,17,2004,0.3,0,0,0,0,0,0,2,0,1,0,0,0,1,0,0,,Matches
+692,Thiago,br BRA,GK,São Paulo,22,1999,2.7,1,0,0,1,0,0,0,0,0,0,1,0,0,3,0,100.0,Matches
+693,Guilherme Tinga,br BRA,DF,Fortaleza,28,1993,13.1,3,0,0,15,10,1,28,19,17,0,0,0,86,46,32,59.0,Matches
+694,Titi,br BRA,DF,Fortaleza,33,1988,31.1,2,0,0,54,27,2,2,43,21,0,0,0,173,31,25,55.4,Matches
+695,Igor Torres,br BRA,"FW,MF",Fortaleza,21,2000,0.1,1,0,0,2,1,0,1,0,0,0,0,0,1,0,0,,Matches
+696,Gabriel Tota,br BRA,MF,Juventude,20,2001,2.4,2,0,0,7,6,0,2,4,1,0,0,0,10,4,5,44.4,Matches
+697,Jesús Trindade,uy URU,MF,Coritiba,28,1993,14.6,3,0,0,12,7,0,41,10,17,0,0,0,109,12,12,50.0,Matches
+698,Bruno Tubarão,br BRA,"FW,MF",RB Bragantino,26,1995,5.0,0,0,0,5,3,1,26,6,3,0,0,0,16,12,11,52.2,Matches
+699,Uendel,br BRA,DF,Cuiabá,33,1988,14.7,0,0,0,9,7,0,49,10,8,0,0,0,68,21,13,61.8,Matches
+700,Valdívia,br BRA,"MF,FW",Cuiabá,27,1994,15.4,4,1,0,17,26,2,63,8,10,0,0,0,56,16,32,33.3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+701,Vanderlan,br BRA,DF,Palmeiras,19,2002,7.2,0,0,0,13,8,0,25,18,9,0,0,0,31,4,6,40.0,Matches
+702,Guillermo Varela,uy URU,DF,Flamengo,28,1993,2.9,0,0,0,1,6,0,5,8,4,0,0,0,13,1,5,16.7,Matches
+703,Eduardo Vargas,cl CHI,FW,Atlético Mineiro,32,1989,12.7,2,0,0,13,18,6,5,4,6,0,0,0,59,15,19,44.1,Matches
+704,Matheus de Vargas,br BRA,MF,Fortaleza,25,1996,4.6,2,0,0,12,11,3,5,3,2,0,0,0,20,8,12,40.0,Matches
+705,Jhon Vasquez,co COL,"FW,MF",Ceará,26,1995,4.6,2,0,0,9,11,4,18,1,5,0,0,0,14,7,9,43.8,Matches
+706,Rafael Vaz,br BRA,DF,Avaí,33,1988,15.5,2,0,0,8,6,0,8,12,9,0,1,0,65,32,18,64.0,Matches
+707,Raphael Veiga,br BRA,MF,Palmeiras,26,1995,14.0,1,0,0,18,33,4,42,3,10,0,0,0,47,7,9,43.8,Matches
+708,Emiliano Velázquez,uy URU,DF,Santos,27,1994,6.0,0,0,0,3,2,0,1,14,9,0,1,0,28,10,12,45.5,Matches
+709,Fausto Vera,ar ARG,MF,Corinthians,21,2000,14.5,5,0,0,17,13,0,4,18,22,0,2,0,122,13,16,44.8,Matches
+710,Gabriel Veron,br BRA,"FW,MF",Palmeiras,19,2002,6.3,0,0,0,4,6,0,6,6,8,1,0,0,29,3,9,25.0,Matches
+711,João Vialle,br BRA,DF,Ath Paranaense,19,2002,0.3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
+712,João Victor,br BRA,MF,Ceará,17,2004,0.2,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0.0,Matches
+713,João Victor,br BRA,DF,Corinthians,23,1998,5.4,2,0,0,7,5,0,0,11,2,0,0,0,22,15,7,68.2,Matches
+714,Marcos Victor,br BRA,DF,Ceará,20,2001,4.0,2,0,0,3,4,0,0,8,4,0,0,0,26,3,6,33.3,Matches
+715,Renan Victor,br BRA,DF,RB Bragantino,19,2002,3.2,1,0,0,2,1,0,0,2,3,0,0,1,22,3,7,30.0,Matches
+716,Arturo Vidal,cl CHI,MF,Flamengo,34,1987,9.3,2,0,0,20,11,0,17,21,16,0,1,0,60,11,9,55.0,Matches
+717,Caio Vidal,br BRA,"FW,MF",Internacional,21,2000,1.7,1,0,0,7,9,1,1,3,2,0,0,0,5,1,5,16.7,Matches
+718,Elvis Vieira Araújo,br BRA,"MF,FW",Goiás,31,1990,9.4,4,0,0,13,14,0,71,6,4,0,0,0,62,6,3,66.7,Matches
+719,Gabriel Vieira,br BRA,FW,Palmeiras,19,2002,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
+720,Luan Vieira,br BRA,"MF,FW",Santos,28,1993,5.0,0,0,0,4,15,0,15,1,4,0,0,0,19,1,9,10.0,Matches
+721,Marcos Vinicios Sorriso,br BRA,FW,RB Bragantino,20,2001,15.0,4,0,0,22,31,1,61,8,15,0,0,0,74,19,46,29.2,Matches
+722,Vinícius,br BRA,"FW,MF",Ceará,30,1991,26.7,9,2,2,11,40,6,160,24,3,1,0,0,130,11,15,42.3,Matches
+723,Vinicius,br BRA,"MF,DF",Santos,22,1999,0.8,0,0,0,2,2,0,2,1,1,0,0,0,3,2,0,100.0,Matches
+724,Vinícius,br BRA,"MF,FW",Goiás,28,1993,21.7,1,0,0,19,19,6,59,14,14,0,0,0,80,16,17,48.5,Matches
+725,Vinícius,br BRA,FW,Botafogo (RJ),22,1999,9.7,3,0,0,19,26,3,10,11,10,0,0,0,45,14,20,41.2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+726,Caio Vinícius,br BRA,MF,Goiás,23,1999,17.3,7,1,0,43,28,2,4,30,23,0,1,0,87,24,27,47.1,Matches
+727,Mateus Vital,br BRA,"FW,MF",Corinthians,23,1998,8.2,1,0,0,10,17,2,17,7,13,0,0,0,59,7,13,35.0,Matches
+728,Vitão,br BRA,DF,Internacional,21,2000,31.0,1,0,0,14,5,0,0,19,14,0,0,0,77,55,44,55.6,Matches
+729,Vitinho,br BRA,FW,Ath Paranaense,22,1999,15.9,3,1,1,23,26,6,22,5,11,0,0,0,75,17,38,30.9,Matches
+730,Vitinho,br BRA,"FW,MF",Flamengo,28,1993,5.3,1,0,0,13,6,0,8,1,6,0,0,0,21,10,10,50.0,Matches
+731,Vitinho,br BRA,"FW,MF",Avaí,21,2000,4.0,2,0,0,7,19,1,1,1,1,0,0,0,10,6,7,46.2,Matches
+732,João Vitor,br BRA,MF,Coritiba,21,2000,0.1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,,Matches
+733,Vladimir,br BRA,GK,Avaí,32,1989,22.5,3,0,0,1,3,0,0,0,0,0,1,0,24,5,1,83.3,Matches
+734,Max Walef,br BRA,GK,Fortaleza,28,1993,5.0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,,Matches
+735,Walter,br BRA,GK,Cuiabá,34,1987,27.4,0,0,0,0,3,0,0,1,2,0,0,0,20,8,0,100.0,Matches
+736,Wanderson,br BRA,DF,Atl Goianiense,30,1991,27.2,2,0,0,19,7,2,0,22,10,0,0,0,72,74,37,66.7,Matches
+737,Wanderson,br BRA,"FW,MF",Internacional,27,1994,17.8,3,0,0,18,17,3,59,3,9,0,0,0,58,4,16,20.0,Matches
+738,Warley,br BRA,"FW,MF",Coritiba,22,1999,6.2,1,2,0,10,10,0,17,9,4,0,0,0,41,4,6,40.0,Matches
+739,Welington,br BRA,"DF,FW",São Paulo,20,2001,18.6,5,1,1,19,31,1,125,15,21,0,0,0,93,17,18,48.6,Matches
+740,José Welison,br BRA,MF,Fortaleza,26,1995,19.1,6,0,0,39,17,0,22,38,22,0,0,0,144,37,27,57.8,Matches
+741,Weliton,cl CHI,MF,Juventude,16,2005,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
+742,Wellington,br BRA,DF,Avaí,26,1995,3.0,0,0,0,4,1,0,0,5,2,0,1,1,9,3,4,42.9,Matches
+743,Welliton,br BRA,"MF,FW",RB Bragantino,21,2000,1.1,0,0,0,0,2,0,8,0,3,0,0,0,7,1,3,25.0,Matches
+744,Wendell,br BRA,MF,Ceará,19,2002,0.1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,,Matches
+745,Werton,br BRA,FW,Flamengo,18,2003,0.3,0,0,0,1,0,0,0,0,1,0,0,0,2,0,2,0.0,Matches
+746,Wescley,br BRA,MF,Ceará,30,1991,0.8,0,0,0,1,1,0,3,0,2,0,0,0,4,0,1,0.0,Matches
+747,Wesley,br BRA,"MF,FW",Corinthians,16,2005,0.1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,,Matches
+748,Wesley,br BRA,FW,Palmeiras,22,1999,7.2,2,0,0,8,20,2,30,3,6,0,0,0,50,14,9,60.9,Matches
+749,Weverson,br BRA,MF,RB Bragantino,21,2000,0.5,0,0,0,0,0,0,3,0,0,0,0,0,4,1,5,16.7,Matches
+750,Weverton,br BRA,DF,Internacional,22,1999,0.5,0,0,0,0,1,0,3,0,0,0,0,0,4,0,1,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+751,Wéverton,br BRA,GK,Palmeiras,34,1987,34.0,0,0,0,0,5,0,0,1,1,0,0,0,31,9,2,81.8,Matches
+752,Rafael William,br BRA,GK,Coritiba,20,2001,6.0,1,0,0,1,0,0,0,0,0,0,1,0,3,1,0,100.0,Matches
+753,Willian,br BRA,"FW,MF",Fluminense,35,1986,5.3,2,0,0,8,3,2,8,8,5,0,0,0,26,3,8,27.3,Matches
+754,Willian,br BRA,FW,Corinthians,33,1988,9.2,1,0,0,6,30,2,33,8,10,0,0,0,42,5,3,62.5,Matches
+755,Xavier,br BRA,MF,Corinthians,21,2000,1.8,1,0,0,2,0,0,0,2,1,0,0,0,13,2,2,50.0,Matches
+756,Samuel Xavier,br BRA,DF,Fluminense,31,1990,31.4,5,0,0,28,49,3,77,26,16,0,0,0,122,25,27,48.1,Matches
+757,Yago,br BRA,"MF,DF",Fluminense,26,1995,12.6,3,0,0,14,31,4,36,13,13,0,0,0,54,8,18,30.8,Matches
+758,Ytalo,br BRA,FW,RB Bragantino,34,1988,6.9,0,0,0,2,6,0,2,3,3,0,0,0,10,7,14,33.3,Matches
+759,Marcos Ytalo,br BRA,DF,Ceará,25,1996,1.8,0,0,0,5,4,0,5,2,3,0,0,0,4,3,2,60.0,Matches
+760,Vinícius Zanocelo,br BRA,MF,Santos,21,2001,22.3,8,0,0,47,12,2,2,24,17,0,2,0,112,31,32,49.2,Matches
+761,Federico Zaracho,ar ARG,"MF,FW",Atlético Mineiro,23,1998,20.9,3,0,0,34,26,1,16,22,29,0,0,0,114,25,48,34.2,Matches

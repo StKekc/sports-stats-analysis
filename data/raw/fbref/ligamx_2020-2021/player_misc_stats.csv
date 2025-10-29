@@ -1,0 +1,612 @@
+rk,player,nation,pos,squad,age,born,90s,crdy,crdr,2crdy,fls,fld,off,crs,int,tklw,pkwon,pkcon,og,recov,won,lost,won_aerial,matches
+1,Diego Abella,mx MEX,"FW,MF",Toluca,21,1998,1.8,1,0,0,5,2,0,7,1,1,0,0,0,5,6,2,75.0,Matches
+2,José Abella,mx MEX,DF,Atlas,26,1994,13.2,1,1,0,10,8,1,11,12,17,0,0,0,59,7,17,29.2,Matches
+3,Clifford Aboagye,gh GHA,"MF,DF",Puebla,25,1995,1.0,1,0,0,3,0,0,3,3,2,0,0,0,7,0,2,0.0,Matches
+4,Clifford Aboagye,gh GHA,MF,Tijuana,25,1995,4.2,1,0,0,8,2,0,4,5,0,0,0,0,24,2,5,28.6,Matches
+5,Iván Acero,mx MEX,MF,Toluca,20,2000,0.1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,Matches
+6,Carlos Acevedo,mx MEX,GK,Santos,24,1996,34.0,1,0,0,0,3,0,0,0,1,0,0,1,34,5,0,100.0,Matches
+7,Alonso Aceves,mx MEX,DF,Pachuca,19,2001,0.8,0,0,0,0,0,0,0,2,0,0,0,0,4,0,0,,Matches
+8,Alan Acosta,mx MEX,"MF,DF",Puebla,23,1996,1.2,1,1,0,2,0,0,6,0,0,0,0,0,6,1,1,50.0,Matches
+9,Luciano Acosta,ar ARG,"MF,FW",Atlas,26,1994,16.7,5,1,0,30,32,4,32,14,17,1,0,0,79,4,12,25.0,Matches
+10,Francisco Acuña,mx MEX,MF,Necaxa,32,1988,0.2,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0,,Matches
+11,Sergio Adrián Flores,mx MEX,MF,Guadalajara,25,1995,2.1,0,0,0,9,1,0,0,6,8,0,0,0,12,10,7,58.8,Matches
+12,Daniel Aguilar,mx MEX,MF,Puebla,22,1998,11.5,2,0,0,16,7,0,19,10,17,0,1,0,47,19,15,55.9,Matches
+13,Jorge Aguilar,py PAR,DF,Necaxa,27,1993,4.5,2,0,0,6,4,0,1,3,3,0,0,0,20,16,5,76.2,Matches
+14,Jorge Aguilar,py PAR,DF,Tijuana,27,1993,6.8,4,1,1,29,11,0,0,5,11,0,0,0,38,6,12,33.3,Matches
+15,Paul Aguilar,mx MEX,DF,América,34,1986,4.1,0,0,0,5,3,0,4,3,2,0,0,0,14,9,4,69.2,Matches
+16,Emanuel Aguilera,ar ARG,DF,América,31,1989,20.7,1,0,0,36,7,0,0,46,7,0,1,0,113,45,38,54.2,Matches
+17,Eduardo Aguirre,mx MEX,"FW,MF",Santos,21,1998,14.4,0,0,0,18,30,1,11,5,6,1,0,0,46,29,41,41.4,Matches
+18,Érick Aguirre,mx MEX,"DF,MF",Pachuca,23,1997,26.1,6,0,0,26,9,2,82,55,40,0,0,0,153,28,24,53.8,Matches
+19,Gaddi Aguirre,mx MEX,DF,Atlas,24,1996,1.0,1,0,0,1,0,0,0,1,0,0,1,0,6,2,1,66.7,Matches
+20,Rodrigo Aguirre,uy URU,FW,Necaxa,25,1994,3.5,0,0,0,4,4,1,0,0,2,0,0,0,16,20,15,57.1,Matches
+21,Arnaud Ake,ci CIV,"FW,MF",Monterrey,22,1998,8.6,1,1,0,22,22,3,4,5,6,2,0,0,19,5,21,19.2,Matches
+22,Nicolás Albarracín,uy URU,MF,Querétaro,27,1993,0.8,0,0,0,2,1,0,0,0,0,0,0,0,3,1,1,50.0,Matches
+23,Jesús Alberto Angulo,mx MEX,DF,Atlas,22,1998,26.4,5,1,0,48,55,0,9,43,46,0,1,0,129,28,27,50.9,Matches
+24,Gil Alcalá,mx MEX,GK,Querétaro,28,1992,24.0,1,0,0,0,6,0,0,0,1,0,0,0,34,3,0,100.0,Matches
+25,Adrián Aldrete,mx MEX,DF,Cruz Azul,32,1988,23.0,6,0,0,28,14,0,73,23,26,0,0,0,100,20,17,54.1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+26,Daniel Alexis Parra,mx MEX,DF,Monterrey,21,1999,4.0,0,0,0,8,3,1,6,2,7,0,1,0,11,7,1,87.5,Matches
+27,Luis Alfonso Rodríguez,mx MEX,"DF,MF",UANL,29,1991,24.3,7,0,0,38,12,0,70,29,43,0,0,0,120,23,12,65.7,Matches
+28,David Alfredo Andrade,mx MEX,DF,Santos,27,1993,16.6,3,0,0,15,9,0,51,14,13,0,1,0,80,20,20,50.0,Matches
+29,Carlos Alonso Vargas,mx MEX,DF,Mazatlán,21,1999,17.1,3,0,0,18,20,0,25,36,23,0,0,0,71,16,31,34.0,Matches
+30,Alfonso Alvarado,mx MEX,"FW,MF",Monterrey,20,2000,2.7,0,0,0,3,5,2,3,2,3,0,0,0,7,7,12,36.8,Matches
+31,Roberto Alvarado,mx MEX,"MF,FW",Cruz Azul,21,1998,17.4,3,0,0,31,31,1,36,15,19,0,1,0,84,18,25,41.9,Matches
+32,Ventura Alvarado,us USA,DF,Atlético,27,1992,11.5,4,0,0,14,9,0,1,23,6,0,0,0,43,35,16,68.6,Matches
+33,Daniel Álvarez,mx MEX,"MF,FW",Puebla,26,1994,10.1,2,0,0,13,16,2,35,6,8,1,1,0,33,7,12,36.8,Matches
+34,Fabio Álvarez,ar ARG,"MF,FW",UNAM,27,1993,20.7,5,1,0,24,15,0,33,13,16,0,0,0,119,11,18,37.9,Matches
+35,Kevin Álvarez,mx MEX,DF,Pachuca,21,1999,24.7,9,0,0,37,39,2,37,34,35,2,0,0,116,18,27,40.0,Matches
+36,Daniel Amador,mx MEX,MF,Mazatlán,23,1997,4.1,1,0,0,6,11,0,14,4,1,0,0,0,19,0,4,0.0,Matches
+37,Fidel Ambríz,mx MEX,MF,León,17,2003,2.0,0,0,0,4,2,0,1,1,3,0,0,0,8,4,2,66.7,Matches
+38,Alejandro Andrade,mx MEX,MF,Necaxa,18,2001,6.2,1,0,0,10,8,1,1,1,10,1,0,0,31,9,13,40.9,Matches
+39,Miguel Ángel Fraga,mx MEX,GK,Mazatlán,32,1987,11.0,1,0,0,1,4,0,0,0,0,0,1,0,14,4,1,80.0,Matches
+40,Miguel Ángel Herrera,mx MEX,DF,Pachuca,31,1989,8.6,2,0,0,16,9,0,3,20,8,0,1,0,32,29,12,70.7,Matches
+41,Luis Ángel Malagón,mx MEX,GK,Necaxa,23,1997,24.5,0,0,0,1,2,0,0,0,1,0,1,0,41,4,1,80.0,Matches
+42,Luis Ángel Mendoza,mx MEX,"MF,FW",Mazatlán,30,1990,23.3,1,0,0,12,17,0,126,22,15,0,0,0,116,9,15,37.5,Matches
+43,Miguel Ángel Ponce,mx MEX,DF,Guadalajara,31,1989,19.4,4,2,1,36,22,0,26,22,26,0,0,0,93,20,21,48.8,Matches
+44,Brayan Angulo,ec ECU,FW,Cruz Azul,24,1995,4.6,0,0,0,5,4,1,2,0,0,0,0,0,9,11,9,55.0,Matches
+45,Brayan Angulo,co COL,DF,Puebla,30,1989,12.9,1,0,0,18,4,0,27,18,14,0,0,0,59,20,13,60.6,Matches
+46,Brayan Angulo,ec ECU,"FW,MF",Tijuana,24,1995,9.8,0,0,0,13,9,4,1,2,2,1,0,0,27,11,20,35.5,Matches
+47,Brayan Angulo,co COL,DF,Tijuana,30,1989,16.0,4,0,0,27,7,0,31,27,20,0,0,0,86,23,27,46.0,Matches
+48,Jesús Angulo,mx MEX,"MF,FW",Guadalajara,23,1997,21.5,0,0,0,12,35,3,43,17,20,0,0,0,113,1,24,4.0,Matches
+49,Francisco Antonio Figueroa,mx MEX,"FW,MF",Pachuca,21,1999,7.6,1,0,0,6,17,4,24,6,6,0,0,0,37,1,3,25.0,Matches
+50,Jorge Antonio Padilla,mx MEX,DF,Mazatlán,26,1993,16.0,6,0,0,23,45,2,37,17,25,0,1,0,60,22,24,47.8,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+51,José Antonio Rodríguez,mx MEX,GK,Guadalajara,28,1992,15.0,0,0,0,0,1,0,0,1,0,0,0,0,21,10,1,90.9,Matches
+52,Uriel Antuna,mx MEX,"FW,MF",Guadalajara,22,1997,25.9,0,0,0,11,67,16,116,20,6,1,0,0,84,9,27,25.0,Matches
+53,Javier Aquino,mx MEX,"MF,DF",UANL,30,1990,25.7,1,1,0,34,62,3,61,40,46,1,1,0,114,25,31,44.6,Matches
+54,Pedro Aquino,pe PER,MF,América,25,1995,10.6,2,0,0,23,21,0,1,14,10,0,0,0,82,22,27,44.9,Matches
+55,Pedro Aquino,pe PER,MF,León,25,1995,10.3,3,2,0,26,13,0,3,6,17,0,0,0,72,14,22,38.9,Matches
+56,Maximiliano Araújo,uy URU,"MF,FW",Puebla,20,2000,10.1,1,0,0,18,32,1,28,7,9,1,1,0,45,8,20,28.6,Matches
+57,Fernando Arce Jr.,us USA,MF,Necaxa,23,1996,12.5,4,1,1,18,13,1,7,16,12,0,0,0,75,20,14,58.8,Matches
+58,Sagir Arce,us USA,DF,Mazatlán,18,2002,0.0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,,Matches
+59,Omar Arellano,mx MEX,"MF,FW",Querétaro,33,1987,4.3,0,0,0,9,3,0,13,2,6,0,0,0,19,5,5,50.0,Matches
+60,Fernando Aristeguieta,ve VEN,"FW,MF",Mazatlán,28,1992,18.1,3,0,0,23,48,6,11,4,4,2,0,0,39,76,67,53.1,Matches
+61,Blas Armoa,py PAR,"FW,MF",FC Juárez,20,2000,5.4,0,0,0,11,9,0,12,2,7,0,0,0,23,4,12,25.0,Matches
+62,Daniel Arreola,mx MEX,DF,Puebla,34,1985,11.9,4,0,0,14,27,1,1,18,9,0,1,0,49,17,28,37.8,Matches
+63,Gerardo Arteaga,mx MEX,DF,Santos,21,1998,1.0,0,0,0,0,1,0,2,0,2,0,0,0,4,0,0,,Matches
+64,Giovanni Augusto,br BRA,"MF,FW",Mazatlán,30,1989,11.6,0,1,0,13,21,0,34,6,14,0,0,0,67,6,10,37.5,Matches
+65,Erick Ávalos,mx MEX,DF,UANL,20,2000,1.4,0,0,0,0,0,0,0,4,2,0,0,0,5,1,1,50.0,Matches
+66,Hugo Ayala,mx MEX,DF,UANL,33,1987,13.2,1,0,0,11,12,0,1,24,19,0,0,0,60,18,13,58.1,Matches
+67,Rafael Baca,mx MEX,MF,Cruz Azul,30,1989,21.8,5,0,0,27,10,0,5,27,19,0,1,0,125,22,15,59.5,Matches
+68,Claudio Baeza,cl CHI,MF,Toluca,26,1993,16.2,6,0,0,29,14,0,10,16,18,0,0,0,105,9,11,45.0,Matches
+69,Claudio Baeza,cl CHI,MF,Necaxa,26,1993,11.9,4,1,0,22,19,1,14,9,10,0,0,0,68,3,8,27.3,Matches
+70,Kevin Balanta,co COL,MF,Tijuana,23,1997,6.8,1,0,0,14,5,0,1,14,13,0,0,0,60,8,5,61.5,Matches
+71,Miguel Barbieri,ar ARG,DF,Toluca,26,1993,15.8,6,1,1,18,6,0,1,23,13,0,1,0,67,57,25,69.5,Matches
+72,Miguel Barbieri,ar ARG,DF,Tijuana,26,1993,11.2,4,0,0,24,0,0,0,38,12,0,1,0,50,32,20,61.5,Matches
+73,David Barbona,ar ARG,"MF,FW",Tijuana,25,1995,16.8,2,0,0,23,10,2,59,10,9,0,0,0,84,14,10,58.3,Matches
+74,Diego Barbosa,mx MEX,DF,Atlas,23,1996,19.4,3,0,0,35,14,0,56,27,32,0,0,0,80,29,31,48.3,Matches
+75,Martín Barragán,mx MEX,FW,Necaxa,29,1991,20.1,3,0,0,45,43,18,5,5,6,0,0,0,41,91,62,59.5,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+76,Jaine Barreiro,co COL,DF,León,26,1994,30.8,5,0,0,29,28,3,3,38,21,0,1,0,138,62,48,56.4,Matches
+77,Pablo Barrera,mx MEX,"FW,MF",Atlético,33,1987,20.8,1,0,0,13,31,2,202,9,16,0,0,0,119,4,14,22.2,Matches
+78,Damián Batallini,ar ARG,"FW,MF",Atlético,24,1996,13.2,2,0,0,34,35,2,85,11,11,1,1,0,84,12,19,38.7,Matches
+79,Fernando Beltrán,mx MEX,MF,Guadalajara,22,1998,11.8,2,0,0,9,12,0,23,12,11,0,0,0,76,1,7,12.5,Matches
+80,Nicolás Benedetti,co COL,"MF,FW",América,23,1997,6.4,4,0,0,13,19,1,8,3,3,1,0,0,25,6,10,37.5,Matches
+81,Germán Berterame,mx MEX,"FW,MF",Atlético,21,1998,26.5,8,0,0,54,31,3,56,30,19,0,1,0,109,69,59,53.9,Matches
+82,Jonathan Betancourt,ec ECU,"FW,MF",Querétaro,25,1995,3.5,3,0,0,8,7,1,4,1,2,0,0,0,15,3,3,50.0,Matches
+83,Unai Bilbao,es ESP,DF,Necaxa,26,1994,33.9,7,0,0,33,24,0,1,73,22,1,0,0,156,91,50,64.5,Matches
+84,Alfonso Blanco Antúnez,mx MEX,GK,León,33,1987,7.0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,,Matches
+85,Miller Bolaños,ec ECU,"FW,MF",Tijuana,30,1990,4.0,2,0,0,4,15,3,11,0,2,0,0,0,10,1,2,33.3,Matches
+86,Jonathan Borja,ec ECU,MF,Cruz Azul,26,1994,0.2,0,0,0,1,1,0,0,0,0,0,0,0,0,2,0,100.0,Matches
+87,Eduardo Bravo,mx MEX,GK,Querétaro,29,1991,3.0,0,0,0,0,1,0,0,0,0,0,0,0,8,0,0,,Matches
+88,Antonio Briseño,mx MEX,DF,Guadalajara,26,1994,13.5,4,0,0,21,11,4,0,25,9,0,0,1,49,87,39,69.0,Matches
+89,Isaác Brizuela,mx MEX,"MF,FW",Guadalajara,29,1990,30.8,2,0,0,23,41,4,66,35,28,0,0,0,155,23,25,47.9,Matches
+90,Gil Burón,mx MEX,DF,León,26,1994,4.2,1,0,0,6,1,0,4,1,4,0,0,0,17,1,6,14.3,Matches
+91,Gustavo Cabral,ar ARG,DF,Pachuca,34,1985,32.7,6,0,0,39,22,1,3,63,23,0,1,0,151,101,59,63.1,Matches
+92,David Cabrera Pujol,mx MEX,MF,Necaxa,30,1989,26.0,6,0,0,28,18,1,152,29,30,0,0,1,183,25,21,54.3,Matches
+93,Sebastián Cáceres,uy URU,DF,América,20,1999,26.1,6,0,0,24,29,0,1,28,30,0,2,0,108,75,54,58.1,Matches
+94,Cadete,es ESP,"DF,MF",Atlético,26,1994,8.5,1,0,0,16,8,0,22,15,16,0,0,0,41,10,9,52.6,Matches
+95,Cristian Calderón,mx MEX,"DF,MF",Guadalajara,23,1997,11.4,2,0,0,11,18,4,23,12,4,0,0,0,54,22,26,45.8,Matches
+96,Luis Calzadilla,mx MEX,MF,Pachuca,20,2000,0.2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0.0,Matches
+97,Joel Campbell,cr CRC,"FW,MF",León,28,1992,16.2,4,0,0,29,49,4,22,1,13,0,0,0,42,15,28,34.9,Matches
+98,Omar Campos,mx MEX,"DF,FW",Santos,18,2002,9.5,1,0,0,10,19,0,39,11,8,0,0,0,46,14,14,50.0,Matches
+99,Joshua Canales,hn HON,FW,Querétaro,20,2000,0.0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,,Matches
+100,Alexis Canelo,ar ARG,"FW,MF",Toluca,28,1992,27.1,4,0,0,35,65,9,41,12,8,4,0,0,96,59,58,50.4,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+101,Eric Cantú,mx MEX,"DF,MF",Monterrey,21,1999,2.2,1,0,0,4,0,0,0,0,2,0,0,0,5,0,1,0.0,Matches
+102,Milton Caraglio,ar ARG,FW,Cruz Azul,31,1988,3.7,1,0,0,11,4,3,2,3,1,0,0,0,8,20,28,41.7,Matches
+103,Milton Caraglio,ar ARG,FW,Atlas,31,1988,13.6,0,0,0,17,25,11,3,1,5,0,0,0,19,99,69,58.9,Matches
+104,Luis Cárdenas,mx MEX,GK,Monterrey,26,1993,4.0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,,Matches
+105,Edwin Cardona,co COL,MF,Tijuana,27,1992,0.4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,Matches
+106,Ulises Cardona,mx MEX,MF,Mazatlán,21,1998,0.9,0,0,0,1,1,0,1,1,1,0,0,0,3,0,0,,Matches
+107,Rafael Carioca,br BRA,MF,UANL,31,1989,27.5,5,3,1,23,42,1,50,28,26,0,1,0,190,7,13,35.0,Matches
+108,Jordan Carrillo,mx MEX,"FW,DF",Santos,18,2001,1.0,0,0,0,0,5,1,2,0,0,0,0,0,3,1,2,33.3,Matches
+109,Bryan Carvallo,cl CHI,"MF,DF",Necaxa,23,1996,1.1,0,0,0,3,1,1,5,2,3,0,0,0,6,0,0,,Matches
+110,Santiago Cáseres,ar ARG,"MF,DF",América,23,1997,9.4,5,1,1,9,11,0,4,18,12,0,0,0,56,18,13,58.1,Matches
+111,Kevin Castañeda,mx MEX,"MF,FW",Toluca,20,1999,12.3,2,0,0,21,13,0,31,9,9,0,0,0,51,2,8,20.0,Matches
+112,Christian Castillo,mx MEX,MF,Tijuana,17,2003,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,Matches
+113,Erick Castillo,ec ECU,"FW,MF",FC Juárez,25,1995,12.5,0,1,0,11,11,2,23,6,10,0,0,0,42,9,13,40.9,Matches
+114,Fabián Castillo,co COL,"FW,MF",Tijuana,28,1992,21.6,3,0,0,15,28,5,43,13,10,0,0,0,109,12,18,40.0,Matches
+115,Walter Castillo,mx MEX,"FW,MF",Atlético,22,1997,0.6,0,0,0,1,1,0,1,1,0,0,0,0,4,0,3,0.0,Matches
+116,Alex Castro,co COL,"MF,FW",Cruz Azul,26,1994,0.7,0,0,0,0,0,1,3,0,3,0,0,0,4,1,0,100.0,Matches
+117,Elio Castro,mx MEX,DF,FC Juárez,32,1988,0.8,0,0,0,1,0,0,0,2,2,0,0,0,3,4,6,40.0,Matches
+118,Matías Catalán,cl CHI,DF,Pachuca,27,1992,9.0,0,0,0,15,2,1,25,11,7,0,0,0,30,37,16,69.8,Matches
+119,Matías Catalán,cl CHI,"DF,MF",Atlético,27,1992,11.2,5,1,1,20,6,0,41,15,9,1,1,0,45,27,10,73.0,Matches
+120,Alan Cervantes,mx MEX,MF,Santos,22,1998,29.3,3,0,0,63,52,2,46,40,33,0,2,0,228,56,59,48.7,Matches
+121,Daniel Cervantes,mx MEX,DF,Querétaro,30,1990,26.7,2,0,0,19,10,0,0,37,17,0,1,1,80,60,44,57.7,Matches
+122,Pablo César Aguilar,py PAR,DF,Cruz Azul,33,1987,13.6,7,0,0,24,11,0,2,26,11,0,0,0,42,41,31,56.9,Matches
+123,Pablo César López,mx MEX,MF,Atlético,22,1998,8.2,1,0,0,15,7,0,35,7,5,0,1,0,27,5,13,27.8,Matches
+124,Aníbal Chalá,ec ECU,DF,Toluca,24,1996,2.0,0,0,0,2,3,1,9,4,2,0,1,0,4,1,2,33.3,Matches
+125,Luis Chávez,mx MEX,MF,Pachuca,24,1996,27.1,5,1,0,28,32,2,113,28,31,0,0,0,136,21,20,51.2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+126,Ricardo Chávez Soto,mx MEX,DF,Atlético,25,1994,13.2,5,0,0,25,14,2,24,17,25,0,1,0,55,25,9,73.5,Matches
+127,Ricardo Chávez Soto,mx MEX,DF,Necaxa,25,1994,10.4,4,0,0,21,10,1,38,7,17,0,0,0,44,10,12,45.5,Matches
+128,Alejandro Chumacero,bo BOL,"MF,FW",Puebla,29,1991,2.5,0,0,0,5,7,2,1,2,2,0,0,0,10,1,5,16.7,Matches
+129,Ronaldo Cisneros,mx MEX,"FW,MF",Guadalajara,23,1997,1.4,0,0,0,3,1,1,3,0,1,0,0,0,3,1,1,50.0,Matches
+130,José Cobián,mx MEX,"MF,FW",Necaxa,21,1998,2.5,1,0,0,2,3,0,5,2,1,0,0,0,12,2,3,40.0,Matches
+131,José Cobián,mx MEX,MF,UNAM,21,1998,0.2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,,Matches
+132,Santiago Colombatto,ar ARG,MF,León,23,1997,7.5,6,0,0,14,7,1,16,10,8,0,2,0,43,6,3,66.7,Matches
+133,Bryan Colula,mx MEX,DF,América,24,1996,1.1,0,0,0,0,2,0,6,3,1,0,0,0,2,2,1,66.7,Matches
+134,Bryan Colula,mx MEX,DF,Tijuana,24,1996,1.5,1,0,0,3,1,0,0,8,3,0,0,0,7,1,2,33.3,Matches
+135,Germán Conti,ar ARG,DF,Atlas,26,1994,13.6,3,0,0,23,6,0,0,25,11,0,2,0,39,53,21,71.6,Matches
+136,Francisco Contreras,mx MEX,"MF,FW",FC Juárez,21,1999,7.0,2,0,0,7,5,0,25,5,7,0,0,0,31,8,10,44.4,Matches
+137,José Corona,mx MEX,GK,Cruz Azul,39,1981,32.0,2,0,0,1,4,0,0,0,0,0,1,0,43,5,0,100.0,Matches
+138,George Corral,mx MEX,DF,Puebla,30,1990,24.8,1,0,0,19,23,0,91,36,18,1,0,0,112,25,32,43.9,Matches
+139,Jordi Cortizo,mx MEX,"MF,DF",Tijuana,24,1996,11.3,5,0,0,24,37,2,37,3,14,0,0,0,63,6,14,30.0,Matches
+140,Francisco da Costa,br BRA,"FW,MF",Querétaro,25,1995,4.9,1,0,0,9,10,1,1,2,2,0,0,0,11,20,21,48.8,Matches
+141,Rodolfo Cota,mx MEX,GK,León,33,1987,27.0,1,0,0,0,7,0,0,0,2,0,0,0,35,9,0,100.0,Matches
+142,Aldo Cruz,mx MEX,"DF,FW",Tijuana,22,1997,6.2,0,0,0,3,10,0,9,7,10,0,0,0,34,4,7,36.4,Matches
+143,Aldo Cruz,mx MEX,DF,UANL,22,1997,4.5,1,0,0,7,5,0,10,8,3,0,0,0,24,1,3,25.0,Matches
+144,Bernardo Cuesta,ar ARG,"FW,MF",Puebla,31,1988,3.4,2,0,0,7,3,1,4,1,2,0,0,0,9,4,7,36.4,Matches
+145,Jorge Daniel Hernández,mx MEX,MF,Pachuca,31,1989,11.7,6,1,1,21,15,0,2,15,12,0,0,0,83,7,8,46.7,Matches
+146,Juan David Castro,mx MEX,MF,Atlético,28,1991,19.9,6,0,0,27,41,1,57,11,11,0,0,0,108,12,27,30.8,Matches
+147,José David Ramírez,mx MEX,"DF,FW",León,24,1995,26.4,1,0,0,14,34,1,65,18,28,0,0,0,130,15,19,44.1,Matches
+148,Víctor Dávila,cl CHI,FW,Pachuca,22,1997,11.9,2,0,0,15,24,4,16,4,3,2,0,0,33,17,15,53.1,Matches
+149,Víctor Dávila,cl CHI,"FW,MF",León,22,1997,10.8,1,0,0,12,25,2,15,4,1,1,0,0,25,5,15,25.0,Matches
+150,Diego De Buen,mx MEX,"MF,DF",Puebla,29,1991,2.3,2,0,0,7,1,0,6,4,4,0,0,0,6,3,3,50.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+151,Ayron del Valle,co COL,"FW,MF",FC Juárez,31,1989,7.3,1,0,0,7,12,3,14,0,4,0,0,0,16,10,16,38.5,Matches
+152,Juan Delgado,cl CHI,"MF,FW",Necaxa,27,1993,23.1,4,1,0,40,43,2,108,7,15,0,1,0,117,11,23,32.4,Matches
+153,Benny Díaz,mx MEX,GK,Tijuana,21,1998,2.3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,,Matches
+154,Nicolás Díaz Huincales,cl CHI,DF,Mazatlán,21,1999,25.4,10,0,0,39,32,2,5,48,26,0,3,0,115,44,29,60.3,Matches
+155,Jonathan Díaz,mx MEX,"DF,MF",Santos,21,1999,4.4,1,0,0,5,7,0,9,5,1,0,0,0,22,6,7,46.2,Matches
+156,Sergio Díaz,py PAR,"MF,FW",América,22,1998,2.3,0,0,0,2,2,0,2,2,1,0,0,0,16,0,1,0.0,Matches
+157,Diego,br BRA,DF,Toluca,32,1988,14.7,5,1,0,27,27,1,36,24,18,0,0,0,61,27,11,71.1,Matches
+158,José Doldán,py PAR,DF,Querétaro,23,1997,15.3,4,1,0,28,15,0,0,21,14,0,1,0,59,32,19,62.7,Matches
+159,Idekel Domínguez,mx MEX,DF,Necaxa,20,2000,26.7,9,1,0,37,28,1,21,38,33,0,1,0,113,11,32,25.6,Matches
+160,Julio Domínguez,mx MEX,DF,Cruz Azul,32,1987,30.0,1,0,0,33,19,0,2,36,16,1,0,1,122,29,59,33.0,Matches
+161,Misael Domínguez,mx MEX,"MF,FW",Cruz Azul,20,1999,3.3,0,0,0,2,9,0,3,1,1,0,0,0,21,2,2,50.0,Matches
+162,Luis Donaldo Hernández,mx MEX,"DF,MF",FC Juárez,22,1998,1.7,2,0,0,7,0,0,1,5,2,0,0,0,4,4,3,57.1,Matches
+163,Dória,br BRA,DF,Santos,25,1994,33.0,2,0,0,11,16,1,2,48,19,0,0,0,186,64,63,50.4,Matches
+164,Giovani dos Santos,mx MEX,"FW,MF",América,31,1989,7.5,0,0,0,11,9,7,9,1,4,0,0,0,18,2,3,40.0,Matches
+165,Jesús Dueñas,mx MEX,"DF,MF",UANL,31,1989,26.4,7,0,0,35,31,1,46,23,27,0,0,0,117,23,11,67.6,Matches
+166,Jhon Duque Arias,co COL,MF,Atlético,28,1992,4.5,1,0,0,13,6,0,5,10,7,0,0,0,23,8,7,53.3,Matches
+167,Jonathan David dos Santos Duré,uy URU,"FW,MF",Querétaro,28,1992,3.3,1,0,0,8,7,3,3,1,1,0,0,0,9,10,11,47.6,Matches
+168,Javier Eduardo López,mx MEX,"FW,MF",Guadalajara,25,1994,1.6,0,0,0,0,1,0,8,0,1,0,0,0,4,0,0,,Matches
+169,Jorge Eduardo Sánchez,mx MEX,DF,América,22,1997,28.9,6,0,0,57,24,2,64,50,44,0,0,0,142,29,28,50.9,Matches
+170,Francisco Eduardo Venegas,mx MEX,"DF,MF",UANL,22,1998,1.7,0,0,0,1,0,0,7,3,4,0,0,0,11,1,3,25.0,Matches
+171,Jesús Eduardo Zavala,mx MEX,MF,FC Juárez,33,1987,9.8,1,0,0,15,6,0,0,10,6,0,0,0,44,20,21,48.8,Matches
+172,Alfonso Emilio Sánchez,mx MEX,MF,América,26,1994,3.4,1,0,0,8,3,0,1,4,7,0,0,0,19,7,5,58.3,Matches
+173,Luis Enrique Quiñones,co COL,"MF,FW",UANL,29,1991,23.5,7,0,0,56,44,3,113,10,39,0,0,0,101,13,29,31.0,Matches
+174,Carlos Ernesto Cisneros,mx MEX,"MF,DF",Toluca,26,1993,3.0,2,0,0,4,7,0,6,4,3,0,0,0,15,5,5,50.0,Matches
+175,Carlos Ernesto Cisneros,mx MEX,"DF,MF",Guadalajara,26,1993,0.3,0,0,0,4,0,0,1,0,0,0,0,0,2,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+176,Dionicio Escalante,mx MEX,DF,Atlético,30,1990,12.2,6,0,0,31,21,0,24,15,21,0,0,0,66,21,17,55.3,Matches
+177,Kevin Escamilla,mx MEX,MF,Querétaro,26,1994,12.6,3,1,1,28,19,0,4,25,11,0,0,0,48,17,16,51.5,Matches
+178,Armando Escobar,mx MEX,FW,Atlas,26,1993,0.3,0,0,0,0,1,0,0,3,1,0,0,0,3,0,0,,Matches
+179,Juan Escobar,py PAR,DF,Cruz Azul,25,1995,29.5,7,0,0,43,26,5,72,28,25,1,2,0,105,65,66,49.6,Matches
+180,Alonso Escoboza,mx MEX,"DF,MF",América,27,1993,4.8,0,0,0,5,6,0,14,8,4,0,0,0,25,5,5,50.0,Matches
+181,Amaury Escoto,mx MEX,"FW,MF",Puebla,27,1992,10.1,3,0,0,13,22,7,18,7,3,2,0,0,23,35,38,47.9,Matches
+182,José Espino,mx MEX,"FW,MF",Querétaro,19,2000,0.8,1,0,0,2,1,0,0,0,1,0,0,0,0,0,2,0.0,Matches
+183,Michael Estrada,ec ECU,FW,Toluca,24,1996,22.6,3,0,0,41,28,8,3,1,4,1,0,0,46,54,53,50.5,Matches
+184,Marco Fabián,mx MEX,"FW,MF",FC Juárez,31,1989,18.0,2,1,0,21,30,3,84,8,22,0,0,0,94,6,28,17.6,Matches
+185,Sebastián Fassi,mx MEX,GK,Necaxa,27,1993,3.0,0,0,0,0,1,0,0,0,0,0,0,0,9,0,0,,Matches
+186,Carlos Felipe Rodríguez,mx MEX,GK,Atlético,31,1989,9.0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,,Matches
+187,Omar Fernández Frasica,co COL,"MF,FW",Puebla,27,1993,27.9,3,0,0,19,43,7,92,24,27,0,0,0,136,7,27,20.6,Matches
+188,Leonardo Fernández,uy URU,"MF,FW",UANL,21,1998,10.4,1,0,0,11,20,1,74,6,2,0,0,0,42,0,9,0.0,Matches
+189,Mauro Fernández,ar ARG,"FW,MF",FC Juárez,31,1989,5.9,0,0,0,9,8,1,14,2,1,0,0,1,29,3,8,27.3,Matches
+190,Luis Fernando Fuentes,mx MEX,DF,América,33,1986,25.5,2,0,0,32,22,0,17,51,24,0,0,0,99,26,25,51.0,Matches
+191,Luis Fernando León,ec ECU,"DF,MF",Atlético,27,1993,4.4,0,0,0,9,4,0,2,5,10,0,0,0,28,8,7,53.3,Matches
+192,Luis Fernando Quintana,mx MEX,DF,UNAM,28,1992,6.7,0,0,0,6,4,0,0,15,3,0,0,0,21,14,15,48.3,Matches
+193,Juan Ferney Otero,co COL,"FW,MF",Santos,25,1995,16.3,3,0,0,26,37,3,62,9,13,0,0,0,85,47,43,52.2,Matches
+194,Gustavo Ferrareis,br BRA,"FW,MF",Puebla,24,1996,1.3,3,1,1,7,2,0,6,0,3,0,0,0,13,3,6,33.3,Matches
+195,Álvaro Fidalgo,es ESP,MF,América,23,1997,8.4,0,0,0,5,16,1,7,7,0,1,0,0,31,2,6,25.0,Matches
+196,Brian Figueroa,mx MEX,"FW,MF",UNAM,21,1999,0.3,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,100.0,Matches
+197,Nicolás Freire,ar ARG,DF,UNAM,26,1994,32.0,7,0,0,24,13,0,2,46,12,0,0,1,104,83,61,57.6,Matches
+198,Raymundo Fulgencio,mx MEX,"MF,DF",UANL,20,2000,4.1,0,0,0,6,2,0,27,3,2,0,0,0,13,2,0,100.0,Matches
+199,Rogelio Funes Mori,mx MEX,FW,Monterrey,29,1991,28.5,7,0,0,42,53,17,22,7,7,1,0,0,60,76,77,49.7,Matches
+200,Julio Furch,ar ARG,FW,Santos,31,1989,14.5,1,0,0,20,26,0,13,5,3,2,0,0,29,64,50,56.1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+201,Julio Furch,ar ARG,"FW,MF",Atlas,31,1989,0.7,0,0,0,2,0,1,1,0,0,0,0,0,2,7,9,43.8,Matches
+202,Carlos Galindo,mx MEX,GK,UANL,20,2000,2.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,100.0,Matches
+203,Benjamín Galindo Jr.,mx MEX,DF,Pachuca,21,1999,1.0,0,0,0,1,0,0,0,2,0,0,0,0,7,2,2,50.0,Matches
+204,Jesús Gallardo,mx MEX,"DF,MF",Monterrey,25,1994,25.1,6,1,1,52,23,4,53,44,42,0,0,0,137,38,26,59.4,Matches
+205,Joe Gallardo,us USA,"MF,FW",Querétaro,22,1998,1.3,0,0,0,2,2,0,5,0,0,0,0,0,8,0,3,0.0,Matches
+206,Felipe Gallegos,cl CHI,MF,Atlético,28,1991,7.0,1,1,0,10,4,0,25,9,3,0,0,0,28,8,7,53.3,Matches
+207,Martín Galván,mx MEX,"MF,FW",FC Juárez,27,1993,2.7,1,0,0,6,13,0,4,4,1,0,0,0,6,0,4,0.0,Matches
+208,Edgar Games,mx MEX,MF,Santos,19,2001,2.7,0,0,0,3,0,0,1,3,2,0,0,0,17,3,5,37.5,Matches
+209,Luis Gamíz,mx MEX,MF,Tijuana,20,2000,4.5,2,0,0,12,4,0,1,3,8,0,0,0,15,6,5,54.5,Matches
+210,Amaury García,mx MEX,MF,UNAM,18,2001,2.7,3,0,0,14,2,0,0,2,0,0,0,0,8,3,6,33.3,Matches
+211,Ángel García,mx MEX,"MF,FW",UNAM,19,2000,2.3,0,0,0,6,2,0,6,0,1,0,0,0,10,0,4,0.0,Matches
+212,Emmanuel García,mx MEX,DF,Pachuca,30,1989,8.4,5,0,0,19,13,0,11,9,8,0,0,0,36,7,9,43.8,Matches
+213,Felipe García Hernández,mx MEX,MF,Atlético,21,1999,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+214,Matías García,ar ARG,"MF,FW",FC Juárez,28,1991,12.3,6,0,0,23,14,4,44,14,19,1,0,0,73,13,12,52.0,Matches
+215,Pol García,es ESP,DF,FC Juárez,25,1995,7.8,1,0,0,6,4,0,1,11,8,0,0,1,22,22,12,64.7,Matches
+216,Ricardo García,mx MEX,"MF,FW",Atlético,20,2000,0.3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+217,Uziel García,mx MEX,DF,Atlético,19,2001,1.7,0,0,0,2,0,0,4,4,5,0,1,0,5,2,1,66.7,Matches
+218,Bryan Garnica,mx MEX,"MF,FW",Santos,24,1996,9.0,2,0,0,7,23,3,72,13,11,0,0,0,37,6,18,25.0,Matches
+219,Bryan Garnica,mx MEX,FW,Atlas,24,1996,0.5,0,0,0,0,0,0,4,0,0,0,0,0,2,0,3,0.0,Matches
+220,Emmanuel Gigliotti,ar ARG,FW,León,33,1987,19.2,2,0,0,32,8,6,3,1,3,1,0,0,29,21,14,60.0,Matches
+221,André-Pierre Gignac,fr FRA,"FW,MF",UANL,34,1985,31.0,7,0,0,33,32,18,33,3,0,0,0,0,63,56,39,58.9,Matches
+222,Santiago Giménez,mx MEX,FW,Cruz Azul,19,2001,15.6,2,0,0,34,25,7,7,2,7,3,0,0,29,34,59,36.6,Matches
+223,Federico Gino,uy URU,"MF,DF",Atlético,27,1993,4.5,2,0,0,5,7,0,8,2,13,0,2,0,16,4,8,33.3,Matches
+224,Jesús Godínez,mx MEX,"FW,MF",León,23,1997,1.9,0,0,0,3,4,0,1,1,0,0,0,0,6,3,5,37.5,Matches
+225,Josué Gómez,mx MEX,"DF,MF",Pachuca,21,1999,0.5,1,0,0,2,0,0,0,1,0,0,0,0,1,1,0,100.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+226,Jaime Gómez Valencia,mx MEX,"DF,FW",Tijuana,27,1993,14.9,4,0,0,27,21,1,27,17,26,0,1,0,75,12,13,48.0,Matches
+227,Alfonso González,mx MEX,MF,Monterrey,25,1994,16.9,2,0,0,27,37,1,76,26,18,0,0,0,116,13,18,41.9,Matches
+228,Bryan González,mx MEX,FW,Pachuca,17,2003,1.7,0,0,0,2,2,1,2,1,1,0,0,0,12,3,2,60.0,Matches
+229,Pablo González Díaz,mx MEX,"MF,DF",Puebla,28,1992,13.9,0,0,0,20,6,0,23,31,13,0,1,0,73,4,10,28.6,Matches
+230,Pablo González Díaz,mx MEX,"MF,FW",Atlas,28,1992,2.0,1,0,0,4,2,0,1,2,1,0,0,0,7,1,2,33.3,Matches
+231,Diego González,mx MEX,DF,Toluca,24,1996,11.6,1,0,0,17,13,0,31,11,18,0,0,0,37,10,11,47.6,Matches
+232,Hugo González Durán,mx MEX,GK,Monterrey,29,1990,30.0,0,0,0,0,4,0,0,1,1,0,0,0,37,10,0,100.0,Matches
+233,Carlos González Espínola,py PAR,FW,UNAM,27,1993,14.1,0,0,0,21,28,1,7,3,4,1,0,0,17,54,44,55.1,Matches
+234,Carlos González Espínola,py PAR,FW,UANL,27,1993,14.0,0,0,0,12,28,2,6,5,4,2,0,0,20,77,58,57.0,Matches
+235,Ramiro González Hernández,ar ARG,DF,Atlético,29,1990,29.5,12,1,1,51,19,2,2,49,27,1,2,0,132,132,87,60.3,Matches
+236,Jair González,mx MEX,"FW,DF",Santos,18,2002,1.6,0,0,0,3,3,0,5,0,1,0,0,0,8,2,3,40.0,Matches
+237,Jairo González,mx MEX,"DF,MF",Necaxa,28,1992,9.0,2,0,0,15,3,0,25,10,16,0,1,0,49,3,7,30.0,Matches
+238,Jonathan González,mx MEX,"MF,FW",Monterrey,21,1999,2.3,0,0,0,3,10,0,1,3,4,0,0,0,10,0,2,0.0,Matches
+239,Ian Gonzalez Nieto,es ESP,"FW,MF",Necaxa,27,1993,19.6,3,1,0,20,23,2,4,4,6,0,0,0,73,38,36,51.4,Matches
+240,Fernando Gorriarán,uy URU,"MF,DF",Santos,25,1994,29.3,5,0,0,51,75,4,83,58,31,1,1,0,244,31,31,50.0,Matches
+241,Ismael Govea,mx MEX,DF,Santos,23,1997,4.1,0,0,0,4,3,0,6,8,5,0,1,0,17,9,5,64.3,Matches
+242,Raúl Gudiño,mx MEX,GK,Guadalajara,24,1996,19.0,0,0,0,1,6,0,0,0,0,0,1,0,22,2,0,100.0,Matches
+243,Javier Güemez,mx MEX,MF,Toluca,28,1991,11.1,2,0,0,13,4,0,2,21,10,0,1,0,74,15,18,45.5,Matches
+244,Javier Güemez,mx MEX,MF,Atlético,28,1991,16.6,0,0,0,15,21,1,12,30,25,0,0,0,105,27,26,50.9,Matches
+245,Emanuel Gularte,uy URU,DF,Puebla,22,1997,14.6,9,1,1,33,15,0,1,19,24,0,2,0,67,42,26,61.8,Matches
+246,José Gurrola,mx MEX,"FW,MF",Querétaro,22,1998,3.8,0,0,0,2,3,0,6,1,3,0,0,0,10,2,5,28.6,Matches
+247,Alexis Gutiérrez,mx MEX,"MF,FW",Cruz Azul,20,2000,2.6,0,0,0,8,0,0,8,4,0,0,0,0,14,3,2,60.0,Matches
+248,Carlos Gutiérrez,mx MEX,"MF,DF",UNAM,21,1999,25.5,4,0,0,40,23,2,135,13,24,0,0,0,94,10,43,18.9,Matches
+249,Edson Gutiérrez,mx MEX,DF,Monterrey,24,1996,3.8,2,0,0,8,8,0,3,1,4,0,0,0,10,3,5,37.5,Matches
+250,Ricardo Gutiérrez,mx MEX,GK,Mazatlán,23,1997,5.5,1,0,0,1,0,0,0,1,1,0,1,0,3,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+251,Carlos Guzmán,mx MEX,DF,Necaxa,26,1994,0.6,0,0,0,0,1,0,1,0,0,0,0,0,4,0,2,0.0,Matches
+252,Nahuel Guzmán,ar ARG,GK,UANL,34,1986,30.0,1,0,0,1,7,0,0,1,2,0,1,0,42,10,0,100.0,Matches
+253,Víctor Guzmán,mx MEX,MF,Pachuca,25,1995,13.4,4,0,0,28,21,0,24,9,5,0,0,0,63,20,26,43.5,Matches
+254,Víctor Guzmán,mx MEX,DF,Tijuana,18,2002,27.2,5,0,0,27,15,0,0,40,24,0,0,1,90,27,37,42.2,Matches
+255,Arelibetsiel Hernández,mx MEX,DF,Santos,25,1994,1.0,0,0,0,1,2,0,1,2,2,0,0,0,2,3,0,100.0,Matches
+256,Édgar Hernández,mx MEX,GK,Necaxa,37,1982,6.5,0,0,0,0,1,0,0,0,0,0,0,0,9,2,1,66.7,Matches
+257,Elías Hernández,mx MEX,"MF,FW",Cruz Azul,32,1988,11.5,1,0,0,12,8,1,86,5,6,0,0,0,57,2,3,40.0,Matches
+258,Pedro Hernández,mx MEX,DF,León,19,2000,2.7,0,0,0,3,1,0,0,5,4,0,0,0,8,9,7,56.3,Matches
+259,Eduardo Herrera,mx MEX,FW,Puebla,32,1988,1.1,0,0,0,1,4,0,0,0,1,0,0,0,3,6,4,60.0,Matches
+260,Ozziel Herrera,mx MEX,"FW,MF",Atlas,19,2001,4.3,1,0,0,9,12,2,13,3,8,0,0,0,21,7,9,43.8,Matches
+261,César Huerta,mx MEX,"MF,FW",Guadalajara,19,2000,1.9,1,0,0,4,4,0,4,1,2,0,0,0,9,2,3,40.0,Matches
+262,César Huerta,mx MEX,"MF,FW",Mazatlán,19,2000,13.9,2,0,0,26,37,0,12,11,11,0,0,0,54,7,12,36.8,Matches
+263,Avilés Hurtado,co COL,"FW,MF",Monterrey,33,1987,10.0,4,0,0,24,21,1,8,9,8,1,0,0,45,9,14,39.1,Matches
+264,Nicolás Ibáñez,ar ARG,"FW,MF",Atlético,25,1994,28.3,5,0,0,64,24,16,38,4,16,1,0,0,77,67,80,45.6,Matches
+265,Andrés Ibargüen,co COL,"FW,MF",Santos,28,1992,5.5,1,0,0,3,9,0,10,5,2,0,0,0,23,2,12,14.3,Matches
+266,Andrés Ibargüen,co COL,MF,América,28,1992,2.0,0,0,0,1,4,1,1,2,1,0,0,0,8,0,3,0.0,Matches
+267,Javier Ibarra,mx MEX,MF,Querétaro,22,1998,4.1,2,0,0,4,13,0,1,1,3,0,0,0,21,1,4,20.0,Matches
+268,Renato Ibarra,ec ECU,"MF,FW",Atlas,29,1991,20.9,5,0,0,30,48,2,74,11,21,0,0,0,100,10,22,31.3,Matches
+269,Romario Ibarra,ec ECU,"FW,MF",Pachuca,25,1994,7.4,0,0,0,11,11,1,25,0,4,1,0,0,16,4,9,30.8,Matches
+270,Juan Ignacio Dinenno,ar ARG,FW,UNAM,25,1994,27.4,8,0,0,33,32,6,6,0,4,0,1,0,44,74,82,47.4,Matches
+271,Juan Ignacio González,mx MEX,"DF,FW",León,36,1984,0.1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,Matches
+272,Andrés Iniestra,mx MEX,MF,FC Juárez,24,1996,5.9,1,0,0,8,5,0,3,7,4,0,0,0,27,5,6,45.5,Matches
+273,Andrés Iniestra,mx MEX,MF,UNAM,24,1996,9.6,2,2,1,9,3,0,1,11,7,0,1,0,35,6,12,33.3,Matches
+274,Jefferson Intriago,ec ECU,"MF,FW",FC Juárez,24,1996,23.6,6,0,0,19,48,1,80,20,23,0,0,0,135,9,17,34.6,Matches
+275,Hugo Isaác Rodríguez,mx MEX,DF,Santos,30,1990,16.3,3,1,0,15,8,0,0,24,17,0,0,0,78,41,25,62.1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+276,Jesús Isijara,mx MEX,"DF,FW",Santos,30,1989,7.3,5,0,0,15,13,0,30,11,7,0,1,0,35,17,13,56.7,Matches
+277,Jesús Isijara,mx MEX,"FW,MF",Atlas,30,1989,13.5,0,0,0,13,17,5,41,11,10,0,0,0,61,13,14,48.1,Matches
+278,Omar Islas,mx MEX,"MF,FW",Querétaro,24,1996,8.7,0,0,0,9,20,0,26,5,5,0,0,0,30,5,16,23.8,Matches
+279,Omar Israel Mendoza,mx MEX,DF,Querétaro,31,1988,12.6,2,0,0,21,31,0,13,18,14,0,2,0,79,17,14,54.8,Matches
+280,Juan Iturbe,py PAR,"MF,FW",UNAM,27,1993,15.4,6,0,0,29,34,0,67,10,18,1,0,0,82,11,15,42.3,Matches
+281,José Iván Rodríguez,mx MEX,MF,León,24,1996,11.3,4,1,1,24,15,0,0,15,14,0,1,0,66,14,13,51.9,Matches
+282,Juan Izquierdo,uy URU,DF,Atlético,23,1997,3.7,2,0,0,7,2,0,0,8,3,0,1,0,20,18,13,58.1,Matches
+283,Vincent Janssen,nl NED,FW,Monterrey,26,1994,12.6,8,2,1,37,29,6,22,2,8,1,0,0,39,13,28,31.7,Matches
+284,Gonzalo Jara,cl CHI,DF,Tijuana,34,1985,12.4,5,2,1,20,10,0,0,34,16,0,1,0,86,17,15,53.1,Matches
+285,Gonzalo Jara,cl CHI,DF,Mazatlán,34,1985,6.2,3,0,0,6,4,0,0,6,9,0,1,0,47,9,5,64.3,Matches
+286,Rodrigo Javier Noya,ar ARG,DF,Atlético,30,1990,17.9,7,0,0,22,15,0,1,22,11,0,2,0,49,60,28,68.2,Matches
+287,Ignacio Jeraldino,cl CHI,"FW,MF",Santos,24,1995,5.2,0,0,0,14,2,3,2,0,2,0,0,0,14,19,36,34.5,Matches
+288,Ignacio Jeraldino,cl CHI,FW,Atlas,24,1995,6.9,2,0,0,17,9,7,4,2,5,0,0,0,18,26,30,46.4,Matches
+289,Antonio de Jesús López,gt GUA,"MF,DF",América,23,1997,5.8,0,0,0,13,13,0,17,6,2,0,0,0,45,3,5,37.5,Matches
+290,Israel Jiménez,mx MEX,"DF,MF",Mazatlán,30,1989,18.2,4,0,0,20,16,0,7,22,19,0,0,0,85,21,17,55.3,Matches
+291,Jaiber Jiménez,mx MEX,DF,Cruz Azul,25,1995,1.2,1,0,0,1,5,0,1,1,2,0,0,0,3,7,2,77.8,Matches
+292,Oscar Jiménez,mx MEX,GK,América,31,1988,6.0,0,0,0,0,1,0,0,0,0,0,0,0,7,1,0,100.0,Matches
+293,José Joaquín Esquivel,mx MEX,MF,FC Juárez,22,1998,17.2,3,1,0,21,15,0,3,26,16,0,0,0,97,21,30,41.2,Matches
+294,José Joaquín Martínez,mx MEX,DF,Cruz Azul,33,1987,12.5,0,0,0,20,12,0,19,16,8,0,1,0,33,6,11,35.3,Matches
+295,Julio José González,mx MEX,GK,UNAM,29,1991,4.5,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,66.7,Matches
+296,Juan José Sánchez,mx MEX,"DF,MF",UANL,22,1998,0.7,0,0,0,3,0,0,0,1,0,0,0,0,1,0,2,0.0,Matches
+297,Alberto Joshimar Acosta,mx MEX,DF,FC Juárez,32,1988,15.0,4,0,0,26,26,0,40,26,28,0,1,0,84,7,15,31.8,Matches
+298,José Juan Macías,mx MEX,FW,Guadalajara,20,1999,25.5,0,0,0,20,35,8,7,6,6,2,0,1,68,26,64,28.9,Matches
+299,José Juan Vázquez,mx MEX,MF,Toluca,32,1988,16.9,1,0,0,17,15,0,2,30,21,0,0,0,96,5,21,19.2,Matches
+300,José Juan Vázquez,mx MEX,MF,Guadalajara,32,1988,5.8,1,0,0,9,8,0,1,15,10,0,1,0,26,1,2,33.3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+301,Ramón Juárez,mx MEX,DF,América,19,2001,8.1,2,0,0,15,7,0,2,7,7,0,1,0,22,23,14,62.2,Matches
+302,Anderson Julio,ec ECU,"MF,FW",Atlético,24,1996,4.9,0,0,0,7,6,2,14,4,7,1,0,0,17,4,11,26.7,Matches
+303,Sebastián Jurado,mx MEX,GK,Cruz Azul,22,1997,2.0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,0,100.0,Matches
+304,Colin Kazim-Richards,tr TUR,FW,Pachuca,33,1986,1.4,1,0,0,6,2,1,1,0,1,1,0,0,0,2,4,33.3,Matches
+305,Matías Kranevitter,ar ARG,MF,Monterrey,27,1993,20.0,7,0,0,42,6,0,0,43,21,0,1,0,144,20,19,51.3,Matches
+306,Roberto de la Rosa,mx MEX,FW,Pachuca,20,2000,13.2,0,0,0,10,12,7,8,2,0,1,0,0,38,7,22,24.1,Matches
+307,Mauro Laínez,mx MEX,"FW,MF",América,24,1996,13.5,1,0,0,8,22,1,62,13,13,0,1,0,59,11,11,50.0,Matches
+308,Mauro Laínez,mx MEX,"FW,DF",Tijuana,24,1996,11.8,2,0,0,13,22,3,50,7,16,1,0,0,59,3,4,42.9,Matches
+309,Miguel Layún,mx MEX,"DF,MF",Monterrey,32,1988,17.8,4,0,0,10,14,0,114,11,16,0,0,0,71,5,7,41.7,Matches
+310,Luís Leal,st STP,FW,Tijuana,33,1987,3.9,0,0,0,8,4,1,3,0,1,0,0,0,9,7,11,38.9,Matches
+311,Yerko Leiva,cl CHI,MF,Necaxa,22,1998,2.1,1,0,0,3,2,0,4,7,5,0,0,0,15,1,2,33.3,Matches
+312,Armando León,mx MEX,"FW,MF",León,20,2000,1.1,0,0,0,1,1,0,1,0,1,0,0,0,3,0,6,0.0,Matches
+313,Giovanny León,mx MEX,MF,Toluca,20,2000,0.2,0,0,0,1,3,0,0,1,1,0,0,0,3,0,0,,Matches
+314,Dario Lezcano,py PAR,FW,FC Juárez,30,1990,26.6,1,0,0,36,94,10,6,4,5,4,0,0,50,77,106,42.1,Matches
+315,Igor Lichnovsky,cl CHI,DF,Cruz Azul,26,1994,11.0,5,0,0,18,12,0,0,20,11,0,1,0,41,33,14,70.2,Matches
+316,Erik Lira,mx MEX,MF,UNAM,20,2000,25.2,3,0,0,28,36,0,2,34,30,0,1,0,149,20,24,45.5,Matches
+317,Edgar López,mx MEX,"FW,MF",Tijuana,21,1999,11.9,0,0,0,15,5,8,6,8,3,0,0,0,36,16,30,34.8,Matches
+318,Raúl López Gómez,mx MEX,DF,Toluca,27,1993,24.2,3,0,0,10,7,0,150,22,26,0,0,0,98,13,11,54.2,Matches
+319,Leonel López,mx MEX,MF,UNAM,26,1994,5.0,2,0,0,7,14,0,15,5,8,0,0,0,25,3,1,75.0,Matches
+320,Luis López,mx MEX,DF,FC Juárez,26,1993,19.1,8,1,0,24,12,0,48,38,19,1,0,0,72,27,11,71.1,Matches
+321,Nicolás López,uy URU,"FW,MF",UANL,26,1993,11.6,0,0,0,10,16,2,62,4,10,0,0,0,34,1,8,11.1,Matches
+322,Pablo López,uy URU,MF,Toluca,23,1996,1.6,0,0,0,1,4,0,1,0,3,0,0,0,6,0,1,0.0,Matches
+323,René López,mx MEX,"MF,DF",Pachuca,18,2002,0.1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,,Matches
+324,Vladimir Loroña,mx MEX,DF,Tijuana,21,1998,20.2,10,0,0,47,21,2,58,24,40,0,2,1,85,37,32,53.6,Matches
+325,Adrián Lozano,mx MEX,"MF,FW",Santos,21,1999,3.3,1,0,0,4,3,0,19,0,4,0,0,0,24,1,2,33.3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+326,Alfonso Luna,mx MEX,DF,Querétaro,30,1990,12.5,1,1,0,21,14,0,15,26,11,1,0,0,46,9,13,40.9,Matches
+327,Mario de Luna,mx MEX,DF,Necaxa,32,1988,14.6,2,0,0,17,5,1,0,28,8,0,1,0,36,39,38,50.6,Matches
+328,Oscar Macías,mx MEX,MF,Guadalajara,22,1998,0.1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,,Matches
+329,Waldo Madrid,mx MEX,MF,Necaxa,16,2003,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+330,Fernando Madrigal,mx MEX,MF,Querétaro,28,1991,32.9,3,0,0,37,63,2,109,29,40,1,0,0,188,26,30,46.4,Matches
+331,José Madueña,mx MEX,DF,Guadalajara,30,1990,0.5,1,0,0,1,0,0,1,2,1,0,0,0,2,1,3,25.0,Matches
+332,Hugo Magallanes,uy URU,DF,Querétaro,22,1997,4.9,2,1,0,7,7,0,0,9,5,0,0,1,10,12,11,52.2,Matches
+333,Lucas Maia,br BRA,DF,Puebla,27,1993,3.2,3,0,0,6,0,0,1,2,3,0,0,0,9,5,4,55.6,Matches
+334,Jonatan Maidana,ar ARG,DF,Toluca,35,1985,7.1,1,0,0,9,0,0,0,8,0,0,0,0,11,11,13,45.8,Matches
+335,Víctor Malcorra,ar ARG,"MF,FW",Atlas,33,1987,32.2,8,0,0,34,41,6,274,14,20,0,0,0,166,1,14,6.7,Matches
+336,Víctor Mañón,mx MEX,"FW,MF",FC Juárez,28,1992,1.5,0,0,0,0,3,1,3,0,0,0,0,0,12,1,1,50.0,Matches
+337,Mauro Manotas,co COL,FW,Tijuana,25,1995,13.6,2,0,0,12,12,5,5,2,3,1,0,0,25,6,30,16.7,Matches
+338,Luis Manuel García,mx MEX,GK,Toluca,27,1992,29.0,1,0,0,1,4,0,0,1,0,0,1,2,38,7,0,100.0,Matches
+339,Javier Marcelo Correa,ar ARG,FW,Atlas,27,1992,17.5,7,1,1,21,21,7,8,1,6,0,0,0,22,40,55,42.1,Matches
+340,Jahaziel Marchand,mx MEX,MF,Pachuca,18,2001,0.7,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,50.0,Matches
+341,Hedgardo Marín,mx MEX,DF,FC Juárez,27,1993,12.5,1,0,0,13,2,0,0,15,9,0,0,0,47,25,25,50.0,Matches
+342,Ricardo Marín,mx MEX,"MF,FW",Mazatlán,22,1998,0.3,1,0,0,0,0,0,0,0,1,0,0,0,1,0,2,0.0,Matches
+343,Jeremy Márquez,mx MEX,MF,Atlas,20,2000,19.1,2,0,0,18,33,1,10,35,19,1,0,0,122,19,17,52.8,Matches
+344,Henry Martín,mx MEX,FW,América,27,1992,22.4,0,0,0,35,37,11,3,3,9,2,0,0,29,80,65,55.2,Matches
+345,Guillermo Martínez Ayala,mx MEX,FW,Puebla,25,1995,1.1,0,0,0,4,3,1,1,1,1,1,0,0,3,5,7,41.7,Matches
+346,Fidel Martínez,ec ECU,"FW,MF",Tijuana,30,1990,10.6,0,0,0,23,22,7,24,3,6,2,0,0,32,9,15,37.5,Matches
+347,Osvaldo Martínez,py PAR,MF,Puebla,34,1986,6.6,0,0,0,18,11,0,44,5,3,0,0,0,38,1,2,33.3,Matches
+348,Roger Martínez,co COL,"FW,MF",América,26,1994,14.3,3,1,1,34,44,1,20,9,8,0,0,0,41,25,25,50.0,Matches
+349,Sebastián Martínez,mx MEX,FW,Guadalajara,19,2001,0.9,0,0,0,2,1,1,0,0,0,0,0,0,0,3,6,33.3,Matches
+350,Guillermo Matías Fernández,ar ARG,"MF,FW",Cruz Azul,28,1991,10.0,2,0,0,10,6,0,3,12,11,0,0,0,55,10,8,55.6,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+351,Camilo Mayada,uy URU,"DF,MF",Atlético,29,1991,27.1,4,0,0,38,30,1,52,32,27,0,0,0,129,6,20,23.1,Matches
+352,Alejandro Mayorga,mx MEX,DF,Guadalajara,23,1997,7.4,1,0,0,12,9,2,17,10,9,0,0,0,43,8,10,44.4,Matches
+353,Alejandro Mayorga,mx MEX,DF,UNAM,23,1997,11.1,2,0,0,20,8,0,20,14,9,1,1,0,48,5,5,50.0,Matches
+354,Alan Medina,mx MEX,"FW,MF",América,22,1997,1.0,0,0,0,2,4,1,6,0,2,0,0,0,3,0,1,0.0,Matches
+355,Alan Medina,mx MEX,"MF,DF",Toluca,22,1997,8.2,3,0,0,11,9,2,9,9,5,0,0,0,34,4,5,44.4,Matches
+356,Stefan Medina,co COL,DF,Monterrey,28,1992,20.9,4,0,0,37,11,1,46,22,25,0,1,0,88,29,18,61.7,Matches
+357,Ángel Mena,ec ECU,"FW,MF",León,32,1988,25.4,3,0,0,46,38,16,22,11,17,2,0,0,77,9,16,36.0,Matches
+358,William Mendieta,py PAR,"MF,FW",FC Juárez,31,1989,5.4,1,0,0,9,4,1,29,3,4,0,0,0,26,6,5,54.5,Matches
+359,Alan Mendoza,mx MEX,"DF,FW",FC Juárez,26,1993,9.5,2,0,0,15,15,1,40,21,9,0,0,0,49,10,8,55.6,Matches
+360,Bryan Mendoza,mx MEX,"FW,MF",UNAM,22,1997,1.3,0,0,0,2,0,0,1,1,2,0,0,0,2,0,6,0.0,Matches
+361,Renato Mendoza,mx MEX,MF,Atlético,24,1996,0.6,0,0,0,1,1,0,4,3,0,0,0,0,0,0,2,0.0,Matches
+362,Jean Meneses,cl CHI,"FW,MF",León,27,1993,27.5,2,0,0,20,27,10,81,17,14,1,0,0,120,11,20,35.5,Matches
+363,Roberto Meraz,mx MEX,MF,Mazatlán,20,1999,12.7,4,0,0,23,8,1,2,31,6,0,0,0,33,11,11,50.0,Matches
+364,Kevin Mercado,ec ECU,MF,Necaxa,25,1995,6.1,1,0,0,8,5,1,40,3,2,0,0,0,19,3,9,25.0,Matches
+365,Francisco Meza,co COL,DF,UANL,28,1991,21.3,4,1,1,24,7,0,1,48,13,0,0,0,85,34,38,47.2,Matches
+366,Maximiliano Meza,ar ARG,"FW,MF",Monterrey,27,1992,23.9,6,0,0,34,59,3,65,25,21,0,0,0,121,43,35,55.1,Matches
+367,Hiram Mier,mx MEX,DF,Guadalajara,30,1989,25.4,7,0,0,18,22,0,0,33,10,0,1,0,99,56,52,51.9,Matches
+368,Oscar Millán,mx MEX,MF,Necaxa,19,2001,0.5,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,,Matches
+369,Rodrigo Millar,cl CHI,MF,Mazatlán,38,1981,7.2,1,0,0,8,9,0,1,11,6,0,0,0,32,7,8,46.7,Matches
+370,Shayr Mohamed González,mx MEX,MF,Monterrey,20,2000,0.5,0,1,0,2,2,0,0,0,0,0,0,0,1,0,0,,Matches
+371,Jesús Molina,mx MEX,MF,Guadalajara,32,1988,25.7,7,0,0,56,22,1,3,41,33,0,0,0,98,82,49,62.6,Matches
+372,Emanuel Montejano Arroyo,mx MEX,FW,UNAM,19,2001,3.8,0,0,0,4,3,4,1,0,2,0,0,0,10,8,13,38.1,Matches
+373,Jefferson Montero,ec ECU,"FW,MF",Querétaro,30,1989,5.1,2,0,0,4,2,0,33,2,1,0,0,0,22,0,3,0.0,Matches
+374,Alán Montes,mx MEX,MF,Necaxa,19,2000,0.3,0,0,0,0,0,0,0,1,0,0,0,0,0,2,2,50.0,Matches
+375,César Montes,mx MEX,DF,Monterrey,23,1997,24.7,4,1,1,16,17,0,2,29,19,0,0,0,96,71,20,78.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+376,Gonzalo Montes,uy URU,MF,Querétaro,25,1994,23.9,5,0,0,33,14,0,18,30,27,1,0,0,133,42,30,58.3,Matches
+377,Luis Montes,mx MEX,MF,León,34,1986,28.4,7,1,0,35,97,1,121,15,24,0,1,0,152,8,16,33.3,Matches
+378,Walter Montoya,ar ARG,"MF,FW",Cruz Azul,27,1993,2.3,0,0,0,3,9,0,4,4,4,0,0,0,12,0,1,0.0,Matches
+379,Adrián Mora,mx MEX,DF,Toluca,22,1997,11.2,3,0,0,15,4,0,5,23,8,0,0,0,45,14,14,50.0,Matches
+380,Jacob Morales,mx MEX,FW,UNAM,21,1999,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,33.3,Matches
+381,Carlos Moreno,mx MEX,GK,Pachuca,22,1998,1.0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+382,Gerardo Moreno,mx MEX,DF,UNAM,26,1993,1.4,1,0,0,2,1,0,0,4,1,0,0,0,5,7,1,87.5,Matches
+383,Iván Moreno,mx MEX,"DF,MF",Mazatlán,22,1998,0.6,0,0,0,1,0,1,2,0,1,0,0,0,3,1,0,100.0,Matches
+384,Yairo Moreno,co COL,"DF,MF",León,25,1995,19.6,4,0,0,22,52,1,52,28,26,0,1,0,114,30,13,69.8,Matches
+385,Andrés Mosquera Guardia,co COL,DF,León,30,1990,13.0,1,0,0,16,8,1,2,8,9,0,0,1,50,21,15,58.3,Matches
+386,Alan Mozo,mx MEX,DF,UNAM,23,1997,22.9,7,2,1,42,22,0,79,27,40,1,1,0,105,15,9,62.5,Matches
+387,Jairo Mungaray,mx MEX,"FW,DF",Atlas,19,2001,0.2,0,0,0,0,1,0,0,0,1,0,0,0,2,0,2,0.0,Matches
+388,Santiago Muñóz,mx MEX,"MF,FW",Santos,17,2002,10.4,1,0,0,12,21,7,1,1,2,0,0,0,31,11,26,29.7,Matches
+389,Zahid Muñoz,mx MEX,FW,Guadalajara,19,2001,0.2,0,0,0,0,1,0,0,0,0,0,0,0,3,0,1,0.0,Matches
+390,Óscar Murillo,co COL,DF,Pachuca,32,1988,26.5,5,1,1,39,18,1,1,56,22,0,2,0,127,101,63,61.6,Matches
+391,Eduardo Mustre,mx MEX,FW,Pachuca,17,2003,0.1,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,100.0,Matches
+392,Ariel Nahuelpán,ar ARG,FW,Tijuana,32,1987,3.4,2,0,0,8,8,1,0,0,0,0,0,0,9,13,9,59.1,Matches
+393,Julio Nava,mx MEX,DF,Querétaro,30,1989,5.9,0,0,0,6,10,0,38,9,3,0,0,0,21,2,4,33.3,Matches
+394,Fernando Navarro Morán,mx MEX,"DF,MF",León,31,1989,20.2,4,0,0,23,42,4,13,13,17,1,0,0,73,14,22,38.9,Matches
+395,Santiago Naveda,mx MEX,MF,América,19,2001,9.0,1,0,0,10,14,0,3,6,5,0,0,0,42,9,17,34.6,Matches
+396,Hugo Nervo,ar ARG,DF,Atlas,29,1991,33.0,2,1,0,31,20,1,2,53,6,1,0,1,97,68,77,46.9,Matches
+397,Francisco Nevarez,mx MEX,"DF,FW",FC Juárez,19,2000,4.0,0,1,0,4,4,0,10,7,2,0,0,0,17,1,5,16.7,Matches
+398,Roberto Nurse,pa PAN,FW,Pachuca,36,1983,6.6,2,0,0,20,8,9,1,2,3,0,0,0,10,51,38,57.3,Matches
+399,Alberto Ocejo,mx MEX,FW,Santos,22,1998,8.5,2,0,0,25,26,4,16,2,7,1,0,0,19,19,49,27.9,Matches
+400,Guillermo Ochoa,mx MEX,GK,América,35,1985,28.0,0,0,0,0,2,0,0,0,0,0,0,0,48,5,0,100.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+401,Luis Olivas,mx MEX,DF,Guadalajara,20,2000,4.0,1,0,0,5,1,0,1,8,2,0,0,0,20,7,9,43.8,Matches
+402,Maximiliano Olivera,uy URU,DF,FC Juárez,28,1992,13.7,5,1,0,17,17,0,49,9,11,1,0,0,50,17,11,60.7,Matches
+403,Santiago Ormeño,pe PER,FW,Puebla,26,1994,22.7,2,0,0,62,32,4,1,4,3,0,0,0,59,89,108,45.2,Matches
+404,Efraín Orona,mx MEX,MF,Pachuca,21,1999,2.6,1,0,0,11,2,0,1,5,6,0,1,0,15,6,4,60.0,Matches
+405,Jonathan Orozco,mx MEX,GK,Tijuana,34,1986,31.7,2,0,0,1,6,0,0,3,0,0,1,0,45,7,0,100.0,Matches
+406,Carlos Orrantía,mx MEX,"DF,MF",Santos,29,1991,9.7,2,0,0,15,6,0,46,9,5,0,0,0,51,18,9,66.7,Matches
+407,Edyairth Ortega,mx MEX,MF,Atlas,23,1997,1.5,1,1,0,5,1,0,4,3,1,0,0,0,7,1,4,20.0,Matches
+408,Haret Ortega,mx MEX,DF,Toluca,20,2000,7.9,3,0,0,11,8,0,1,13,12,0,0,0,34,21,11,65.6,Matches
+409,Kevin Ortega,mx MEX,MF,Pachuca,18,2002,0.9,1,0,0,2,1,0,0,1,0,0,0,0,3,0,0,,Matches
+410,Miguel Ortega,mx MEX,GK,UANL,25,1995,2.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+411,Celso Ortiz,py PAR,MF,Monterrey,31,1989,19.5,2,0,0,38,17,0,5,43,28,0,1,0,122,15,13,53.6,Matches
+412,José Ortiz,co COL,DF,Mazatlán,21,1998,25.1,9,2,1,33,20,0,4,35,25,0,0,1,116,42,41,50.6,Matches
+413,Mario Osuna,mx MEX,"MF,DF",Mazatlán,31,1988,17.1,4,1,1,27,18,2,13,35,23,0,5,0,92,21,20,51.2,Matches
+414,Juan Pablo Meza,mx MEX,DF,Querétaro,26,1993,6.4,3,0,0,9,3,1,10,11,6,0,0,0,21,4,3,57.1,Matches
+415,Juan Pablo Segovia,ar ARG,DF,Puebla,31,1989,13.2,1,0,0,11,4,1,6,32,12,0,1,0,54,28,19,59.6,Matches
+416,Juan Pablo Vigón,mx MEX,MF,UNAM,29,1991,24.8,3,0,0,35,48,1,21,19,17,1,0,0,123,16,23,41.0,Matches
+417,Dorlan Pabón,co COL,"FW,MF",Monterrey,32,1988,12.2,2,0,0,11,17,4,123,3,11,0,0,0,43,11,11,50.0,Matches
+418,Jesús Paganoni,mx MEX,"DF,MF",Puebla,31,1988,1.8,1,0,0,5,3,1,1,1,7,0,0,0,15,2,3,40.0,Matches
+419,Arturo Palma,mx MEX,FW,Querétaro,18,2002,1.6,0,0,0,3,2,0,6,0,1,0,0,0,5,0,2,0.0,Matches
+420,Enrique Palos,mx MEX,GK,FC Juárez,34,1986,17.0,1,0,0,1,4,0,0,0,0,0,0,0,23,5,0,100.0,Matches
+421,Felipe Pardo,co COL,"FW,MF",Pachuca,29,1990,19.2,3,1,0,29,29,11,74,7,3,0,0,0,81,22,21,51.2,Matches
+422,Lucas Passerini,ar ARG,"FW,MF",Atlético,26,1994,2.9,2,0,0,11,4,1,2,1,0,1,0,0,6,20,8,71.4,Matches
+423,Lucas Passerini,ar ARG,FW,Necaxa,26,1994,11.3,4,0,0,26,20,1,7,3,1,0,0,0,23,21,39,35.0,Matches
+424,Esteban Pavez,cl CHI,MF,Tijuana,30,1990,14.5,4,0,0,24,9,0,2,27,16,0,0,0,97,4,11,26.7,Matches
+425,Luis Pavez Muñoz,cl CHI,DF,FC Juárez,24,1995,8.8,2,0,0,11,6,0,10,12,11,0,0,0,52,9,15,37.5,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+426,Oribe Peralta,mx MEX,"FW,MF",Guadalajara,36,1984,1.6,0,0,0,8,2,2,1,1,1,0,0,0,6,3,9,25.0,Matches
+427,Jair Pereira,mx MEX,DF,Necaxa,34,1986,6.3,2,0,0,12,4,0,0,9,2,0,1,0,22,15,10,60.0,Matches
+428,Manuel Pérez Ruiz,mx MEX,"FW,MF",Mazatlán,27,1993,1.3,1,1,0,4,0,0,3,0,1,0,0,0,7,2,2,50.0,Matches
+429,Maximiliano Perg,uy URU,DF,Puebla,28,1991,29.3,7,1,1,46,28,1,2,49,33,0,0,0,87,69,68,50.4,Matches
+430,Jonathan Perlaza,ec ECU,DF,Querétaro,22,1997,1.5,0,0,0,2,2,0,2,0,2,0,0,0,8,1,1,50.0,Matches
+431,Diego Pineda,mx MEX,"FW,MF",Atlético,25,1995,4.5,4,2,1,18,16,4,4,3,4,0,0,0,19,5,10,33.3,Matches
+432,Orbelín Pineda,mx MEX,"MF,FW",Cruz Azul,24,1996,27.0,0,0,0,33,65,3,35,12,12,0,0,0,163,17,28,37.8,Matches
+433,Daniel Pinedo,mx MEX,FW,Necaxa,20,2000,1.6,0,0,0,6,4,1,1,0,0,0,0,0,4,2,9,18.2,Matches
+434,Jesús Piñuelas,mx MEX,DF,Atlético,22,1998,4.5,2,0,0,6,5,0,0,7,8,0,1,0,25,10,17,37.0,Matches
+435,Guido Pizarro,ar ARG,MF,UANL,30,1990,31.3,6,1,1,40,43,0,3,44,33,0,0,0,194,37,26,58.7,Matches
+436,Joao Plata,ec ECU,"FW,MF",Toluca,28,1992,3.4,0,0,0,4,3,1,9,0,4,0,0,0,26,1,5,16.7,Matches
+437,Osvaldo Rodríguez del Portal,mx MEX,DF,León,23,1996,16.8,2,0,0,18,18,0,34,25,22,0,0,0,75,29,24,54.7,Matches
+438,Ayrton Preciado,ec ECU,FW,Santos,26,1994,2.6,0,0,0,6,5,0,12,4,1,0,0,0,6,5,3,62.5,Matches
+439,Ronaldo Prieto,mx MEX,"DF,MF",Santos,23,1997,11.5,1,0,0,19,18,1,24,28,15,0,1,0,57,45,20,69.2,Matches
+440,Julián Quiñones,mx MEX,"FW,MF",UANL,23,1997,9.4,2,0,0,14,26,2,9,6,7,1,0,0,41,11,25,30.6,Matches
+441,Mauro Quiroga,ar ARG,FW,Pachuca,30,1989,7.5,1,0,0,12,12,5,0,1,1,0,0,0,11,51,32,61.4,Matches
+442,Mauro Quiroga,ar ARG,FW,Atlético,30,1989,13.1,0,0,0,21,25,6,4,2,1,1,0,1,26,73,41,64.0,Matches
+443,Martín Rabuñal,uy URU,MF,FC Juárez,26,1994,7.1,2,0,0,13,7,0,0,14,9,0,0,0,58,8,9,47.1,Matches
+444,Cándido Ramírez,mx MEX,"MF,DF",Mazatlán,27,1993,7.8,0,0,0,8,13,1,46,10,7,0,0,0,33,8,7,53.3,Matches
+445,Kevin Ramírez,uy URU,"MF,FW",Querétaro,26,1994,29.1,4,0,0,54,71,12,157,18,24,0,0,0,132,53,48,52.5,Matches
+446,Luis Ramírez,mx MEX,DF,Atlético,24,1996,1.8,0,0,0,2,0,0,4,2,2,0,0,0,6,1,3,25.0,Matches
+447,Leonardo Ramos,ar ARG,FW,Pachuca,30,1989,3.0,1,0,0,9,2,1,1,0,0,0,0,0,7,4,8,33.3,Matches
+448,Juan Rangel,mx MEX,"MF,FW",León,20,2000,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+449,Michael Rangel,co COL,FW,Mazatlán,29,1991,4.7,0,0,0,9,5,1,0,0,3,0,0,0,11,25,27,48.1,Matches
+450,Martín Rea,uy URU,DF,Querétaro,22,1997,11.5,4,0,0,15,4,0,0,7,9,0,2,0,36,16,26,38.1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+451,Luis Rey,mx MEX,FW,Mazatlán,17,2002,0.3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0.0,Matches
+452,Alan Reyes,mx MEX,MF,Atlas,19,2001,0.4,0,0,0,1,0,0,0,0,0,0,0,0,1,0,4,0.0,Matches
+453,Diego Reyes,mx MEX,DF,UANL,27,1992,17.3,1,0,0,13,9,0,1,27,15,0,0,0,77,35,20,63.6,Matches
+454,Israel Reyes,mx MEX,DF,Puebla,20,2000,12.1,1,0,0,15,3,0,1,27,12,0,0,0,62,23,17,57.5,Matches
+455,Josué Reyes,mx MEX,DF,Cruz Azul,22,1997,7.1,1,0,0,7,8,0,0,11,5,0,0,0,30,23,15,60.5,Matches
+456,Lorenzo Reyes,cl CHI,MF,Atlas,29,1991,15.4,3,0,0,28,24,0,0,8,15,0,0,0,86,8,12,40.0,Matches
+457,Lorenzo Reyes,cl CHI,MF,Mazatlán,29,1991,7.8,2,0,0,10,11,0,1,10,2,0,0,0,40,5,4,55.6,Matches
+458,Salvador Reyes,mx MEX,"DF,MF",Puebla,22,1998,25.3,2,0,0,15,49,3,91,21,34,0,0,0,97,23,24,48.9,Matches
+459,Jordan Rezabala,ec ECU,"MF,FW",Tijuana,20,2000,3.0,0,0,0,3,12,1,8,3,3,0,0,0,17,3,2,60.0,Matches
+460,Luis Ricardo Reyes,mx MEX,DF,América,29,1991,7.3,3,0,0,7,6,0,23,6,5,0,1,0,34,1,3,25.0,Matches
+461,Luis Ricardo Reyes,mx MEX,DF,Atlas,29,1991,5.0,0,0,0,5,6,1,14,8,3,0,0,0,19,2,3,40.0,Matches
+462,Antonio Ríos,mx MEX,MF,Toluca,31,1988,10.8,0,0,0,4,13,0,3,15,9,0,0,0,51,9,19,32.1,Matches
+463,Jesús Rivas,mx MEX,DF,UNAM,17,2002,5.3,0,0,0,13,5,0,14,2,14,0,0,0,16,3,5,37.5,Matches
+464,Ulises Rivas,mx MEX,"MF,DF",Santos,24,1996,5.6,0,0,0,4,0,0,0,7,6,0,0,0,21,13,8,61.9,Matches
+465,Christian Rivera,co COL,MF,Tijuana,24,1996,22.2,3,0,0,61,25,2,6,29,40,0,2,0,173,25,23,52.1,Matches
+466,Francisco Rivera,mx MEX,"MF,FW",Querétaro,25,1994,1.0,0,0,0,3,2,0,3,0,1,0,0,0,10,0,3,0.0,Matches
+467,Ignacio Rivero,uy URU,"DF,MF",Cruz Azul,28,1992,19.0,4,0,0,20,31,1,48,29,39,1,0,0,101,21,41,33.9,Matches
+468,Octavio Rivero,uy URU,"FW,MF",Santos,28,1992,9.9,0,0,0,11,22,3,14,0,0,1,0,0,8,25,26,49.0,Matches
+469,Ángel Robles,mx MEX,MF,Puebla,18,2001,0.0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,Matches
+470,Aldo Rocha,mx MEX,MF,Atlas,27,1992,17.0,5,0,0,26,29,0,5,24,23,1,0,0,119,16,29,35.6,Matches
+471,Aldo Rocha,mx MEX,MF,Mazatlán,27,1992,14.1,5,0,0,25,20,2,2,20,17,0,0,1,88,15,14,51.7,Matches
+472,Alan Rodríguez,mx MEX,MF,Toluca,24,1996,0.1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,100.0,Matches
+473,Charly Rodríguez,mx MEX,MF,Monterrey,23,1997,25.9,1,0,0,22,23,1,58,24,15,0,0,0,141,6,22,21.4,Matches
+474,David Rodriguez,us USA,"MF,FW",Atlético,18,2002,3.0,2,0,0,7,3,0,11,2,4,0,0,0,16,3,4,42.9,Matches
+475,Jerónimo Rodríguez,mx MEX,DF,UNAM,21,1999,17.1,2,0,0,24,5,2,49,15,22,0,0,0,78,16,18,47.1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+476,Jesús Rodríguez,mx MEX,GK,Puebla,27,1993,4.3,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,100.0,Matches
+477,Joao Rodríguez,co COL,MF,Necaxa,24,1996,4.2,1,0,0,4,15,1,11,0,1,0,0,0,21,1,5,16.7,Matches
+478,Jonathan Rodríguez,uy URU,FW,Cruz Azul,27,1993,29.4,4,1,1,24,28,16,66,7,6,1,0,0,58,20,44,31.3,Matches
+479,Jorge Rodríguez,mx MEX,"MF,FW",Toluca,18,2001,0.2,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0.0,Matches
+480,Martín Rodríguez,cl CHI,"MF,FW",Mazatlán,25,1994,13.6,0,0,0,10,20,8,82,7,8,0,0,0,79,4,5,44.4,Matches
+481,Salvador Rodríguez,mx MEX,DF,Mazatlán,18,2001,1.9,0,0,0,4,1,0,0,0,3,0,0,0,7,1,3,25.0,Matches
+482,Bruno Romo,cl CHI,DF,FC Juárez,31,1989,14.0,2,0,0,16,9,1,2,23,6,0,2,0,56,26,24,52.0,Matches
+483,Luis Romo,mx MEX,MF,Cruz Azul,25,1995,27.6,2,0,0,44,34,2,51,22,36,0,0,0,138,95,90,51.4,Matches
+484,Bryan Roque,mx MEX,FW,Necaxa,15,2004,0.2,0,0,0,0,2,1,0,0,0,0,0,0,3,0,1,0.0,Matches
+485,Carlos Rosel,mx MEX,"FW,MF",FC Juárez,24,1995,2.9,1,0,0,5,17,1,14,3,3,0,0,0,21,2,1,66.7,Matches
+486,Fernando Rubén González,mx MEX,MF,América,26,1994,5.7,0,0,0,13,9,0,1,8,7,0,0,0,27,3,4,42.9,Matches
+487,Fernando Rubén González,mx MEX,MF,León,26,1994,6.1,0,0,0,9,9,0,1,8,11,0,0,0,47,4,10,28.6,Matches
+488,Brian Rubio,mx MEX,FW,FC Juárez,23,1996,5.6,2,0,0,16,11,2,2,1,2,0,0,0,14,22,18,55.0,Matches
+489,Gerardo Ruíz,mx MEX,GK,Querétaro,34,1985,5.0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,,Matches
+490,Marcel Ruiz,mx MEX,MF,Tijuana,19,2000,12.0,3,0,0,24,34,0,13,24,15,0,0,0,79,13,10,56.5,Matches
+491,Javier Salas,mx MEX,MF,Puebla,26,1993,30.0,6,0,0,48,22,2,8,26,21,1,0,0,162,18,22,45.0,Matches
+492,Maximiliano Salas,ar ARG,"FW,MF",Necaxa,22,1997,15.8,3,0,0,30,43,1,57,6,11,0,0,0,51,14,27,34.1,Matches
+493,David Salazar,mx MEX,MF,Querétaro,28,1991,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matches
+494,Carlos Salcedo,mx MEX,DF,UANL,26,1993,25.3,10,2,2,25,25,0,19,47,21,2,0,0,123,48,41,53.9,Matches
+495,Alfredo Saldívar,mx MEX,GK,Toluca,30,1990,5.0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,,Matches
+496,Rodrigo Salinas,mx MEX,DF,Pachuca,32,1988,7.6,2,1,0,9,7,1,32,1,6,0,0,0,29,6,7,46.2,Matches
+497,Rodrigo Salinas,mx MEX,DF,Toluca,32,1988,9.9,0,0,0,6,2,2,31,2,5,0,1,0,39,4,10,28.6,Matches
+498,Rubens Sambueza,ar ARG,"MF,FW",Toluca,36,1984,31.3,12,0,0,61,129,10,221,22,29,0,0,0,159,7,23,23.3,Matches
+499,Erick Sánchez,mx MEX,MF,Pachuca,20,1999,28.0,2,0,0,38,64,0,14,22,39,2,0,0,149,9,32,22.0,Matches
+500,Jesús Sánchez García,mx MEX,DF,Guadalajara,30,1989,28.2,7,0,0,42,35,0,46,38,61,0,1,0,152,25,42,37.3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+501,Jorge Sánchez,mx MEX,MF,Atlético,27,1993,12.8,3,0,0,15,16,0,10,19,16,0,0,0,85,16,17,48.5,Matches
+502,Luis Sánchez,mx MEX,"DF,FW",Monterrey,20,2000,1.4,0,1,0,5,4,0,2,2,5,0,0,0,5,1,2,33.3,Matches
+503,Nicolás Sanchez,ar ARG,DF,Monterrey,34,1986,23.3,3,0,0,13,10,1,0,52,24,1,1,1,99,62,37,62.6,Matches
+504,Richard Sánchez,py PAR,MF,América,24,1996,24.8,6,2,1,19,35,0,127,17,19,0,0,0,123,8,18,30.8,Matches
+505,Gael Sandoval,mx MEX,"MF,FW",Santos,24,1995,7.9,1,0,0,14,16,1,69,3,6,0,0,0,45,5,9,35.7,Matches
+506,Gael Sandoval,mx MEX,MF,Mazatlán,24,1995,6.8,0,1,0,10,17,0,23,2,6,0,0,0,40,3,10,23.1,Matches
+507,Raúl Sandoval,mx MEX,"DF,MF",Necaxa,20,2000,5.0,2,0,0,9,8,1,16,8,5,0,0,0,27,6,2,75.0,Matches
+508,Miguel Sansores,mx MEX,"FW,MF",Tijuana,29,1991,6.0,3,1,0,20,12,6,4,4,5,0,0,0,16,19,20,48.7,Matches
+509,Miguel Sansores,mx MEX,FW,Mazatlán,29,1991,8.0,3,0,0,16,22,7,4,0,1,0,0,0,19,19,27,41.3,Matches
+510,Anderson Santamaría,pe PER,DF,Atlas,28,1992,16.1,5,0,0,25,5,0,5,32,18,0,1,0,65,44,22,66.7,Matches
+511,José Santiago Hernández,mx MEX,GK,Atlas,23,1997,1.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,Matches
+512,Harold Santiago Mosquera,co COL,FW,Pachuca,25,1995,3.5,0,0,0,3,2,2,12,1,5,0,0,0,16,1,2,33.3,Matches
+513,Flavio Santos,mx MEX,"MF,FW",FC Juárez,33,1987,20.4,5,0,0,34,43,2,21,8,24,0,0,0,87,97,83,53.9,Matches
+514,Camilo Sanvezzo,br BRA,FW,Mazatlán,32,1988,21.1,3,0,0,32,29,18,24,2,8,1,0,0,37,12,29,29.3,Matches
+515,Brandon Sartiaguin,mx MEX,DF,Toluca,20,2000,8.1,4,0,0,15,4,0,1,8,4,0,0,0,30,13,9,59.1,Matches
+516,Sebastián Saucedo,us USA,"MF,DF",UNAM,23,1997,4.9,1,0,0,3,15,3,18,1,2,0,0,0,21,0,3,0.0,Matches
+517,Gastón Sauro,ar ARG,DF,Toluca,30,1990,11.3,4,0,0,12,2,2,0,17,9,0,1,0,25,21,12,63.6,Matches
+518,Francisco Sebastián Córdova,mx MEX,"MF,FW",América,23,1997,24.3,3,1,0,51,61,5,109,14,28,2,0,0,103,32,36,47.1,Matches
+519,Ángel Sepúlveda,mx MEX,"FW,MF",Querétaro,29,1991,27.6,2,0,0,35,38,16,42,6,13,1,0,0,74,86,91,48.6,Matches
+520,Gilberto Sepúlveda,mx MEX,DF,Guadalajara,21,1999,27.1,5,0,0,34,27,3,1,51,14,0,0,0,101,66,47,58.4,Matches
+521,Jordan Sierra,ec ECU,"MF,DF",UANL,23,1997,2.9,0,0,0,0,4,0,5,3,2,0,0,0,23,4,5,44.4,Matches
+522,Antony Silva,py PAR,GK,Puebla,36,1984,16.7,1,0,0,0,0,0,0,1,0,0,0,0,12,4,0,100.0,Matches
+523,Jordan Silva,mx MEX,DF,América,26,1994,2.4,1,0,0,1,1,0,0,2,0,0,0,0,6,6,3,66.7,Matches
+524,Jordan Silva,mx MEX,DF,Tijuana,26,1994,7.1,1,0,0,6,2,0,0,17,9,0,0,0,31,23,12,65.7,Matches
+525,William da Silva,br BRA,MF,Toluca,33,1986,13.3,4,0,0,22,7,0,16,18,19,0,0,0,61,4,11,26.7,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+526,Hugo Silveira,uy URU,FW,Querétaro,27,1993,17.3,7,2,1,37,18,6,5,5,6,1,0,0,33,75,86,46.6,Matches
+527,Junior Sornoza,ec ECU,MF,Tijuana,26,1994,12.8,3,0,0,11,12,1,35,9,6,0,0,0,78,6,15,28.6,Matches
+528,Ismael Sosa,ar ARG,"FW,MF",Pachuca,33,1987,20.6,1,0,0,16,32,10,120,7,6,0,0,0,69,10,26,27.8,Matches
+529,Nicolás Sosa,uy URU,"FW,MF",León,24,1996,8.3,2,0,0,9,9,3,4,4,5,0,0,0,17,13,10,56.5,Matches
+530,Sebastián Sosa,uy URU,FW,Querétaro,26,1994,2.7,2,0,0,12,4,1,0,1,1,0,0,0,3,16,15,51.6,Matches
+531,Sebastián Sosa,uy URU,GK,Mazatlán,33,1986,4.0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,,Matches
+532,Cristian Souza,uy URU,"DF,FW",Pachuca,24,1995,2.9,0,0,0,2,4,0,19,0,3,0,0,0,23,2,3,40.0,Matches
+533,Leonardo Suárez,ar ARG,"MF,FW",América,24,1996,13.5,0,0,0,14,24,0,60,12,9,0,0,0,70,7,11,38.9,Matches
+534,Christian Tabó,uy URU,"MF,FW",Puebla,26,1993,25.3,6,1,0,56,59,10,51,12,23,2,0,0,88,15,46,24.6,Matches
+535,Alfredo Talavera,mx MEX,GK,UNAM,37,1982,29.5,5,1,1,2,10,0,0,0,0,0,1,0,53,15,2,88.2,Matches
+536,Miguel Tapias,mx MEX,"DF,FW",Pachuca,23,1997,1.3,0,0,0,0,1,0,4,1,0,0,0,0,9,0,3,0.0,Matches
+537,Eduardo Tercero,mx MEX,DF,Tijuana,24,1996,7.5,2,0,0,10,10,1,0,16,9,0,0,0,30,23,25,47.9,Matches
+538,Eduardo Tercero,mx MEX,"DF,MF",UANL,24,1996,0.2,1,0,0,1,1,0,0,0,1,0,0,0,3,0,1,0.0,Matches
+539,William Tesillo,co COL,DF,León,30,1990,28.2,11,1,0,48,32,0,19,39,23,0,2,0,165,61,37,62.2,Matches
+540,Franco Torgnascioli,uy URU,GK,Pachuca,29,1990,1.0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,,Matches
+541,Alan Torres,mx MEX,MF,Guadalajara,20,2000,10.9,3,1,0,17,7,0,20,7,4,0,0,0,67,11,11,50.0,Matches
+542,Félix Torres Caicedo,ec ECU,DF,Santos,23,1997,19.7,6,2,1,36,8,0,1,37,16,0,2,0,126,59,39,60.2,Matches
+543,Gabriel Torres,pa PAN,FW,UNAM,31,1988,8.6,2,0,0,12,7,7,0,1,2,0,0,0,17,4,12,25.0,Matches
+544,Jairo Torres,mx MEX,"MF,FW",Atlas,20,2000,14.7,4,0,0,28,35,0,61,9,9,2,0,0,64,13,28,31.7,Matches
+545,Jorge Torres Nilo,mx MEX,DF,Toluca,32,1988,16.6,6,0,0,29,10,0,6,34,13,1,3,0,51,28,22,56.0,Matches
+546,Jorge Torres Nilo,mx MEX,"DF,MF",UANL,32,1988,1.1,1,0,0,3,2,0,1,1,1,0,0,0,2,2,1,66.7,Matches
+547,Christopher Trejo,mx MEX,"FW,MF",Atlas,20,1999,2.0,0,1,0,2,5,2,1,0,2,1,0,0,11,2,2,50.0,Matches
+548,Julio César González Trinidad,py PAR,DF,Necaxa,28,1992,30.8,10,0,0,36,26,2,25,54,30,0,3,0,134,66,56,54.1,Matches
+549,Enrique Triverio,ar ARG,FW,Toluca,31,1988,14.2,3,0,0,36,29,5,7,2,8,1,0,0,48,42,55,43.3,Matches
+550,Óscar Ustari,ar ARG,GK,Pachuca,34,1986,31.9,0,1,0,1,3,0,0,0,0,0,0,0,56,6,0,100.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+551,Diego Valdés,cl CHI,MF,Santos,26,1994,15.1,4,0,0,19,30,4,86,22,13,0,0,0,94,26,22,54.2,Matches
+552,Bruno Valdez,py PAR,DF,América,27,1992,8.2,2,0,0,12,11,0,0,15,2,0,0,0,31,20,8,71.4,Matches
+553,Jorge Valdivia,cl CHI,"FW,MF",Mazatlán,36,1983,1.0,0,0,0,1,2,0,2,0,1,0,0,0,6,0,1,0.0,Matches
+554,Antonio Valencia,ec ECU,"DF,MF",Querétaro,34,1985,13.3,4,1,0,17,3,0,21,16,9,0,0,0,69,10,15,40.0,Matches
+555,José Van Rankin,mx MEX,DF,Santos,27,1993,12.3,2,0,0,17,14,0,30,23,10,0,0,0,62,7,12,36.8,Matches
+556,Camilo Vargas,co COL,GK,Atlas,31,1989,33.0,2,0,0,1,6,0,0,0,0,0,0,0,43,4,1,80.0,Matches
+557,Eduardo Vargas,cl CHI,"FW,MF",UANL,30,1989,8.9,0,0,0,8,8,3,19,4,2,0,0,0,22,11,14,44.0,Matches
+558,Johan Vásquez,mx MEX,DF,UNAM,21,1998,31.7,11,0,0,44,40,0,4,87,44,0,1,0,143,79,66,54.5,Matches
+559,Brayton Vázquez,mx MEX,DF,Atlas,22,1998,3.8,2,1,0,10,3,0,0,7,5,0,0,0,5,4,4,50.0,Matches
+560,Gerson Vázquez,mx MEX,"FW,MF",Tijuana,18,2001,1.1,0,0,0,3,3,0,3,0,0,0,0,0,5,1,0,100.0,Matches
+561,Iván Vázquez,mx MEX,GK,FC Juárez,37,1982,17.0,1,0,0,2,3,0,0,0,0,0,2,0,14,4,0,100.0,Matches
+562,Ivo Vázquez,mx MEX,MF,Puebla,19,2000,0.1,0,0,0,1,0,0,3,0,0,0,0,0,1,0,0,,Matches
+563,Alexis Vega,mx MEX,"FW,MF",Guadalajara,22,1997,24.6,3,1,1,18,50,3,140,17,22,0,0,0,136,22,26,45.8,Matches
+564,Sebastián Vegas,cl CHI,DF,Monterrey,23,1996,29.1,8,1,1,53,25,1,12,47,41,0,0,0,107,64,57,52.9,Matches
+565,Efraín Velarde,mx MEX,DF,Mazatlán,34,1986,18.5,4,0,0,30,17,0,16,25,22,0,0,0,74,18,21,46.2,Matches
+566,Gustavo Velásquez,py PAR,DF,FC Juárez,29,1991,33.3,9,0,0,22,60,1,3,62,22,0,1,0,191,100,55,64.5,Matches
+567,Julián Velázquez,ar ARG,DF,Tijuana,29,1990,1.0,1,0,0,2,3,0,0,3,1,0,0,0,4,1,0,100.0,Matches
+568,Julián Velázquez,ar ARG,DF,Querétaro,29,1990,11.0,1,0,0,5,12,1,0,26,7,0,0,0,50,21,22,48.8,Matches
+569,Érik Vera,mx MEX,DF,Querétaro,28,1992,17.2,2,0,0,21,13,0,46,16,17,0,0,0,57,13,13,50.0,Matches
+570,Néstor Vidrio,mx MEX,DF,Puebla,31,1989,8.0,2,0,0,12,10,0,2,15,9,0,2,0,30,18,14,56.3,Matches
+571,Néstor Vidrio,mx MEX,DF,Mazatlán,31,1989,12.1,2,0,0,8,15,0,0,20,8,0,0,0,34,27,13,67.5,Matches
+572,Nicolás Vikonis,uy URU,GK,Puebla,36,1984,12.9,0,1,0,2,1,0,0,1,1,0,1,0,21,7,0,100.0,Matches
+573,Nicolás Vikonis,uy URU,GK,Mazatlán,36,1984,13.5,2,1,1,2,3,0,0,1,1,0,1,0,15,4,0,100.0,Matches
+574,Dieter Villalpando,mx MEX,"MF,FW",Guadalajara,28,1991,4.4,2,0,0,9,4,0,18,5,7,0,1,0,33,5,3,62.5,Matches
+575,Luis Villegas,mx MEX,GK,Querétaro,19,2001,2.0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,Matches
+576,Federico Viñas,uy URU,FW,América,22,1998,17.3,0,0,0,24,52,2,0,7,5,0,0,0,43,56,48,53.8,Matches
+577,Isaías Violante,mx MEX,"MF,FW",Toluca,16,2003,1.1,0,0,0,0,0,0,8,0,1,0,0,0,8,1,2,33.3,Matches
+578,Facundo Waller,uy URU,"MF,DF",UNAM,23,1997,17.4,6,0,0,34,43,0,111,18,41,0,0,0,126,16,14,53.3,Matches
+579,Axel Werner,ar ARG,GK,Atlético,24,1996,25.0,3,0,0,2,3,0,0,1,1,0,1,0,20,5,0,100.0,Matches
+580,Yoshimar Yotún,pe PER,MF,Cruz Azul,30,1990,15.2,5,0,0,35,21,1,92,13,18,1,1,0,90,7,15,31.8,Matches
+581,Paolo Yrizar,mx MEX,"MF,FW",Toluca,22,1997,3.7,1,0,0,5,8,1,7,0,5,0,0,0,20,6,6,50.0,Matches
+582,Paolo Yrizar,mx MEX,"FW,DF",Tijuana,22,1997,0.8,0,0,0,2,1,0,2,0,0,0,0,0,3,1,2,33.3,Matches
+583,Ángel Zaldívar,mx MEX,FW,Guadalajara,26,1994,4.5,0,0,0,11,13,1,0,0,4,0,0,0,6,16,25,39.0,Matches
+584,Edgar Zaldívar,mx MEX,"MF,DF",Atlas,23,1996,6.8,2,0,0,8,9,1,1,6,7,0,0,0,39,10,15,40.0,Matches
+585,Jesse Zamudio,mx MEX,"MF,FW",León,21,1999,0.3,0,0,0,3,0,0,0,0,0,0,0,0,1,1,0,100.0,Matches
+586,Ángel Zapata,mx MEX,MF,Monterrey,19,2001,1.4,1,0,0,2,3,0,3,2,4,0,0,0,5,0,3,0.0,Matches
+587,Alejandro Zendejas,us USA,"MF,FW",Necaxa,22,1998,27.6,2,0,0,35,39,1,38,47,26,0,0,0,167,21,34,38.2,Matches
+588,Irving Zurita,mx MEX,"MF,DF",Querétaro,28,1991,8.0,5,0,0,8,13,1,28,2,7,0,0,0,25,4,6,40.0,Matches

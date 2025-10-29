@@ -1,0 +1,688 @@
+rk,player,nation,pos,squad,age,born,90s,gls,sh,sot,sot_standa,sh_90,sot_90,g_sh,g_sot,dist,pk,pkatt,matches
+1,Rayane Aabid,fr FRA,MF,Hatayspor,31,1992,2.3,1,2,1,50.0,0.85,0.43,0.50,1.00,,0,0,Matches
+2,Mehdi Abeid,dz ALG,"MF,FW",Başakşehir,30,1992,8.9,3,16,6,37.5,1.80,0.67,0.19,0.50,,0,0,Matches
+3,Pape Abou Cissé,sn SEN,DF,Adana Demirspor,27,1995,8.0,0,6,1,16.7,0.75,0.12,0.00,0.00,,0,0,Matches
+4,Vincent Aboubakar,cm CMR,FW,Beşiktaş,31,1992,11.9,5,29,12,41.4,2.43,1.00,0.14,0.33,,1,2,Matches
+5,Giorgi Aburjania,ge GEO,MF,Hatayspor,28,1995,13.9,0,8,3,37.5,0.58,0.22,0.00,0.00,,0,0,Matches
+6,Yaw Ackah,gh GHA,MF,Kayserispor,24,1999,9.3,0,3,0,0.0,0.32,0.00,0.00,,,0,0,Matches
+7,Bryan Acosta,hn HON,MF,Gaziantep FK,29,1993,0.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+8,Youssef Aït Bennasser,ma MAR,MF,Samsunspor,27,1996,21.1,1,19,2,10.5,0.90,0.09,0.05,0.50,,0,0,Matches
+9,Albian Ajeti,ch SUI,FW,Gaziantep FK,26,1997,0.7,1,2,1,50.0,3.05,1.53,0.50,1.00,,0,0,Matches
+10,Abat Ajymbetow,kz KAZ,FW,Adana Demirspor,27,1995,3.0,1,8,2,25.0,2.67,0.67,0.13,0.50,,0,0,Matches
+11,Samet Akaydın,tr TUR,DF,Fenerbahçe,29,1994,6.3,0,3,1,33.3,0.47,0.16,0.00,0.00,,0,0,Matches
+12,Emre Akbaba,tr TUR,"MF,FW",Adana Demirspor,30,1992,29.7,7,62,19,30.6,2.09,0.64,0.10,0.32,,1,1,Matches
+13,Halil Akbunar,tr TUR,"MF,FW",Pendikspor,29,1993,31.0,5,54,20,37.0,1.74,0.65,0.09,0.25,,0,0,Matches
+14,Murat Akça,tr TUR,DF,Pendikspor,33,1990,7.7,0,4,0,0.0,0.52,0.00,0.00,,,0,0,Matches
+15,Yusuf Akçiçek,tr TUR,DF,Fenerbahçe,17,2006,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+16,İbrahim Akdağ,tr TUR,MF,Pendikspor,32,1991,10.4,0,8,0,0.0,0.77,0.00,0.00,,,0,0,Matches
+17,İbrahim Akdağ,tr TUR,"MF,DF",Sivasspor,32,1991,8.0,0,5,1,20.0,0.62,0.12,0.00,0.00,,0,0,Matches
+18,Yunus Akgün,tr TUR,MF,Galatasaray,23,2000,0.3,0,1,1,100.0,3.33,3.33,0.00,0.00,,0,0,Matches
+19,Babajide Akintola,ng NGA,MF,Adana Demirspor,27,1996,10.1,2,17,4,23.5,1.69,0.40,0.12,0.50,,0,0,Matches
+20,Babajide Akintola,ng NGA,MF,Rizespor,27,1996,11.4,1,20,4,20.0,1.75,0.35,0.05,0.25,,0,0,Matches
+21,Gökhan Akkan,tr TUR,GK,Rizespor,28,1995,30.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+22,Efe Akman,tr TUR,MF,Galatasaray,17,2006,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+23,Engin Aksoy,tr TUR,DF,Hatayspor,19,2003,4.0,0,1,0,0.0,0.25,0.00,0.00,,,0,0,Matches
+24,Fatih Aksoy,tr TUR,DF,Alanyaspor,25,1997,10.7,1,4,3,75.0,0.37,0.28,0.25,0.33,,0,0,Matches
+25,Yılmaz Aktaş,de GER,GK,Adana Demirspor,20,2003,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+26,Kerem Aktürkoğlu,tr TUR,MF,Galatasaray,24,1998,27.4,12,79,29,36.7,2.88,1.06,0.11,0.31,,3,4,Matches
+27,Ufuk Akyol,de GER,MF,Antalyaspor,25,1997,7.5,0,3,0,0.0,0.40,0.00,0.00,,,0,0,Matches
+28,Furkan Akyüz,,GK,Fenerbahçe,17,2005,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+29,Enes Albak,tr TUR,DF,Samsunspor,18,2005,0.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+30,Mehmet Albayrak,tr TUR,DF,Sivasspor,19,2004,1.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+31,Danijel Aleksić,rs SRB,MF,Başakşehir,32,1991,12.9,1,25,6,24.0,1.94,0.47,0.04,0.17,,0,0,Matches
+32,Mehmet Ali Büyüksayar,tr TUR,FW,Konyaspor,19,2004,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+33,Hasan Ali Kaldırım,tr TUR,DF,Kayserispor,33,1989,13.1,0,10,4,40.0,0.76,0.30,0.00,0.00,,0,0,Matches
+34,Muhammet Ali Özbaskıcı,tr TUR,MF,Samsunspor,17,2005,0.4,0,1,0,0.0,2.25,0.00,0.00,,,0,0,Matches
+35,Ömer Ali Şahiner,tr TUR,"DF,MF",Başakşehir,31,1992,13.3,0,5,0,0.0,0.38,0.00,0.00,,,0,0,Matches
+36,Kerim Alıcı,tr TUR,DF,Hatayspor,26,1997,15.9,1,14,5,35.7,0.88,0.31,0.07,0.20,,0,0,Matches
+37,Nabil Alioui,fr FRA,MF,Adana Demirspor,24,1999,2.1,0,3,1,33.3,1.43,0.48,0.00,0.00,,0,0,Matches
+38,Xusniddin Aliqulov,uz UZB,DF,Rizespor,24,1999,14.5,0,14,4,28.6,0.96,0.28,0.00,0.00,,0,0,Matches
+39,Fidan Aliti,xk KVX,DF,Alanyaspor,29,1993,33.8,0,14,3,21.4,0.41,0.09,0.00,0.00,,0,0,Matches
+40,Barış Alper Yılmaz,tr TUR,"MF,DF",Galatasaray,23,2000,28.3,6,62,18,29.0,2.19,0.64,0.10,0.33,,0,0,Matches
+41,Daniel Amartey,gh GHA,"DF,MF",Beşiktaş,28,1994,11.8,0,1,0,0.0,0.08,0.00,0.00,,,0,0,Matches
+42,Anderson,br BRA,FW,Alanyaspor,25,1997,2.8,0,9,2,22.2,3.24,0.72,0.00,0.00,,0,0,Matches
+43,Angeliño,es ESP,DF,Galatasaray,26,1997,6.7,0,5,1,20.0,0.75,0.15,0.00,0.00,,0,0,Matches
+44,Seyfettin Anıl Yaşar,tr TUR,DF,Rizespor,21,2002,7.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+45,Taylan Antalyalı,tr TUR,MF,Samsunspor,28,1995,19.6,2,23,9,39.1,1.17,0.46,0.00,0.00,,2,2,Matches
+46,Nicholas Anwan,ng NGA,MF,Fatih Karagümrük,22,2001,0.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+47,Aias Aosman,sy SYR,MF,Pendikspor,28,1994,0.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+48,Aaron Appindangoyé,ga GAB,DF,Sivasspor,31,1992,29.9,1,11,5,45.5,0.37,0.17,0.09,0.20,,0,0,Matches
+49,Alp Arda,,GK,İstanbulspor,28,1995,19.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+50,Eren Arda San,,FW,İstanbulspor,17,2006,0.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+51,Onur Arı,,FW,Hatayspor,22,2001,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+52,Muhammed Arikan,tr TUR,MF,Kayserispor,18,2005,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+53,Hakan Arslan,tr TUR,MF,Sivasspor,35,1988,6.4,0,8,2,25.0,1.26,0.31,0.00,0.00,,0,0,Matches
+54,Ömürcan Artan,,DF,Gaziantep FK,24,1999,4.1,0,1,1,100.0,0.24,0.24,0.00,0.00,,0,0,Matches
+55,Serkan Asan,tr TUR,DF,Pendikspor,24,1999,16.8,0,7,0,0.0,0.42,0.00,0.00,,,0,0,Matches
+56,Britt Assombalonga,cd COD,"FW,MF",Antalyaspor,30,1992,7.1,1,21,6,28.6,2.97,0.85,0.05,0.17,,0,0,Matches
+57,Kerem Atakan Kesgin,tr TUR,MF,Fatih Karagümrük,22,2000,1.6,0,1,0,0.0,0.61,0.00,0.00,,,0,0,Matches
+58,Kerem Atakan Kesgin,tr TUR,MF,Sivasspor,22,2000,0.8,0,3,1,33.3,3.97,1.32,0.00,0.00,,0,0,Matches
+59,Youcef Atal,dz ALG,DF,Adana Demirspor,27,1996,9.1,1,12,5,41.7,1.32,0.55,0.08,0.20,,0,0,Matches
+60,Loide Augusto,ao ANG,"DF,MF",Alanyaspor,23,2000,19.9,3,21,4,19.0,1.06,0.20,0.14,0.75,,0,0,Matches
+61,Serge Aurier,ci CIV,DF,Galatasaray,30,1992,0.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+62,Fahri Ay,tr TUR,MF,Beşiktaş,18,2005,0.9,0,1,1,100.0,1.08,1.08,0.00,0.00,,0,0,Matches
+63,Eyüp Aydın,tr TUR,MF,Galatasaray,18,2004,0.5,0,2,1,50.0,3.67,1.84,0.00,0.00,,0,0,Matches
+64,Mehmet Aydin,de GER,DF,Trabzonspor,21,2002,14.3,0,9,0,0.0,0.63,0.00,0.00,,,0,0,Matches
+65,Oğuz Aydın,tr TUR,MF,Alanyaspor,22,2000,28.7,13,58,25,43.1,2.02,0.87,0.19,0.44,,2,2,Matches
+66,Taylan Aydın,tr TUR,DF,Kasımpaşa,17,2006,6.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+67,Tayfun Aydoğan,,"MF,FW",Adana Demirspor,27,1996,7.5,2,7,4,57.1,0.93,0.53,0.14,0.25,,1,1,Matches
+68,Soner Aydoğdu,tr TUR,MF,Samsunspor,32,1991,5.1,2,13,3,23.1,2.57,0.59,0.15,0.67,,0,0,Matches
+69,Berkay Aydoğmuş,,MF,Başakşehir,19,2004,0.7,0,1,0,0.0,1.36,0.00,0.00,,,0,0,Matches
+70,Kaan Ayhan,tr TUR,DF,Galatasaray,28,1994,23.2,1,23,6,26.1,0.99,0.26,0.04,0.17,,0,0,Matches
+71,Cemal Azad Demir,,FW,Beşiktaş,19,2004,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+72,Serdar Aziz,tr TUR,DF,Fenerbahçe,32,1990,9.6,0,9,1,11.1,0.93,0.10,0.00,0.00,,0,0,Matches
+73,Ousseynou Ba,sn SEN,DF,Başakşehir,27,1995,19.6,0,6,0,0.0,0.31,0.00,0.00,,,0,0,Matches
+74,Mame Baba Thiam,sn SEN,"FW,MF",Kayserispor,30,1992,18.4,11,41,18,43.9,2.23,0.98,0.17,0.39,,4,4,Matches
+75,Mame Baba Thiam,sn SEN,"MF,FW",Pendikspor,30,1992,16.7,6,42,17,40.5,2.51,1.02,0.12,0.29,,1,2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+76,Volkan Babacan,tr TUR,GK,Başakşehir,34,1988,23.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+77,Aliou Badji,sn SEN,FW,Gaziantep FK,25,1997,3.7,1,9,2,22.2,2.42,0.54,0.11,0.50,,0,0,Matches
+78,Yunus Bahadir,be BEL,DF,Alanyaspor,20,2002,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+79,Stéphane Bahoken,cm CMR,FW,Kayserispor,31,1992,8.4,3,34,12,35.3,4.03,1.42,0.09,0.25,,0,1,Matches
+80,Eric Bailly,ci CIV,DF,Beşiktaş,29,1994,3.7,0,1,0,0.0,0.27,0.00,0.00,,,0,0,Matches
+81,Riad Bajić,ba BIH,FW,Ankaragücü,29,1994,9.1,4,16,8,50.0,1.77,0.88,0.25,0.50,,0,1,Matches
+82,Cédric Bakambu,cd COD,FW,Galatasaray,32,1991,2.1,1,8,2,25.0,3.73,0.93,0.13,0.50,,0,0,Matches
+83,Anastasios Bakasetas,gr GRE,MF,Trabzonspor,30,1993,15.7,4,45,12,26.7,2.87,0.76,0.07,0.25,,1,1,Matches
+84,Bünyamin Balcı,tr TUR,DF,Antalyaspor,23,2000,20.6,1,6,2,33.3,0.29,0.10,0.17,0.50,,0,0,Matches
+85,Jure Balkovec,si SVN,DF,Alanyaspor,28,1994,23.6,3,21,7,33.3,0.89,0.30,0.14,0.43,,0,0,Matches
+86,Mario Balotelli,it ITA,FW,Adana Demirspor,32,1990,10.4,7,51,17,33.3,4.92,1.64,0.12,0.35,,1,1,Matches
+87,Rayyan Baniya,,DF,Fatih Karagümrük,24,1999,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+88,Rayyan Baniya,,DF,Trabzonspor,24,1999,19.9,0,6,3,50.0,0.30,0.15,0.00,0.00,,0,0,Matches
+89,Yusuf Barasi,tr TUR,"FW,MF",Adana Demirspor,20,2003,9.7,4,19,11,57.9,1.95,1.13,0.21,0.36,,0,0,Matches
+90,Abdülkerim Bardakcı,tr TUR,DF,Galatasaray,28,1994,24.6,4,32,8,25.0,1.30,0.33,0.13,0.50,,0,0,Matches
+91,Enis Bardhi,mk MKD,MF,Trabzonspor,28,1995,26.2,7,56,21,37.5,2.14,0.80,0.13,0.33,,0,0,Matches
+92,Efecan Barlık,,MF,Başakşehir,20,2003,0.1,0,1,0,0.0,9.00,0.00,0.00,,,0,0,Matches
+93,Modou Barrow,gm GAM,"MF,FW",Sivasspor,30,1992,10.9,1,14,7,50.0,1.29,0.64,0.07,0.14,,0,0,Matches
+94,Emrah Başsan,tr TUR,"MF,FW",Sivasspor,31,1992,16.5,0,31,11,35.5,1.88,0.67,0.00,0.00,,0,0,Matches
+95,Christian Bassogog,cm CMR,MF,Ankaragücü,27,1995,10.1,2,10,3,30.0,0.99,0.30,0.20,0.67,,0,0,Matches
+96,Samuel Bastien,cd COD,MF,Kasımpaşa,26,1996,2.4,0,1,0,0.0,0.41,0.00,0.00,,,0,0,Matches
+97,Michy Batshuayi,be BEL,FW,Fenerbahçe,29,1993,8.8,12,49,27,55.1,5.58,3.08,0.16,0.30,,4,5,Matches
+98,Bilal Bayazit,nl NED,GK,Kayserispor,24,1999,35.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+99,Altay Bayındır,tr TUR,GK,Fenerbahçe,25,1998,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+100,Furkan Bayır,tr TUR,DF,Alanyaspor,23,2000,22.4,0,10,2,20.0,0.45,0.09,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+101,Rodrigo Becão,br BRA,DF,Fenerbahçe,27,1996,12.4,0,6,0,0.0,0.48,0.00,0.00,,,0,0,Matches
+102,Visar Bekaj,xk KVX,GK,Hatayspor,26,1997,3.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+103,Burak Bekaroğlu,,DF,Hatayspor,26,1997,12.4,0,6,0,0.0,0.48,0.00,0.00,,,0,0,Matches
+104,Efkan Bekiroğlu,,MF,Ankaragücü,27,1995,23.6,9,52,16,30.8,2.20,0.68,0.17,0.56,,0,0,Matches
+105,Younès Belhanda,ma MAR,MF,Adana Demirspor,33,1990,11.9,3,24,11,45.8,2.01,0.92,0.13,0.27,,0,0,Matches
+106,Mortadha Ben Ouanes,tn TUN,"MF,DF",Kasımpaşa,29,1994,33.3,6,35,14,40.0,1.05,0.42,0.17,0.43,,0,0,Matches
+107,Filip Benković,hr CRO,DF,Trabzonspor,26,1997,12.4,2,6,3,50.0,0.49,0.24,0.33,0.67,,0,0,Matches
+108,Giorgi Beridze,ge GEO,FW,Ankaragücü,26,1997,0.5,0,1,0,0.0,2.00,0.00,0.00,,,0,0,Matches
+109,Paul Bernardoni,fr FRA,GK,Konyaspor,26,1997,17.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+110,Andrea Bertolacci,it ITA,MF,Fatih Karagümrük,32,1991,8.5,0,3,2,66.7,0.35,0.23,0.00,0.00,,0,0,Matches
+111,Janio Bikel,gw GNB,MF,Gaziantep FK,28,1995,5.5,0,1,1,100.0,0.18,0.18,0.00,0.00,,0,0,Matches
+112,Hayrullah Bilazer,,DF,Ankaragücü,28,1995,7.9,0,1,0,0.0,0.13,0.00,0.00,,,0,0,Matches
+113,Emre Bilgin,tr TUR,GK,Fatih Karagümrük,19,2004,10.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+114,Ege Bilsel,,MF,Antalyaspor,19,2004,0.7,0,1,1,100.0,1.48,1.48,0.00,0.00,,0,0,Matches
+115,Tayfur Bingöl,tr TUR,MF,Alanyaspor,30,1993,0.6,0,2,0,0.0,3.33,0.00,0.00,,,0,0,Matches
+116,Tayfur Bingöl,tr TUR,"MF,DF",Beşiktaş,30,1993,6.1,0,13,4,30.8,2.14,0.66,0.00,0.00,,0,0,Matches
+117,Davide Biraschi,it ITA,DF,Fatih Karagümrük,29,1994,28.6,0,5,0,0.0,0.17,0.00,0.00,,,0,0,Matches
+118,Görkem Bitin,,FW,Pendikspor,25,1998,3.7,0,13,5,38.5,3.56,1.37,0.00,0.00,,0,0,Matches
+119,Aylton Boa Morte,pt POR,"MF,FW",Kayserispor,29,1993,29.1,8,72,29,40.3,2.47,1.00,0.11,0.28,,0,0,Matches
+120,Emmanuel Boateng,gh GHA,MF,Konyaspor,26,1997,0.3,0,2,1,50.0,7.50,3.75,0.00,0.00,,0,0,Matches
+121,Sacha Boey,fr FRA,DF,Galatasaray,22,2000,19.0,1,11,4,36.4,0.58,0.21,0.09,0.25,,0,0,Matches
+122,Marc Bola,eng ENG,"DF,MF",Samsunspor,25,1997,11.8,0,7,2,28.6,0.59,0.17,0.00,0.00,,0,0,Matches
+123,Leonardo Bonucci,it ITA,DF,Fenerbahçe,36,1987,2.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+124,Arif Boşluk,,DF,Trabzonspor,20,2003,1.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+125,Mehdi Boudjemaa,dz ALG,MF,Hatayspor,25,1998,7.1,1,9,1,11.1,1.27,0.14,0.11,1.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+126,Mehdi Bourabia,ma MAR,MF,Kayserispor,31,1991,12.8,3,22,5,22.7,1.71,0.39,0.14,0.60,,0,0,Matches
+127,Umut Bozok,tr TUR,FW,Trabzonspor,26,1996,4.8,1,10,1,10.0,2.09,0.21,0.10,1.00,,0,0,Matches
+128,Adam Buksa,pl POL,FW,Antalyaspor,27,1996,32.5,16,95,39,41.1,2.93,1.20,0.13,0.31,,4,5,Matches
+129,Onur Bulut,tr TUR,"DF,MF",Beşiktaş,29,1994,22.7,0,6,2,33.3,0.26,0.09,0.00,0.00,,0,0,Matches
+130,Abdulsamet Burak,,DF,Adana Demirspor,27,1996,4.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+131,Zymer Bytyqi,no NOR,"MF,FW",Antalyaspor,26,1996,15.1,1,24,4,16.7,1.59,0.26,0.04,0.25,,0,0,Matches
+132,Musa Çağıran,tr TUR,MF,Hatayspor,30,1992,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+133,Oğulcan Çağlayan,tr TUR,MF,Gaziantep FK,27,1996,1.5,0,4,1,25.0,2.71,0.68,0.00,0.00,,0,0,Matches
+134,Oğulcan Çağlayan,tr TUR,MF,Kasımpaşa,27,1996,8.5,0,22,5,22.7,2.60,0.59,0.00,0.00,,0,0,Matches
+135,Uğurcan Çakır,tr TUR,GK,Trabzonspor,27,1996,35.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+136,Mijo Caktaš,hr CRO,MF,Sivasspor,31,1992,4.9,1,5,1,20.0,1.01,0.20,0.20,1.00,,0,0,Matches
+137,Francisco Calvo,cr CRC,DF,Konyaspor,31,1992,16.1,0,14,3,21.4,0.87,0.19,0.00,0.00,,0,0,Matches
+138,Samba Camara,ml MLI,DF,Sivasspor,30,1992,20.8,0,8,3,37.5,0.39,0.14,0.00,0.00,,0,0,Matches
+139,İrfan Can Eğribayat,tr TUR,GK,Fenerbahçe,25,1998,3.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+140,Atakan Çankaya,tr TUR,DF,Ankaragücü,25,1998,15.7,0,9,4,44.4,0.57,0.25,0.00,0.00,,0,0,Matches
+141,Erdem Canpolat,de GER,GK,Pendikspor,22,2001,34.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+142,Miguel Filipe Nunes Cardoso,pt POR,"MF,FW",Kayserispor,29,1994,27.9,1,65,18,27.7,2.33,0.65,0.02,0.06,,0,0,Matches
+143,Lionel Carole,fr FRA,DF,Kayserispor,32,1991,24.4,0,4,1,25.0,0.16,0.04,0.00,0.00,,0,0,Matches
+144,Federico Ceccherini,it ITA,DF,Fatih Karagümrük,31,1992,22.8,1,12,1,8.3,0.53,0.04,0.08,1.00,,0,0,Matches
+145,Endri Çekiçi,al ALB,MF,Pendikspor,26,1996,9.2,1,22,3,13.6,2.39,0.33,0.05,0.33,,0,0,Matches
+146,Batuhan Çelik,tr TUR,FW,Başakşehir,18,2005,0.0,0,1,0,0.0,90.00,0.00,0.00,,,0,0,Matches
+147,İzzet Çelik,tr TUR,MF,Adana Demirspor,19,2004,0.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+148,Osman Çelik,tr TUR,MF,Samsunspor,31,1991,8.6,0,12,0,0.0,1.40,0.00,0.00,,,0,0,Matches
+149,Yiğit Çeltik,tr TUR,MF,Kayserispor,20,2003,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+150,Renaldo Cephas,jm JAM,"MF,FW",Ankaragücü,23,1999,17.9,3,43,19,44.2,2.40,1.06,0.07,0.16,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+151,Tarık Çetin,tr TUR,GK,Rizespor,26,1997,7.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+152,Bunyamin Cetinkaya,,MF,Kasımpaşa,13,2009,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+153,Erdem Çetinkaya,tr TUR,MF,Kasımpaşa,22,2001,2.0,0,8,0,0.0,3.98,0.00,0.00,,,0,0,Matches
+154,Charis Charisis,gr GRE,MF,Sivasspor,28,1995,27.9,1,19,5,26.3,0.68,0.18,0.05,0.20,,0,0,Matches
+155,Anastasios Chatzigiovannis,gr GRE,MF,Ankaragücü,26,1997,15.3,2,38,19,50.0,2.48,1.24,0.03,0.05,,1,1,Matches
+156,Alexandru Cicâldău,ro ROU,MF,Konyaspor,26,1997,22.4,1,44,11,25.0,1.96,0.49,0.02,0.09,,0,0,Matches
+157,Uğur Çiftçi,tr TUR,DF,Sivasspor,31,1992,35.6,0,15,5,33.3,0.42,0.14,0.00,0.00,,0,0,Matches
+158,Sadık Çiftpınar,tr TUR,DF,Kasımpaşa,30,1993,14.4,0,8,3,37.5,0.55,0.21,0.00,0.00,,0,0,Matches
+159,Tolga Ciğerci,tr TUR,MF,Ankaragücü,31,1992,22.7,5,39,11,28.2,1.71,0.48,0.05,0.18,,3,3,Matches
+160,Mirza Cihan,,FW,Gaziantep FK,22,2000,1.4,0,3,1,33.3,2.09,0.70,0.00,0.00,,0,0,Matches
+161,Sokol Cikalleshi,al ALB,FW,Konyaspor,33,1990,26.1,12,64,21,32.8,2.46,0.81,0.06,0.19,,8,8,Matches
+162,Ramazan Civelek,tr TUR,"MF,DF",Kayserispor,27,1996,19.2,0,16,7,43.8,0.84,0.37,0.00,0.00,,0,0,Matches
+163,İsmail Çokçalış,tr TUR,DF,Adana Demirspor,23,2000,12.0,0,4,2,50.0,0.33,0.17,0.00,0.00,,0,0,Matches
+164,Omar Colley,gm GAM,DF,Beşiktaş,30,1992,21.5,7,13,9,69.2,0.60,0.42,0.54,0.78,,0,0,Matches
+165,Racine Coly,sn SEN,DF,İstanbulspor,27,1995,12.7,1,12,4,33.3,0.94,0.31,0.08,0.25,,0,0,Matches
+166,Sergio Córdova,ve VEN,FW,Alanyaspor,25,1997,11.2,3,20,8,40.0,1.78,0.71,0.15,0.38,,0,0,Matches
+167,Kamil Çörekçi,tr TUR,DF,Hatayspor,31,1992,19.2,0,6,1,16.7,0.31,0.05,0.00,0.00,,0,0,Matches
+168,Nuno da Costa,cv CPV,FW,Kasımpaşa,32,1991,26.0,14,70,24,34.3,2.70,0.92,0.20,0.58,,0,0,Matches
+169,Crespo,pt POR,MF,Fenerbahçe,26,1996,6.3,0,4,1,25.0,0.64,0.16,0.00,0.00,,0,0,Matches
+170,Mehmet Dadakdeniz,tr TUR,GK,Antalyaspor,23,1999,4.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+171,Renat Dadaşov,az AZE,FW,Hatayspor,24,1999,15.4,6,27,15,55.6,1.75,0.97,0.11,0.20,,3,4,Matches
+172,Filip Damjanovic,rs SRB,DF,Konyaspor,25,1998,9.8,0,12,2,16.7,1.22,0.20,0.00,0.00,,0,0,Matches
+173,Brahim Darri,nl NED,"FW,MF",Fatih Karagümrük,28,1994,0.5,0,1,1,100.0,1.87,1.87,0.00,0.00,,0,0,Matches
+174,Fisayo Dele-Bashiru,ng NGA,MF,Hatayspor,22,2001,33.7,8,45,18,40.0,1.33,0.53,0.18,0.44,,0,0,Matches
+175,Simon Deli,ci CIV,DF,İstanbulspor,31,1991,25.0,0,9,2,22.2,0.36,0.08,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+176,Emirhan Delibaş,tr TUR,MF,Beşiktaş,20,2003,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+177,Cengiz Demir,,DF,Hatayspor,22,2001,5.8,0,7,2,28.6,1.20,0.34,0.00,0.00,,0,0,Matches
+178,Muhammet Demir,tr TUR,FW,Konyaspor,31,1992,0.5,0,2,1,50.0,4.00,2.00,0.00,0.00,,0,0,Matches
+179,Adil Demirbağ,tr TUR,DF,Konyaspor,25,1997,21.8,0,11,1,9.1,0.50,0.05,0.00,0.00,,0,0,Matches
+180,Ozan Demirbag,tr TUR,MF,Adana Demirspor,15,2008,0.8,0,2,2,100.0,2.40,2.40,0.00,0.00,,0,0,Matches
+181,Kerem Demirbay,de GER,MF,Galatasaray,30,1993,24.5,6,51,17,33.3,2.08,0.69,0.10,0.29,,1,1,Matches
+182,Baran Demiroğlu,,FW,Galatasaray,18,2005,0.2,0,2,0,0.0,10.59,0.00,0.00,,,0,0,Matches
+183,Kahraman Demirtapa,tr TUR,DF,Konyaspor,29,1994,2.2,0,1,0,0.0,0.46,0.00,0.00,,,0,0,Matches
+184,Berhan Deniz,,FW,Samsunspor,18,2004,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+185,Emmanuel Dennis,ng NGA,MF,Başakşehir,25,1997,3.7,0,7,1,14.3,1.89,0.27,0.00,0.00,,0,0,Matches
+186,Stefano Denswil,sr SUR,DF,Trabzonspor,30,1993,25.1,1,14,3,21.4,0.56,0.12,0.07,0.33,,0,0,Matches
+187,Halil Dervişoğlu,tr TUR,"FW,MF",Hatayspor,23,1999,6.6,0,19,6,31.6,2.88,0.91,0.00,0.00,,0,0,Matches
+188,Halil Dervişoğlu,tr TUR,FW,Galatasaray,23,1999,3.8,0,16,5,31.3,4.17,1.30,0.00,0.00,,0,0,Matches
+189,Enis Destan,tr TUR,FW,Trabzonspor,21,2002,15.3,9,42,23,54.8,2.75,1.50,0.19,0.35,,1,1,Matches
+190,Ersin Destanoğlu,tr TUR,GK,Beşiktaş,22,2001,9.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+191,Abdoulay Diaby,ml MLI,MF,Pendikspor,32,1991,11.9,2,21,7,33.3,1.76,0.59,0.10,0.29,,0,0,Matches
+192,Soner Dikmen,tr TUR,MF,Konyaspor,29,1993,35.6,1,38,9,23.7,1.07,0.25,0.03,0.11,,0,0,Matches
+193,Yasin Dilek,,DF,Başakşehir,18,2005,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+194,Selim Dilli,,DF,Kasımpaşa,25,1998,0.9,0,2,1,50.0,2.14,1.07,0.00,0.00,,0,0,Matches
+195,Deniz Dilmen,,GK,Başakşehir,18,2005,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+196,Landry Dimata,be BEL,"FW,MF",Samsunspor,25,1997,7.1,2,14,4,28.6,1.97,0.56,0.14,0.50,,0,0,Matches
+197,Oumar Diouf,sn SEN,FW,Rizespor,20,2003,0.6,0,1,0,0.0,1.70,0.00,0.00,,,0,0,Matches
+198,Matías Dituro,ar ARG,GK,Fatih Karagümrük,36,1987,11.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+199,Alexander Djiku,gh GHA,DF,Fenerbahçe,28,1994,22.5,3,13,3,23.1,0.58,0.13,0.23,1.00,,0,0,Matches
+200,Papy Djilobodji,sn SEN,DF,Gaziantep FK,34,1988,33.4,3,21,5,23.8,0.63,0.15,0.14,0.60,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+201,Deniz Donmezer,,GK,Adana Demirspor,14,2008,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+202,Denis Drăguș,ro ROU,FW,Gaziantep FK,24,1999,30.4,14,105,39,37.1,3.45,1.28,0.12,0.33,,1,2,Matches
+203,Ibrahim Drešević,xk KVX,DF,Fatih Karagümrük,26,1997,15.2,0,3,0,0.0,0.20,0.00,0.00,,,0,0,Matches
+204,Rick van Drongelen,nl NED,DF,Samsunspor,24,1998,26.6,3,22,6,27.3,0.83,0.23,0.14,0.50,,0,0,Matches
+205,Léo Duarte,br BRA,DF,Başakşehir,27,1996,30.0,0,10,4,40.0,0.33,0.13,0.00,0.00,,0,0,Matches
+206,Leo Dubois,fr FRA,DF,Başakşehir,28,1994,24.9,1,11,3,27.3,0.44,0.12,0.09,0.33,,0,0,Matches
+207,Leo Dubois,fr FRA,DF,Galatasaray,28,1994,0.6,0,1,1,100.0,1.64,1.64,0.00,0.00,,0,0,Matches
+208,Tuncer Duhan Aksu,,DF,Kasımpaşa,25,1997,7.6,0,2,0,0.0,0.26,0.00,0.00,,,0,0,Matches
+209,Demeaco Duhaney,eng ENG,"DF,MF",İstanbulspor,24,1998,24.4,1,5,2,40.0,0.20,0.08,0.20,0.50,,0,0,Matches
+210,Abdurrahim Dursun,tr TUR,DF,Adana Demirspor,24,1998,4.8,0,3,1,33.3,0.62,0.21,0.00,0.00,,0,0,Matches
+211,Salih Dursun,tr TUR,DF,Fatih Karagümrük,32,1991,14.1,1,9,3,33.3,0.64,0.21,0.11,0.33,,0,0,Matches
+212,Serdar Dursun,tr TUR,FW,Fenerbahçe,31,1991,2.5,3,12,6,50.0,4.76,2.38,0.25,0.50,,0,0,Matches
+213,Serdar Dursun,tr TUR,FW,Fatih Karagümrük,31,1991,9.0,3,27,11,40.7,2.99,1.22,0.07,0.18,,1,1,Matches
+214,Samet Duyur,,FW,Adana Demirspor,13,2009,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+215,Edin Džeko,ba BIH,FW,Fenerbahçe,37,1986,30.2,21,147,64,43.5,4.87,2.12,0.13,0.30,,2,3,Matches
+216,Carlos Eduardo,br BRA,"FW,MF",Alanyaspor,26,1996,16.9,4,34,12,35.3,2.01,0.71,0.12,0.33,,0,0,Matches
+217,Demir Ege Tıknaz,tr TUR,MF,Beşiktaş,18,2004,7.6,0,7,3,42.9,0.92,0.39,0.00,0.00,,0,0,Matches
+218,Eren Elmalı,tr TUR,DF,Trabzonspor,23,2000,34.5,0,18,3,16.7,0.52,0.09,0.00,0.00,,0,0,Matches
+219,Bartuğ Elmaz,tr TUR,MF,Fenerbahçe,20,2003,0.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+220,Bartuğ Elmaz,tr TUR,MF,Sivasspor,20,2003,7.8,0,6,2,33.3,0.77,0.26,0.00,0.00,,0,0,Matches
+221,Yunus Emre Çift,tr TUR,"DF,MF",Samsunspor,19,2003,7.2,0,3,0,0.0,0.42,0.00,0.00,,,0,0,Matches
+222,Yunus Emre Gedik,,DF,Kasımpaşa,24,1999,1.8,0,2,0,0.0,1.10,0.00,0.00,,,0,0,Matches
+223,Yunus Emre Konak,tr TUR,MF,Sivasspor,17,2006,14.6,0,4,2,50.0,0.27,0.14,0.00,0.00,,0,0,Matches
+224,Ali Emre Yanar,,GK,Kasımpaşa,25,1998,7.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+225,Hasan Emre Yeşilyurt,,MF,Kasımpaşa,22,2000,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+226,Mehmet Eray Özbek,,MF,Kayserispor,20,2003,5.6,1,7,1,14.3,1.24,0.18,0.14,1.00,,0,0,Matches
+227,Ziya Erdal,tr TUR,"MF,DF",Sivasspor,35,1988,2.7,0,3,1,33.3,1.10,0.37,0.00,0.00,,0,0,Matches
+228,Okan Erdogan,de GER,DF,İstanbulspor,24,1998,28.3,0,6,1,16.7,0.21,0.04,0.00,0.00,,0,0,Matches
+229,Yusuf Erdoğan,tr TUR,"MF,DF",Adana Demirspor,30,1992,28.8,5,43,16,37.2,1.49,0.56,0.09,0.25,,1,1,Matches
+230,Onur Ergün,tr TUR,MF,Başakşehir,30,1992,10.1,0,7,0,0.0,0.70,0.00,0.00,,,0,0,Matches
+231,Hayrullah Erkip,,FW,Kayserispor,20,2003,0.7,0,1,0,0.0,1.38,0.00,0.00,,,0,0,Matches
+232,Burhan Ersoy,,MF,Adana Demirspor,20,2003,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+233,Ertuğrul Ersoy,tr TUR,DF,Gaziantep FK,26,1997,16.3,1,11,3,27.3,0.68,0.18,0.09,0.33,,0,0,Matches
+234,Deniz Ertaş,tr TUR,GK,Konyaspor,18,2005,7.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+235,Mustafa Eskihellaç,tr TUR,"DF,MF",Gaziantep FK,26,1997,34.0,2,24,5,20.8,0.71,0.15,0.08,0.40,,0,0,Matches
+236,Valon Ethemi,mk MKD,"MF,FW",Konyaspor,25,1997,8.8,1,14,4,28.6,1.59,0.46,0.07,0.25,,0,0,Matches
+237,Valon Ethemi,mk MKD,"MF,FW",İstanbulspor,25,1997,13.4,1,23,6,26.1,1.71,0.45,0.04,0.17,,0,0,Matches
+238,Valentin Eysseric,fr FRA,MF,Fatih Karagümrük,31,1992,26.8,5,54,18,33.3,2.02,0.67,0.09,0.28,,0,0,Matches
+239,Mamadou Fall,sn SEN,"MF,FW",Kasımpaşa,31,1991,31.6,8,49,17,34.7,1.55,0.54,0.16,0.47,,0,0,Matches
+240,Ömer Faruk Beyaz,tr TUR,"MF,FW",Hatayspor,19,2003,15.3,0,18,9,50.0,1.18,0.59,0.00,0.00,,0,0,Matches
+241,Sofiane Feghouli,dz ALG,MF,Fatih Karagümrük,33,1989,16.2,2,10,3,30.0,0.62,0.19,0.10,0.33,,1,1,Matches
+242,Leroy Fer,nl NED,MF,Alanyaspor,33,1990,20.0,1,26,6,23.1,1.30,0.30,0.04,0.17,,0,0,Matches
+243,Gedson Fernandes,pt POR,MF,Beşiktaş,24,1999,27.3,3,36,9,25.0,1.32,0.33,0.08,0.33,,0,0,Matches
+244,Joelson Fernandes,pt POR,MF,Hatayspor,20,2003,15.6,0,33,9,27.3,2.12,0.58,0.00,0.00,,0,0,Matches
+245,Joaquín Fernández,es ESP,DF,Trabzonspor,27,1996,4.4,0,1,0,0.0,0.23,0.00,0.00,,,0,0,Matches
+246,João Figueiredo,my MAS,"MF,FW",Başakşehir,27,1996,22.5,8,47,20,42.6,2.09,0.89,0.17,0.40,,0,0,Matches
+247,Alexis Flips,fr FRA,MF,Ankaragücü,23,2000,4.9,0,9,4,44.4,1.82,0.81,0.00,0.00,,0,0,Matches
+248,Moryké Fofana,ci CIV,"MF,FW",Samsunspor,31,1991,11.9,0,16,5,31.3,1.35,0.42,0.00,0.00,,0,0,Matches
+249,Breyton Fougeu,fr FRA,FW,Adana Demirspor,19,2004,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+250,Taxiarchis Fountas,gr GRE,"MF,FW",Trabzonspor,27,1995,12.6,2,21,8,38.1,1.66,0.63,0.10,0.25,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+251,Fred,br BRA,MF,Fenerbahçe,30,1993,22.7,3,49,15,30.6,2.16,0.66,0.06,0.20,,0,0,Matches
+252,Fredy,ao ANG,MF,Antalyaspor,33,1990,1.6,0,1,0,0.0,0.64,0.00,0.00,,,0,0,Matches
+253,Emeka Friday Eze,ng NGA,FW,Pendikspor,26,1996,1.7,0,4,0,0.0,2.31,0.00,0.00,,,0,0,Matches
+254,Adolfo Gaich,ar ARG,FW,Rizespor,24,1999,18.9,8,46,21,45.7,2.44,1.11,0.17,0.38,,0,0,Matches
+255,Emrehan Gedikli,de GER,FW,Konyaspor,20,2003,1.8,0,2,0,0.0,1.12,0.00,0.00,,,0,0,Matches
+256,Emrehan Gedikli,de GER,FW,İstanbulspor,20,2003,3.2,1,9,4,44.4,2.80,1.25,0.11,0.25,,0,0,Matches
+257,Amar Gerxhaliu,xk KVX,DF,Antalyaspor,21,2002,3.7,1,1,1,100.0,0.27,0.27,1.00,1.00,,0,0,Matches
+258,Baran Gezek,tr TUR,MF,Kayserispor,17,2005,1.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+259,Rachid Ghezzal,dz ALG,"MF,FW",Beşiktaş,31,1992,13.0,1,33,11,33.3,2.53,0.84,0.00,0.00,,1,1,Matches
+260,Faouzi Ghoulam,dz ALG,DF,Hatayspor,32,1991,15.8,1,14,6,42.9,0.89,0.38,0.07,0.17,,0,0,Matches
+261,Andreas Gianniotis,gr GRE,GK,Kasımpaşa,30,1992,31.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+262,Rafał Gikiewicz,pl POL,GK,Ankaragücü,35,1987,5.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+263,Anderson Gniangbo,ci CIV,FW,Konyaspor,23,1999,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+264,Emre Gökay,tr TUR,FW,Sivasspor,17,2006,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+265,Enes Gökcek,,,Kayserispor,16,2007,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+266,Eulânio Ângelo Chipela Gomes,gw GNB,"DF,FW",Samsunspor,29,1994,0.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+267,Maxi Gómez,uy URU,FW,Trabzonspor,26,1996,0.2,0,1,1,100.0,5.63,5.63,0.00,0.00,,0,0,Matches
+268,Iron Gomis,fr FRA,MF,Kasımpaşa,23,1999,12.3,1,10,4,40.0,0.81,0.32,0.10,0.25,,0,0,Matches
+269,Soner Gönül,tr TUR,DF,Samsunspor,26,1997,21.4,0,14,2,14.3,0.65,0.09,0.00,0.00,,0,0,Matches
+270,Max Gradel,ci CIV,"MF,FW",Gaziantep FK,35,1987,18.9,1,25,10,40.0,1.32,0.53,0.04,0.10,,0,0,Matches
+271,Andrew Gravillon,gp GLP,DF,Adana Demirspor,25,1998,30.6,2,27,3,11.1,0.88,0.10,0.07,0.67,,0,0,Matches
+272,Gökhan Gül,de GER,"MF,DF",Kasımpaşa,25,1998,32.5,2,54,17,31.5,1.66,0.52,0.04,0.12,,0,0,Matches
+273,Semih Güler,,DF,Adana Demirspor,28,1994,31.1,0,24,6,25.0,0.77,0.19,0.00,0.00,,0,0,Matches
+274,Muhammed Gümüskaya,tr TUR,MF,Samsunspor,22,2001,3.9,0,10,7,70.0,2.59,1.81,0.00,0.00,,0,0,Matches
+275,Umut Güneş,tr TUR,MF,Alanyaspor,23,2000,0.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+276,Umut Güneş,tr TUR,MF,Trabzonspor,23,2000,10.2,0,11,4,36.4,1.08,0.39,0.00,0.00,,0,0,Matches
+277,Bahadır Güngördü,,GK,Ankaragücü,25,1997,31.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+278,Mert Günok,tr TUR,GK,Beşiktaş,34,1989,28.2,0,1,0,0.0,0.04,0.00,0.00,,,0,0,Matches
+279,Koray Günter,de GER,DF,Fatih Karagümrük,28,1994,7.7,0,5,1,20.0,0.65,0.13,0.00,0.00,,0,0,Matches
+280,Hamza Güreler,tr TUR,DF,Başakşehir,17,2006,5.4,1,3,1,33.3,0.55,0.18,0.33,1.00,,0,0,Matches
+281,Serdar Gürler,tr TUR,MF,Başakşehir,31,1991,11.3,1,18,6,33.3,1.59,0.53,0.06,0.17,,0,0,Matches
+282,Göktan Gürpüz,de GER,MF,Trabzonspor,20,2003,0.3,1,1,1,100.0,3.60,3.60,1.00,1.00,,0,0,Matches
+283,Günay Güvenç,tr TUR,GK,Galatasaray,32,1991,1.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+284,Teenage Hadebe,zw ZIM,DF,Konyaspor,27,1995,10.1,0,5,0,0.0,0.50,0.00,0.00,,,0,0,Matches
+285,Florent Hadergjonaj,xk KVX,DF,Alanyaspor,29,1994,25.8,2,17,4,23.5,0.66,0.16,0.12,0.50,,0,0,Matches
+286,Amir Hadžiahmetović,ba BIH,MF,Beşiktaş,26,1997,14.8,0,3,1,33.3,0.20,0.07,0.00,0.00,,0,0,Matches
+287,Haris Hajradinović,ba BIH,MF,Kasımpaşa,29,1994,36.6,5,69,21,30.4,1.88,0.57,0.03,0.10,,3,3,Matches
+288,Matěj Hanousek,cz CZE,DF,Ankaragücü,30,1993,16.3,0,3,1,33.3,0.18,0.06,0.00,0.00,,0,0,Matches
+289,Dogucan Haspolat,tr TUR,MF,Trabzonspor,23,2000,1.1,0,1,1,100.0,0.94,0.94,0.00,0.00,,0,0,Matches
+290,Mustafa Hekimoğlu,tr TUR,FW,Beşiktaş,16,2007,1.4,0,1,0,0.0,0.71,0.00,0.00,,,0,0,Matches
+291,Armin Hodžić,ba BIH,MF,Hatayspor,23,2000,5.9,1,9,3,33.3,1.52,0.51,0.11,0.33,,0,0,Matches
+292,Carlo Holse,dk DEN,MF,Samsunspor,24,1999,30.9,5,60,24,40.0,1.94,0.78,0.08,0.21,,0,0,Matches
+293,Gerrit Holtmann,ph PHI,MF,Antalyaspor,28,1995,2.2,0,4,1,25.0,1.80,0.45,0.00,0.00,,0,0,Matches
+294,Majid Hosseini,ir IRN,DF,Kayserispor,27,1996,9.6,0,6,1,16.7,0.62,0.10,0.00,0.00,,0,0,Matches
+295,Casper Højer Nielsen,dk DEN,DF,Rizespor,28,1994,22.9,1,17,6,35.3,0.74,0.26,0.06,0.17,,0,0,Matches
+296,Mauro Icardi,ar ARG,FW,Galatasaray,30,1993,31.7,25,112,50,44.6,3.53,1.58,0.17,0.38,,6,7,Matches
+297,Edgar Ié,gw GNB,DF,Başakşehir,29,1994,2.0,0,1,0,0.0,0.50,0.00,0.00,,,0,0,Matches
+298,Emirhan İlkhan,tr TUR,"MF,FW",Başakşehir,19,2004,11.7,1,14,5,35.7,1.20,0.43,0.07,0.20,,0,0,Matches
+299,Giannelli Imbula,cd COD,MF,İstanbulspor,30,1992,0.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+300,Jackson,br BRA,"MF,FW",İstanbulspor,24,1999,25.1,1,51,19,37.3,2.03,0.76,0.00,0.00,,1,2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+301,Nicolas Janvier,fr FRA,MF,Alanyaspor,24,1998,17.9,4,35,9,25.7,1.95,0.50,0.11,0.44,,0,0,Matches
+302,Julian Jeanvier,gn GUI,DF,Kayserispor,31,1992,10.0,1,8,2,25.0,0.80,0.20,0.13,0.50,,0,0,Matches
+303,David Jensen,dk DEN,GK,İstanbulspor,31,1992,14.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+304,Marko Jevtović,rs SRB,MF,Gaziantep FK,30,1993,19.1,3,18,5,27.8,0.94,0.26,0.17,0.60,,0,0,Matches
+305,Emir Kaan Gültekin,tr TUR,"FW,MF",İstanbulspor,22,2000,18.9,4,35,21,60.0,1.85,1.11,0.11,0.19,,0,1,Matches
+306,Ali Kaan Güneren,tr TUR,MF,Ankaragücü,23,2000,21.3,1,21,6,28.6,0.99,0.28,0.05,0.17,,0,0,Matches
+307,Ferdi Kadioglu,tr TUR,DF,Fenerbahçe,23,1999,37.0,1,33,14,42.4,0.89,0.38,0.03,0.07,,0,0,Matches
+308,İrfan Kahveci,tr TUR,MF,Fenerbahçe,28,1995,22.4,12,40,21,52.5,1.79,0.94,0.30,0.57,,0,0,Matches
+309,Berat Kalkan,mk MKD,FW,Kasımpaşa,20,2003,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+310,Burak Kapacak,tr TUR,"DF,MF",Sivasspor,23,1999,12.0,0,12,5,41.7,1.00,0.42,0.00,0.00,,0,0,Matches
+311,Leandro Kappel,sr SUR,"MF,FW",Pendikspor,33,1989,4.2,1,9,3,33.3,2.13,0.71,0.11,0.33,,0,0,Matches
+312,Aytaç Kara,tr TUR,MF,Kasımpaşa,30,1993,36.0,14,102,37,36.3,2.83,1.03,0.12,0.32,,2,3,Matches
+313,Ercan Kara,at AUT,"FW,MF",Samsunspor,27,1996,10.6,3,32,11,34.4,3.03,1.04,0.06,0.18,,1,1,Matches
+314,Efecan Karaca,tr TUR,"MF,FW",Alanyaspor,33,1989,30.3,2,21,9,42.9,0.69,0.30,0.10,0.22,,0,1,Matches
+315,Yusuf Karagöz,,GK,Alanyaspor,23,1999,4.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+316,İlker Karakaş,tr TUR,FW,Gaziantep FK,24,1999,1.0,0,1,0,0.0,0.97,0.00,0.00,,,0,0,Matches
+317,Vedat Karakuş,tr TUR,GK,Adana Demirspor,25,1998,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+318,Kazımcan Karataş,tr TUR,DF,Ankaragücü,20,2003,6.8,0,6,2,33.3,0.88,0.29,0.00,0.00,,0,0,Matches
+319,Kazımcan Karataş,tr TUR,DF,Galatasaray,20,2003,4.5,0,5,1,20.0,1.12,0.22,0.00,0.00,,0,0,Matches
+320,Cebrail Karayel,tr TUR,DF,Konyaspor,28,1994,2.5,0,2,0,0.0,0.79,0.00,0.00,,,0,0,Matches
+321,Erce Kardeşler,tr TUR,GK,Hatayspor,29,1994,34.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+322,Ali Karimi,ir IRN,MF,Kayserispor,29,1994,22.6,3,32,7,21.9,1.42,0.31,0.09,0.43,,0,0,Matches
+323,Eden Karzev,il ISR,"MF,DF",Başakşehir,23,2000,5.4,0,5,1,20.0,0.92,0.18,0.00,0.00,,0,0,Matches
+324,Eren Kaya,tr TUR,FW,Sivasspor,19,2004,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+325,Gökcan Kaya,dk DEN,MF,Pendikspor,27,1995,23.4,2,32,8,25.0,1.36,0.34,0.06,0.25,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+326,Jakub Kałuziński,pl POL,MF,Antalyaspor,20,2002,25.9,0,20,2,10.0,0.77,0.08,0.00,0.00,,0,0,Matches
+327,Kader Keita,ci CIV,MF,Sivasspor,22,2000,0.8,0,1,0,0.0,1.25,0.00,0.00,,,0,0,Matches
+328,Can Keles,at AUT,"MF,FW",Fatih Karagümrük,21,2001,25.1,5,57,24,42.1,2.27,0.96,0.09,0.21,,0,0,Matches
+329,Olivier Kemen,cm CMR,"MF,FW",Kayserispor,27,1996,9.7,2,15,6,40.0,1.55,0.62,0.13,0.33,,0,0,Matches
+330,Olivier Kemen,cm CMR,"MF,DF",Başakşehir,27,1996,9.6,2,8,4,50.0,0.84,0.42,0.25,0.50,,0,0,Matches
+331,Ryan Kent,eng ENG,MF,Fenerbahçe,26,1996,1.6,0,4,0,0.0,2.50,0.00,0.00,,,0,0,Matches
+332,Philippe Keny,sn SEN,"FW,MF",Başakşehir,24,1999,7.2,1,13,4,30.8,1.81,0.56,0.08,0.25,,0,0,Matches
+333,Benhur Keser,,"MF,FW",Rizespor,26,1996,17.0,4,22,6,27.3,1.29,0.35,0.18,0.67,,0,0,Matches
+334,Naoufel Khacef,dz ALG,DF,Gaziantep FK,25,1997,3.0,0,2,0,0.0,0.67,0.00,0.00,,,0,0,Matches
+335,Guy-Marcelin Kilama,cm CMR,DF,Hatayspor,24,1999,34.8,2,9,2,22.2,0.26,0.06,0.22,1.00,,0,0,Matches
+336,Hasan Kilic,,MF,Pendikspor,31,1992,0.3,0,1,0,0.0,3.00,0.00,0.00,,,0,0,Matches
+337,Yakup Kılıç,,DF,Beşiktaş,18,2005,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+338,Semih Kılıçsoy,tr TUR,"MF,FW",Beşiktaş,17,2005,18.6,11,56,24,42.9,3.01,1.29,0.20,0.46,,0,0,Matches
+339,Emre Kılınç,tr TUR,MF,Samsunspor,28,1994,28.4,4,31,5,16.1,1.09,0.18,0.13,0.80,,0,0,Matches
+340,Joshua King,no NOR,MF,Fenerbahçe,31,1992,4.2,2,17,8,47.1,4.01,1.88,0.12,0.25,,0,0,Matches
+341,Stelios Kitsiou,gr GRE,DF,Ankaragücü,29,1993,23.7,0,14,0,0.0,0.59,0.00,0.00,,,0,0,Matches
+342,Arda Kızıldağ,tr TUR,DF,Gaziantep FK,24,1998,25.7,4,21,6,28.6,0.82,0.23,0.19,0.67,,0,0,Matches
+343,Alberk Koç,,DF,Rizespor,26,1997,0.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+344,Arif Kocaman,,DF,Kayserispor,19,2003,19.2,0,8,2,25.0,0.42,0.10,0.00,0.00,,0,0,Matches
+345,Okan Kocuk,tr TUR,GK,Samsunspor,28,1995,36.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+346,Derrick Köhn,gh GHA,DF,Galatasaray,24,1999,12.8,1,15,3,20.0,1.17,0.23,0.07,0.33,,0,0,Matches
+347,Bengali-Fodé Koita,gn GUI,"MF,FW",Sivasspor,32,1990,14.5,8,39,24,61.5,2.69,1.66,0.18,0.29,,1,1,Matches
+348,Koka,eg EGY,FW,Alanyaspor,30,1993,8.4,6,26,10,38.5,3.11,1.20,0.19,0.50,,1,1,Matches
+349,Koka,eg EGY,FW,Pendikspor,30,1993,2.6,0,4,0,0.0,1.53,0.00,0.00,,,0,0,Matches
+350,Dimitrios Kolovetsios,gr GRE,DF,Kayserispor,31,1991,16.5,0,8,4,50.0,0.48,0.24,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+351,Eray Korkmaz,tr TUR,DF,Rizespor,20,2003,5.3,0,1,1,100.0,0.19,0.19,0.00,0.00,,0,0,Matches
+352,Ahmet Kosar,,,Pendikspor,16,2006,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+353,Dimitrios Kourbelis,gr GRE,MF,Fatih Karagümrük,29,1993,9.9,0,4,0,0.0,0.41,0.00,0.00,,,0,0,Matches
+354,Dimitrios Kourbelis,gr GRE,MF,Trabzonspor,29,1993,3.2,0,1,0,0.0,0.32,0.00,0.00,,,0,0,Matches
+355,Kubilay Köylü,nl NED,FW,İstanbulspor,24,1999,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+356,Rade Krunić,ba BIH,MF,Fenerbahçe,29,1993,8.6,0,13,3,23.1,1.51,0.35,0.00,0.00,,0,0,Matches
+357,Berkan Kutlu,tr TUR,"DF,MF",Galatasaray,25,1998,9.3,2,6,3,50.0,0.65,0.32,0.33,0.67,,0,0,Matches
+358,Alperen Kuyubaşı,,DF,Ankaragücü,23,2000,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+359,Roman Květ,cz CZE,MF,Sivasspor,25,1997,8.1,1,13,5,38.5,1.60,0.61,0.08,0.20,,0,0,Matches
+360,Janne-Pekka Laine,fi FIN,MF,Rizespor,22,2001,0.7,0,1,0,0.0,1.38,0.00,0.00,,,0,0,Matches
+361,Didier Lamkel Zé,cm CMR,"MF,FW",Hatayspor,26,1996,10.5,3,22,7,31.8,2.09,0.67,0.14,0.43,,0,1,Matches
+362,Sam Larsson,se SWE,MF,Antalyaspor,30,1993,28.4,5,43,12,27.9,1.51,0.42,0.12,0.42,,0,0,Matches
+363,Joseph Larweh Attamah,gh GHA,DF,Kayserispor,29,1994,24.1,1,8,2,25.0,0.33,0.08,0.13,0.50,,0,0,Matches
+364,Kevin Lasagna,it ITA,"FW,MF",Fatih Karagümrük,30,1992,13.2,2,35,11,31.4,2.66,0.83,0.06,0.18,,0,0,Matches
+365,Gaëtan Laura,,FW,Samsunspor,27,1995,3.6,0,5,2,40.0,1.38,0.55,0.00,0.00,,0,0,Matches
+366,Helton Leite,br BRA,GK,Antalyaspor,32,1990,34.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+367,Lucas Lima,br BRA,DF,Başakşehir,31,1991,21.0,1,10,1,10.0,0.48,0.05,0.10,1.00,,0,0,Matches
+368,Nuno Lima,pt POR,DF,Alanyaspor,22,2001,12.9,0,8,1,12.5,0.62,0.08,0.00,0.00,,0,0,Matches
+369,Dominik Livaković,hr CRO,GK,Fenerbahçe,28,1995,34.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+370,Adem Ljajić,rs SRB,FW,Fatih Karagümrük,31,1991,0.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+371,Florian Loshaj,xk KVX,MF,İstanbulspor,26,1996,30.9,5,56,18,32.1,1.81,0.58,0.09,0.28,,0,0,Matches
+372,Arnaud Lusamba,cd COD,MF,Pendikspor,26,1997,22.5,0,9,4,44.4,0.40,0.18,0.00,0.00,,0,0,Matches
+373,Davidson da Luz Pereira,br BRA,MF,Başakşehir,32,1991,10.8,4,22,7,31.8,2.03,0.65,0.18,0.57,,0,0,Matches
+374,Salem M'bakata,cd COD,"DF,MF",Gaziantep FK,25,1998,21.1,0,7,1,14.3,0.33,0.05,0.00,0.00,,0,0,Matches
+375,Federico Macheda,it ITA,FW,Ankaragücü,31,1991,5.5,3,9,3,33.3,1.63,0.54,0.33,1.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+376,Maestro,ao ANG,MF,Adana Demirspor,19,2003,12.4,0,2,0,0.0,0.16,0.00,0.00,,,0,0,Matches
+377,Shakhruddin Magomedaliyev,az AZE,GK,Adana Demirspor,29,1994,23.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+378,Nikola Maksimović,rs SRB,DF,Hatayspor,31,1991,15.1,0,5,1,20.0,0.33,0.07,0.00,0.00,,0,0,Matches
+379,Ahmet Malatyali,,MF,Kayserispor,20,2003,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+380,Yunus Mallı,tr TUR,MF,Konyaspor,31,1992,4.3,0,5,4,80.0,1.15,0.92,0.00,0.00,,0,0,Matches
+381,Rey Manaj,al ALB,FW,Sivasspor,26,1997,27.8,18,114,42,36.8,4.10,1.51,0.12,0.33,,4,4,Matches
+382,Carlos Mané,gw GNB,MF,Kayserispor,29,1994,12.6,5,17,6,35.3,1.34,0.47,0.24,0.67,,1,1,Matches
+383,Jovan Manev,mk MKD,DF,Adana Demirspor,22,2001,3.6,0,3,2,66.7,0.84,0.56,0.00,0.00,,0,0,Matches
+384,Marcão,br BRA,FW,Fatih Karagümrük,29,1994,7.5,6,35,13,37.1,4.69,1.74,0.17,0.46,,0,1,Matches
+385,Lazar Marković,rs SRB,"FW,MF",Gaziantep FK,29,1994,17.1,3,22,10,45.5,1.28,0.58,0.14,0.30,,0,0,Matches
+386,John Mary,cm CMR,FW,Rizespor,30,1993,1.5,1,2,1,50.0,1.33,0.67,0.50,1.00,,0,0,Matches
+387,Chandrel Massanga,cg CGO,MF,Hatayspor,23,1999,25.4,3,23,7,30.4,0.91,0.28,0.13,0.43,,0,0,Matches
+388,Arthur Masuaku,cd COD,DF,Beşiktaş,29,1993,16.1,0,7,3,42.9,0.43,0.19,0.00,0.00,,0,0,Matches
+389,Oğuzhan Matur,,DF,Hatayspor,23,1999,3.6,0,1,1,100.0,0.28,0.28,0.00,0.00,,0,0,Matches
+390,Alexandru Maxim,ro ROU,MF,Gaziantep FK,33,1990,29.5,3,43,16,37.2,1.46,0.54,0.02,0.06,,2,4,Matches
+391,Ryan Mendes,cv CPV,MF,Fatih Karagümrük,33,1990,16.7,4,33,15,45.5,1.97,0.90,0.12,0.27,,0,0,Matches
+392,Stiven Mendoza,co COL,"MF,FW",Adana Demirspor,31,1992,12.0,3,30,8,26.7,2.50,0.67,0.10,0.38,,0,0,Matches
+393,Batista Mendy,fr FRA,"MF,DF",Trabzonspor,23,2000,30.8,1,20,4,20.0,0.65,0.13,0.05,0.25,,0,0,Matches
+394,Mamadou Mendy,sn SEN,"FW,MF",İstanbulspor,24,1998,19.5,2,31,10,32.3,1.59,0.51,0.06,0.20,,0,0,Matches
+395,Queensy Menig,nl NED,MF,Sivasspor,27,1995,6.1,2,8,3,37.5,1.32,0.49,0.25,0.67,,0,0,Matches
+396,Umut Meraş,tr TUR,DF,Beşiktaş,27,1995,5.4,0,2,0,0.0,0.37,0.00,0.00,,,0,0,Matches
+397,Levent Mercan,de GER,DF,Fatih Karagümrük,22,2000,34.5,1,14,1,7.1,0.41,0.03,0.07,1.00,,0,0,Matches
+398,Demir Mermerci,,MF,İstanbulspor,16,2006,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+399,Yıldırım Mert Çetin,tr TUR,DF,Ankaragücü,26,1997,9.6,0,2,1,50.0,0.21,0.10,0.00,0.00,,0,0,Matches
+400,Metehan Mert,,DF,Konyaspor,24,1999,4.0,0,6,1,16.7,1.50,0.25,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+401,Dries Mertens,be BEL,MF,Galatasaray,36,1987,27.4,9,88,35,39.8,3.22,1.28,0.09,0.23,,1,1,Matches
+402,Thomas Meunier,be BEL,DF,Trabzonspor,31,1991,13.8,1,12,4,33.3,0.87,0.29,0.08,0.25,,0,0,Matches
+403,Konrad Michalak,pl POL,MF,Konyaspor,25,1997,2.5,0,4,2,50.0,1.58,0.79,0.00,0.00,,0,0,Matches
+404,Edouard Michut,fr FRA,MF,Adana Demirspor,20,2003,19.2,0,17,6,35.3,0.89,0.31,0.00,0.00,,0,0,Matches
+405,Fredrik Midtsjø,no NOR,MF,Pendikspor,29,1993,21.4,1,16,5,31.3,0.75,0.23,0.06,0.20,,0,0,Matches
+406,Deni Milošević,ba BIH,MF,Antalyaspor,28,1995,3.2,0,4,1,25.0,1.23,0.31,0.00,0.00,,0,0,Matches
+407,Martin Minchev,bg BUL,"FW,MF",Rizespor,22,2001,19.4,3,33,9,27.3,1.70,0.46,0.09,0.33,,0,0,Matches
+408,Attila Mocsi,hu HUN,DF,Rizespor,23,2000,22.6,2,14,3,21.4,0.62,0.13,0.14,0.67,,0,0,Matches
+409,Milad Mohammadi,ir IRN,DF,Adana Demirspor,29,1993,11.9,0,11,4,36.4,0.92,0.34,0.00,0.00,,0,0,Matches
+410,Jamiro Monteiro,cv CPV,MF,Gaziantep FK,29,1993,8.2,1,10,5,50.0,1.22,0.61,0.10,0.20,,0,0,Matches
+411,Emre Mor,tr TUR,MF,Fenerbahçe,26,1997,0.6,0,2,2,100.0,3.10,3.10,0.00,0.00,,0,0,Matches
+412,Emre Mor,tr TUR,"MF,FW",Fatih Karagümrük,26,1997,7.4,1,19,6,31.6,2.56,0.81,0.05,0.17,,0,0,Matches
+413,Mame Mor Faye,sn SEN,FW,Rizespor,18,2005,1.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+414,Júnior Morais,br BRA,DF,Gaziantep FK,37,1986,14.6,0,6,1,16.7,0.41,0.07,0.00,0.00,,0,0,Matches
+415,Pedro Filipe Barbosa Moreira,pt POR,MF,Ankaragücü,30,1992,24.3,3,29,6,20.7,1.20,0.25,0.10,0.50,,0,0,Matches
+416,Marlos Moreno,co COL,MF,Konyaspor,26,1996,21.2,2,33,7,21.2,1.56,0.33,0.06,0.29,,0,0,Matches
+417,Olimpiu Moruțan,ro ROU,MF,Ankaragücü,24,1999,23.5,2,47,14,29.8,2.00,0.60,0.04,0.14,,0,0,Matches
+418,Marius Mouandilmadji,td CHA,FW,Samsunspor,26,1997,23.0,9,70,27,38.6,3.04,1.17,0.13,0.33,,0,1,Matches
+419,Ernest Muçi,al ALB,MF,Beşiktaş,22,2001,11.5,3,41,15,36.6,3.56,1.30,0.07,0.20,,0,0,Matches
+420,Arbnor Muja,al ALB,"MF,FW",Samsunspor,24,1998,4.7,1,4,2,50.0,0.86,0.43,0.25,0.50,,0,0,Matches
+421,Nihad Mujakić,ba BIH,DF,Ankaragücü,25,1998,35.6,1,7,1,14.3,0.20,0.03,0.14,1.00,,0,0,Matches
+422,Mert Müldür,tr TUR,DF,Fenerbahçe,24,1999,12.5,1,11,2,18.2,0.88,0.16,0.09,0.50,,0,0,Matches
+423,Jackson Muleka,cd COD,"MF,FW",Beşiktaş,23,1999,18.1,4,51,17,33.3,2.82,0.94,0.08,0.24,,0,0,Matches
+424,Robert Murić,hr CRO,"MF,FW",Konyaspor,27,1996,7.6,2,9,4,44.4,1.18,0.53,0.22,0.50,,0,0,Matches
+425,Ahmed Musa,ng NGA,FW,Sivasspor,30,1992,0.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+426,Fernando Muslera,uy URU,GK,Galatasaray,37,1986,36.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+427,Almoatasem Al Musrati,ly LBY,MF,Beşiktaş,27,1996,6.1,0,4,1,25.0,0.66,0.16,0.00,0.00,,0,0,Matches
+428,Clinton N'Jie,cm CMR,"MF,FW",Sivasspor,29,1993,14.2,2,23,13,56.5,1.62,0.91,0.09,0.15,,0,0,Matches
+429,Naldo,br BRA,DF,Antalyaspor,34,1988,5.7,0,3,0,0.0,0.53,0.00,0.00,,,0,0,Matches
+430,Nani,pt POR,"MF,FW",Adana Demirspor,36,1986,10.4,3,29,14,48.3,2.79,1.35,0.10,0.21,,0,0,Matches
+431,Umut Nayir,tr TUR,FW,Pendikspor,30,1993,13.6,4,27,9,33.3,1.99,0.66,0.15,0.44,,0,0,Matches
+432,Umut Nayir,tr TUR,FW,Fenerbahçe,30,1993,1.1,0,1,1,100.0,0.93,0.93,0.00,0.00,,0,0,Matches
+433,Duckens Nazon,ht HAI,FW,Kayserispor,29,1994,9.3,2,24,9,37.5,2.58,0.97,0.08,0.22,,0,0,Matches
+434,Alassane Ndao,sn SEN,MF,Konyaspor,26,1996,13.2,2,18,5,27.8,1.36,0.38,0.11,0.40,,0,0,Matches
+435,Alassane Ndao,sn SEN,"MF,FW",İstanbulspor,26,1996,18.4,1,24,5,20.8,1.30,0.27,0.04,0.20,,0,0,Matches
+436,Badou Ndiaye,sn SEN,MF,Pendikspor,32,1990,10.2,1,18,7,38.9,1.77,0.69,0.06,0.14,,0,0,Matches
+437,Badou Ndiaye,sn SEN,MF,Adana Demirspor,32,1990,6.7,0,7,0,0.0,1.05,0.00,0.00,,,0,0,Matches
+438,Cherif Ndiaye,sn SEN,FW,Adana Demirspor,27,1996,1.8,1,1,1,100.0,0.54,0.54,1.00,1.00,,0,0,Matches
+439,Tanguy Ndombele,fr FRA,MF,Galatasaray,26,1996,5.2,0,7,1,14.3,1.35,0.19,0.00,0.00,,0,0,Matches
+440,Victor Nelsson,dk DEN,DF,Galatasaray,24,1998,28.4,2,20,6,30.0,0.70,0.21,0.10,0.33,,0,0,Matches
+441,Julien Ngoy,be BEL,"FW,MF",Kasımpaşa,25,1997,14.3,2,24,10,41.7,1.68,0.70,0.08,0.20,,0,0,Matches
+442,M'Baye Niang,sn SEN,FW,Adana Demirspor,28,1994,11.0,8,30,15,50.0,2.74,1.37,0.13,0.27,,4,4,Matches
+443,Đorđe Nikolić,rs SRB,GK,Sivasspor,26,1997,5.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+444,Florin Niță,ro ROU,GK,Gaziantep FK,36,1987,34.0,0,1,0,0.0,0.03,0.00,0.00,,,0,0,Matches
+445,Nicolas Nkoulou,cm CMR,"DF,MF",Gaziantep FK,33,1990,31.5,2,16,3,18.8,0.51,0.10,0.13,0.67,,0,0,Matches
+446,Mootez Nourani,tn TUN,"MF,FW",Adana Demirspor,21,2002,1.8,0,0,0,,0.00,0.00,,,,0,0,Matches
+447,João Novais,pt POR,MF,Alanyaspor,30,1993,22.7,5,46,17,37.0,2.02,0.75,0.07,0.18,,2,3,Matches
+448,Olivier Ntcham,cm CMR,MF,Samsunspor,27,1996,20.7,6,50,15,30.0,2.42,0.73,0.04,0.13,,4,4,Matches
+449,Steven Nzonzi,fr FRA,MF,Konyaspor,34,1988,25.8,4,20,11,55.0,0.77,0.43,0.20,0.36,,0,0,Matches
+450,Burak Öğür,tr TUR,GK,Pendikspor,33,1989,4.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+451,Ahmet Oğuz,tr TUR,DF,Konyaspor,30,1993,23.4,1,10,2,20.0,0.43,0.09,0.10,0.50,,0,0,Matches
+452,Alaaddin Okumuş,,DF,Sivasspor,27,1995,13.0,0,3,1,33.3,0.23,0.08,0.00,0.00,,0,0,Matches
+453,Ibrahim Olawoyin,ng NGA,MF,Rizespor,25,1997,33.4,8,64,25,39.1,1.91,0.75,0.13,0.32,,0,0,Matches
+454,Nélson Oliveira,pt POR,FW,Konyaspor,31,1991,5.1,0,10,3,30.0,1.95,0.58,0.00,0.00,,0,0,Matches
+455,Sérgio Oliveira,pt POR,MF,Galatasaray,31,1992,5.3,1,15,4,26.7,2.84,0.76,0.07,0.25,,0,0,Matches
+456,Kenneth Omeruo,ng NGA,DF,Kasımpaşa,29,1993,23.1,1,12,6,50.0,0.52,0.26,0.08,0.17,,0,0,Matches
+457,Abdülkadir Ömür,tr TUR,MF,Trabzonspor,24,1999,12.3,0,7,0,0.0,0.57,0.00,0.00,,,0,0,Matches
+458,Jean Onana,cm CMR,MF,Beşiktaş,23,2000,0.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+459,Paul Onuachu,ng NGA,FW,Trabzonspor,29,1994,16.9,15,61,24,39.3,3.61,1.42,0.25,0.63,,0,0,Matches
+460,Samed Onur,tr TUR,FW,Fatih Karagümrük,21,2002,0.2,0,2,1,50.0,9.47,4.74,0.00,0.00,,0,0,Matches
+461,Jayden Oosterwolde,nl NED,DF,Fenerbahçe,22,2001,21.3,0,7,2,28.6,0.33,0.09,0.00,0.00,,0,0,Matches
+462,Jerome Opoku,gh GHA,DF,Başakşehir,24,1998,27.5,4,10,5,50.0,0.36,0.18,0.40,0.80,,0,0,Matches
+463,Mislav Oršić,hr CRO,"FW,MF",Trabzonspor,30,1992,0.6,0,2,0,0.0,3.33,0.00,0.00,,,0,0,Matches
+464,Bright Osayi-Samuel,ng NGA,DF,Fenerbahçe,25,1997,19.3,4,5,4,80.0,0.26,0.21,0.80,1.00,,0,0,Matches
+465,Sinan Osmanoğlu,tr TUR,DF,Rizespor,33,1990,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+466,Caner Osmanpaşa,tr TUR,DF,Sivasspor,35,1988,26.1,3,18,6,33.3,0.69,0.23,0.17,0.50,,0,0,Matches
+467,Alex Oxlade-Chamberlain,eng ENG,MF,Beşiktaş,29,1993,11.0,4,26,11,42.3,2.35,1.00,0.12,0.27,,1,1,Matches
+468,Şener Özbayraklı,tr TUR,DF,Başakşehir,33,1990,1.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+469,Ertaç Özbir,tr TUR,GK,Ankaragücü,33,1989,1.4,0,0,0,,0.00,0.00,,,,0,0,Matches
+470,Ertaç Özbir,tr TUR,GK,Adana Demirspor,33,1989,11.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+471,Berkay Özcan,tr TUR,MF,Başakşehir,25,1998,31.2,2,26,8,30.8,0.83,0.26,0.04,0.13,,1,1,Matches
+472,Yasin Özcan,tr TUR,DF,Kasımpaşa,17,2006,32.9,2,19,4,21.1,0.58,0.12,0.11,0.50,,0,0,Matches
+473,Ogün Özçiçek,,MF,Gaziantep FK,24,1999,22.2,3,29,10,34.5,1.31,0.45,0.10,0.30,,0,0,Matches
+474,Berat Özdemir,tr TUR,MF,Trabzonspor,25,1998,26.5,1,15,4,26.7,0.57,0.15,0.07,0.25,,0,0,Matches
+475,Yusuf Özdemir,tr TUR,"MF,DF",Alanyaspor,22,2001,27.4,2,25,10,40.0,0.91,0.36,0.08,0.20,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+476,Erdem Özgenç,tr TUR,DF,Pendikspor,38,1984,16.7,1,12,3,25.0,0.72,0.18,0.00,0.00,,1,1,Matches
+477,Alim Öztürk,tr TUR,DF,Samsunspor,30,1992,21.4,0,7,3,42.9,0.33,0.14,0.00,0.00,,0,0,Matches
+478,Alpaslan Öztürk,tr TUR,DF,Pendikspor,30,1993,20.6,2,12,5,41.7,0.58,0.24,0.17,0.40,,0,0,Matches
+479,Bahadır Öztürk,tr TUR,DF,Antalyaspor,27,1995,16.5,1,6,1,16.7,0.36,0.06,0.17,1.00,,0,0,Matches
+480,Eslem Öztürk,tr TUR,MF,İstanbulspor,25,1997,1.8,0,2,0,0.0,1.13,0.00,0.00,,,0,0,Matches
+481,Mehmet Öztürk,tr TUR,GK,Kayserispor,18,2005,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+482,Mithat Pala,tr TUR,MF,Rizespor,22,2000,17.9,0,13,3,23.1,0.73,0.17,0.00,0.00,,0,0,Matches
+483,Murat Paluli,tr TUR,DF,Sivasspor,28,1994,17.0,0,9,0,0.0,0.53,0.00,0.00,,,0,0,Matches
+484,Flavio Paoletti,it ITA,MF,Fatih Karagümrük,20,2003,7.8,1,12,4,33.3,1.53,0.51,0.08,0.25,,0,0,Matches
+485,Abdülkadir Parmak,tr TUR,MF,Hatayspor,28,1994,2.2,0,2,1,50.0,0.90,0.45,0.00,0.00,,0,0,Matches
+486,Abdülkadir Parmak,tr TUR,MF,Sivasspor,28,1994,3.2,0,3,1,33.3,0.93,0.31,0.00,0.00,,0,0,Matches
+487,Bruno Paz,ao ANG,MF,Konyaspor,25,1998,3.4,0,2,0,0.0,0.59,0.00,0.00,,,0,0,Matches
+488,Rui Pedro,pt POR,MF,Hatayspor,25,1998,5.4,0,5,2,40.0,0.92,0.37,0.00,0.00,,0,0,Matches
+489,Halil Pehlivan,tr TUR,DF,Rizespor,29,1993,15.2,0,4,1,25.0,0.26,0.07,0.00,0.00,,0,0,Matches
+490,Dimitris Pelkas,gr GRE,"MF,FW",Başakşehir,29,1993,13.8,6,30,17,56.7,2.18,1.24,0.20,0.35,,0,0,Matches
+491,Nicolas Pépé,ci CIV,"MF,FW",Trabzonspor,28,1995,12.5,5,24,11,45.8,1.93,0.88,0.21,0.45,,0,0,Matches
+492,Krzysztof Piątek,pl POL,FW,Başakşehir,28,1995,29.9,17,101,44,43.6,3.37,1.47,0.13,0.30,,4,5,Matches
+493,Óscar Pinchi,es ESP,MF,Rizespor,27,1996,2.6,0,8,1,12.5,3.12,0.39,0.00,0.00,,0,0,Matches
+494,Onurcan Piri,tr TUR,GK,Kayserispor,28,1994,3.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+495,Jackson Porozo,ec ECU,DF,Kasımpaşa,22,2000,13.2,1,10,2,20.0,0.76,0.15,0.10,0.50,,0,0,Matches
+496,Achilleas Poungouras,gr GRE,"DF,MF",Sivasspor,27,1995,13.3,0,2,1,50.0,0.15,0.08,0.00,0.00,,0,0,Matches
+497,Louka Prip,dk DEN,MF,Konyaspor,26,1997,18.2,6,29,17,58.6,1.60,0.94,0.21,0.35,,0,0,Matches
+498,Uroš Radaković,rs SRB,DF,Ankaragücü,29,1994,34.1,1,16,4,25.0,0.47,0.12,0.06,0.25,,0,0,Matches
+499,Niko Rak,hr CRO,DF,Konyaspor,20,2003,0.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+500,Erdal Rakip,mk MKD,MF,Antalyaspor,27,1996,14.5,0,13,3,23.1,0.90,0.21,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+501,Benito Raman,be BEL,"MF,FW",Samsunspor,28,1994,4.8,0,6,2,33.3,1.24,0.41,0.00,0.00,,0,0,Matches
+502,Milot Rashica,xk KVX,"MF,FW",Beşiktaş,27,1996,22.5,5,55,20,36.4,2.44,0.89,0.09,0.25,,0,0,Matches
+503,Joher Rassoul,sn SEN,DF,Pendikspor,27,1995,11.4,0,2,0,0.0,0.18,0.00,0.00,,,0,0,Matches
+504,Ante Rebić,hr CRO,"MF,FW",Beşiktaş,29,1993,4.4,0,7,2,28.6,1.59,0.46,0.00,0.00,,0,0,Matches
+505,Brayan Riascos,co COL,FW,Gaziantep FK,28,1994,5.1,1,11,3,27.3,2.15,0.59,0.09,0.33,,0,0,Matches
+506,Richard,br BRA,MF,Alanyaspor,29,1994,32.3,1,25,7,28.0,0.77,0.22,0.04,0.14,,0,0,Matches
+507,Rigoberto Rivas,hn HON,"MF,DF",Hatayspor,25,1998,27.0,5,31,13,41.9,1.15,0.48,0.16,0.38,,0,0,Matches
+508,Rochinha,pt POR,MF,Kasımpaşa,28,1995,2.1,0,3,1,33.3,1.44,0.48,0.00,0.00,,0,0,Matches
+509,Garry Rodrigues,cv CPV,MF,Ankaragücü,32,1990,9.0,2,21,8,38.1,2.34,0.89,0.10,0.25,,0,0,Matches
+510,Gerson Rodrigues,lu LUX,"FW,MF",Sivasspor,28,1995,7.4,2,12,3,25.0,1.62,0.40,0.17,0.67,,0,0,Matches
+511,Kévin Rodrigues,pt POR,DF,Adana Demirspor,29,1994,10.2,0,6,2,33.3,0.59,0.20,0.00,0.00,,0,0,Matches
+512,José Rodríguez,es ESP,MF,Adana Demirspor,28,1994,1.5,0,1,1,100.0,0.68,0.68,0.00,0.00,,0,0,Matches
+513,Marcus Rohdén,se SWE,MF,Fatih Karagümrük,32,1991,26.9,4,36,11,30.6,1.34,0.41,0.11,0.36,,0,0,Matches
+514,Óscar Romero,py PAR,"MF,FW",Pendikspor,31,1992,7.6,3,19,9,47.4,2.50,1.18,0.00,0.00,,3,4,Matches
+515,Valentin Rosier,fr FRA,DF,Beşiktaş,26,1996,10.1,0,3,0,0.0,0.30,0.00,0.00,,,0,0,Matches
+516,Eduard Rroca,al ALB,"MF,FW",İstanbulspor,30,1993,8.8,1,10,3,30.0,1.13,0.34,0.10,0.33,,0,0,Matches
+517,Dries Saddiki,ma MAR,MF,Kasımpaşa,26,1996,3.0,0,3,0,0.0,1.01,0.00,0.00,,,0,0,Matches
+518,Loret Sadiku,al ALB,MF,Kasımpaşa,32,1991,5.7,0,0,0,,0.00,0.00,,,,0,0,Matches
+519,Ramzi Safouri,il ISR,MF,Antalyaspor,27,1995,19.9,0,39,15,38.5,1.96,0.75,0.00,0.00,,0,0,Matches
+520,Görkem Sağlam,de GER,MF,Hatayspor,25,1998,16.8,2,18,5,27.8,1.07,0.30,0.11,0.40,,0,0,Matches
+521,Özcan Şahan,fr FRA,MF,İstanbulspor,24,1999,3.6,0,5,2,40.0,1.40,0.56,0.00,0.00,,0,0,Matches
+522,Samuel Sáiz,es ESP,MF,Sivasspor,32,1991,15.8,5,33,18,54.5,2.08,1.14,0.15,0.28,,0,0,Matches
+523,David Sambissa,ga GAB,"MF,DF",İstanbulspor,27,1996,17.3,1,17,10,58.8,0.98,0.58,0.06,0.10,,0,0,Matches
+524,Bouly Sambou,sn SEN,FW,Konyaspor,24,1998,3.8,0,4,1,25.0,1.07,0.27,0.00,0.00,,0,0,Matches
+525,Tunahan Şamdanlı,,MF,İstanbulspor,18,2005,0.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+526,Davinson Sánchez,co COL,DF,Galatasaray,27,1996,17.7,2,16,4,25.0,0.91,0.23,0.13,0.50,,0,0,Matches
+527,Nazim Sangaré,tr TUR,"DF,MF",Fatih Karagümrük,29,1994,14.3,1,10,3,30.0,0.70,0.21,0.10,0.33,,0,0,Matches
+528,Riccardo Saponara,it ITA,"MF,FW",Ankaragücü,31,1991,3.0,0,6,3,50.0,1.97,0.99,0.00,0.00,,0,0,Matches
+529,Veysel Sarı,tr TUR,DF,Antalyaspor,35,1988,33.5,1,29,6,20.7,0.87,0.18,0.03,0.17,,0,0,Matches
+530,Yusuf Sari,tr TUR,MF,Adana Demirspor,24,1998,19.8,3,59,24,40.7,2.98,1.21,0.05,0.13,,0,0,Matches
+531,Talha Sarıarslan,tr TUR,FW,Kayserispor,19,2004,1.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+532,Dario Šarić,ba BIH,MF,Antalyaspor,26,1997,28.3,3,47,11,23.4,1.66,0.39,0.06,0.27,,0,0,Matches
+533,Muammer Sarıkaya,,MF,İstanbulspor,25,1998,19.1,2,33,10,30.3,1.73,0.52,0.06,0.20,,0,0,Matches
+534,Muammer Sarıkaya,,MF,Rizespor,25,1998,7.1,0,8,0,0.0,1.13,0.00,0.00,,,0,0,Matches
+535,Ali Şaşal Vural,tr TUR,GK,Sivasspor,33,1990,33.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+536,Ľubomír Šatka,sk SVK,DF,Samsunspor,27,1995,24.5,1,3,1,33.3,0.12,0.04,0.33,1.00,,0,0,Matches
+537,Gustavo Sauer,br BRA,MF,Rizespor,30,1993,17.2,1,28,8,28.6,1.63,0.47,0.00,0.00,,1,1,Matches
+538,Efe Sayhan,,MF,Pendikspor,18,2005,0.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+539,Gökhan Sazdağı,tr TUR,"DF,FW",Kayserispor,28,1994,32.2,0,25,7,28.0,0.78,0.22,0.00,0.00,,0,0,Matches
+540,Kingsley Schindler,gh GHA,"DF,MF",Samsunspor,30,1993,8.8,1,7,2,28.6,0.80,0.23,0.14,0.50,,0,0,Matches
+541,Ahmet Şen,tr TUR,GK,Gaziantep FK,24,1999,4.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+542,Kerem Şen,,FW,Trabzonspor,21,2002,1.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+543,Muhammed Şengezer,tr TUR,GK,Başakşehir,26,1997,14.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+544,Nuno Sequeira,pt POR,DF,Pendikspor,32,1990,34.1,1,15,4,26.7,0.44,0.12,0.07,0.25,,0,0,Matches
+545,Mücahit Serbest,,GK,İstanbulspor,18,2004,4.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+546,Cemalil Sertel,tr TUR,DF,Hatayspor,23,2000,8.5,0,2,0,0.0,0.23,0.00,0.00,,,0,0,Matches
+547,Cemalil Sertel,tr TUR,DF,Başakşehir,23,2000,6.2,0,3,0,0.0,0.49,0.00,0.00,,,0,0,Matches
+548,Florent Shehu,ch SUI,FW,Adana Demirspor,21,2002,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+549,Jonjo Shelvey,eng ENG,MF,Rizespor,31,1992,29.4,3,57,16,28.1,1.94,0.54,0.05,0.19,,0,1,Matches
+550,Otabek Shukurov,uz UZB,MF,Kayserispor,27,1996,5.5,0,6,2,33.3,1.10,0.37,0.00,0.00,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+551,Otabek Shukurov,uz UZB,MF,Fatih Karagümrük,27,1996,6.3,0,3,1,33.3,0.48,0.16,0.00,0.00,,0,0,Matches
+552,Doğukan Sınık,tr TUR,MF,Hatayspor,24,1999,3.5,1,10,3,30.0,2.82,0.85,0.10,0.33,,0,0,Matches
+553,Salvatore Sirigu,it ITA,GK,Fatih Karagümrük,36,1987,17.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+554,Pione Sisto,dk DEN,MF,Alanyaspor,28,1995,7.4,1,18,7,38.9,2.42,0.94,0.06,0.14,,0,0,Matches
+555,Guilherme Sityá,pt POR,DF,Konyaspor,33,1990,36.3,5,18,6,33.3,0.50,0.17,0.22,0.67,,1,1,Matches
+556,Deian Sorescu,ro ROU,"MF,FW",Gaziantep FK,25,1997,11.9,4,19,10,52.6,1.59,0.84,0.21,0.40,,0,0,Matches
+557,Josef de Souza,br BRA,MF,Başakşehir,34,1989,4.2,0,3,1,33.3,0.71,0.24,0.00,0.00,,0,0,Matches
+558,Ali Sowe,gm GAM,FW,Ankaragücü,29,1994,23.6,6,48,20,41.7,2.03,0.85,0.13,0.30,,0,0,Matches
+559,Furkan Soyalp,tr TUR,MF,Gaziantep FK,28,1995,17.7,1,18,9,50.0,1.02,0.51,0.06,0.11,,0,0,Matches
+560,Çağlar Söyüncü,tr TUR,DF,Fenerbahçe,27,1996,10.1,2,7,2,28.6,0.69,0.20,0.29,1.00,,0,0,Matches
+561,Benjamin Stambouli,fr FRA,MF,Adana Demirspor,32,1990,15.3,1,10,4,40.0,0.65,0.26,0.10,0.25,,0,0,Matches
+562,Luka Stankovski,mk MKD,MF,Gaziantep FK,20,2002,0.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+563,Carlos Strandberg,se SWE,"FW,MF",Hatayspor,27,1996,24.9,8,63,20,31.7,2.53,0.80,0.10,0.30,,2,2,Matches
+564,Sander van de Streek,nl NED,"MF,FW",Antalyaspor,30,1993,20.6,2,49,19,38.8,2.38,0.92,0.04,0.11,,0,0,Matches
+565,Jens Stryger Larsen,dk DEN,DF,Trabzonspor,32,1991,11.4,0,2,0,0.0,0.18,0.00,0.00,,,0,0,Matches
+566,Stefano Sturaro,it ITA,MF,Fatih Karagümrük,30,1993,3.5,1,1,1,100.0,0.29,0.29,1.00,1.00,,0,0,Matches
+567,Ali Sühan Demirel,tr TUR,FW,Kasımpaşa,20,2003,0.1,0,1,0,0.0,7.50,0.00,0.00,,,0,0,Matches
+568,Berkay Sülüngöz,tr TUR,DF,Pendikspor,27,1996,14.8,1,7,1,14.3,0.47,0.07,0.14,1.00,,0,0,Matches
+569,Jonas Svensson,no NOR,DF,Beşiktaş,30,1993,9.7,0,2,0,0.0,0.21,0.00,0.00,,,0,0,Matches
+570,Jonas Svensson,no NOR,DF,Adana Demirspor,30,1993,13.2,0,2,0,0.0,0.15,0.00,0.00,,,0,0,Matches
+571,Jakub Szumski,pl POL,GK,Samsunspor,31,1992,2.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+572,Sebastian Szymański,pl POL,MF,Fenerbahçe,24,1999,32.1,10,87,31,35.6,2.71,0.97,0.11,0.32,,0,0,Matches
+573,Jakub Słowik,pl POL,GK,Konyaspor,31,1991,14.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+574,Dušan Tadić,rs SRB,MF,Fenerbahçe,34,1988,34.9,10,53,28,52.8,1.52,0.80,0.08,0.14,,6,9,Matches
+575,Muhammet Taha Şahin,,DF,Rizespor,22,2000,32.7,0,8,0,0.0,0.24,0.00,0.00,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+576,Muhammet Taha Tepe,tr TUR,GK,Trabzonspor,22,2001,3.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+577,Flavien Tait,fr FRA,MF,Samsunspor,30,1993,18.6,0,13,4,30.8,0.70,0.21,0.00,0.00,,0,0,Matches
+578,Tayyib Talha Sanuç,tr TUR,DF,Beşiktaş,23,1999,6.5,0,2,1,50.0,0.31,0.15,0.00,0.00,,0,0,Matches
+579,Haluk Tan,tr TUR,DF,Samsunspor,18,2005,3.8,0,2,0,0.0,0.53,0.00,0.00,,,0,0,Matches
+580,Douglas Tanque,br BRA,FW,Samsunspor,29,1993,0.2,0,1,0,0.0,4.09,0.00,0.00,,,0,0,Matches
+581,Emre Taşdemir,tr TUR,"DF,FW",Pendikspor,27,1995,5.2,0,4,1,25.0,0.76,0.19,0.00,0.00,,0,0,Matches
+582,Ertuğrul Taşkıran,tr TUR,GK,Alanyaspor,33,1989,34.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+583,Mahmut Tekdemir,tr TUR,MF,Başakşehir,35,1988,3.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+584,Muhammet Tekke,,FW,İstanbulspor,20,2003,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+585,Tonio Teklić,hr CRO,MF,Fatih Karagümrük,23,1999,3.4,0,7,0,0.0,2.06,0.00,0.00,,,0,0,Matches
+586,Tonio Teklić,hr CRO,MF,Trabzonspor,23,1999,1.6,0,4,0,0.0,2.48,0.00,0.00,,,0,0,Matches
+587,Vefa Temel,fr FRA,"DF,MF",İstanbulspor,20,2002,9.5,2,10,4,40.0,1.06,0.42,0.20,0.50,,0,0,Matches
+588,Serkan Terzi,tr TUR,DF,Beşiktaş,19,2004,5.6,0,2,1,50.0,0.36,0.18,0.00,0.00,,0,0,Matches
+589,Tetê,br BRA,MF,Galatasaray,23,2000,12.2,0,37,14,37.8,3.04,1.15,0.00,0.00,,0,0,Matches
+590,Trazie Thomas Zai,ci CIV,MF,Kasımpaşa,24,1999,1.2,0,1,0,0.0,0.83,0.00,0.00,,,0,0,Matches
+591,Thuram,br BRA,"FW,MF",Pendikspor,32,1991,9.5,3,25,9,36.0,2.63,0.95,0.12,0.33,,0,0,Matches
+592,Emir Tintiş,tr TUR,DF,Fatih Karagümrük,19,2004,1.2,0,1,0,0.0,0.86,0.00,0.00,,,0,0,Matches
+593,Mickaël Tirpan,be BEL,"DF,MF",Samsunspor,29,1993,6.3,0,4,0,0.0,0.64,0.00,0.00,,,0,0,Matches
+594,Dorukhan Toköz,tr TUR,"DF,MF",Adana Demirspor,27,1996,7.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+595,İzzet Topatar,,MF,İstanbulspor,21,2001,0.4,0,1,0,0.0,2.25,0.00,0.00,,,0,0,Matches
+596,Emir Topçu,tr TUR,DF,Rizespor,22,2000,31.0,1,24,8,33.3,0.78,0.26,0.04,0.13,,0,0,Matches
+597,Ömer Toprak,tr TUR,DF,Antalyaspor,34,1989,20.0,0,6,2,33.3,0.30,0.10,0.00,0.00,,0,0,Matches
+598,Gökhan Töre,tr TUR,"FW,MF",Konyaspor,31,1992,0.5,0,1,0,0.0,1.87,0.00,0.00,,,0,0,Matches
+599,Lucas Torreira,uy URU,MF,Galatasaray,27,1996,33.0,1,32,5,15.6,0.97,0.15,0.03,0.20,,0,0,Matches
+600,Cenk Tosun,tr TUR,"FW,MF",Beşiktaş,32,1991,21.7,6,55,14,25.5,2.54,0.65,0.11,0.43,,0,2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+601,Ahmed Touba,dz ALG,DF,Başakşehir,25,1998,0.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+602,Umut Toy,,DF,Pendikspor,19,2004,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+603,Djakaridja Traoré,ci CIV,FW,İstanbulspor,24,1998,5.4,1,9,5,55.6,1.67,0.93,0.11,0.20,,0,0,Matches
+604,Trézéguet,eg EGY,MF,Trabzonspor,28,1994,17.8,10,61,22,36.1,3.42,1.23,0.15,0.41,,1,1,Matches
+605,Ali Turap Bülbül,tr TUR,DF,Galatasaray,18,2005,1.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+606,Aziz Turgʻunboyev,uz UZB,"MF,DF",Sivasspor,28,1994,9.0,1,14,5,35.7,1.56,0.56,0.07,0.20,,0,0,Matches
+607,Cem Türkmen,tr TUR,MF,Ankaragücü,21,2002,1.9,0,0,0,,0.00,0.00,,,,0,0,Matches
+608,Hüseyin Türkmen,tr TUR,DF,Trabzonspor,25,1998,1.6,0,0,0,,0.00,0.00,,,,0,0,Matches
+609,Deniz Turuc,tr TUR,MF,Başakşehir,30,1993,29.7,2,39,17,43.6,1.31,0.57,0.05,0.12,,0,0,Matches
+610,Georgios Tzavellas,gr GRE,DF,Pendikspor,35,1987,0.5,0,0,0,,0.00,0.00,,,,0,0,Matches
+611,Salih Uçan,tr TUR,MF,Beşiktaş,29,1994,17.4,1,21,4,19.0,1.21,0.23,0.05,0.25,,0,0,Matches
+612,Adnan Ugur,be BEL,MF,Fatih Karagümrük,22,2001,6.0,0,3,2,66.7,0.50,0.33,0.00,0.00,,0,0,Matches
+613,Hwang Ui-jo,kr KOR,FW,Alanyaspor,30,1992,2.9,1,9,6,66.7,3.12,2.08,0.11,0.17,,0,0,Matches
+614,Oğulcan Ülgün,tr TUR,MF,Konyaspor,25,1998,19.5,1,22,9,40.9,1.13,0.46,0.05,0.11,,0,0,Matches
+615,Alper Uludağ,tr TUR,DF,Ankaragücü,32,1990,5.6,1,3,2,66.7,0.54,0.36,0.33,0.50,,0,0,Matches
+616,Cengiz Ünder,tr TUR,MF,Fenerbahçe,26,1997,11.4,9,44,19,43.2,3.85,1.66,0.20,0.47,,0,0,Matches
+617,Arda Ünyay,tr TUR,DF,Ankaragücü,16,2007,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+618,Güvenc Usta,,FW,Rizespor,19,2004,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+619,Necip Uysal,tr TUR,DF,Beşiktaş,32,1991,26.1,0,11,3,27.3,0.42,0.11,0.00,0.00,,0,0,Matches
+620,Anthony Uzodimma,ng NGA,DF,Kayserispor,24,1999,8.6,1,7,3,42.9,0.81,0.35,0.14,0.33,,0,0,Matches
+621,Emre Uzun,tr TUR,MF,Antalyaspor,18,2005,2.6,0,8,1,12.5,3.05,0.38,0.00,0.00,,0,0,Matches
+622,Emrecan Uzunhan,,MF,Beşiktaş,22,2001,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+623,Baran Vardar,,DF,İstanbulspor,18,2005,1.2,0,0,0,,0.00,0.00,,,,0,0,Matches
+624,Dal Varesanovic,ba BIH,MF,Rizespor,22,2001,23.2,9,57,18,31.6,2.46,0.78,0.16,0.50,,0,0,Matches
+625,Valmir Veliu,xk KVX,FW,Gaziantep FK,23,2000,0.3,0,0,0,,0.00,0.00,,,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+626,Freddie Veseli,al ALB,DF,Fatih Karagümrük,30,1992,17.8,0,4,0,0.0,0.22,0.00,0.00,,,0,0,Matches
+627,Carlos Vinícius,br BRA,FW,Galatasaray,28,1995,1.5,1,8,3,37.5,5.29,1.99,0.13,0.33,,0,0,Matches
+628,Edin Višća,ba BIH,MF,Trabzonspor,33,1990,31.5,5,65,16,24.6,2.06,0.51,0.06,0.25,,1,1,Matches
+629,Modestas Vorobjovas,lt LTU,MF,İstanbulspor,27,1995,23.6,1,6,3,50.0,0.25,0.13,0.17,0.33,,0,0,Matches
+630,Josip Vuković,hr CRO,MF,Pendikspor,31,1992,12.0,0,6,2,33.3,0.50,0.17,0.00,0.00,,0,0,Matches
+631,Güray Vural,tr TUR,DF,Antalyaspor,35,1988,28.5,1,25,4,16.0,0.88,0.14,0.04,0.25,,0,0,Matches
+632,Emir Vurusaner,,DF,İstanbulspor,18,2005,0.1,0,0,0,,0.00,0.00,,,,0,0,Matches
+633,Welinton,br BRA,DF,Pendikspor,34,1989,22.4,2,21,6,28.6,0.94,0.27,0.10,0.33,,0,0,Matches
+634,Cláudio Winck,br BRA,DF,Kasımpaşa,29,1994,31.8,3,31,8,25.8,0.98,0.25,0.10,0.38,,0,0,Matches
+635,Joe Worrall,eng ENG,DF,Beşiktaş,26,1997,5.5,1,3,1,33.3,0.55,0.18,0.33,1.00,,0,0,Matches
+636,Güven Yalçın,tr TUR,"FW,MF",Fatih Karagümrük,24,1999,23.7,9,57,21,36.8,2.41,0.89,0.16,0.43,,0,0,Matches
+637,Mert Yandaş,tr TUR,MF,Fenerbahçe,28,1994,6.6,2,15,6,40.0,2.27,0.91,0.13,0.33,,0,0,Matches
+638,Erencan Yardimci,tr TUR,"FW,MF",Pendikspor,21,2002,15.6,6,36,17,47.2,2.31,1.09,0.17,0.35,,0,0,Matches
+639,Ali Yasar,be BEL,"DF,MF",İstanbulspor,28,1995,28.1,1,24,8,33.3,0.85,0.28,0.04,0.13,,0,0,Matches
+640,Karahan Yasir Subaşı,tr TUR,DF,Konyaspor,27,1996,2.2,0,1,0,0.0,0.45,0.00,0.00,,,0,0,Matches
+641,Zeki Yavru,tr TUR,DF,Samsunspor,31,1991,22.4,1,12,4,33.3,0.54,0.18,0.08,0.25,,0,0,Matches
+642,Sarp Yavrucu,,FW,Kasımpaşa,18,2005,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+643,Uğurcan Yazgılı,tr TUR,"DF,MF",Konyaspor,24,1999,29.9,2,13,2,15.4,0.44,0.07,0.15,1.00,,0,0,Matches
+644,Sagiv Yehezkel,il ISR,"MF,FW",Antalyaspor,28,1995,10.1,6,22,11,50.0,2.17,1.09,0.27,0.55,,0,0,Matches
+645,Mehmet Yeşil,tr TUR,DF,İstanbulspor,25,1998,32.2,0,12,3,25.0,0.37,0.09,0.00,0.00,,0,0,Matches
+646,Erdoğan Yeşilyurt,,"DF,MF",Antalyaspor,29,1993,27.6,3,31,7,22.6,1.12,0.25,0.10,0.43,,0,0,Matches
+647,Emirhan Yigit,,MF,Kasımpaşa,17,2006,0.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+648,Bertuğ Yıldırım,tr TUR,FW,Hatayspor,21,2002,2.9,1,8,4,50.0,2.79,1.40,0.13,0.25,,0,0,Matches
+649,Engin Yıldırım,tr TUR,FW,Trabzonspor,18,2005,0.1,1,1,1,100.0,9.00,9.00,1.00,1.00,,0,0,Matches
+650,İbrahim Yılmaz,tr TUR,FW,İstanbulspor,29,1994,5.1,2,3,3,100.0,0.59,0.59,0.67,0.67,,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Gls,Sh,SoT,SoT%,Sh/90,SoT/90,G/Sh,G/SoT,Dist,PK,PKatt,Matches
+651,Kartal Yılmaz,tr TUR,MF,Kayserispor,22,2000,26.7,0,19,1,5.3,0.71,0.04,0.00,0.00,,0,0,Matches
+652,Mert Yilmaz,tr TUR,DF,Antalyaspor,24,1999,2.3,1,1,1,100.0,0.44,0.44,1.00,1.00,,0,0,Matches
+653,Recep Yılmaz,tr TUR,DF,Hatayspor,27,1995,10.0,0,0,0,,0.00,0.00,,,,0,0,Matches
+654,İsmail Yüksek,tr TUR,MF,Fenerbahçe,24,1999,25.6,0,26,3,11.5,1.02,0.12,0.00,0.00,,0,0,Matches
+655,Wilfried Zaha,ci CIV,"MF,FW",Galatasaray,30,1992,16.0,9,49,19,38.8,3.07,1.19,0.18,0.47,,0,0,Matches
+656,Baktiyor Zainutdinov,kz KAZ,"DF,MF",Beşiktaş,25,1998,18.1,0,21,8,38.1,1.16,0.44,0.00,0.00,,0,0,Matches
+657,Miha Zajc,si SVN,MF,Fenerbahçe,29,1994,5.7,0,11,2,18.2,1.93,0.35,0.00,0.00,,0,0,Matches
+658,Arber Zeneli,xk KVX,MF,Adana Demirspor,28,1995,4.0,0,5,1,20.0,1.25,0.25,0.00,0.00,,0,0,Matches
+659,Altin Zeqiri,xk KVX,MF,Rizespor,23,2000,25.3,5,45,19,42.2,1.78,0.75,0.11,0.26,,0,0,Matches
+660,Hakim Ziyech,ma MAR,MF,Galatasaray,30,1993,11.9,6,44,15,34.1,3.70,1.26,0.14,0.40,,0,0,Matches
+661,Andrej Đokanović,ba BIH,MF,Ankaragücü,22,2001,6.8,0,6,0,0.0,0.88,0.00,0.00,,,0,0,Matches

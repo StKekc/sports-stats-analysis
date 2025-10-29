@@ -1,0 +1,890 @@
+rk,player,nation,pos,squad,age,born,90s,cmp,att,cmp_total,totdist,prgdist,cmp_short,att_short,cmp_medium,att_medium,cmp_long,att_long,ast,xag,xa,a_xag,kp,1_3,ppa,crspa,prgp,matches
+1,Luis Abram,pe PER,DF,Atlanta Utd,26,1996,16.2,796,907,87.8,15646,5884,250,271,459,491,82,133,0,0.0,0.1,0.0,1,20,1,0,29,Matches
+2,Lalas Abubakar,gh GHA,DF,Colorado Rapids,28,1994,21.3,952,1109,85.8,16684,5691,395,432,481,526,64,122,0,0.2,0.7,-0.2,3,48,1,1,50,Matches
+3,Alonso Aceves,mx MEX,DF,Chicago Fire,21,2001,9.5,321,436,73.6,5241,1827,164,186,136,177,19,49,0,0.4,0.4,-0.4,7,25,7,4,24,Matches
+4,Bryan Acosta,hn HON,MF,Colorado Rapids,29,1993,12.4,417,533,78.2,9475,2756,127,144,189,213,96,156,0,2.7,1.7,-2.7,25,57,7,1,53,Matches
+5,Bryan Acosta,hn HON,MF,Portland Timbers,29,1993,5.1,192,222,86.5,3719,929,67,73,93,103,29,37,1,0.9,0.7,+0.1,3,27,2,0,19,Matches
+6,Kellyn Acosta,us USA,MF,LAFC,27,1995,16.6,584,719,81.2,9606,3093,305,335,203,244,58,111,0,1.1,1.5,-1.1,17,69,2,0,58,Matches
+7,Luciano Acosta,ar ARG,MF,FC Cincinnati,28,1994,28.9,1043,1474,70.8,17295,6558,556,660,324,455,117,239,10,10.2,10.2,-0.2,97,135,84,6,218,Matches
+8,Sam Adekugbe,ca CAN,"FW,DF",Vancouver W'caps,28,1995,4.5,205,248,82.7,2953,824,130,140,63,77,11,22,1,0.8,0.8,+0.2,6,18,11,5,17,Matches
+9,Samuel Adeniran,us USA,FW,St. Louis,24,1998,10.5,91,163,55.8,1426,270,45,80,25,41,11,16,1,1.3,0.6,-0.3,5,6,6,2,12,Matches
+10,Harrison Afful,gh GHA,DF,Charlotte,36,1986,10.6,574,678,84.7,9918,3103,265,282,255,286,46,87,1,0.7,0.4,+0.3,6,39,7,2,50,Matches
+11,Stephen Afrifa,ca CAN,FW,Sporting KC,21,2001,0.6,5,5,100.0,56,0,4,4,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+12,William Agada,ng NGA,FW,Sporting KC,23,1999,7.6,129,162,79.6,1756,219,86,94,34,48,4,6,0,0.6,0.3,-0.6,9,7,3,0,11,Matches
+13,Giovanni Aguilar,us USA,MF,Vancouver W'caps,24,1998,0.1,3,5,60.0,54,22,1,1,2,3,0,1,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+14,Daniel Aguirre,us USA,"MF,FW",LA Galaxy,23,1999,6.4,277,329,84.2,3774,1151,166,176,85,103,9,19,1,0.5,0.7,+0.5,10,22,3,1,32,Matches
+15,Patrick Agyemang,us USA,FW,Charlotte,22,2000,2.1,25,36,69.4,276,17,18,21,5,6,0,1,0,0.1,0.0,-0.1,1,0,1,0,2,Matches
+16,Ali Ahmed,ca CAN,"MF,DF",Vancouver W'caps,22,2000,12.5,465,539,86.3,7345,1834,242,262,178,197,34,48,1,1.2,1.8,-0.2,13,39,26,7,71,Matches
+17,Carlos Akapo,gq EQG,DF,SJ Earthquakes,29,1993,23.8,991,1299,76.3,15713,6281,528,596,373,484,66,115,3,1.7,1.8,+1.3,12,62,18,6,99,Matches
+18,Matai Akinmboni,us USA,DF,D.C. United,16,2006,2.0,90,107,84.1,1788,668,27,28,53,59,10,15,0,0.0,0.0,0.0,0,3,0,0,4,Matches
+19,Ayo Akinola,ca CAN,FW,Toronto FC,23,2000,6.2,125,150,83.3,1623,222,76,87,33,37,4,5,0,0.3,0.4,-0.3,4,1,4,2,8,Matches
+20,Ayo Akinola,ca CAN,"FW,MF",SJ Earthquakes,23,2000,0.6,12,14,85.7,154,9,8,9,4,4,0,0,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+21,Joey Akpunonu,us USA,DF,FC Cincinnati,21,2001,0.1,3,3,100.0,45,24,2,2,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+22,Jordi Alba,es ESP,DF,Inter Miami,33,1989,4.9,272,342,79.5,4493,1382,134,146,115,143,19,33,0,1.0,0.8,-1.0,5,24,8,1,32,Matches
+23,Tony Alfaro,us USA,DF,NYCFC,29,1993,4.2,179,220,81.4,2843,1124,89,101,79,94,7,17,0,0.0,0.1,0.0,1,18,1,1,23,Matches
+24,Tony Alfaro,us USA,DF,LA Galaxy,29,1993,4.2,201,233,86.3,3361,1363,88,97,98,107,11,23,0,0.0,0.0,0.0,0,9,0,0,7,Matches
+25,Noah Allen,gr GRE,DF,Inter Miami,18,2004,13.9,700,831,84.2,11561,3015,342,366,312,361,38,69,2,0.6,1.0,+1.4,7,32,9,2,47,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+26,Rasmus Alm,se SWE,"MF,FW",St. Louis,27,1995,12.2,179,304,58.9,2777,927,98,131,54,98,18,41,2,3.2,1.9,-1.2,18,13,12,6,25,Matches
+27,Thiago Almada,ar ARG,MF,Atlanta Utd,21,2001,30.3,1559,1950,79.9,28751,7997,741,820,509,627,248,373,16,13.2,10.9,+2.8,93,201,91,7,291,Matches
+28,Osvaldo Alonso,cu CUB,MF,Atlanta Utd,37,1985,1.1,72,81,88.9,1110,332,34,38,33,36,2,2,0,0.0,0.1,0.0,0,11,0,0,9,Matches
+29,Jozy Altidore,us USA,FW,NE Revolution,33,1989,2.3,40,52,76.9,567,122,27,33,11,16,2,2,0,0.0,0.1,0.0,0,3,0,0,2,Matches
+30,Efrain Alvarez,mx MEX,"MF,FW",LA Galaxy,20,2002,4.2,157,203,77.3,2385,738,101,109,36,47,14,34,0,0.6,0.6,-0.6,8,17,6,1,20,Matches
+31,Fernando Álvarez,co COL,DF,CF Montréal,19,2003,2.8,124,142,87.3,2161,845,50,59,68,74,6,8,0,0.0,0.0,0.0,0,9,0,0,16,Matches
+32,Luis Amarilla,py PAR,FW,Minnesota Utd,27,1995,8.2,185,254,72.8,2456,523,119,146,50,69,4,10,0,1.0,1.0,-1.0,9,16,5,0,24,Matches
+33,Frankie Amaya,us USA,MF,NY Red Bulls,22,2000,21.3,680,884,76.9,12352,4475,291,328,297,361,73,151,0,1.7,2.6,-1.7,30,114,18,0,125,Matches
+34,Malte Amundsen,dk DEN,DF,Columbus Crew,24,1998,21.0,1120,1287,87.0,19935,7578,477,514,544,598,90,137,1,1.4,0.9,-0.4,11,114,6,4,97,Matches
+35,Sebastian Anderson,us USA,DF,Colorado Rapids,20,2002,3.0,64,90,71.1,872,281,37,40,16,26,5,13,0,0.0,0.0,0.0,0,4,0,0,4,Matches
+36,José Andrés Martínez,ve VEN,MF,Philadelphia Union,28,1994,20.3,713,932,76.5,13783,4954,287,343,317,378,99,168,1,0.7,1.3,+0.3,10,116,6,2,111,Matches
+37,Iván Angulo,co COL,"FW,DF",Orlando City,23,1999,27.6,681,853,79.8,10007,2785,392,453,245,306,26,43,6,3.2,3.5,+2.8,25,41,41,9,98,Matches
+38,Marco Angulo,ec ECU,MF,FC Cincinnati,20,2002,8.7,309,366,84.4,4699,1189,163,191,112,126,18,25,1,0.4,0.4,+0.6,5,25,3,0,23,Matches
+39,Eugene Ansah,gh GHA,FW,FC Dallas,28,1994,2.0,27,40,67.5,317,17,18,22,8,9,0,3,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+40,Themi Antonoglou,ca CAN,"DF,MF",Toronto FC,21,2001,5.3,192,233,82.4,3456,898,88,98,83,96,19,34,0,0.1,0.2,-0.1,1,8,5,2,12,Matches
+41,Antony,br BRA,"FW,MF",Portland Timbers,21,2001,2.8,67,90,74.4,862,221,45,52,19,27,1,2,0,0.9,0.6,-0.9,6,2,7,1,7,Matches
+42,Brian Anunga,cm CMR,MF,Nashville SC,26,1996,6.3,235,267,88.0,3417,831,134,142,81,92,9,16,0,0.1,0.1,-0.1,2,16,4,0,20,Matches
+43,Cristian Arango,co COL,FW,Real Salt Lake,27,1995,8.4,119,158,75.3,1727,407,67,83,37,50,6,9,1,1.9,1.2,-0.9,12,11,11,3,23,Matches
+44,César Araujo,uy URU,MF,Orlando City,21,2001,30.3,1404,1686,83.3,24923,9049,658,709,571,671,148,239,3,1.9,2.3,+1.1,22,173,11,0,155,Matches
+45,Luiz Araújo,br BRA,FW,Atlanta Utd,26,1996,14.1,417,536,77.8,7607,1562,178,200,171,212,51,76,1,1.4,2.3,-0.4,19,23,25,3,68,Matches
+46,Miguel Araujo,pe PER,DF,Portland Timbers,28,1994,1.9,90,101,89.1,2087,474,13,14,62,64,15,23,0,0.0,0.0,0.0,0,5,0,0,4,Matches
+47,Scott Arfield,ca CAN,"MF,FW",Charlotte,34,1988,4.6,156,196,79.6,2205,527,90,103,49,59,9,17,0,0.2,0.4,-0.2,3,12,5,1,22,Matches
+48,Max Arfsten,us USA,"DF,MF",Columbus Crew,21,2001,3.1,95,125,76.0,1532,370,54,62,35,41,5,12,2,1.3,0.1,+0.7,5,7,1,0,9,Matches
+49,Santiago Arias,co COL,DF,FC Cincinnati,31,1992,18.4,649,888,73.1,11147,4503,284,352,298,381,52,94,1,1.7,2.7,-0.7,21,52,18,3,70,Matches
+50,Xavier Arreaga,ec ECU,"DF,MF",Seattle Sounders,28,1994,3.9,173,207,83.6,3609,1690,62,65,86,96,25,42,0,0.0,0.0,0.0,0,12,0,0,8,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+51,Kervin Arriaga,hn HON,MF,Minnesota Utd,25,1998,13.0,517,650,79.5,9238,3093,241,287,224,264,46,80,2,1.3,1.4,+0.7,11,67,5,1,65,Matches
+52,Paul Arriola,us USA,"FW,MF",FC Dallas,27,1995,18.4,404,589,68.6,5795,1663,245,299,123,177,21,45,4,4.3,3.9,-0.3,29,41,24,4,54,Matches
+53,Dixon Arroyo,ec ECU,MF,Inter Miami,30,1992,19.9,1037,1182,87.7,20582,4824,389,427,469,500,159,198,0,0.3,0.8,-0.3,6,107,5,0,87,Matches
+54,Artur,br BRA,MF,Houston Dynamo,26,1996,30.3,1491,1664,89.6,25781,7731,706,761,596,648,150,187,0,1.0,1.5,-1.0,8,138,19,2,124,Matches
+55,Yamil Asad,ar ARG,"MF,FW",D.C. United,28,1994,5.8,197,264,74.6,3008,774,105,126,72,97,11,20,0,0.4,0.8,-0.4,8,17,9,1,29,Matches
+56,Dairon Asprilla,co COL,"FW,MF",Portland Timbers,30,1992,16.1,329,490,67.1,5053,1343,200,258,92,147,25,39,5,3.2,2.2,+1.8,19,30,15,2,45,Matches
+57,Joshua Atencio,us USA,MF,Seattle Sounders,21,2002,10.9,474,597,79.4,7704,1876,239,274,179,221,34,55,1,0.6,0.5,+0.4,5,48,6,0,58,Matches
+58,Julián Aude,ar ARG,DF,LA Galaxy,19,2003,13.3,611,741,82.5,9594,3335,331,362,241,280,26,63,1,0.9,0.7,+0.1,6,36,5,5,38,Matches
+59,Tomás Avilés,ar ARG,DF,Inter Miami,18,2004,9.7,498,592,84.1,9488,3490,167,181,281,311,43,74,1,0.2,0.3,+0.8,3,34,1,0,20,Matches
+60,David Ayala,ar ARG,MF,Portland Timbers,20,2002,1.8,59,80,73.8,1213,265,24,28,20,23,12,21,0,0.0,0.1,0.0,0,11,1,0,8,Matches
+61,Edison Azcona,do DOM,"MF,DF",Inter Miami,19,2003,0.6,26,37,70.3,401,37,15,16,9,12,1,4,0,0.0,0.0,0.0,1,0,0,0,0,Matches
+62,Dominique Badji,sn SEN,FW,FC Cincinnati,30,1992,10.2,148,196,75.5,2228,409,80,98,56,72,8,10,3,2.8,2.1,+0.2,14,8,3,0,13,Matches
+63,Corey Baird,us USA,FW,Houston Dynamo,27,1996,25.9,509,662,76.9,6650,1311,330,380,129,173,19,40,5,3.1,3.3,+1.9,18,22,20,2,50,Matches
+64,Esmir Bajraktarevic,ba BIH,"FW,MF",NE Revolution,17,2005,5.5,127,168,75.6,1906,307,75,87,44,53,6,14,0,0.2,0.3,-0.2,3,7,1,1,11,Matches
+65,Cody Baker,us USA,DF,Seattle Sounders,19,2004,7.6,366,467,78.4,6112,2213,173,200,155,190,33,54,0,0.4,1.3,-0.4,5,36,11,3,41,Matches
+66,Reed Baker-Whiting,us USA,"DF,FW",Seattle Sounders,17,2005,7.1,319,412,77.4,5011,1767,166,180,127,165,18,49,1,0.7,0.9,+0.3,5,29,8,5,29,Matches
+67,Monsef Bakrar,dz ALG,FW,NYCFC,22,2001,8.4,66,111,59.5,829,168,41,57,18,30,2,8,0,0.3,0.4,-0.3,2,5,2,1,11,Matches
+68,Michael Baldisimo,ph PHI,MF,SJ Earthquakes,22,2000,3.3,128,147,87.1,2054,692,73,81,46,49,7,11,0,0.0,0.1,0.0,0,14,0,0,11,Matches
+69,Tai Baribo,il ISR,"FW,MF",Philadelphia Union,25,1998,1.7,26,35,74.3,283,32,17,19,3,7,2,3,0,0.0,0.0,0.0,0,1,0,0,1,Matches
+70,Tom Barlow,us USA,FW,NY Red Bulls,27,1995,20.5,256,403,63.5,3178,697,169,239,63,100,7,15,2,1.8,1.0,+0.2,16,18,10,0,36,Matches
+71,Luis Barraza,us USA,GK,NYCFC,26,1996,24.0,886,1098,80.7,20661,10893,169,169,561,572,154,349,0,0.0,0.0,0.0,1,13,1,0,0,Matches
+72,Álvaro Barreal,ar ARG,DF,FC Cincinnati,22,2000,31.3,1330,1837,72.4,23835,9260,660,749,484,629,167,379,6,9.3,9.2,-3.3,73,104,49,29,127,Matches
+73,Michael Barrios,co COL,"FW,MF",Colorado Rapids,31,1991,9.3,125,198,63.1,1900,436,65,90,45,69,7,17,2,1.3,1.1,+0.7,11,8,10,5,19,Matches
+74,Michael Barrios,co COL,"FW,MF",LA Galaxy,31,1991,1.3,31,40,77.5,509,129,17,22,12,13,2,3,0,0.3,0.3,-0.3,3,3,3,1,4,Matches
+75,Lucas Bartlett,us USA,DF,St. Louis,25,1997,11.9,372,477,78.0,7293,2979,120,145,213,238,36,77,1,0.5,0.5,+0.5,5,30,4,1,36,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+76,Ethan Bartlow,us USA,DF,Houston Dynamo,22,2000,22.1,929,1139,81.6,19985,6067,229,264,555,606,138,239,1,1.4,1.2,-0.4,9,49,5,3,39,Matches
+77,Cole Bassett,us USA,"MF,FW",Colorado Rapids,21,2001,21.1,654,812,80.5,11548,2868,301,342,252,295,76,120,1,2.3,2.0,-1.3,25,65,20,1,94,Matches
+78,Amine Bassi,fr FRA,"MF,FW",Houston Dynamo,25,1997,22.2,1031,1194,86.3,16356,4037,585,629,324,376,92,134,1,4.8,6.6,-3.8,49,99,49,5,150,Matches
+79,Jesús Batiz,hn HON,"MF,FW",Toronto FC,23,1999,0.7,16,19,84.2,239,39,7,9,7,7,0,0,0,0.0,0.0,0.0,0,1,1,0,2,Matches
+80,Josh Bauer,us USA,DF,Nashville SC,24,1998,5.8,245,284,86.3,4740,1398,86,92,133,150,24,38,0,0.0,0.6,0.0,0,15,0,0,11,Matches
+81,Tanner Beason,us USA,DF,SJ Earthquakes,25,1997,15.6,548,665,82.4,10882,4085,160,183,322,356,58,106,1,0.1,0.0,+0.9,1,6,0,0,19,Matches
+82,Gavin Beavers,us USA,GK,Real Salt Lake,17,2005,6.5,131,183,71.6,3910,2873,26,26,54,54,51,102,0,0.0,0.0,0.0,0,3,0,0,0,Matches
+83,Simon Becher,us USA,"FW,MF",Vancouver W'caps,23,1999,6.8,73,108,67.6,942,224,46,67,21,29,1,2,1,1.2,0.7,-0.2,12,6,3,0,12,Matches
+84,Alejandro Bedoya,us USA,MF,Philadelphia Union,35,1987,22.3,644,912,70.6,10267,3922,330,422,250,328,47,81,4,3.2,2.5,+0.8,33,62,25,5,112,Matches
+85,Steven Beitashour,ir IRN,DF,Colorado Rapids,35,1987,6.7,252,308,81.8,4192,1524,111,115,124,155,13,26,0,0.1,0.1,-0.1,1,26,3,1,21,Matches
+86,Jon Bell,jm JAM,DF,St. Louis,25,1997,1.6,50,65,76.9,1067,449,9,11,33,37,8,15,0,0.0,0.0,0.0,0,3,0,0,1,Matches
+87,Zaydan Bello,au AUS,MF,Minnesota Utd,20,2002,0.2,3,6,50.0,35,7,2,3,1,2,0,0,0,0.1,0.0,-0.1,1,0,0,0,1,Matches
+88,Nico Benalcázar,us USA,MF,NYCFC,21,2001,0.1,3,3,100.0,25,8,2,2,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+89,Ben Bender,us USA,"MF,FW",Charlotte,21,2001,10.1,271,361,75.1,4262,1289,153,172,89,120,21,41,2,1.3,2.0,+0.7,18,27,21,8,49,Matches
+90,Joe Bendik,us USA,GK,Philadelphia Union,33,1989,7.6,106,166,63.9,3523,2794,15,16,34,35,57,115,0,0.0,0.0,0.0,0,3,0,0,1,Matches
+91,Christian Benteke,be BEL,FW,D.C. United,32,1990,31.0,490,769,63.7,7549,1606,262,386,161,241,40,54,3,4.3,3.9,-1.3,41,57,23,1,75,Matches
+92,Sebastian Berhalter,us USA,MF,Vancouver W'caps,21,2001,14.4,597,742,80.5,12094,3650,207,235,285,318,96,160,2,1.9,2.9,+0.1,17,63,16,5,80,Matches
+93,Federico Bernardeschi,it ITA,"FW,MF",Toronto FC,28,1994,28.9,791,1073,73.7,13231,3710,402,466,274,363,84,159,2,5.6,5.5,-3.6,55,66,52,13,113,Matches
+94,Miguel Berry,es ESP,FW,Atlanta Utd,25,1997,11.5,115,145,79.3,1733,295,54,64,42,47,9,12,0,0.6,0.5,-0.6,10,5,3,0,14,Matches
+95,Aaron Bibout,cm CMR,FW,LA Galaxy,18,2004,0.3,8,10,80.0,101,19,7,8,1,2,0,0,0,0.1,0.0,-0.1,1,0,0,0,0,Matches
+96,David Bingham,us USA,GK,Portland Timbers,33,1989,19.0,435,652,66.7,13850,9977,55,56,208,212,171,379,0,0.1,0.0,-0.1,2,24,0,0,0,Matches
+97,Steve Birnbaum,us USA,DF,D.C. United,32,1991,17.9,637,763,83.5,11607,4548,233,266,355,399,45,80,0,0.8,1.1,-0.8,7,27,0,0,34,Matches
+98,Stipe Biuk,hr CRO,FW,LAFC,20,2002,14.9,323,438,73.7,4166,885,207,254,93,124,8,17,1,2.5,2.7,-1.5,19,7,16,1,34,Matches
+99,Tristan Blackmon,us USA,DF,Vancouver W'caps,26,1996,28.0,1401,1616,86.7,29484,10607,339,387,870,938,185,263,0,0.2,0.5,-0.2,5,93,1,0,95,Matches
+100,Andre Blake,jm JAM,GK,Philadelphia Union,32,1990,26.4,442,616,71.8,12618,9498,83,83,197,200,160,331,0,0.0,0.0,0.0,0,6,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+101,Sebastián Blanco,ar ARG,"FW,MF",Portland Timbers,34,1988,4.9,137,209,65.6,2265,684,59,71,63,93,9,30,1,1.3,0.6,-0.3,8,10,7,3,20,Matches
+102,Latif Blessing,gh GHA,"FW,MF",Toronto FC,26,1996,1.7,50,59,84.7,780,226,27,30,17,20,4,5,0,0.1,0.1,-0.1,2,1,0,0,6,Matches
+103,Latif Blessing,gh GHA,MF,NE Revolution,26,1996,11.5,404,467,86.5,6402,1758,198,223,166,180,22,32,1,0.6,0.7,+0.4,10,41,3,0,39,Matches
+104,Njabulo Blom,za RSA,MF,St. Louis,23,1999,21.3,600,726,82.6,9969,3766,306,350,230,268,49,78,0,0.3,0.4,-0.3,12,90,1,0,81,Matches
+105,Emmanuel Boateng,gh GHA,"FW,MF",NE Revolution,29,1994,16.0,429,563,76.2,6781,1729,221,247,170,222,25,54,2,3.0,2.7,-1.0,22,29,22,14,43,Matches
+106,Israel Boatwright,do DOM,"MF,DF",Inter Miami,17,2005,0.8,30,40,75.0,447,65,16,21,13,16,0,2,0,0.0,0.0,0.0,0,1,0,0,1,Matches
+107,Mateusz Bogusz,pl POL,"MF,FW",LAFC,21,2001,19.3,632,798,79.2,9955,2693,329,382,230,270,46,93,3,4.3,4.2,-1.3,29,53,30,6,110,Matches
+108,Franck Boli,ci CIV,FW,Portland Timbers,29,1993,16.2,173,249,69.5,2577,639,98,118,54,72,11,22,1,1.1,1.5,-0.1,10,16,10,0,29,Matches
+109,Joshua Bolma,gh GHA,MF,NE Revolution,20,2002,0.3,22,23,95.7,362,44,11,11,9,9,2,3,0,0.0,0.0,0.0,1,0,0,0,2,Matches
+110,Moïse Bombito,ca CAN,DF,Colorado Rapids,22,2000,8.3,313,362,86.5,5880,2238,120,131,160,175,29,47,0,0.5,0.5,-0.5,5,24,3,1,32,Matches
+111,Jonathan Bond,eng ENG,GK,LA Galaxy,29,1993,22.8,646,778,83.0,14620,9659,189,191,311,317,143,265,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+112,Pablo Bonilla,ve VEN,DF,Portland Timbers,23,1999,0.8,16,27,59.3,264,192,8,8,6,10,2,6,0,0.1,0.0,-0.1,1,2,1,1,2,Matches
+113,Alex Bono,us USA,GK,D.C. United,28,1994,9.5,297,418,71.1,8451,6981,81,82,114,115,99,216,0,0.0,0.0,0.0,1,14,0,0,0,Matches
+114,Shanyder Borgelin,ht HAI,FW,Inter Miami,21,2001,1.6,10,22,45.5,147,53,6,7,2,8,1,3,0,0.2,0.1,-0.2,2,2,1,0,2,Matches
+115,Dylan Borrero,co COL,"FW,MF",NE Revolution,21,2002,5.7,152,213,71.4,2448,715,77,92,55,77,14,24,0,0.6,1.1,-0.6,7,18,10,5,22,Matches
+116,Gustavo Bou,ar ARG,"FW,MF",NE Revolution,32,1990,14.0,305,441,69.2,5285,1229,142,178,113,165,35,58,4,2.2,1.6,+1.8,27,20,19,10,39,Matches
+117,Denis Bouanga,ga GAB,FW,LAFC,28,1994,28.1,517,788,65.6,7541,2013,304,385,150,238,35,90,6,8.2,6.0,-2.2,44,43,33,2,81,Matches
+118,Ousseni Bouda,bf BFA,"FW,MF",SJ Earthquakes,22,2000,1.7,41,56,73.2,643,78,24,28,12,18,4,4,0,0.1,0.1,-0.1,1,1,1,1,2,Matches
+119,Aaron Boupendza,ga GAB,FW,FC Cincinnati,26,1996,6.7,116,156,74.4,1991,515,61,79,39,49,13,17,0,0.7,0.8,-0.7,12,11,8,0,22,Matches
+120,Michael Boxall,nz NZL,DF,Minnesota Utd,34,1988,31.7,1255,1430,87.8,23812,9622,485,520,615,662,149,220,0,0.4,0.7,-0.4,7,89,1,0,78,Matches
+121,Tyler Boyd,us USA,"FW,MF",LA Galaxy,28,1994,25.8,605,814,74.3,10019,2815,318,363,200,264,65,118,4,7.2,5.7,-3.2,49,53,40,24,84,Matches
+122,Michael Bradley,us USA,"MF,DF",Toronto FC,35,1987,16.0,775,868,89.3,13253,5241,371,395,319,347,69,95,1,0.4,0.6,+0.6,5,31,1,0,45,Matches
+123,Chris Brady,us USA,GK,Chicago Fire,18,2004,29.3,521,784,66.5,14584,10516,98,98,248,255,175,430,0,0.0,0.0,0.0,0,6,0,0,0,Matches
+124,Zachary Brault-Guillard,ca CAN,"DF,MF",CF Montréal,24,1998,14.5,456,630,72.4,7571,2451,244,284,166,213,38,82,1,3.1,3.2,-2.1,26,30,22,14,49,Matches
+125,Claudio Bravo,ar ARG,DF,Portland Timbers,25,1997,25.9,987,1383,71.4,18348,8514,406,473,442,591,117,236,1,0.9,1.8,+0.1,16,135,23,7,151,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+126,Luke Brennan,us USA,MF,Atlanta Utd,17,2005,0.0,1,1,100.0,11,0,1,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+127,Brenner,br BRA,FW,FC Cincinnati,23,2000,5.9,191,226,84.5,3062,818,101,121,60,64,18,21,0,0.8,0.5,-0.8,6,18,5,1,25,Matches
+128,Ethan Bristow,kn SKN,DF,Minnesota Utd,21,2001,6.0,190,252,75.4,2922,1144,109,118,63,87,11,30,0,0.1,0.2,-0.1,3,11,5,1,15,Matches
+129,Andrew Brody,us USA,DF,Real Salt Lake,27,1995,25.2,1076,1349,79.8,18297,6631,497,555,490,596,77,141,2,2.1,2.6,-0.1,22,96,31,10,134,Matches
+130,Brandt Bronico,us USA,MF,Charlotte,27,1995,28.8,909,1140,79.7,15603,4387,436,501,366,431,86,136,1,1.8,1.7,-0.8,20,94,23,6,126,Matches
+131,Javain Brown,jm JAM,DF,Vancouver W'caps,23,1999,19.6,843,1100,76.6,16021,5175,302,338,455,565,80,165,1,1.0,0.9,0.0,11,59,13,7,56,Matches
+132,Gastón Brugman,uy URU,MF,LA Galaxy,30,1992,21.1,1392,1584,87.9,24267,9297,621,684,579,627,150,199,1,2.1,2.9,-1.1,22,176,21,0,192,Matches
+133,Will Bruin,us USA,FW,Austin,33,1989,3.9,51,62,82.3,642,105,36,40,13,14,1,1,1,0.3,0.1,+0.7,4,5,0,0,4,Matches
+134,Noel Buck,eng ENG,"MF,FW",NE Revolution,17,2005,19.5,651,788,82.6,10590,2750,312,351,265,307,46,72,1,1.1,1.0,-0.1,16,76,12,3,76,Matches
+135,Teal Bunbury,us USA,FW,Nashville SC,32,1990,18.3,246,389,63.2,3216,443,164,224,61,101,7,13,1,1.2,0.6,-0.2,11,13,4,1,20,Matches
+136,Cory Burke,jm JAM,FW,NY Red Bulls,31,1991,10.8,91,194,46.9,1405,485,49,94,25,50,9,20,0,0.9,0.9,-0.9,11,13,7,2,17,Matches
+137,Roman Bürki,ch SUI,GK,St. Louis,32,1990,33.0,721,1164,61.9,22577,18179,107,109,311,314,300,729,0,0.2,0.1,-0.2,3,32,2,0,1,Matches
+138,Kendall Burks,us USA,"DF,MF",Chicago Fire,23,1999,5.7,169,206,82.0,3103,1249,72,83,78,91,17,28,0,0.0,0.0,0.0,0,12,0,0,7,Matches
+139,Sergio Busquets,es ESP,MF,Inter Miami,34,1988,10.3,646,724,89.2,10438,3614,305,326,282,305,40,55,1,0.9,0.8,+0.1,11,79,5,0,71,Matches
+140,Brandon Bye,us USA,DF,NE Revolution,27,1995,18.5,706,984,71.7,12083,4543,324,392,318,401,54,120,1,2.4,2.4,-1.4,19,60,21,10,70,Matches
+141,Nathan Byrne,eng ENG,DF,Charlotte,30,1992,28.9,1357,1672,81.2,23663,8738,638,693,587,700,115,228,1,0.5,1.5,+0.5,9,140,18,7,146,Matches
+142,Jorge Cabezas,co COL,"FW,MF",NY Red Bulls,19,2003,1.3,18,25,72.0,259,48,11,14,4,4,2,3,0,0.0,0.0,0.0,0,1,1,0,2,Matches
+143,Kevin Cabral,fr FRA,"FW,MF",Colorado Rapids,23,1999,13.1,183,246,74.4,2700,401,100,118,55,65,14,29,0,0.8,1.3,-0.8,6,8,3,2,15,Matches
+144,Rémi Cabral,fr FRA,DF,Colorado Rapids,23,1999,0.1,5,5,100.0,70,8,3,3,2,2,0,0,0,0.0,0.0,0.0,0,2,0,0,2,Matches
+145,Martín Cáceres,uy URU,DF,LA Galaxy,35,1987,14.5,771,855,90.2,13722,4524,304,313,386,415,63,98,0,0.0,0.1,0.0,1,41,1,0,40,Matches
+146,Deiber Caicedo,co COL,"MF,FW",Vancouver W'caps,22,2000,2.2,69,95,72.6,1043,155,43,47,23,33,3,5,0,0.2,0.3,-0.2,2,2,5,2,9,Matches
+147,Luís Caicedo,co COL,MF,Houston Dynamo,26,1996,13.5,518,599,86.5,8917,2466,232,254,235,266,42,60,0,0.0,0.3,0.0,2,50,3,0,48,Matches
+148,Scott Caldwell,us USA,MF,Real Salt Lake,31,1991,1.9,55,68,80.9,984,230,25,33,22,26,8,8,0,0.0,0.0,0.0,0,2,0,0,5,Matches
+149,Lucas Calegari,br BRA,DF,LA Galaxy,20,2002,21.5,1093,1270,86.1,17415,5532,563,606,454,515,58,99,1,2.2,1.9,-1.2,21,70,22,9,95,Matches
+150,Noel Caliskan,de GER,MF,Portland Timbers,22,2000,2.9,92,106,86.8,1485,239,39,44,41,46,6,7,1,0.2,0.1,+0.8,2,12,0,0,9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+151,Drake Callender,us USA,GK,Inter Miami,25,1997,33.0,811,1143,71.0,21537,15320,140,143,413,423,256,569,0,0.0,0.0,0.0,0,7,0,0,0,Matches
+152,Rudy Camacho,fr FRA,DF,Columbus Crew,31,1991,8.8,559,615,90.9,9514,4414,256,266,262,277,37,63,0,0.0,0.1,0.0,1,33,1,0,31,Matches
+153,Rudy Camacho,fr FRA,"DF,MF",CF Montréal,31,1991,17.9,939,1088,86.3,19411,8448,246,276,552,602,131,178,0,0.1,0.4,-0.1,2,49,3,0,51,Matches
+154,Brandon Cambridge,us USA,"FW,DF",Charlotte,20,2002,1.5,37,44,84.1,688,81,15,16,17,21,3,4,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+155,Leonardo Campana,ec ECU,FW,Inter Miami,22,2000,18.2,340,439,77.4,5066,811,206,250,92,117,27,35,3,2.1,2.0,+0.9,13,27,10,4,39,Matches
+156,George Campbell,us USA,DF,CF Montréal,21,2001,20.6,986,1191,82.8,18799,6878,353,401,536,604,94,165,2,0.2,0.5,+1.8,3,87,8,0,94,Matches
+157,Russell Canouse,us USA,MF,D.C. United,27,1995,24.6,928,1092,85.0,15883,5299,410,479,430,466,71,106,1,0.2,0.9,+0.8,5,102,10,2,106,Matches
+158,Antonio Carlos,br BRA,DF,Orlando City,29,1993,15.7,627,728,86.1,13239,5746,193,210,323,348,107,153,0,0.0,0.1,0.0,0,54,0,0,63,Matches
+159,Wikelman Carmona,ve VEN,"FW,MF",NY Red Bulls,19,2003,7.4,152,214,71.0,2373,650,83,102,44,56,16,27,0,0.6,0.4,-0.6,6,17,6,3,19,Matches
+160,Julián Carranza,ar ARG,FW,Philadelphia Union,22,2000,27.6,502,714,70.3,7509,1431,267,367,170,215,31,41,5,4.0,3.4,+1.0,28,40,14,1,65,Matches
+161,Adalberto Carrasquilla,pa PAN,"FW,MF",Houston Dynamo,24,1998,22.6,774,1027,75.4,13059,4191,387,466,274,349,85,150,5,3.6,4.0,+1.4,36,115,58,13,160,Matches
+162,Wilder Cartagena,pe PER,MF,Orlando City,28,1994,21.1,926,1050,88.2,16007,4853,435,477,381,415,88,117,1,1.4,1.5,-0.4,15,120,13,0,120,Matches
+163,Javier Casas,us USA,MF,Chicago Fire,19,2003,0.6,19,24,79.2,248,119,15,15,3,4,1,5,0,0.0,0.0,0.0,0,1,1,0,4,Matches
+164,Julio Cascante,cr CRC,DF,Austin,29,1993,22.9,1297,1479,87.7,25432,10418,438,470,698,756,151,226,2,0.6,1.4,+1.4,6,85,2,0,86,Matches
+165,Cristian Cásseres Jr.,ve VEN,MF,NY Red Bulls,23,2000,16.0,573,782,73.3,9870,4211,270,308,217,290,65,130,1,3.5,3.8,-2.5,34,98,21,4,122,Matches
+166,Robert Castellanos,us USA,DF,Sporting KC,24,1998,7.8,367,443,82.8,8289,2341,68,76,232,257,65,98,0,0.0,0.0,0.0,1,11,0,0,15,Matches
+167,Roman Celentano,us USA,GK,FC Cincinnati,22,2000,33.0,566,820,69.0,16079,12402,130,131,224,226,200,449,0,0.0,0.0,0.0,0,11,0,0,0,Matches
+168,Edwin Cerrillo,us USA,MF,FC Dallas,22,2000,15.1,780,900,86.7,12628,3536,397,429,311,343,51,82,0,0.3,0.5,-0.3,8,65,5,1,82,Matches
+169,Edwin Cerrillo,us USA,MF,LA Galaxy,22,2000,9.0,541,583,92.8,8815,2732,262,276,235,248,29,36,1,0.3,0.3,+0.7,7,57,0,0,55,Matches
+170,Tomás Chancalay,ar ARG,"FW,MF",NE Revolution,24,1999,9.5,260,342,76.0,4564,686,115,138,113,129,25,54,0,0.9,1.5,-0.9,5,14,6,2,26,Matches
+171,Maikel Chang,cu CUB,"MF,FW",Real Salt Lake,31,1991,11.3,371,540,68.7,6355,1593,191,213,130,183,39,100,4,2.5,2.4,+1.5,28,18,16,8,36,Matches
+172,Maxime Chanot,lu LUX,DF,NYCFC,33,1989,19.0,1056,1204,87.7,22752,8346,251,287,647,679,154,224,0,0.0,0.1,0.0,0,39,0,0,48,Matches
+173,Diego Chará,co COL,MF,Portland Timbers,36,1986,28.5,1100,1260,87.3,19987,7092,473,524,468,507,135,175,0,0.4,1.1,-0.4,10,142,14,2,149,Matches
+174,Yimmi Chará,co COL,FW,Portland Timbers,31,1991,8.2,238,302,78.8,3324,898,151,168,59,72,12,21,3,1.3,1.3,+1.7,13,10,13,2,27,Matches
+175,Yevhen Cheberko,ua UKR,DF,Columbus Crew,25,1998,2.2,118,128,92.2,1984,823,60,62,46,48,11,15,0,0.0,0.0,0.0,0,13,0,0,11,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+176,Giorgio Chiellini,it ITA,DF,LAFC,38,1984,15.2,837,1010,82.9,17999,6215,206,229,503,568,128,198,0,0.9,0.8,-0.9,10,93,7,1,92,Matches
+177,Mathieu Choiniere,ca CAN,"MF,DF",CF Montréal,23,1999,27.0,887,1176,75.4,14435,4644,471,544,334,429,67,148,2,4.8,4.8,-2.8,47,75,35,7,129,Matches
+178,Léo Chú,br BRA,FW,Seattle Sounders,22,2000,22.8,466,690,67.5,6569,1827,297,375,139,208,17,39,7,5.7,6.0,+1.3,37,20,47,14,55,Matches
+179,José Cifuentes,ec ECU,MF,LAFC,23,1999,15.1,582,778,74.8,9709,3661,288,343,216,274,56,94,3,3.0,2.2,0.0,32,96,30,4,132,Matches
+180,Cam Cilley,us USA,"FW,MF",SJ Earthquakes,22,2000,0.0,2,5,40.0,33,31,1,2,1,1,0,1,0,0.0,0.0,0.0,0,0,0,0,2,Matches
+181,Abdoulaye Cissoko,fr FRA,DF,Seattle Sounders,23,1999,1.0,70,76,92.1,1388,551,21,22,40,42,8,11,0,0.0,0.0,0.0,0,0,0,0,2,Matches
+182,Steve Clark,us USA,GK,Houston Dynamo,36,1986,33.0,886,1104,80.3,21149,14551,231,231,432,436,214,423,1,0.1,0.0,+0.9,1,8,0,0,0,Matches
+183,Stefan Cleveland,us USA,GK,Seattle Sounders,28,1994,2.0,41,47,87.2,1029,798,10,10,23,23,8,13,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+184,Noah Cobb,us USA,DF,Atlanta Utd,17,2005,2.2,128,148,86.5,2587,615,32,35,80,84,14,25,0,0.0,0.0,0.0,0,1,0,0,1,Matches
+185,Alonso Coello,es ESP,MF,Toronto FC,23,1999,14.3,876,1010,86.7,15606,5132,387,413,377,423,93,130,0,0.3,0.9,-0.3,9,118,12,2,85,Matches
+186,Jackson Conway,us USA,FW,Atlanta Utd,21,2001,0.6,8,10,80.0,98,21,7,8,1,1,0,0,0,0.1,0.0,-0.1,1,1,0,0,1,Matches
+187,Enzo Copetti,ar ARG,FW,Charlotte,27,1996,22.0,350,545,64.2,4652,751,212,297,88,141,18,35,1,1.6,1.9,-0.6,21,20,11,1,32,Matches
+188,Gabriele Corbo,it ITA,DF,CF Montréal,23,2000,25.4,1046,1281,81.7,22099,8856,347,394,528,607,165,256,1,0.6,0.5,+0.4,8,109,4,1,114,Matches
+189,Sergio Córdova,ve VEN,"FW,MF",Vancouver W'caps,25,1997,9.4,128,178,71.9,1734,432,74,93,38,52,4,12,0,1.2,0.4,-1.2,7,9,5,1,17,Matches
+190,Carlos Coronel,py PAR,GK,NY Red Bulls,26,1996,34.0,513,1017,50.4,18162,15324,59,59,198,211,256,738,0,0.1,0.1,-0.1,2,32,0,0,1,Matches
+191,Guzmán Corujo,uy URU,DF,Charlotte,26,1996,3.9,129,161,80.1,2692,852,26,32,85,92,15,31,0,0.0,0.0,0.0,0,5,0,0,5,Matches
+192,Douglas Costa,br BRA,"FW,MF",LA Galaxy,32,1990,13.5,587,761,77.1,9898,2811,315,357,180,229,74,132,7,4.9,4.3,+2.1,38,58,18,2,81,Matches
+193,Séga Coulibaly,fr FRA,DF,LA Galaxy,26,1996,1.0,53,59,89.8,1028,403,17,19,30,32,6,8,0,0.0,0.0,0.0,0,5,0,0,3,Matches
+194,Cade Cowell,us USA,FW,SJ Earthquakes,19,2003,17.1,243,387,62.8,3273,820,157,215,56,94,12,33,2,1.1,1.4,+0.9,7,12,10,3,22,Matches
+195,Ben Cremaschi,us USA,"MF,FW",Inter Miami,17,2005,19.9,712,848,84.0,10400,2379,394,442,260,297,32,45,4,2.2,2.4,+1.8,18,52,16,2,76,Matches
+196,Maxime Crépeau,ca CAN,GK,LAFC,28,1994,7.0,170,217,78.3,4102,2740,34,34,99,100,36,82,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+197,Daniel Crisostomo,us USA,MF,LAFC,26,1997,3.1,131,148,88.5,2117,544,67,72,54,58,7,11,0,0.0,0.1,0.0,2,10,0,0,12,Matches
+198,Andrés Cubas,py PAR,MF,Vancouver W'caps,26,1996,23.8,1056,1219,86.6,20614,6490,397,435,474,526,163,218,1,0.7,0.5,+0.3,8,109,4,0,100,Matches
+199,Cucho,co COL,FW,Columbus Crew,23,1999,26.3,611,889,68.7,9840,2566,331,413,199,275,59,106,7,6.7,6.0,+0.3,42,56,48,7,124,Matches
+200,Mauricio Cuevas,us USA,DF,LA Galaxy,19,2003,4.7,212,258,82.2,3380,1093,112,121,79,94,16,31,0,0.6,0.4,-0.6,5,15,3,2,19,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+201,Braian Cufré,ar ARG,DF,NYCFC,26,1996,20.7,745,946,78.8,12169,4265,364,408,317,385,51,104,3,3.5,2.7,-0.5,23,47,18,7,65,Matches
+202,Antony Curic,ca CAN,DF,Toronto FC,22,2001,0.0,2,2,100.0,27,9,1,1,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+203,Rafael Czichos,de GER,DF,Chicago Fire,32,1990,27.9,1061,1258,84.3,21998,10335,323,359,568,643,162,224,0,0.0,0.2,0.0,1,67,0,0,74,Matches
+204,Cristián Dajome,co COL,"FW,DF",D.C. United,29,1994,8.7,176,251,70.1,2564,746,98,113,64,92,7,17,1,0.9,0.9,+0.1,13,12,7,2,24,Matches
+205,Cristián Dajome,co COL,"MF,FW",Vancouver W'caps,29,1994,3.3,83,111,74.8,1235,275,46,57,31,37,4,12,0,0.3,0.3,-0.3,5,6,3,1,8,Matches
+206,Dagur Dan Þórhallsson,is ISL,"DF,MF",Orlando City,22,2000,13.4,506,591,85.6,7550,1989,294,315,164,202,34,48,3,1.9,1.9,+1.1,10,35,12,3,36,Matches
+207,Daniel,br BRA,GK,SJ Earthquakes,28,1994,21.6,406,529,76.7,10212,7118,131,131,158,160,112,230,0,0.0,0.0,0.0,0,12,0,0,1,Matches
+208,Jesús Daniel Bueno,ve VEN,MF,Philadelphia Union,23,1999,10.7,375,458,81.9,6010,1688,199,227,133,157,31,48,0,0.7,0.9,-0.7,9,35,5,3,40,Matches
+209,Juan David Mosquera,co COL,DF,Portland Timbers,20,2002,26.7,1128,1428,79.0,18766,6776,576,642,439,549,91,158,4,3.0,3.4,+1.0,28,99,32,17,115,Matches
+210,Jesús David Murillo,co COL,DF,LAFC,28,1994,15.8,640,772,82.9,12923,5062,199,220,338,376,95,157,0,0.2,0.2,-0.2,5,45,4,0,50,Matches
+211,Erick Davis,pa PAN,DF,D.C. United,31,1991,6.0,242,343,70.6,4211,2006,120,135,98,142,23,54,0,0.8,0.9,-0.8,7,18,12,6,31,Matches
+212,Jake Davis,us USA,DF,Sporting KC,21,2002,22.6,1081,1326,81.5,17451,6628,552,606,428,521,69,132,1,1.6,1.7,-0.6,12,100,18,6,101,Matches
+213,Sean Davis,us USA,MF,Nashville SC,29,1993,20.8,655,782,83.8,10638,3052,324,360,263,298,50,81,1,0.3,0.7,+0.7,6,65,4,1,85,Matches
+214,Jonathan Dean,us USA,DF,Chicago Fire,25,1997,15.3,502,654,76.8,8201,3066,268,302,199,255,30,63,1,1.2,1.0,-0.2,13,38,13,8,55,Matches
+215,Miloš Degenek,au AUS,DF,Columbus Crew,28,1994,9.5,516,601,85.9,10521,4290,168,188,282,310,65,96,0,0.0,0.2,0.0,1,38,2,2,40,Matches
+216,Brecht Dejaegere,be BEL,"FW,MF",Charlotte,31,1991,5.3,160,205,78.0,2396,824,89,109,58,74,8,11,0,0.6,0.8,-0.6,5,13,9,0,27,Matches
+217,Marky Delgado,us USA,MF,LA Galaxy,27,1995,25.7,1302,1527,85.3,19424,6440,710,773,443,516,76,113,2,2.7,3.5,-0.7,38,145,32,5,181,Matches
+218,Luis Díaz,cr CRC,FW,Colorado Rapids,24,1998,1.0,23,36,63.9,369,89,14,16,5,8,3,5,0,0.0,0.2,0.0,1,1,3,1,2,Matches
+219,Luis Díaz,cr CRC,"DF,MF",Columbus Crew,24,1998,0.9,30,40,75.0,524,91,13,15,12,18,3,5,0,0.0,0.1,0.0,0,0,2,1,4,Matches
+220,Bakaye Dibassy,ml MLI,DF,Minnesota Utd,33,1989,5.3,180,210,85.7,3339,916,77,87,88,97,15,23,0,0.1,0.1,-0.1,1,12,2,2,12,Matches
+221,Adama Diomande,no NOR,FW,Toronto FC,32,1990,1.8,32,45,71.1,412,97,21,27,7,10,1,3,0,0.1,0.1,-0.1,2,4,1,0,5,Matches
+222,Clément Diop,sn SEN,GK,Atlanta Utd,29,1993,1.5,41,47,87.2,1152,835,9,9,14,15,18,22,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+223,Hamady Diop,sn SEN,"DF,MF",Charlotte,20,2002,0.4,8,13,61.5,125,85,5,6,1,3,1,2,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+224,Sofiane Djeffal,fr FRA,MF,Austin,23,1999,3.5,106,129,82.2,1887,623,44,53,48,52,9,14,0,0.2,0.4,-0.2,2,14,1,0,13,Matches
+225,Ethan Dobbelaere,us USA,FW,Seattle Sounders,20,2002,1.1,25,30,83.3,314,65,19,20,6,9,0,0,0,0.1,0.0,-0.1,1,0,2,1,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+226,Ronald Donkor,ml MLI,"MF,DF",NY Red Bulls,18,2004,0.5,12,21,57.1,193,79,8,12,2,6,2,3,1,0.1,0.2,+0.9,1,1,0,0,3,Matches
+227,Christopher Donovan,us USA,FW,Philadelphia Union,22,2000,4.3,72,114,63.2,1003,222,43,61,26,39,2,2,1,1.1,0.8,-0.1,5,7,3,0,9,Matches
+228,Griffin Dorsey,us USA,DF,Houston Dynamo,23,1999,11.4,412,509,80.9,6869,1769,209,233,162,193,33,54,2,3.0,2.2,-1.0,15,21,13,6,32,Matches
+229,C.J. dos Santos,us USA,GK,Inter Miami,22,2000,1.0,42,59,71.2,976,703,9,9,23,24,10,25,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+230,Hassani Dotson,us USA,"MF,FW",Minnesota Utd,25,1997,28.6,1002,1240,80.8,16773,5067,482,567,400,470,90,127,3,3.1,4.7,-0.1,35,107,40,7,151,Matches
+231,Ousmane Doumbia,ci CIV,MF,Chicago Fire,30,1992,9.0,352,412,85.4,6276,2153,151,173,169,184,29,43,1,0.3,0.4,+0.7,4,34,6,2,46,Matches
+232,Sebastián Driussi,ar ARG,"MF,FW",Austin,26,1996,25.6,705,879,80.2,12348,2803,344,392,264,314,80,112,4,3.9,3.2,+0.1,21,80,23,3,134,Matches
+233,Erik Duenas,us USA,"MF,DF",LAFC,18,2004,8.4,339,395,85.8,5052,1387,182,200,142,154,11,24,0,0.4,0.3,-0.4,11,31,5,1,47,Matches
+234,Bryce Duke,us USA,MF,Inter Miami,21,2001,4.9,274,323,84.8,4416,896,152,161,98,115,21,31,0,0.1,0.3,-0.1,3,21,2,0,29,Matches
+235,Bryce Duke,us USA,"MF,FW",CF Montréal,21,2001,16.3,478,675,70.8,8023,2456,250,310,161,219,52,104,1,2.8,2.7,-1.8,31,56,17,3,80,Matches
+236,Cameron Duke,us USA,DF,Sporting KC,21,2001,1.5,70,91,76.9,1239,389,28,32,35,44,7,14,0,0.0,0.0,0.0,1,10,0,0,7,Matches
+237,Cameron Dunbar,us USA,"MF,FW",Minnesota Utd,20,2002,1.3,13,26,50.0,242,66,6,8,4,5,3,11,0,0.1,0.2,-0.1,1,1,2,1,3,Matches
+238,Kyle Duncan,us USA,DF,NY Red Bulls,25,1997,20.5,612,924,66.2,9258,4065,337,410,218,349,32,100,2,3.2,2.6,-1.2,25,47,15,5,50,Matches
+239,Chris Durkin,us USA,MF,D.C. United,22,2000,21.9,549,757,72.5,9052,3232,283,326,200,273,50,106,2,3.3,3.4,-1.3,29,71,25,9,81,Matches
+240,Jeremy Ebobisse,us USA,FW,SJ Earthquakes,25,1997,32.9,548,718,76.3,8768,1733,287,348,176,221,56,76,2,3.4,3.0,-1.4,32,52,27,6,93,Matches
+241,Daniel Edelman,us USA,MF,NY Red Bulls,19,2003,20.6,740,954,77.6,12733,3686,339,418,302,358,74,124,0,1.4,1.5,-1.4,14,129,12,1,119,Matches
+242,Earl Edwards Jr.,us USA,GK,NE Revolution,31,1992,10.0,243,346,70.2,7505,6009,33,34,116,116,93,192,0,0.0,0.0,0.0,0,7,0,0,0,Matches
+243,Raheem Edwards,ca CAN,DF,LA Galaxy,27,1995,20.8,903,1099,82.2,14297,4561,483,543,325,373,73,110,3,2.4,1.9,+0.6,20,34,24,9,66,Matches
+244,Jack Elliott,eng ENG,DF,Philadelphia Union,27,1995,31.0,1079,1328,81.3,24950,10812,252,285,581,634,241,382,1,0.7,0.5,+0.3,8,60,3,0,62,Matches
+245,Herbert Endeley,us USA,"MF,FW",FC Dallas,21,2001,2.4,44,59,74.6,737,224,18,24,23,30,2,2,0,0.0,0.1,0.0,1,2,3,0,8,Matches
+246,Emeka Eneli,us USA,"DF,MF",Real Salt Lake,23,1999,14.7,615,708,86.9,9770,2852,307,336,262,292,28,40,0,1.1,1.2,-1.1,11,52,6,1,68,Matches
+247,Ramiro Enrique,ar ARG,FW,Orlando City,21,2001,11.5,187,262,71.4,2534,403,112,139,58,82,7,14,1,0.6,0.6,+0.4,5,11,4,1,18,Matches
+248,Franco Escobar,ar ARG,DF,Houston Dynamo,27,1995,24.7,993,1182,84.0,14808,4602,572,637,362,421,43,78,0,0.7,1.0,-0.7,10,49,15,7,61,Matches
+249,Cristian Espinoza,ar ARG,"FW,MF",SJ Earthquakes,27,1995,33.7,1027,1560,65.8,17207,4981,529,641,342,500,113,276,8,13.3,13.2,-5.3,101,54,66,32,127,Matches
+250,Roger Espinoza,hn HON,MF,Sporting KC,36,1986,8.1,325,419,77.6,6219,1861,134,160,139,164,48,77,2,1.4,0.8,+0.6,9,61,11,0,54,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+251,Derrick Etienne,ht HAI,"FW,MF",Atlanta Utd,26,1996,11.6,257,328,78.4,4089,878,137,156,90,114,20,30,1,1.4,2.0,-0.4,18,13,20,5,38,Matches
+252,Evander,br BRA,"MF,FW",Portland Timbers,24,1998,24.5,834,1111,75.1,15595,4999,354,415,324,380,128,241,4,3.5,4.6,+0.5,52,104,41,4,156,Matches
+253,Diego Fagúndez,uy URU,"FW,MF",Austin,27,1995,11.4,328,422,77.7,5125,1373,186,204,107,134,28,62,1,1.3,1.2,-0.3,19,25,8,1,42,Matches
+254,Diego Fagúndez,uy URU,"FW,MF",LA Galaxy,27,1995,6.4,194,251,77.3,2965,844,112,121,60,75,14,32,1,1.2,1.5,-0.2,12,14,11,3,21,Matches
+255,José Fajardo,pa PAN,"FW,MF",D.C. United,29,1993,2.7,31,45,68.9,475,139,15,19,13,19,2,3,0,0.4,0.2,-0.4,3,1,1,0,8,Matches
+256,Mamadou Fall,sn SEN,DF,LAFC,20,2002,1.0,47,62,75.8,1059,506,15,17,23,28,9,15,0,0.1,0.3,-0.1,1,7,1,0,4,Matches
+257,Marco Farfan,us USA,DF,FC Dallas,24,1998,29.8,1100,1328,82.8,16440,4767,646,699,382,453,50,102,3,1.8,1.7,+1.2,16,65,19,11,80,Matches
+258,Jordan Faria,ca CAN,FW,Toronto FC,22,2000,0.3,8,10,80.0,134,42,4,5,2,3,1,1,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+259,Facundo Farías,ar ARG,"FW,MF",Inter Miami,20,2002,9.3,328,421,77.9,5281,1047,178,212,115,139,27,49,1,1.6,1.9,-0.6,13,36,13,3,46,Matches
+260,Andrew Farrell,us USA,DF,NE Revolution,30,1992,21.5,879,1024,85.8,18603,7760,258,283,477,521,135,201,0,0.1,0.2,-0.1,4,56,3,0,68,Matches
+261,Mohamed Farsi,dz ALG,"DF,MF",Columbus Crew,23,1999,24.0,1015,1223,83.0,15992,3937,537,595,400,486,56,83,4,2.7,3.2,+1.3,26,41,25,8,91,Matches
+262,Felipe,br BRA,MF,Orlando City,32,1990,6.3,306,365,83.8,4836,1822,173,186,104,118,22,39,0,0.2,0.5,-0.2,3,32,8,0,48,Matches
+263,Julián Fernández,ar ARG,"FW,MF",NYCFC,19,2004,3.6,144,195,73.8,2363,844,76,95,46,56,15,28,0,0.7,1.1,-0.7,14,18,13,3,30,Matches
+264,Omir Fernandez,us USA,"MF,FW",NY Red Bulls,23,1999,19.4,318,414,76.8,4266,1315,188,225,102,125,10,18,3,2.4,2.1,+0.6,29,29,14,2,46,Matches
+265,Jesús Ferreira,us USA,FW,FC Dallas,22,2000,25.2,679,959,70.8,11891,3540,315,370,251,346,87,174,4,5.5,5.4,-1.5,54,73,30,7,103,Matches
+266,Sebastián Ferreira,py PAR,FW,Houston Dynamo,24,1998,3.4,71,97,73.2,826,112,42,52,20,29,0,2,0,0.2,0.3,-0.2,3,2,1,0,4,Matches
+267,Ethan Finlay,us USA,"FW,MF",Austin,32,1990,18.8,267,380,70.3,4002,1000,143,171,106,140,10,31,3,1.8,2.0,+1.2,14,20,12,6,36,Matches
+268,Nicolas Firmino,us USA,MF,Atlanta Utd,22,2001,0.0,8,9,88.9,110,7,7,7,1,1,0,0,0,0.0,0.0,0.0,1,0,0,0,0,Matches
+269,Leon Flach,us USA,MF,Philadelphia Union,21,2001,19.9,381,489,77.9,5714,2063,208,241,137,172,20,39,1,0.7,0.8,+0.3,12,37,10,3,45,Matches
+270,Kristian Fletcher,us USA,"FW,MF",D.C. United,17,2005,1.5,33,48,68.8,381,84,25,28,8,13,0,1,1,0.2,0.2,+0.8,1,1,1,0,2,Matches
+271,Danny Flores,us USA,MF,Sporting KC,20,2002,0.1,1,2,50.0,45,0,0,1,0,0,1,1,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+272,CJ Fodrey,us USA,"DF,FW",Austin,18,2004,0.4,12,18,66.7,166,29,10,11,2,6,0,1,0,0.2,0.2,-0.2,1,1,0,0,1,Matches
+273,Nathan Fogaça,br BRA,FW,Portland Timbers,23,1999,6.3,114,162,70.4,1649,479,66,88,31,40,9,12,2,0.9,0.3,+1.1,8,11,2,0,17,Matches
+274,Andreu Fontàs,es ESP,DF,Sporting KC,33,1989,26.6,1737,1946,89.3,36113,13378,486,521,990,1047,252,349,0,0.3,0.4,-0.3,7,162,4,0,127,Matches
+275,Ajani Fortune,tt TRI,MF,Atlanta Utd,20,2002,4.2,145,163,89.0,2489,513,63,66,60,64,16,20,1,0.1,0.2,+0.9,1,13,0,0,14,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+276,Taxiarchis Fountas,gr GRE,"FW,MF",D.C. United,27,1995,12.2,232,302,76.8,3171,828,132,161,75,89,9,17,0,0.6,1.1,-0.6,8,32,15,1,40,Matches
+277,Franco Fragapane,ar ARG,"MF,FW",Minnesota Utd,29,1993,14.8,446,598,74.6,7148,2312,223,263,175,226,33,60,2,2.6,3.6,-0.6,32,44,20,2,70,Matches
+278,Iván Franco,py PAR,"FW,MF",Houston Dynamo,22,2000,11.8,268,366,73.2,3596,799,161,195,83,114,8,18,1,0.9,1.2,+0.1,11,14,8,0,32,Matches
+279,Kobe Franklin,ca CAN,"DF,MF",Toronto FC,19,2003,24.1,1048,1268,82.6,17664,5950,545,589,393,453,87,157,1,1.2,1.3,-0.2,19,88,12,2,102,Matches
+280,Liam Fraser,ca CAN,MF,FC Dallas,24,1998,4.1,187,222,84.2,3185,938,96,103,72,77,17,34,0,0.0,0.2,0.0,0,19,3,1,14,Matches
+281,Ian Fray,jm JAM,"DF,MF",Inter Miami,20,2002,7.3,371,432,85.9,6992,2413,147,162,183,201,36,50,0,0.2,0.3,-0.2,3,43,5,1,54,Matches
+282,Alex Freeman,us USA,DF,Orlando City,18,2004,0.0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+283,Matt Freese,us USA,GK,NYCFC,24,1998,10.0,293,389,75.3,7408,4902,55,55,167,170,70,162,0,0.0,0.0,0.0,0,5,0,0,0,Matches
+284,Stefan Frei,ch SUI,GK,Seattle Sounders,36,1986,32.0,578,860,67.2,16560,12670,100,100,257,261,219,492,0,0.0,0.0,0.0,0,8,0,0,1,Matches
+285,Ray Gaddis,us USA,DF,FC Cincinnati,33,1990,13.9,445,556,80.0,7209,2666,217,248,196,234,24,47,0,0.4,0.3,-0.4,4,32,4,1,41,Matches
+286,Julian Gaines,us USA,DF,LAFC,20,2002,0.7,23,24,95.8,354,72,11,12,10,10,1,1,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+287,McKinze Gaines,us USA,"FW,MF",Charlotte,24,1998,8.2,187,250,74.8,2924,735,101,117,64,87,14,23,1,1.7,1.3,-0.7,12,12,11,7,19,Matches
+288,Jon Gallagher,ie IRL,"DF,MF",Austin,26,1996,31.0,1046,1396,74.9,18010,3879,478,532,470,592,86,209,4,4.5,2.2,-0.5,24,73,26,13,112,Matches
+289,Pedro Gallese,pe PER,GK,Orlando City,32,1990,30.0,624,862,72.4,14969,11168,208,209,238,243,169,396,0,0.1,0.0,-0.1,2,8,0,0,1,Matches
+290,Braian Galván,ar ARG,"FW,DF",Colorado Rapids,22,2000,7.4,204,291,70.1,3580,1425,105,134,72,101,24,42,0,0.6,0.8,-0.6,9,35,15,2,41,Matches
+291,Mender García,co COL,"FW,MF",Minnesota Utd,24,1998,11.4,162,212,76.4,2118,386,101,118,47,60,5,6,1,3.1,3.0,-2.1,17,6,6,0,17,Matches
+292,Chase Gasper,us USA,DF,Houston Dynamo,27,1996,2.3,71,103,68.9,1266,634,34,39,33,46,4,17,0,0.0,0.1,0.0,0,7,1,0,9,Matches
+293,Ryan Gauld,sct SCO,"FW,MF",Vancouver W'caps,27,1995,29.2,936,1251,74.8,16747,5383,449,519,344,442,124,227,12,10.0,9.2,+2.0,80,95,85,26,203,Matches
+294,Luka Gavran,ca CAN,GK,Toronto FC,22,2000,4.0,85,144,59.0,2338,1946,19,20,41,43,25,81,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+295,Dániel Gazdag,hu HUN,MF,Philadelphia Union,26,1996,30.3,876,1151,76.1,12829,3903,493,575,286,368,54,107,6,4.9,5.8,+1.1,46,110,42,1,150,Matches
+296,Geovane,br BRA,DF,FC Dallas,21,2001,11.0,332,464,71.6,5502,1909,166,199,143,193,17,49,2,1.1,1.1,+0.9,7,19,9,8,26,Matches
+297,Alex Gersbach,au AUS,"DF,MF",Colorado Rapids,25,1997,2.9,83,123,67.5,1258,319,44,57,35,47,3,12,0,0.1,0.0,-0.1,1,4,1,1,8,Matches
+298,Giorgos Giakoumakis,gr GRE,FW,Atlanta Utd,28,1994,19.8,248,351,70.7,3548,542,146,187,67,93,22,29,0,1.6,1.9,-1.6,17,16,7,0,20,Matches
+299,Carles Gil,es ESP,MF,NE Revolution,30,1992,29.1,1429,1845,77.5,28583,8787,567,658,597,722,247,396,8,8.9,9.8,-0.9,96,200,89,10,302,Matches
+300,Nacho Gil,es ESP,"FW,DF",NE Revolution,27,1995,5.8,158,203,77.8,2436,578,82,98,63,75,7,9,2,0.7,0.7,+1.3,7,8,10,3,19,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+301,Gastón Giménez,py PAR,MF,Chicago Fire,31,1991,24.4,1010,1227,82.3,19208,6321,397,439,476,539,124,205,1,1.3,2.3,-0.3,17,105,15,4,99,Matches
+302,Nicholas Gioacchini,us USA,"FW,MF",St. Louis,22,2000,23.3,373,557,67.0,4903,1046,233,320,92,139,19,25,1,2.7,1.6,-1.7,31,24,14,1,46,Matches
+303,Justen Glad,us USA,DF,Real Salt Lake,25,1997,30.2,1541,1756,87.8,33137,12561,437,464,811,868,278,390,0,0.2,0.3,-0.2,5,94,1,1,99,Matches
+304,Jakob Glesnes,no NOR,DF,Philadelphia Union,28,1994,31.0,1008,1266,79.6,23683,10275,283,330,491,564,226,339,0,0.5,1.2,-0.5,8,136,10,0,113,Matches
+305,Caden Glover,us USA,MF,St. Louis,15,2007,0.2,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+306,Aníbal Godoy,pa PAN,MF,Nashville SC,32,1990,18.5,927,1035,89.6,17412,5251,399,428,367,390,134,166,0,0.5,1.2,-0.5,11,100,15,1,101,Matches
+307,Yeimar Gómez Andrade,co COL,DF,Seattle Sounders,30,1992,32.1,1451,1724,84.2,26764,10438,543,610,746,838,137,225,0,0.6,1.2,-0.6,5,140,1,0,116,Matches
+308,Carlos Gómez,co COL,"MF,FW",Real Salt Lake,20,2002,15.5,273,411,66.4,3932,1510,169,204,83,131,15,38,5,3.8,3.7,+1.2,30,29,20,9,48,Matches
+309,Diego Gómez,py PAR,"MF,FW",Inter Miami,19,2003,4.6,156,197,79.2,2344,659,81,92,62,75,9,16,0,1.0,1.0,-1.0,5,7,1,0,13,Matches
+310,Gaston Gonzalez,ar ARG,"FW,DF",Orlando City,21,2001,8.0,160,241,66.4,2291,608,105,123,46,70,7,26,2,0.6,0.6,+1.4,6,8,8,5,10,Matches
+311,Mario González,es ESP,FW,LAFC,26,1996,4.3,38,53,71.7,500,70,17,27,15,16,0,1,1,1.1,0.4,-0.1,4,1,1,0,3,Matches
+312,Omar Gonzalez,us USA,DF,NE Revolution,34,1988,9.6,341,413,82.6,6890,2870,97,112,198,216,45,80,0,0.0,0.0,0.0,1,13,0,0,17,Matches
+313,Zavier Gozo,us USA,FW,Real Salt Lake,15,2007,0.1,2,4,50.0,39,8,1,1,1,2,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+314,Alejandro Granados,es ESP,FW,Orlando City,16,2006,0.0,8,9,88.9,96,10,6,6,2,3,0,0,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+315,Tayvon Gray,jm JAM,DF,NYCFC,20,2002,22.7,1076,1284,83.8,19151,6695,428,473,551,633,84,140,1,0.3,0.7,+0.7,5,87,8,4,91,Matches
+316,Jacob Greene,us USA,DF,D.C. United,19,2003,5.4,145,198,73.2,2272,939,83,102,53,66,6,9,0,0.1,0.3,-0.1,2,7,3,1,10,Matches
+317,Gregore,br BRA,MF,Inter Miami,28,1994,4.3,182,225,80.9,3138,928,85,97,73,86,20,31,1,1.0,0.1,0.0,1,22,1,0,27,Matches
+318,Ján Greguš,sk SVK,MF,Nashville SC,32,1991,2.5,165,196,84.2,3152,1044,64,72,83,89,17,31,0,0.1,0.2,-0.1,2,27,4,0,31,Matches
+319,Ján Greguš,sk SVK,MF,Minnesota Utd,32,1991,10.0,534,602,88.7,9455,2530,240,256,212,233,69,93,0,0.9,1.0,-0.9,13,62,9,1,74,Matches
+320,Julian Gressel,us USA,"DF,MF",Columbus Crew,29,1993,8.2,334,459,72.8,5624,1960,174,204,120,155,33,71,1,2.5,1.6,-1.5,26,18,19,2,43,Matches
+321,Julian Gressel,us USA,MF,Vancouver W'caps,29,1993,15.1,651,867,75.1,12741,4497,265,306,271,314,103,204,5,6.1,4.7,-1.1,35,80,31,9,101,Matches
+322,Victor Griffith,pa PAN,MF,Portland Timbers,22,2000,1.0,28,33,84.8,497,102,10,13,14,14,3,4,0,0.0,0.0,0.0,1,3,0,0,2,Matches
+323,Carlos Gruezo,ec ECU,MF,SJ Earthquakes,27,1995,23.9,840,988,85.0,16107,4532,328,361,398,443,102,147,2,0.8,0.6,+1.2,13,86,7,0,90,Matches
+324,Brian Gutiérrez,us USA,"FW,MF",Chicago Fire,19,2003,26.5,750,997,75.2,12019,3957,412,479,234,301,74,128,6,4.5,4.6,+1.5,43,97,38,8,159,Matches
+325,Cristián Gutiérrez,cl CHI,DF,Toronto FC,25,1997,2.7,109,133,82.0,1651,444,62,69,41,49,4,7,1,0.3,0.4,+0.7,2,3,1,1,3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+326,Diego Gutierrez,us USA,"FW,MF",Portland Timbers,23,1999,2.7,47,77,61.0,735,252,30,36,14,19,3,12,1,0.2,0.5,+0.8,1,5,0,0,5,Matches
+327,Felipe Gutiérrez,cl CHI,MF,Sporting KC,32,1990,3.3,146,171,85.4,2564,585,66,72,59,62,15,22,0,0.3,0.3,-0.3,6,14,2,0,16,Matches
+328,Andrew Gutman,us USA,DF,Atlanta Utd,26,1996,15.4,726,875,83.0,12034,4123,362,406,289,331,57,92,2,2.1,2.0,-0.1,14,51,17,6,83,Matches
+329,Andrew Gutman,us USA,DF,Colorado Rapids,26,1996,11.2,314,424,74.1,5173,1870,153,180,123,155,27,66,0,0.3,0.5,-0.3,8,28,10,1,33,Matches
+330,Brad Guzan,us USA,GK,Atlanta Utd,38,1984,27.0,755,965,78.2,20754,13803,140,141,330,332,281,483,0,0.0,0.0,0.0,0,8,0,0,0,Matches
+331,Justin Haak,us USA,"DF,MF",NYCFC,21,2001,10.1,475,533,89.1,8714,2789,181,196,255,275,35,45,0,0.1,0.1,-0.1,2,23,2,0,38,Matches
+332,Luke Haakenson,us USA,"MF,FW",Nashville SC,25,1997,3.0,49,77,63.6,661,221,32,45,12,19,2,4,0,0.2,0.3,-0.2,3,5,1,0,2,Matches
+333,Teenage Hadebe,zw ZIM,DF,Houston Dynamo,27,1995,11.5,582,654,89.0,11093,4553,207,218,308,323,61,100,0,0.1,0.3,-0.1,1,19,2,1,27,Matches
+334,Nick Hagglund,us USA,DF,FC Cincinnati,30,1992,23.9,858,1042,82.3,15934,7016,311,353,467,525,74,143,0,0.5,1.0,-0.5,4,95,4,1,76,Matches
+335,Maren Haile-Selassie,ch SUI,"FW,DF",Chicago Fire,23,1999,21.2,512,655,78.2,7311,2036,304,348,142,178,32,69,3,2.9,3.0,+0.1,35,35,27,5,66,Matches
+336,Julian Hall,us USA,FW,NY Red Bulls,14,2008,0.1,0,2,0.0,0,0,0,0,0,1,0,1,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+337,Michael Halliday,us USA,DF,Orlando City,20,2003,9.5,277,372,74.5,4405,1215,134,153,116,152,16,35,2,1.1,1.1,+0.9,11,6,5,3,15,Matches
+338,Bret Halsey,us USA,DF,FC Cincinnati,22,2000,2.6,96,119,80.7,1357,442,62,65,28,41,4,7,0,0.3,0.4,-0.3,3,2,2,0,6,Matches
+339,Ahmed Hamdi,eg EGY,"MF,FW",CF Montréal,24,1998,5.3,150,200,75.0,2354,656,87,103,51,63,8,14,0,0.4,0.5,-0.4,6,15,4,0,23,Matches
+340,Yosuke Hanya,jp JPN,"FW,MF",Colorado Rapids,24,1999,0.5,7,11,63.6,102,6,3,4,3,5,1,2,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+341,Ian Harkes,us USA,MF,NE Revolution,27,1995,6.7,266,314,84.7,4589,1149,121,135,115,128,25,34,0,0.2,0.6,-0.2,5,20,2,1,27,Matches
+342,Cameron Harper,us USA,"DF,MF",NY Red Bulls,21,2001,23.9,654,971,67.4,9848,3419,369,438,216,332,40,127,2,3.3,3.3,-1.3,26,37,25,14,71,Matches
+343,Nathan Harriel,us USA,DF,Philadelphia Union,21,2001,18.6,558,766,72.8,9326,3395,267,316,248,334,34,78,0,1.0,0.9,-1.0,14,48,12,5,60,Matches
+344,Calvin Harris,eng ENG,FW,Colorado Rapids,22,2000,10.0,146,209,69.9,2363,464,68,90,61,78,10,20,3,0.9,0.9,+2.1,8,11,2,1,15,Matches
+345,Thomas Hasal,ca CAN,GK,Vancouver W'caps,23,1999,1.0,33,42,78.6,786,482,8,8,19,19,6,15,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+346,Héber,br BRA,"FW,MF",Seattle Sounders,31,1991,11.8,243,297,81.8,3230,425,142,165,65,79,14,20,1,1.4,1.3,-0.4,18,19,6,1,19,Matches
+347,Matt Hedges,us USA,DF,Toronto FC,32,1990,11.9,513,626,81.9,10656,4851,156,169,282,318,71,124,0,0.0,0.1,0.0,0,34,1,0,39,Matches
+348,Matt Hedges,us USA,DF,Austin,32,1990,3.4,157,180,87.2,2924,1150,57,59,83,92,13,23,0,0.1,0.1,-0.1,1,3,1,0,8,Matches
+349,Chris Hegardt,us USA,"FW,MF",Charlotte,21,2002,0.6,24,32,75.0,429,180,12,13,8,9,4,8,0,0.1,0.4,-0.1,2,4,0,0,3,Matches
+350,Fabian Herbers,de GER,"MF,FW",Chicago Fire,29,1993,21.9,764,938,81.4,11799,3387,406,455,278,325,54,87,2,2.8,3.0,-0.8,20,64,21,3,104,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+351,Felipe Hernandez,us USA,MF,Sporting KC,24,1998,3.6,80,110,72.7,1352,478,43,51,31,41,5,12,0,0.5,0.4,-0.5,4,10,2,0,11,Matches
+352,Javier Hernández,mx MEX,FW,LA Galaxy,34,1988,7.6,132,167,79.0,2134,348,68,87,42,53,12,15,1,1.4,0.4,-0.4,12,13,4,0,21,Matches
+353,Ronald Hernández,ve VEN,DF,Atlanta Utd,25,1997,7.8,348,420,82.9,5973,1931,166,182,142,162,34,58,0,0.1,0.7,-0.1,1,33,4,1,41,Matches
+354,Aaron Herrera,gt GUA,"DF,MF",CF Montréal,25,1997,15.6,577,769,75.0,10745,3906,256,293,243,302,71,146,2,1.5,1.3,+0.5,18,50,15,6,69,Matches
+355,Héctor Herrera,mx MEX,MF,Houston Dynamo,32,1990,28.1,1856,2252,82.4,32861,12178,884,971,665,783,242,376,11,5.7,7.7,+5.3,61,224,41,7,246,Matches
+356,Bode Hidalgo,us USA,DF,Real Salt Lake,20,2002,13.1,601,765,78.6,10478,3299,282,325,250,299,58,103,1,0.6,0.7,+0.4,14,47,12,2,62,Matches
+357,Kyle Hiebert,ca CAN,DF,St. Louis,25,1997,23.6,686,938,73.1,12416,5168,269,339,360,441,51,131,0,0.2,0.4,-0.2,8,58,2,1,79,Matches
+358,Brendan Hines-Ike,us USA,DF,D.C. United,28,1994,10.4,293,349,84.0,5672,2123,108,115,158,177,24,51,0,0.0,0.1,0.0,0,17,1,0,21,Matches
+359,Bongokuhle Hlongwane,za RSA,FW,Minnesota Utd,22,2000,27.6,552,803,68.7,7534,2084,347,448,155,213,26,60,3,4.1,5.5,-1.1,31,37,36,2,85,Matches
+360,Junior Hoilett,ca CAN,"FW,MF",Vancouver W'caps,32,1990,2.6,66,89,74.2,1177,389,33,40,20,24,11,18,0,0.3,0.6,-0.3,6,8,4,1,15,Matches
+361,Ryan Hollingshead,us USA,DF,LAFC,31,1991,26.1,1138,1392,81.8,17766,6874,590,667,480,564,49,101,0,1.3,1.8,-1.3,23,105,10,1,134,Matches
+362,Erik Holt,us USA,DF,Real Salt Lake,26,1996,0.6,38,43,88.4,958,416,5,5,23,25,10,13,0,0.0,0.0,0.0,0,3,0,0,2,Matches
+363,Jackson Hopkins,us USA,MF,D.C. United,18,2004,2.2,63,78,80.8,1062,335,30,32,27,30,5,10,0,0.1,0.2,-0.1,1,8,4,1,8,Matches
+364,Matthew Hoppe,us USA,"FW,MF",SJ Earthquakes,21,2001,4.7,88,129,68.2,1235,303,61,73,18,28,6,15,0,0.5,0.6,-0.5,3,7,6,2,11,Matches
+365,Keegan Hughes,us USA,DF,Columbus Crew,22,2000,0.0,0,1,0.0,0,0,0,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+366,Erik Hurtado,us USA,"FW,MF",D.C. United,32,1990,3.0,37,50,74.0,410,61,25,31,6,8,0,1,0,0.4,0.7,-0.4,4,1,1,1,1,Matches
+367,Franco Ibarra,ar ARG,MF,Toronto FC,21,2001,4.9,190,228,83.3,3533,1218,79,85,85,102,21,28,0,0.0,0.1,0.0,1,25,2,0,23,Matches
+368,Franco Ibarra,ar ARG,MF,Atlanta Utd,21,2001,14.2,606,718,84.4,10669,3558,245,278,278,320,62,83,0,0.3,0.6,-0.3,4,82,6,1,79,Matches
+369,Sebastien Ibeagha,us USA,DF,FC Dallas,31,1992,26.5,1110,1327,83.6,20614,7851,397,430,619,685,84,188,1,0.2,0.2,+0.8,1,39,0,0,54,Matches
+370,Aliyu Ibrahim,ng NGA,FW,Houston Dynamo,21,2002,13.4,204,273,74.7,2808,366,117,150,71,89,4,8,2,1.3,0.8,+0.7,9,6,6,2,14,Matches
+371,Sunusi Ibrahim,ng NGA,"FW,MF",CF Montréal,20,2002,13.0,205,294,69.7,2993,516,134,168,53,83,13,28,3,2.6,1.8,+0.4,20,16,9,3,23,Matches
+372,Tega Ikoba,us USA,FW,Portland Timbers,19,2003,1.0,11,19,57.9,96,9,10,16,0,1,0,1,0,0.0,0.1,0.0,1,0,0,0,0,Matches
+373,Mitja Ilenič,si SVN,DF,NYCFC,18,2004,13.2,459,603,76.1,7182,2546,242,267,186,241,22,65,2,1.1,1.4,+0.9,13,28,10,6,46,Matches
+374,Ilias Iliadis,gr GRE,"DF,MF",CF Montréal,21,2001,2.8,79,128,61.7,1399,396,31,44,43,63,4,14,0,0.2,0.2,-0.2,3,3,1,1,5,Matches
+375,Marko Ilić,rs SRB,GK,Colorado Rapids,24,1998,13.0,266,379,70.2,7432,5375,57,58,114,118,92,197,0,0.0,0.0,0.0,0,3,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+376,Asier Illarramendi,es ESP,MF,FC Dallas,32,1990,7.7,526,590,89.2,8135,2407,278,299,201,216,28,37,0,0.0,0.9,0.0,0,73,7,0,65,Matches
+377,Lorenzo Insigne,it ITA,"FW,MF",Toronto FC,31,1991,16.9,836,1034,80.9,13961,3151,452,510,262,317,98,140,4,3.5,3.3,+0.5,35,72,29,1,90,Matches
+378,Clint Irwin,us USA,GK,Minnesota Utd,33,1989,4.0,94,120,78.3,2586,1928,12,12,50,51,32,57,0,0.0,0.0,0.0,0,2,0,0,0,Matches
+379,Aljaž Ivačič,si SVN,GK,Portland Timbers,29,1993,15.0,243,467,52.0,8563,6980,32,32,93,95,118,338,0,0.0,0.0,0.0,0,13,0,0,0,Matches
+380,Emmanuel Iwe,us USA,FW,Minnesota Utd,22,2000,0.6,8,13,61.5,93,28,6,7,0,3,1,2,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+381,Ousman Jabang,us USA,DF,CF Montréal,21,2001,0.9,39,44,88.6,663,229,18,22,15,16,5,5,0,0.1,0.2,-0.1,1,4,0,0,4,Matches
+382,Aziel Jackson,us USA,"MF,FW",St. Louis,21,2001,12.4,273,352,77.6,4236,1260,141,162,93,111,24,42,4,2.1,2.3,+1.9,20,24,21,3,55,Matches
+383,Jacob Jackson,us USA,GK,NE Revolution,22,2000,2.0,48,63,76.2,1251,865,9,9,20,20,18,33,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+384,Bertin Jacquesson,fr FRA,"FW,MF",Real Salt Lake,22,2001,4.0,42,77,54.5,599,120,25,34,16,23,1,10,0,0.3,0.4,-0.3,3,1,4,0,8,Matches
+385,Eldin Jakupović,ch SUI,GK,LAFC,38,1984,2.0,29,43,67.4,846,606,4,4,16,16,9,22,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+386,Robin Jansson,se SWE,DF,Orlando City,31,1991,32.0,1384,1624,85.2,28085,11956,421,461,799,854,156,282,0,0.6,0.7,-0.6,6,64,6,0,61,Matches
+387,Andres Jasson,us USA,FW,NYCFC,21,2002,9.0,179,241,74.3,2881,796,88,103,71,85,14,25,1,1.3,0.8,-0.3,12,9,3,3,19,Matches
+388,Mohanad Jeahze,iq IRQ,DF,D.C. United,25,1997,4.0,152,205,74.1,2725,924,67,77,66,81,18,34,1,0.3,0.5,+0.7,3,10,3,1,9,Matches
+389,Corentin Jean,fr FRA,"FW,MF",Inter Miami,27,1995,9.2,279,344,81.1,4067,778,171,187,83,103,13,30,0,0.9,0.9,-0.9,17,12,9,2,27,Matches
+390,Isak Jensen,dk DEN,"MF,FW",St. Louis,19,2003,1.6,37,56,66.1,411,125,25,28,7,14,0,3,0,0.0,0.0,0.0,1,1,1,0,5,Matches
+391,Hector Jiménez,us USA,MF,Austin,34,1988,0.6,13,20,65.0,256,41,6,8,5,7,2,3,0,0.1,0.0,-0.1,2,2,0,0,1,Matches
+392,Jesús Jiménez,es ESP,"FW,MF",FC Dallas,29,1993,7.6,148,185,80.0,2101,379,92,105,43,58,5,10,2,1.0,0.7,+1.0,7,10,5,1,16,Matches
+393,Stiven Jimenez,us USA,FW,FC Cincinnati,15,2007,0.0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+394,Levonte Johnson,ca CAN,"FW,DF",Vancouver W'caps,23,1999,2.2,44,64,68.8,690,218,24,28,18,25,2,5,0,0.1,0.1,-0.1,2,1,2,0,3,Matches
+395,Sean Johnson,us USA,GK,Toronto FC,33,1989,20.0,467,654,71.4,12012,8614,89,90,253,256,122,302,0,0.2,0.0,-0.2,3,6,1,0,0,Matches
+396,DeJuan Jones,us USA,DF,NE Revolution,25,1997,24.1,1214,1476,82.2,19595,7143,619,689,496,576,76,136,5,2.4,3.4,+2.6,23,75,22,12,103,Matches
+397,Derrick Jones,us USA,"MF,DF",Charlotte,25,1997,20.5,675,771,87.5,10803,2667,325,362,300,319,29,44,0,0.1,0.5,-0.1,1,58,3,0,54,Matches
+398,Juan José Sánchez,mx MEX,DF,Atlanta Utd,25,1998,23.7,1255,1408,89.1,25483,9472,371,396,717,769,157,217,0,0.2,0.2,-0.2,5,45,2,0,50,Matches
+399,Dejan Joveljić,rs SRB,FW,LA Galaxy,23,1999,18.1,324,418,77.5,4308,627,190,235,88,108,12,15,3,2.4,2.2,+0.6,25,14,10,1,34,Matches
+400,Kamil Jóźwiak,pl POL,"FW,MF",Charlotte,24,1998,15.3,431,577,74.7,6105,1578,261,310,136,178,14,34,5,2.6,2.5,+2.4,24,24,21,7,51,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+401,Preston Judd,us USA,FW,LA Galaxy,23,1999,7.1,55,81,67.9,777,118,27,39,18,24,5,6,1,1.0,0.5,0.0,8,1,4,0,4,Matches
+402,Judson,br BRA,MF,SJ Earthquakes,29,1993,5.2,197,226,87.2,3527,733,88,92,80,88,24,38,0,0.0,0.1,0.0,1,11,1,0,13,Matches
+403,Anderson Julio,ec ECU,FW,Real Salt Lake,26,1996,12.8,129,176,73.3,2215,265,66,82,43,52,15,21,0,1.2,1.1,-1.2,15,9,3,1,12,Matches
+404,Juninho,br BRA,MF,Orlando City,22,2001,0.0,3,5,60.0,28,2,3,3,0,1,0,1,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+405,Sam Junqua,us USA,"DF,MF",FC Dallas,26,1996,11.4,394,517,76.2,5789,2162,230,269,140,181,17,39,0,0.7,0.8,-0.7,7,26,4,1,37,Matches
+406,Kristijan Kahlina,hr CRO,GK,Charlotte,30,1992,24.0,695,980,70.9,18441,13467,168,170,325,331,201,477,1,0.3,0.1,+0.7,1,21,1,0,0,Matches
+407,Brent Kallman,us USA,"DF,FW",Minnesota Utd,32,1990,2.2,83,98,84.7,1763,839,20,22,51,59,12,16,0,0.0,0.0,0.0,0,2,0,0,4,Matches
+408,Kei Kamara,sl SLE,FW,Chicago Fire,38,1984,16.9,301,428,70.3,4356,698,180,235,88,123,18,28,1,0.9,1.0,+0.1,10,19,8,5,28,Matches
+409,Bernard Kamungo,us USA,"FW,MF",FC Dallas,21,2002,5.6,84,117,71.8,1344,243,48,59,27,39,6,10,0,0.5,0.6,-0.5,4,3,5,0,10,Matches
+410,Alec Kann,us USA,GK,FC Cincinnati,32,1990,1.0,28,30,93.3,613,444,7,7,15,15,5,7,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+411,Ercan Kara,at AUT,FW,Orlando City,27,1996,9.4,81,132,61.4,981,130,54,87,19,26,1,2,1,1.0,0.6,0.0,8,4,2,0,7,Matches
+412,Ibrahim Kasule,ug UGA,MF,NY Red Bulls,18,2004,0.3,3,6,50.0,27,4,1,2,1,1,0,1,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+413,Mark-Anthony Kaye,ca CAN,MF,Toronto FC,28,1994,20.4,1030,1208,85.3,16506,5149,526,578,409,467,66,102,0,0.6,1.1,-0.6,14,107,8,1,109,Matches
+414,Mark-Anthony Kaye,ca CAN,MF,NE Revolution,28,1994,8.7,398,465,85.6,6835,2224,175,201,179,198,34,44,3,0.4,0.4,+2.6,5,49,4,0,48,Matches
+415,Axel Kei,us USA,FW,Real Salt Lake,15,2007,0.1,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+416,Kipp Keller,us USA,DF,Austin,22,2000,4.9,253,280,90.4,4928,1434,72,80,160,166,19,32,0,0.0,0.1,0.0,0,12,0,0,9,Matches
+417,Deandre Kerr,ca CAN,"FW,MF",Toronto FC,20,2002,13.5,176,231,76.2,2391,339,115,136,52,69,5,9,1,2.1,1.1,-1.1,11,9,4,0,11,Matches
+418,Henry Kessler,us USA,DF,NE Revolution,24,1998,7.7,362,409,88.5,7997,2798,82,89,214,225,61,81,0,0.0,0.0,0.0,1,22,0,0,19,Matches
+419,Benjamin Kikanovic,us USA,"FW,MF",SJ Earthquakes,23,2000,7.8,146,196,74.5,1861,434,99,120,29,45,7,9,0,0.4,0.3,-0.4,7,10,4,1,13,Matches
+420,Gadi Kinda,il ISR,MF,Sporting KC,28,1994,9.3,361,447,80.8,5957,1777,198,215,107,128,43,71,4,1.4,1.9,+2.6,20,52,15,3,71,Matches
+421,Sota Kitahara,us USA,DF,Seattle Sounders,20,2003,0.0,6,7,85.7,87,28,3,4,3,3,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+422,Klauss,br BRA,FW,St. Louis,25,1997,14.6,246,380,64.7,3569,906,133,187,82,112,13,29,2,0.7,1.2,+1.3,14,23,13,2,38,Matches
+423,John Klein,us USA,MF,St. Louis,23,1999,0.3,6,12,50.0,112,30,4,7,1,2,1,1,0,0.0,0.0,0.0,0,1,0,0,2,Matches
+424,Mateusz Klich,pl POL,"MF,FW",D.C. United,32,1990,30.2,1306,1695,77.1,22602,7901,637,705,456,563,169,312,7,7.6,7.8,-0.6,79,117,52,15,208,Matches
+425,Jonathan Klinsmann,us USA,GK,LA Galaxy,25,1997,9.2,183,241,75.9,4321,3328,49,49,92,96,41,93,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+426,Žan Kolmanič,si SVN,DF,Austin,22,2000,4.7,250,308,81.2,4586,1204,97,104,125,145,23,48,0,0.2,0.3,-0.2,3,12,6,5,23,Matches
+427,Amet Korca,us USA,DF,FC Dallas,22,2000,1.7,46,54,85.2,812,219,21,22,22,25,3,7,0,0.0,0.0,0.0,0,3,0,0,2,Matches
+428,Georgios Koutsias,gr GRE,"FW,MF",Chicago Fire,18,2004,11.3,175,234,74.8,2469,244,107,126,54,76,8,16,1,0.7,0.9,+0.3,5,7,4,0,11,Matches
+429,Sebastian Kowalczyk,pl POL,"FW,MF",Houston Dynamo,24,1998,3.9,138,151,91.4,2021,422,84,88,40,42,9,14,1,0.5,0.8,+0.5,4,13,4,0,19,Matches
+430,Filip Krastev,bg BUL,MF,LAFC,21,2001,1.8,75,95,78.9,1018,366,43,50,23,31,3,7,0,0.2,0.5,-0.2,2,9,4,0,12,Matches
+431,Damir Kreilach,hr CRO,"FW,MF",Real Salt Lake,33,1989,14.6,370,461,80.3,5428,917,230,259,103,130,27,40,1,0.6,0.7,+0.4,7,28,10,2,38,Matches
+432,Serhiy Kryvtsov,ua UKR,DF,Inter Miami,31,1991,23.5,1172,1346,87.1,25101,9250,313,331,661,714,195,284,0,0.1,0.4,-0.1,2,84,3,0,63,Matches
+433,Theodore Ku-Dipietro,us USA,"FW,MF",D.C. United,21,2002,13.0,259,366,70.8,3606,1259,155,194,70,96,16,27,2,1.8,1.9,+0.2,13,30,15,2,46,Matches
+434,Yuya Kubo,jp JPN,"MF,FW",FC Cincinnati,29,1993,11.9,354,434,81.6,5707,1447,173,193,129,152,32,40,3,2.3,2.3,+0.7,13,33,13,2,47,Matches
+435,Jojea Kwizera,rw RWA,DF,CF Montréal,24,1999,1.5,59,82,72.0,954,328,31,38,21,30,6,9,0,0.1,0.1,-0.1,3,5,5,3,6,Matches
+436,Mathías Laborda,uy URU,DF,Vancouver W'caps,23,1999,17.1,703,897,78.4,13902,5215,229,267,378,456,87,143,0,1.2,1.0,-1.2,10,42,10,5,44,Matches
+437,Kevon Lambert,jm JAM,DF,Real Salt Lake,25,1997,0.3,17,17,100.0,379,145,3,3,10,10,4,4,0,0.0,0.0,0.0,0,2,0,0,1,Matches
+438,Lassi Lappalainen,fi FIN,"DF,FW",CF Montréal,24,1998,11.5,284,376,75.5,4421,1352,152,185,112,139,15,29,3,1.6,2.2,+1.4,13,20,13,0,37,Matches
+439,Oliver Larraz,us USA,MF,Colorado Rapids,21,2001,0.2,11,13,84.6,149,44,5,5,5,5,0,1,0,0.0,0.0,0.0,0,1,1,0,3,Matches
+440,Richie Laryea,ca CAN,DF,Toronto FC,28,1995,17.9,777,947,82.0,12368,4138,390,425,332,386,39,85,3,1.5,1.8,+1.5,9,66,5,0,82,Matches
+441,Richie Laryea,ca CAN,"FW,DF",Vancouver W'caps,28,1995,10.5,316,380,83.2,4471,1221,185,207,112,132,9,17,2,1.0,1.1,+1.0,6,21,12,2,31,Matches
+442,Ariel Lassiter,cr CRC,"FW,MF",Inter Miami,28,1994,1.7,46,57,80.7,776,133,28,31,13,18,5,5,0,0.2,0.2,-0.2,2,2,4,2,5,Matches
+443,Ariel Lassiter,cr CRC,"DF,MF",CF Montréal,28,1994,17.7,469,661,71.0,8244,2386,213,250,203,275,44,88,2,2.4,2.3,-0.4,17,37,18,10,60,Matches
+444,Kemar Lawrence,jm JAM,DF,Minnesota Utd,30,1992,12.4,422,583,72.4,7067,3234,200,229,176,226,37,87,0,1.5,1.1,-1.5,11,51,11,8,50,Matches
+445,Randall Leal,cr CRC,"MF,FW",Nashville SC,26,1997,12.7,395,528,74.8,5874,2034,237,266,114,148,28,61,0,3.3,2.7,-3.3,18,48,18,8,62,Matches
+446,Richy Ledezma,us USA,"MF,FW",NYCFC,22,2000,13.2,471,554,85.0,8215,1813,204,228,197,216,52,68,4,2.5,2.2,+1.5,23,48,21,2,85,Matches
+447,Kelvin Leerdam,sr SUR,DF,LA Galaxy,32,1990,13.4,643,740,86.9,12142,3848,244,264,331,367,61,89,1,1.4,1.4,-0.4,8,58,4,2,46,Matches
+448,Tim Leibold,de GER,DF,Sporting KC,29,1993,9.7,491,571,86.0,7822,2472,261,290,177,201,40,52,2,1.2,1.4,+0.8,17,46,20,5,64,Matches
+449,Brooks Lennon,us USA,DF,Atlanta Utd,25,1997,32.0,1561,1908,81.8,26441,7664,765,832,615,699,144,287,9,5.2,6.0,+3.8,57,91,36,16,126,Matches
+450,Jonathan Lewis,us USA,"FW,MF",Colorado Rapids,25,1997,13.2,205,264,77.7,3004,603,116,138,66,79,13,20,0,0.8,0.6,-0.8,11,11,5,2,16,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+451,Danny Leyva,us USA,MF,Colorado Rapids,19,2003,7.1,262,339,77.3,4085,1427,140,155,92,120,17,36,0,0.6,0.3,-0.6,11,20,3,1,31,Matches
+452,Danny Leyva,us USA,"MF,FW",Seattle Sounders,19,2003,0.2,16,18,88.9,249,101,8,9,6,6,1,2,0,0.0,0.0,0.0,0,2,1,1,2,Matches
+453,Nick Lima,us USA,DF,Austin,28,1994,27.0,1032,1362,75.8,20079,5420,360,399,527,631,127,283,3,3.9,2.9,-0.9,38,88,30,19,104,Matches
+454,Jaylin Lindsey,us USA,DF,Charlotte,22,2000,14.5,654,821,79.7,10430,4165,340,365,267,327,35,96,2,1.0,1.6,+1.0,10,51,13,7,65,Matches
+455,Sebastian Lletget,us USA,"MF,FW",FC Dallas,30,1992,12.9,452,553,81.7,6604,1883,264,295,147,181,20,37,2,1.5,1.1,+0.5,15,40,18,3,66,Matches
+456,Saba Lobzhanidze,ge GEO,FW,Atlanta Utd,28,1994,5.2,121,160,75.6,1596,306,78,92,34,48,5,8,4,1.7,1.4,+2.3,11,7,7,2,13,Matches
+457,Robin Lod,fi FIN,"MF,FW",Minnesota Utd,29,1993,10.0,360,453,79.5,5552,1961,199,230,126,152,23,41,1,1.5,1.6,-0.5,12,58,14,2,66,Matches
+458,Nicolás Lodeiro,uy URU,"MF,FW",Seattle Sounders,33,1989,27.5,1268,1731,73.3,20192,6627,691,803,411,539,118,261,5,6.0,7.9,-1.0,63,154,62,12,235,Matches
+459,Jasper Löffelsend,de GER,MF,Real Salt Lake,25,1997,12.6,570,691,82.5,10579,2355,232,261,258,292,69,101,1,1.1,1.2,-0.1,10,54,9,3,68,Matches
+460,Aaron Long,us USA,DF,LAFC,30,1992,16.9,802,927,86.5,15882,5221,220,240,490,529,86,136,1,0.6,0.3,+0.4,3,38,1,0,31,Matches
+461,Erik López,py PAR,"FW,MF",Atlanta Utd,21,2001,0.3,3,5,60.0,66,13,2,2,0,1,1,1,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+462,Marvin Loría,cr CRC,"FW,MF",Portland Timbers,25,1997,8.4,171,239,71.5,2743,666,102,119,43,57,19,38,1,0.3,0.5,+0.7,6,12,11,2,20,Matches
+463,Daniel Lovitz,us USA,DF,Nashville SC,31,1991,31.6,1402,1915,73.2,28177,11939,480,572,706,875,198,399,4,3.7,3.5,+0.3,35,131,37,20,148,Matches
+464,Damion Lowe,jm JAM,DF,Philadelphia Union,29,1993,13.7,357,495,72.1,7103,3084,133,163,167,194,54,119,0,0.2,0.2,-0.2,3,22,2,0,18,Matches
+465,Eduard Löwen,de GER,MF,St. Louis,26,1997,25.6,986,1429,69.0,18344,7670,451,550,352,465,156,324,9,3.7,4.9,+5.3,46,151,42,9,199,Matches
+466,Favian Loyola,cl CHI,MF,Orlando City,17,2005,0.0,6,6,100.0,96,19,2,2,3,3,0,0,0,0.0,0.0,0.0,1,0,1,0,1,Matches
+467,Diego Luna,us USA,"MF,FW",Real Salt Lake,19,2003,13.3,516,620,83.2,8404,2120,267,301,198,219,38,65,1,2.2,2.6,-1.2,38,57,20,2,75,Matches
+468,Adam Lundqvist,se SWE,"DF,MF",Austin,28,1994,9.6,319,443,72.0,5771,1670,149,176,135,179,32,66,2,0.8,1.1,+1.2,9,21,11,6,28,Matches
+469,Benjamin Lundt,de GER,GK,St. Louis,27,1995,1.0,23,28,82.1,532,405,3,3,15,15,5,9,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+470,Luquinhas,br BRA,"MF,FW",NY Red Bulls,26,1996,22.2,431,545,79.1,6022,1852,253,295,136,170,17,29,2,2.6,2.5,-0.6,33,47,28,1,83,Matches
+471,Jack Lynn,us USA,"MF,FW",Orlando City,23,2000,0.4,6,8,75.0,133,86,3,4,1,2,2,2,0,0.0,0.0,0.0,0,1,0,0,1,Matches
+472,Larrys Mabiala,cd COD,DF,Portland Timbers,35,1987,9.8,393,468,84.0,8523,3016,112,123,207,229,71,102,0,0.0,0.1,0.0,1,20,1,0,17,Matches
+473,Aimé Mabika,zm ZAM,DF,Toronto FC,24,1998,16.8,760,855,88.9,13896,5265,294,320,401,434,59,80,0,0.0,0.2,0.0,1,31,2,0,33,Matches
+474,Zac MacMath,us USA,GK,Real Salt Lake,31,1991,27.5,691,968,71.4,19522,14446,126,129,331,336,234,498,0,0.0,0.0,0.0,1,16,0,0,0,Matches
+475,Lukas MacNaughton,ca CAN,DF,Toronto FC,27,1995,2.0,101,110,91.8,1856,653,41,42,52,54,8,10,0,0.0,0.0,0.0,0,3,0,0,6,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+476,Lukas MacNaughton,ca CAN,DF,Nashville SC,27,1995,11.9,546,640,85.3,11313,4041,158,172,305,336,73,113,0,0.1,0.1,-0.1,2,14,0,0,8,Matches
+477,Talles Magno,br BRA,FW,NYCFC,20,2002,21.2,515,636,81.0,7347,1690,318,364,145,175,31,40,2,2.8,3.1,-0.8,27,54,26,0,77,Matches
+478,Jack Maher,us USA,DF,Nashville SC,23,1999,32.0,1446,1638,88.3,31115,10380,318,351,911,968,210,299,0,0.4,0.2,-0.4,4,52,2,1,61,Matches
+479,Cassius Mailula,za RSA,"FW,MF",Toronto FC,21,2001,0.8,13,15,86.7,194,13,4,5,8,8,0,0,0,0.0,0.0,0.0,1,1,0,0,1,Matches
+480,Christian Makoun,ve VEN,"DF,MF",NE Revolution,22,2000,5.4,243,305,79.7,4487,1490,102,111,114,136,24,45,1,0.3,0.4,+0.7,3,27,2,1,27,Matches
+481,Adilson Malanda,fr FRA,DF,Charlotte,21,2001,28.5,1388,1700,81.6,27877,10306,419,495,787,869,164,290,1,0.6,0.9,+0.4,5,59,2,2,80,Matches
+482,Denil Maldonado,hn HON,DF,LAFC,24,1998,18.6,839,990,84.7,16928,5772,269,294,455,494,106,172,0,0.7,0.6,-0.7,4,63,1,0,41,Matches
+483,Machop Malual,ss SSD,"FW,MF",Atlanta Utd,24,1998,5.2,95,124,76.6,1349,235,54,70,35,39,2,3,0,0.3,0.3,-0.3,3,10,5,1,13,Matches
+484,Elias Manoel,br BRA,FW,NY Red Bulls,21,2001,18.4,217,320,67.8,3109,413,128,174,54,77,20,26,3,2.4,1.7,+0.6,17,10,6,2,12,Matches
+485,J.T. Marcinkowski,us USA,GK,SJ Earthquakes,25,1997,12.4,239,345,69.3,6531,4776,57,57,91,92,89,189,0,0.0,0.0,0.0,0,3,0,0,0,Matches
+486,Paul Marie,fr FRA,DF,SJ Earthquakes,27,1995,22.3,871,1134,76.8,13531,5265,452,516,353,440,41,110,1,0.8,1.7,+0.2,13,60,24,6,95,Matches
+487,Anthony Markanich,ph PHI,DF,Colorado Rapids,23,1999,3.8,126,181,69.6,1971,740,61,72,55,78,5,20,0,0.2,0.1,-0.2,2,10,2,1,9,Matches
+488,Anthony Markanich,ph PHI,DF,St. Louis,23,1999,7.3,216,322,67.1,3672,1564,101,130,97,139,14,39,0,1.4,0.4,-1.4,9,26,4,0,18,Matches
+489,George Marks,us USA,GK,Charlotte,23,1999,7.0,196,257,76.3,5482,4054,40,40,87,89,68,126,0,0.0,0.0,0.0,0,6,0,0,0,Matches
+490,Mikael Marques,se SWE,MF,Minnesota Utd,21,2001,0.1,3,4,75.0,55,28,2,3,0,0,1,1,0,0.0,0.0,0.0,0,2,0,0,1,Matches
+491,Jahkeele Marshall-Rutty,ca CAN,"MF,DF",Toronto FC,18,2004,12.8,484,562,86.1,6519,1387,289,316,155,177,13,29,1,0.7,0.6,+0.3,11,18,9,6,31,Matches
+492,Alonso Martínez,cr CRC,"FW,DF",NYCFC,24,1998,0.4,11,12,91.7,134,24,5,5,3,4,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+493,José Martínez,es ESP,DF,FC Dallas,29,1993,15.9,892,1027,86.9,16832,6646,324,342,469,499,90,168,1,0.5,0.4,+0.5,2,44,1,0,37,Matches
+494,Josef Martínez,ve VEN,FW,Inter Miami,29,1993,19.3,324,381,85.0,4353,597,202,227,79,93,16,19,1,1.2,1.4,-0.2,11,22,6,0,33,Matches
+495,Luís Martins,pt POR,DF,Vancouver W'caps,30,1992,18.0,795,1045,76.1,14557,5476,333,375,380,461,71,169,0,1.5,1.8,-1.5,17,75,19,8,90,Matches
+496,Thiago Martins,br BRA,DF,NYCFC,27,1995,24.3,1510,1679,89.9,30879,11272,431,465,895,953,172,233,0,0.2,0.3,-0.2,2,79,2,0,89,Matches
+497,Alexandru Mățan,ro ROU,"MF,FW",Columbus Crew,23,1999,25.2,830,1025,81.0,11903,3222,492,557,271,330,35,68,8,6.1,6.1,+1.9,33,83,39,3,133,Matches
+498,Jimmy Maurer,us USA,GK,FC Dallas,34,1988,4.8,124,171,72.5,3226,2395,25,25,64,65,35,77,0,0.0,0.0,0.0,0,2,0,0,1,Matches
+499,Chris Mavinga,cd COD,DF,LA Galaxy,31,1991,12.5,687,729,94.2,11162,3876,315,328,333,340,24,38,0,0.1,0.1,-0.1,2,23,0,0,18,Matches
+500,Max,br BRA,"MF,FW",Colorado Rapids,21,2001,7.4,196,256,76.6,3667,881,87,106,80,108,25,32,0,0.6,0.6,-0.6,8,22,8,0,41,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+501,Andreas Maxsø,dk DEN,DF,Colorado Rapids,28,1994,32.5,1266,1426,88.8,24199,7445,385,416,768,816,104,170,0,0.8,0.9,-0.8,5,33,0,0,40,Matches
+502,Olivier Mbaizo,cm CMR,DF,Philadelphia Union,25,1997,20.4,694,927,74.9,11287,4561,349,402,283,366,46,97,1,0.8,1.0,+0.2,13,52,16,6,76,Matches
+503,Hugo-Hilaire Mbongue Mbongue,ca CAN,"FW,MF",Toronto FC,18,2004,2.9,40,62,64.5,549,75,26,37,10,13,2,4,0,0.5,0.8,-0.5,5,1,1,0,3,Matches
+504,John McCarthy,us USA,GK,LAFC,30,1992,25.0,460,668,68.9,12732,9523,73,74,230,236,154,354,0,0.0,0.0,0.0,1,7,0,0,0,Matches
+505,Dax McCarty,us USA,MF,Nashville SC,35,1987,21.0,908,1074,84.5,16972,5479,392,439,375,418,121,162,1,1.2,1.2,-0.2,23,99,13,2,121,Matches
+506,Jack McGlynn,us USA,MF,Philadelphia Union,19,2003,18.0,949,1133,83.8,17422,6049,448,492,346,396,137,196,1,1.9,2.2,-0.9,22,157,27,4,155,Matches
+507,Zac McGraw,ca CAN,DF,Portland Timbers,25,1997,26.9,835,1045,79.9,17939,6296,231,274,457,517,138,229,1,0.5,1.0,+0.5,5,49,2,0,43,Matches
+508,Duncan McGuire,us USA,FW,Orlando City,21,2001,15.4,162,234,69.2,2279,293,95,133,51,66,8,10,3,2.9,2.2,+0.1,15,6,5,1,13,Matches
+509,Kendall McIntosh,us USA,GK,Sporting KC,29,1994,13.2,297,399,74.4,7073,4568,61,63,166,171,70,165,0,0.0,0.0,0.0,0,2,0,0,0,Matches
+510,Thomas McNamara,us USA,"MF,FW",NE Revolution,31,1991,2.1,88,103,85.4,1424,486,39,43,42,47,5,8,0,0.1,0.1,-0.1,3,11,1,0,9,Matches
+511,Christopher McVey,se SWE,DF,Inter Miami,25,1997,13.5,719,816,88.1,14169,5147,236,256,391,419,87,124,0,0.3,0.2,-0.3,7,38,1,0,40,Matches
+512,Jimmy Medranda,co COL,"MF,DF",Columbus Crew,28,1994,1.2,89,110,80.9,1369,420,47,52,38,49,4,9,0,0.2,0.3,-0.2,3,8,4,2,15,Matches
+513,Tim Melia,us USA,GK,Sporting KC,36,1986,15.8,335,488,68.6,9405,6290,49,51,175,176,110,257,0,0.0,0.0,0.0,0,10,1,0,0,Matches
+514,Vinicius Mello,br BRA,FW,Charlotte,20,2002,0.6,20,24,83.3,369,70,8,9,9,10,2,3,0,0.0,0.0,0.0,0,2,1,0,4,Matches
+515,Jonathan Mensah,gh GHA,DF,SJ Earthquakes,32,1990,21.7,911,1040,87.6,16977,6562,346,375,462,516,97,135,0,0.6,1.1,-0.6,5,43,1,0,41,Matches
+516,Justin Meram,iq IRQ,"FW,MF",Charlotte,34,1988,14.8,516,662,77.9,8703,2409,278,311,174,215,52,94,4,2.8,2.8,+1.2,24,39,29,10,68,Matches
+517,Justin Meram,iq IRQ,"FW,MF",Real Salt Lake,34,1988,2.0,61,86,70.9,1107,301,29,37,21,24,9,16,1,0.3,0.3,+0.7,2,8,2,1,13,Matches
+518,Lionel Messi,ar ARG,"FW,MF",Inter Miami,35,1987,4.1,161,216,74.5,2461,831,95,104,54,69,8,24,2,1.4,1.4,+0.6,6,19,8,0,36,Matches
+519,Matt Miazga,us USA,DF,FC Cincinnati,27,1995,26.5,1124,1303,86.3,24813,10238,239,270,689,752,189,255,1,0.6,0.9,+0.4,7,44,3,0,59,Matches
+520,Micael,br BRA,DF,Houston Dynamo,22,2000,21.9,1012,1173,86.3,19736,7886,345,374,537,588,115,183,0,0.0,0.3,0.0,1,51,2,0,44,Matches
+521,Novak Mićović,rs SRB,GK,LA Galaxy,21,2001,2.0,49,56,87.5,1054,641,12,12,26,26,10,17,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+522,Matko Miljevic,us USA,"MF,FW",CF Montréal,21,2001,1.5,52,81,64.2,1007,293,24,31,18,22,10,22,1,0.2,0.5,+0.8,1,3,1,1,9,Matches
+523,Eric Miller,us USA,DF,Portland Timbers,30,1993,13.4,364,487,74.7,6886,2708,138,165,186,228,37,73,0,0.2,0.4,-0.2,3,18,4,3,26,Matches
+524,Kamal Miller,ca CAN,DF,Inter Miami,25,1997,20.5,1174,1326,88.5,24055,9490,353,382,661,709,154,214,0,0.5,0.5,-0.5,8,97,4,1,79,Matches
+525,Kamal Miller,ca CAN,DF,CF Montréal,25,1997,5.3,260,311,83.6,5233,2457,99,108,122,135,39,59,0,0.0,0.1,0.0,0,33,1,0,27,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+526,Tyler Miller,us USA,GK,D.C. United,29,1993,24.5,882,1210,72.9,25975,21291,216,217,343,357,320,627,0,0.0,0.4,0.0,1,61,6,0,10,Matches
+527,Kevin Molino,tt TRI,"MF,FW",Columbus Crew,32,1990,0.7,86,95,90.5,1150,275,51,55,27,28,3,5,0,0.1,0.1,-0.1,2,6,3,1,7,Matches
+528,Alex Monis,ph PHI,FW,Chicago Fire,19,2003,0.1,3,6,50.0,26,7,2,3,0,0,0,1,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+529,Jamiro Monteiro,cv CPV,MF,SJ Earthquakes,29,1993,23.6,962,1111,86.6,14653,3352,545,591,309,349,65,98,3,2.5,3.1,+0.5,26,86,18,2,113,Matches
+530,Fredy Montero,co COL,"FW,MF",Seattle Sounders,35,1987,4.8,108,159,67.9,1809,498,48,62,44,60,12,23,1,0.8,1.0,+0.2,8,13,5,1,23,Matches
+531,Shaq Moore,us USA,DF,Nashville SC,26,1996,30.8,1107,1449,76.4,20561,7293,449,506,505,622,137,255,4,3.0,2.6,+1.0,25,83,36,18,106,Matches
+532,Felipe Mora,cl CHI,FW,Portland Timbers,29,1993,9.1,154,198,77.8,2489,393,83,101,51,65,15,18,1,1.2,1.2,-0.2,7,13,8,0,22,Matches
+533,Joseph Mora,cr CRC,DF,Charlotte,30,1993,2.1,74,116,63.8,1035,518,40,50,28,36,1,12,0,0.1,0.1,-0.1,1,2,2,1,9,Matches
+534,Alfredo Morales,us USA,MF,NYCFC,32,1990,12.9,494,571,86.5,8478,2323,234,261,207,224,46,68,1,0.2,0.8,+0.8,5,54,5,1,47,Matches
+535,Maximiliano Moralez,ar ARG,"MF,FW",NYCFC,35,1987,3.5,189,230,82.2,3097,1148,95,107,72,81,17,29,0,1.1,1.0,-1.1,8,31,12,2,41,Matches
+536,Steven Moreira,cv CPV,DF,Columbus Crew,28,1994,32.5,1941,2191,88.6,33987,13438,837,897,956,1029,126,192,3,2.6,2.5,+0.4,24,170,27,8,170,Matches
+537,Junior Moreno,ve VEN,MF,FC Cincinnati,29,1993,25.0,1011,1120,90.3,16689,4977,477,519,396,424,90,107,2,0.9,1.5,+1.1,14,96,17,2,115,Matches
+538,Santiago Moreno,co COL,"FW,MF",Portland Timbers,22,2000,25.9,752,1011,74.4,12069,3623,382,465,263,334,71,121,6,4.8,4.9,+1.2,47,88,40,4,130,Matches
+539,Lewis Morgan,sct SCO,"MF,FW",NY Red Bulls,26,1996,3.3,65,100,65.0,1104,355,32,42,25,35,8,17,0,0.4,0.1,-0.4,4,6,1,1,10,Matches
+540,Aidan Morris,us USA,MF,Columbus Crew,21,2001,28.7,1749,1902,92.0,28599,7316,884,928,692,739,133,156,3,2.5,2.5,+0.5,31,174,15,2,179,Matches
+541,Jordan Morris,us USA,FW,Seattle Sounders,28,1994,22.0,409,560,73.0,5379,922,280,341,102,143,13,25,0,2.5,1.6,-2.5,21,17,15,3,27,Matches
+542,Edwin Mosquera,co COL,"FW,MF",Atlanta Utd,21,2001,4.9,118,175,67.4,1861,458,57,73,50,71,8,13,0,0.5,1.1,-0.5,4,7,8,2,20,Matches
+543,Yerson Mosquera,co COL,DF,FC Cincinnati,21,2001,25.0,1076,1325,81.2,19710,7596,425,469,532,617,100,189,1,0.6,0.8,+0.4,6,90,5,0,89,Matches
+544,Jean Mota,br BRA,MF,Inter Miami,29,1993,10.1,571,723,79.0,10768,3650,227,253,254,299,79,132,3,0.8,2.3,+2.2,12,85,18,1,84,Matches
+545,Chris Mueller,us USA,"FW,MF",Chicago Fire,26,1996,7.9,223,289,77.2,3405,870,135,155,64,82,18,25,0,0.5,0.7,-0.5,9,14,11,2,38,Matches
+546,Hany Mukhtar,de GER,"FW,MF",Nashville SC,27,1995,31.5,911,1223,74.5,15196,4068,458,527,316,407,103,194,9,9.3,7.2,-0.3,70,88,40,6,135,Matches
+547,José Mulato,co COL,"FW,MF",FC Dallas,20,2003,1.2,13,20,65.0,180,45,7,8,5,7,0,0,0,0.4,0.0,-0.4,2,1,1,0,2,Matches
+548,O'Vonte Mullings,ca CAN,"MF,DF",NY Red Bulls,22,2000,0.5,10,12,83.3,125,15,7,7,2,2,0,2,0,0.0,0.0,0.0,1,0,0,0,1,Matches
+549,Daniel Munie,us USA,DF,SJ Earthquakes,22,2000,1.2,39,56,69.6,696,280,15,15,22,29,2,11,0,0.0,0.0,0.0,0,4,0,0,0,Matches
+550,Ian Murphy,us USA,DF,FC Cincinnati,23,2000,16.9,682,807,84.5,11538,4609,302,330,323,361,43,89,0,0.1,0.2,-0.1,2,48,2,0,58,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+551,Daniel Musovski,us USA,FW,Real Salt Lake,27,1995,13.4,153,233,65.7,1993,354,96,134,36,53,8,13,4,1.7,1.1,+2.3,9,12,6,0,20,Matches
+552,Alex Muyl,us USA,"MF,DF",Nashville SC,27,1995,22.7,557,750,74.3,8888,2686,306,351,176,221,54,99,0,0.9,1.6,-0.9,19,42,14,4,67,Matches
+553,Tristan Muyumba,fr FRA,MF,Atlanta Utd,25,1997,9.1,461,515,89.5,6999,2219,260,285,152,162,33,42,1,0.6,0.8,+0.4,9,42,6,0,48,Matches
+554,Darlington Nagbe,us USA,MF,Columbus Crew,32,1990,31.0,1487,1593,93.3,22365,5492,795,826,587,625,59,65,1,0.9,1.5,+0.1,21,149,17,0,182,Matches
+555,Andy Najar,hn HON,DF,D.C. United,29,1993,12.3,507,608,83.4,9076,3113,234,256,198,231,67,92,0,0.8,1.2,-0.8,11,54,25,6,83,Matches
+556,Federico Navarro,ar ARG,MF,Chicago Fire,22,2000,12.2,399,466,85.6,6479,1835,219,242,134,148,40,52,0,0.2,0.3,-0.2,4,37,3,0,34,Matches
+557,Miguel Navarro,ve VEN,DF,Chicago Fire,23,1999,21.9,813,1112,73.1,13347,5885,411,466,343,464,49,140,4,2.3,1.2,+1.7,13,58,11,7,69,Matches
+558,Rafael Navarro,br BRA,FW,Colorado Rapids,22,2000,9.8,115,158,72.8,1573,346,67,80,32,47,5,11,1,1.9,0.4,-0.9,17,14,5,0,18,Matches
+559,Hassan Ndam,cm CMR,DF,NY Red Bulls,24,1998,7.8,278,365,76.2,5204,1975,89,108,162,191,21,52,0,0.0,0.2,0.0,0,16,1,0,21,Matches
+560,Logan Ndenbe,be BEL,DF,Sporting KC,22,2000,17.1,922,1089,84.7,13962,4794,528,573,316,380,51,78,1,1.1,1.4,-0.1,12,70,18,8,96,Matches
+561,Jalen Neal,us USA,DF,LA Galaxy,19,2003,14.3,816,868,94.0,14676,5487,320,333,436,444,51,74,0,0.0,0.1,0.0,2,18,0,0,28,Matches
+562,Dylan Nealis,us USA,DF,NY Red Bulls,24,1998,11.5,392,567,69.1,7118,3083,160,201,185,247,40,91,0,0.2,0.7,-0.2,6,26,6,2,35,Matches
+563,Sean Nealis,us USA,DF,NY Red Bulls,26,1997,30.2,958,1277,75.0,17125,6930,382,465,502,618,61,140,1,0.2,0.5,+0.8,4,54,4,0,67,Matches
+564,Franco Negri,ar ARG,DF,Inter Miami,27,1995,14.8,686,868,79.0,10988,3913,394,439,228,292,50,98,1,1.7,2.0,-0.7,12,45,15,8,61,Matches
+565,John Nelson,us USA,DF,St. Louis,24,1998,14.1,462,651,71.0,7336,3265,241,287,183,254,30,79,0,0.6,0.8,-0.6,10,32,8,5,52,Matches
+566,Jake Nerwinski,us USA,DF,St. Louis,28,1994,24.6,777,1090,71.3,13249,7545,380,445,308,438,78,165,2,1.1,1.6,+0.9,15,86,26,14,104,Matches
+567,Harvey Neville,ie IRL,"DF,MF",Inter Miami,20,2002,2.2,92,127,72.4,1424,357,52,58,31,45,5,9,0,0.0,0.0,0.0,0,4,0,0,6,Matches
+568,Jean-Claude Ngando,cm CMR,"MF,FW",Vancouver W'caps,23,1999,0.9,55,72,76.4,913,298,27,33,21,26,5,7,0,0.0,0.1,0.0,0,6,2,0,10,Matches
+569,Sam Nicholson,sct SCO,"MF,DF",Colorado Rapids,28,1995,16.6,415,568,73.1,6236,1853,227,274,166,213,14,38,1,1.1,1.0,-0.1,11,28,12,4,33,Matches
+570,Jarosław Niezgoda,pl POL,FW,Portland Timbers,27,1995,7.3,95,144,66.0,1087,227,68,90,12,30,3,3,0,0.3,0.6,-0.3,4,10,2,0,10,Matches
+571,Joakim Nilsson,se SWE,DF,St. Louis,28,1994,6.6,243,279,87.1,4653,2147,83,90,142,152,18,31,0,0.0,0.1,0.0,1,11,0,0,14,Matches
+572,Matt Nocita,us USA,DF,NY Red Bulls,22,2000,0.3,4,7,57.1,82,32,0,0,4,6,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+573,Nolan Norris,us USA,MF,FC Dallas,17,2005,1.5,57,66,86.4,910,93,29,30,23,26,5,8,0,0.0,0.0,0.0,0,0,0,0,3,Matches
+574,Tsiki Ntsabeleng,za RSA,"MF,FW",FC Dallas,24,1998,3.9,138,177,78.0,2213,636,66,80,51,61,12,20,4,0.6,0.8,+3.4,6,17,6,3,19,Matches
+575,Obinna Nwobodo,ng NGA,MF,FC Cincinnati,26,1996,28.7,1062,1243,85.4,18630,4764,462,516,483,536,97,133,3,1.4,1.4,+1.6,20,124,13,2,134,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+576,Moses Nyeman,us USA,MF,Real Salt Lake,19,2003,0.3,13,16,81.3,239,45,3,4,8,9,1,2,0,0.0,0.0,0.0,0,2,0,0,1,Matches
+577,Lewis O'Brien,eng ENG,MF,D.C. United,24,1998,16.8,667,830,80.4,10685,3400,346,388,238,281,52,100,1,1.9,2.1,-0.9,23,90,14,3,98,Matches
+578,Shane O'Neill,us USA,DF,Toronto FC,29,1993,10.4,517,594,87.0,9364,3369,215,226,253,281,41,71,0,0.0,0.1,0.0,1,38,2,1,26,Matches
+579,Kevin O'Toole,us USA,"DF,MF",NYCFC,24,1998,13.3,558,689,81.0,8319,3037,320,358,197,227,28,59,0,1.3,0.9,-1.3,11,35,13,6,56,Matches
+580,Jáder Obrian,co COL,"FW,MF",FC Dallas,27,1995,21.0,358,485,73.8,4636,1296,232,282,94,126,11,21,3,4.3,3.9,-1.3,32,22,22,2,52,Matches
+581,Chinonso Offor,ng NGA,FW,CF Montréal,22,2000,16.8,207,338,61.2,2765,319,132,183,59,93,7,19,0,1.0,0.5,-1.0,11,11,5,0,19,Matches
+582,Braian Ojeda,py PAR,MF,Real Salt Lake,22,2000,24.0,1057,1236,85.5,20600,5868,447,484,414,472,172,226,1,1.3,1.4,-0.3,22,141,24,12,148,Matches
+583,Martín Ojeda,ar ARG,"FW,MF",Orlando City,24,1998,19.5,555,757,73.3,9881,2870,279,336,179,228,80,139,7,4.7,4.0,+2.3,49,49,22,5,89,Matches
+584,Cristian Olivera,uy URU,FW,LAFC,20,2002,6.7,93,147,63.3,1548,481,49,62,27,48,11,21,0,0.5,0.6,-0.5,8,6,10,5,18,Matches
+585,Tani Oluwaseyi,ca CAN,FW,Minnesota Utd,22,2000,0.1,0,1,0.0,0,0,0,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+586,Wyatt Omsberg,us USA,DF,Chicago Fire,27,1995,7.9,309,378,81.7,6071,2513,94,103,188,210,25,59,0,0.0,0.0,0.0,0,5,0,0,12,Matches
+587,Kwadwo Opoku,gh GHA,FW,LAFC,21,2001,13.1,236,300,78.7,3309,731,147,165,71,88,10,18,2,1.4,1.2,+0.6,15,16,13,0,38,Matches
+588,Kwadwo Opoku,gh GHA,FW,CF Montréal,21,2001,10.3,181,227,79.7,2895,498,90,105,73,85,13,21,1,2.1,2.0,-1.1,11,12,6,0,25,Matches
+589,Nathan Ordaz,sv SLV,FW,LAFC,19,2004,2.9,56,76,73.7,747,148,32,39,14,18,3,5,1,0.5,0.1,+0.5,3,3,4,0,11,Matches
+590,Arquimides Ordonez,gt GUA,FW,FC Cincinnati,19,2003,3.1,52,61,85.2,814,93,27,33,21,21,4,4,0,0.2,0.1,-0.2,4,6,1,0,5,Matches
+591,Jonathan Osorio,ca CAN,"MF,FW",Toronto FC,30,1992,20.8,1084,1233,87.9,15452,4100,636,687,355,394,42,60,4,2.0,2.6,+2.0,25,99,19,0,132,Matches
+592,Tomáš Ostrák,cz CZE,"MF,FW",St. Louis,22,2000,12.8,291,376,77.4,4702,1095,160,192,98,117,25,37,2,1.3,0.7,+0.7,12,29,6,0,56,Matches
+593,Bryan Oviedo,cr CRC,DF,Real Salt Lake,32,1990,19.9,873,1055,82.7,14053,5101,448,482,343,404,65,120,3,2.3,2.1,+0.7,25,57,25,17,79,Matches
+594,Prince Owusu,de GER,FW,Toronto FC,26,1997,2.9,31,50,62.0,455,55,18,27,9,14,3,3,0,0.0,0.0,0.0,0,0,0,0,2,Matches
+595,Devin Padelford,us USA,DF,Minnesota Utd,20,2003,1.7,48,76,63.2,746,323,23,28,20,34,3,7,0,0.0,0.1,0.0,0,3,2,0,9,Matches
+596,Maarten Paes,id IDN,GK,FC Dallas,24,1998,29.1,705,1004,70.2,18576,13484,164,165,325,337,212,495,0,0.0,0.0,0.0,0,11,0,0,0,Matches
+597,Nelson Palacio,co COL,MF,Real Salt Lake,21,2001,9.6,390,430,90.7,8162,1894,134,146,172,179,79,93,1,0.1,0.2,+0.9,3,35,2,0,27,Matches
+598,Diego Palacios,ec ECU,DF,LAFC,23,1999,27.0,1420,1709,83.1,22221,7493,765,840,544,657,77,137,2,2.6,3.2,-0.6,28,112,24,10,143,Matches
+599,Sergi Palencia,es ESP,DF,LAFC,26,1996,14.0,631,806,78.3,10268,3894,309,354,260,316,45,88,1,0.8,0.9,+0.2,15,52,15,3,60,Matches
+600,Victor Pálsson,is ISL,"DF,MF",D.C. United,31,1991,17.5,579,769,75.3,10652,4206,250,294,269,341,57,116,2,0.8,1.1,+1.2,10,64,9,3,66,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+601,Jack Panayotou,us USA,"MF,DF",NE Revolution,18,2004,3.6,79,107,73.8,1178,270,46,51,27,37,4,10,0,0.3,0.4,-0.3,3,8,0,0,10,Matches
+602,Elliot Panicco,us USA,GK,Nashville SC,26,1996,2.0,43,62,69.4,1288,964,7,7,19,19,17,36,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+603,James Pantemis,ca CAN,GK,CF Montréal,25,1997,1.9,52,64,81.3,1029,766,19,19,29,30,4,15,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+604,Cristhian Paredes,py PAR,MF,Portland Timbers,24,1998,21.2,501,670,74.8,7685,2948,275,333,180,229,28,52,1,2.3,2.9,-1.3,29,72,20,0,102,Matches
+605,Isaiah Parente,us USA,"MF,FW",Columbus Crew,22,2000,0.5,23,28,82.1,345,85,9,9,10,11,1,3,0,0.0,0.0,0.0,1,0,0,0,5,Matches
+606,Tim Parker,us USA,DF,St. Louis,29,1993,28.5,985,1169,84.3,19954,8169,265,295,602,676,109,180,0,0.0,0.2,0.0,2,67,0,0,75,Matches
+607,Keaton Parks,us USA,MF,NYCFC,25,1997,27.9,1260,1442,87.4,21651,6619,602,666,519,569,118,149,2,2.2,3.0,-0.2,29,144,24,0,181,Matches
+608,Ilijah Paul,us USA,"FW,MF",Real Salt Lake,20,2002,1.2,28,35,80.0,385,29,13,16,10,11,1,2,0,0.6,0.5,-0.6,2,1,1,0,2,Matches
+609,João Paulo Mior,br BRA,MF,Seattle Sounders,31,1991,27.3,1798,2106,85.4,32641,9885,771,828,781,874,202,320,3,2.7,3.6,+0.3,30,247,30,9,242,Matches
+610,Adam Pearlman,ca CAN,DF,Toronto FC,17,2005,0.1,7,11,63.6,126,38,2,3,3,5,1,2,0,0.0,0.1,0.0,0,1,1,1,0,Matches
+611,Matías Pellegrini,ar ARG,"FW,MF",NYCFC,22,2000,12.8,339,447,75.8,5320,1199,180,206,115,155,29,42,1,3.0,3.3,-2.0,18,29,15,3,41,Matches
+612,Andrés Perea,us USA,MF,Philadelphia Union,22,2000,1.7,48,63,76.2,806,223,24,32,20,23,4,6,0,0.0,0.1,0.0,1,3,1,0,7,Matches
+613,Andrés Perea,us USA,MF,NYCFC,22,2000,8.6,322,389,82.8,4751,1269,173,190,120,138,15,32,0,0.9,0.9,-0.9,3,27,4,0,37,Matches
+614,Daniel Pereira,ve VEN,MF,Austin,22,2000,28.1,1357,1561,86.9,25215,6482,565,614,603,651,164,234,5,1.9,2.1,+3.1,27,126,23,8,162,Matches
+615,Gabriel Pereira,br BRA,"FW,MF",NYCFC,21,2001,17.1,333,481,69.2,5945,2031,158,187,122,157,42,99,3,3.8,3.7,-0.8,31,26,27,4,68,Matches
+616,Mauricio Pereyra,uy URU,MF,Orlando City,32,1990,23.5,986,1277,77.2,17358,5790,484,567,344,411,131,228,4,3.7,5.7,+0.3,45,170,44,2,219,Matches
+617,Jonathan Perez,mx MEX,"DF,MF",LA Galaxy,20,2003,1.3,78,92,84.8,1289,161,43,44,24,31,9,14,1,0.7,0.6,+0.3,8,3,3,3,2,Matches
+618,Miguel Perez,us USA,MF,St. Louis,17,2005,6.8,181,254,71.3,2992,1008,87,125,79,91,12,20,0,0.5,0.3,-0.5,9,28,3,0,29,Matches
+619,Jordan Perruzza,ca CAN,"FW,MF",Toronto FC,22,2001,1.4,20,28,71.4,246,34,14,19,4,7,0,0,0,0.0,0.1,0.0,1,1,1,0,2,Matches
+620,Luca Petrasso,ca CAN,"DF,FW",Orlando City,22,2000,4.8,195,253,77.1,2956,1211,117,134,66,83,9,22,0,0.3,0.2,-0.3,4,15,3,0,19,Matches
+621,Raoul Petretta,it ITA,DF,Toronto FC,25,1997,19.4,1045,1235,84.6,15981,6558,604,657,353,404,67,120,1,1.2,0.9,-0.2,9,73,14,3,73,Matches
+622,Đorđe Petrović,rs SRB,GK,NE Revolution,23,1999,22.0,474,706,67.1,13317,9406,64,64,250,253,157,382,1,0.1,0.0,+0.9,1,12,0,0,1,Matches
+623,Fafà Picault,ht HAI,"FW,MF",Nashville SC,31,1991,18.0,297,447,66.4,4101,756,177,219,94,141,12,35,1,1.8,1.1,-0.8,16,14,9,4,25,Matches
+624,Selmir Pidro,ba BIH,DF,St. Louis,24,1998,0.5,16,19,84.2,215,162,8,9,7,8,0,0,0,0.2,0.2,-0.2,1,1,0,0,2,Matches
+625,Kayden Pierre,us USA,DF,Sporting KC,19,2003,0.1,6,6,100.0,84,11,3,3,3,3,0,0,0,0.0,0.0,0.0,0,1,0,0,2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+626,Samuel Piette,ca CAN,MF,CF Montréal,28,1994,12.1,512,585,87.5,9365,2953,211,239,227,246,66,82,0,0.4,0.5,-0.4,7,48,1,0,50,Matches
+627,Mauricio Pineda,us USA,"DF,MF",Chicago Fire,25,1997,17.4,683,806,84.7,13817,4892,222,245,360,393,93,142,0,0.5,0.2,-0.5,4,40,1,0,48,Matches
+628,Donovan Pines,us USA,DF,D.C. United,24,1998,20.5,737,841,87.6,12927,4052,298,330,383,418,48,75,0,0.8,0.4,-0.8,7,31,2,0,42,Matches
+629,Malik Pinto,us USA,MF,FC Cincinnati,20,2002,4.4,152,175,86.9,2310,745,80,89,59,71,9,11,0,0.0,0.3,0.0,1,17,3,0,23,Matches
+630,Gabriel Pirani,br BRA,MF,D.C. United,20,2002,9.2,202,249,81.1,3007,877,113,126,74,87,10,14,0,0.5,0.7,-0.5,9,24,8,1,44,Matches
+631,Rodolfo Pizarro,mx MEX,"MF,FW",Inter Miami,28,1994,10.3,384,474,81.0,6061,1497,211,238,131,154,27,44,1,2.0,1.7,-1.0,23,44,12,4,57,Matches
+632,Matt Polster,us USA,"MF,DF",NE Revolution,29,1993,30.4,1472,1687,87.3,26551,7609,612,686,670,738,156,195,1,1.3,1.7,-0.3,17,115,11,0,160,Matches
+633,Célio Pompeu,br BRA,"FW,MF",St. Louis,23,1999,10.8,200,312,64.1,2830,985,123,150,58,94,12,36,0,1.5,1.6,-1.5,20,13,14,5,25,Matches
+634,Paxton Pomykal,us USA,MF,FC Dallas,23,1999,17.8,704,832,84.6,11422,3000,364,398,261,307,54,79,2,2.0,2.0,0.0,15,50,23,5,84,Matches
+635,Alvas Powell,jm JAM,DF,FC Cincinnati,28,1994,10.6,314,422,74.4,6448,2524,96,109,166,204,46,88,1,1.4,0.8,-0.4,8,20,6,3,22,Matches
+636,Jack Price,eng ENG,MF,Colorado Rapids,30,1992,0.4,24,31,77.4,429,112,12,14,8,9,4,8,0,0.1,0.2,-0.1,1,2,0,0,1,Matches
+637,Ralph Priso-Mbongue,ca CAN,MF,Colorado Rapids,20,2002,11.5,338,403,83.9,5264,1313,182,205,125,139,19,32,0,0.2,0.3,-0.2,7,36,1,0,37,Matches
+638,Andrew Privett,us USA,DF,Charlotte,22,2000,11.6,584,670,87.2,11297,4464,186,203,343,363,52,97,0,0.0,0.5,0.0,1,31,1,0,48,Matches
+639,Kacper Przybyłko,pl POL,FW,Chicago Fire,29,1993,10.8,218,307,71.0,2733,502,138,183,64,86,3,6,2,1.8,1.1,+0.2,10,19,8,3,25,Matches
+640,Riqui Puig,es ESP,"MF,FW",LA Galaxy,23,1999,28.1,1916,2265,84.6,33959,10827,884,984,737,839,232,301,4,3.7,5.7,+0.3,58,298,61,2,346,Matches
+641,Teemu Pukki,fi FIN,FW,Minnesota Utd,32,1990,11.5,121,159,76.1,1901,301,58,73,48,54,10,11,1,2.4,2.5,-1.4,9,9,7,4,11,Matches
+642,Alan Pulido,mx MEX,FW,Sporting KC,31,1991,24.5,639,773,82.7,9366,1319,378,423,197,225,38,50,1,2.6,1.8,-1.6,29,37,25,3,69,Matches
+643,John Pulskamp,us USA,GK,Sporting KC,21,2001,5.0,92,122,75.4,2503,1638,17,17,45,45,29,59,0,0.0,0.0,0.0,0,2,0,0,0,Matches
+644,Facundo Quignon,ar ARG,MF,FC Dallas,29,1993,21.3,945,1130,83.6,15505,4521,475,527,384,443,63,111,1,0.6,0.9,+0.4,10,98,9,1,84,Matches
+645,Nelson Quiñones,co COL,"FW,MF",Houston Dynamo,20,2002,16.4,343,432,79.4,5195,1059,214,242,102,128,23,43,1,1.5,1.7,-0.5,18,11,8,3,21,Matches
+646,Philip Quinton,us USA,DF,Columbus Crew,23,1999,10.4,556,636,87.4,9814,4116,228,250,289,313,35,63,0,0.2,0.4,-0.2,3,38,2,0,41,Matches
+647,Romell Quioto,hn HON,FW,CF Montréal,31,1991,8.9,165,234,70.5,2886,625,80,99,62,80,17,36,1,0.6,1.0,+0.4,7,14,7,3,20,Matches
+648,Nemanja Radoja,rs SRB,MF,Sporting KC,29,1993,19.0,879,967,90.9,17580,4774,320,353,404,416,139,162,2,0.7,0.4,+1.3,15,97,6,0,105,Matches
+649,Aleksandar Radovanović,rs SRB,DF,Austin,29,1993,3.9,194,240,80.8,4041,1391,58,64,107,121,28,49,0,0.1,0.0,-0.1,2,14,1,0,15,Matches
+650,Jeremy Rafanello,us USA,MF,Philadelphia Union,22,2000,0.1,4,4,100.0,46,6,3,3,1,1,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+651,Jackson Ragen,us USA,DF,Seattle Sounders,24,1998,31.6,1625,1799,90.3,33567,14645,486,524,897,944,230,306,4,2.4,1.1,+1.6,8,118,3,0,86,Matches
+652,Brooklyn Raines,us USA,"MF,FW",Houston Dynamo,17,2005,2.2,70,81,86.4,993,232,42,49,24,25,1,1,0,0.0,0.1,0.0,1,5,0,0,5,Matches
+653,Christian Ramirez,us USA,"FW,MF",Columbus Crew,31,1991,17.9,259,355,73.0,3335,851,153,198,69,89,9,20,3,1.9,1.4,+1.1,25,19,11,0,39,Matches
+654,Greg Ranjitsingh,tt TRI,GK,Toronto FC,29,1993,4.0,101,152,66.4,2890,2429,31,32,34,34,35,85,0,0.0,0.0,0.0,0,5,0,0,0,Matches
+655,Ryan Raposo,ca CAN,"DF,FW",Vancouver W'caps,23,1999,14.8,501,695,72.1,8493,2639,250,281,205,264,40,119,2,2.6,2.4,-0.6,16,35,22,13,47,Matches
+656,Justin Rasmussen,us USA,DF,Portland Timbers,24,1998,3.7,111,169,65.7,1918,844,53,62,46,65,11,33,0,1.0,0.8,-1.0,3,10,2,2,6,Matches
+657,Sean Rea,ca CAN,"MF,FW",CF Montréal,20,2002,8.3,187,256,73.0,2778,628,117,141,53,76,13,23,0,0.4,0.6,-0.4,11,10,6,1,20,Matches
+658,Matthew Real,us USA,"DF,MF",Philadelphia Union,23,1999,5.5,173,233,74.2,3231,1315,66,78,85,103,20,39,1,0.2,0.4,+0.8,5,16,5,3,15,Matches
+659,Rodney Redes,py PAR,"MF,FW",Austin,22,2000,5.4,97,145,66.9,1601,445,47,60,39,56,8,13,1,1.1,1.0,-0.1,7,8,3,3,13,Matches
+660,Jayden Reid,us USA,MF,NY Red Bulls,21,2001,0.0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+661,Justin Rennicks,us USA,"FW,MF",NE Revolution,23,1999,4.3,71,96,74.0,992,150,39,48,29,40,0,2,0,0.4,0.2,-0.4,4,1,3,0,4,Matches
+662,Andrés Reyes,co COL,DF,NY Red Bulls,23,1999,26.5,850,1160,73.3,15794,6415,312,393,435,552,84,162,0,0.2,0.7,-0.2,4,82,8,0,118,Matches
+663,Emanuel Reynoso,ar ARG,MF,Minnesota Utd,27,1995,15.2,617,873,70.7,10204,4351,331,371,194,258,65,173,4,6.5,7.5,-2.5,56,87,59,17,149,Matches
+664,Spencer Richey,us USA,GK,Chicago Fire,30,1992,4.7,91,117,77.8,2451,1551,16,16,48,48,26,50,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+665,Emiliano Rigoni,ar ARG,"FW,MF",Austin,29,1993,24.3,480,741,64.8,9026,2339,221,269,169,244,79,178,4,4.7,4.8,-0.7,44,33,16,10,55,Matches
+666,Chris Rindov,us USA,DF,Sporting KC,21,2001,0.1,6,9,66.7,146,43,0,1,6,7,0,1,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+667,Alexander Ring,fi FIN,"DF,MF",Austin,31,1991,23.9,1216,1463,83.1,23937,9107,479,522,560,611,168,294,1,2.9,2.6,-1.9,15,135,21,5,143,Matches
+668,Birk Risa,no NOR,DF,NYCFC,24,1998,9.6,442,519,85.2,9365,3281,131,139,246,267,63,105,1,0.1,0.2,+0.9,2,33,3,0,35,Matches
+669,Damien Rivera,gt GUA,"FW,MF",NE Revolution,20,2002,2.0,45,69,65.2,589,117,31,39,11,18,1,4,0,0.2,0.1,-0.2,2,3,1,0,5,Matches
+670,Nigel Robertha,nl NED,"FW,MF",D.C. United,24,1998,3.4,44,65,67.7,648,132,29,35,9,14,5,7,0,0.0,0.1,0.0,0,7,2,2,5,Matches
+671,Miles Robinson,us USA,DF,Atlanta Utd,25,1997,26.3,1330,1549,85.9,26613,9487,391,432,788,848,135,239,1,0.4,0.7,+0.6,2,79,1,0,79,Matches
+672,Robbie Robinson,us USA,"FW,MF",Inter Miami,24,1998,3.8,137,169,81.1,1798,374,104,112,26,35,5,10,0,0.4,0.7,-0.4,5,11,4,1,14,Matches
+673,Rodrigues,br BRA,DF,SJ Earthquakes,25,1997,33.3,1473,1737,84.8,29625,12579,485,539,786,866,191,287,1,1.2,0.7,-0.2,8,76,2,0,114,Matches
+674,Abraham Rodriguez,us USA,GK,Colorado Rapids,20,2002,1.0,24,28,85.7,598,468,7,7,10,10,7,11,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+675,Memo Rodriguez,us USA,"FW,MF",Austin,27,1995,2.7,37,60,61.7,672,215,16,21,14,18,6,16,0,0.3,0.3,-0.3,4,4,1,0,8,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+676,Memo Rodriguez,us USA,"MF,FW",LA Galaxy,27,1995,7.4,222,296,75.0,3377,969,128,144,69,81,13,42,1,0.7,0.8,+0.3,9,12,5,0,28,Matches
+677,Missael Rodriguez,us USA,FW,Chicago Fire,19,2003,0.2,4,5,80.0,46,10,3,3,1,2,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+678,Santiago Rodríguez,uy URU,"MF,FW",NYCFC,23,2000,28.7,986,1262,78.1,16961,5170,479,543,356,426,118,190,5,6.2,6.0,-1.2,66,102,35,3,158,Matches
+679,Alex Roldan,sv SLV,DF,Seattle Sounders,26,1996,26.9,1439,1782,80.8,23452,7530,740,804,543,669,117,201,2,4.4,3.5,-2.4,30,98,44,21,109,Matches
+680,Cristian Roldan,us USA,"FW,DF",Seattle Sounders,27,1995,13.9,447,592,75.5,6546,1969,268,300,139,183,23,55,2,2.5,2.2,-0.5,22,40,16,3,49,Matches
+681,Tomas Romero,sv SLV,GK,Toronto FC,22,2000,6.0,145,187,77.5,3845,2953,37,38,63,64,43,82,0,0.1,0.1,-0.1,1,2,1,0,0,Matches
+682,David Romney,us USA,DF,NE Revolution,29,1993,34.0,1574,1862,84.5,32699,12040,422,479,931,1011,213,333,1,1.2,0.3,-0.2,5,78,2,0,86,Matches
+683,Connor Ronan,ie IRL,MF,Colorado Rapids,24,1998,31.6,1632,2003,81.5,32065,11315,697,754,624,721,277,460,8,6.7,7.3,+1.3,64,208,26,8,203,Matches
+684,Eloy Room,cw CUW,GK,Columbus Crew,33,1989,3.0,69,94,73.4,1607,1149,18,18,37,38,14,38,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+685,Joseph Rosales,hn HON,"FW,MF",Minnesota Utd,22,2000,12.1,348,484,71.9,5385,1606,199,232,121,154,19,59,0,0.7,0.6,-0.7,10,26,5,1,43,Matches
+686,Oriol Rosell,es ESP,MF,LA Galaxy,30,1992,9.4,579,624,92.8,8991,2437,298,318,240,255,23,24,1,0.7,0.6,+0.3,6,52,1,0,42,Matches
+687,Keegan Rosenberry,us USA,DF,Colorado Rapids,29,1993,25.2,1083,1372,78.9,20675,6946,448,482,484,573,135,254,0,1.4,1.8,-1.4,18,93,18,9,115,Matches
+688,Daniel Rosero,co COL,DF,Sporting KC,29,1993,25.1,1246,1380,90.3,26178,8503,325,350,765,804,147,200,0,0.1,0.2,-0.1,4,42,2,0,46,Matches
+689,Matheus Rossetto,br BRA,MF,Atlanta Utd,26,1996,20.3,1181,1293,91.3,19131,5620,572,612,470,502,93,110,1,1.2,1.4,-0.2,20,102,9,1,107,Matches
+690,Diego Rossi,uy URU,"MF,FW",Columbus Crew,24,1998,8.6,257,330,77.9,3733,914,148,171,85,103,13,33,2,1.9,1.5,+0.1,20,22,15,3,42,Matches
+691,Sigurd Rosted,no NOR,DF,Toronto FC,28,1994,18.3,712,849,83.9,13754,5000,228,255,422,472,60,113,0,0.2,0.1,-0.2,1,29,1,0,27,Matches
+692,Paul Rothrock,us USA,FW,Seattle Sounders,24,1999,0.5,19,24,79.2,265,29,7,8,10,12,0,0,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+693,Kelyn Rowe,us USA,DF,Seattle Sounders,31,1991,3.8,209,252,82.9,3769,1502,95,101,89,110,22,34,0,0.1,0.1,-0.1,3,18,1,0,22,Matches
+694,Ruan,br BRA,"DF,MF",D.C. United,27,1995,15.8,444,586,75.8,7032,2149,241,274,162,212,32,60,5,4.6,4.1,+0.4,30,21,17,10,39,Matches
+695,Rubio Rubin,gt GUA,"FW,MF",Real Salt Lake,26,1996,14.4,236,312,75.6,3854,839,124,147,92,115,15,23,2,1.3,1.3,+0.7,15,22,10,2,38,Matches
+696,Diego Rubio,cl CHI,"MF,FW",Colorado Rapids,29,1993,11.9,237,358,66.2,4332,1057,99,134,95,125,33,65,2,2.0,1.7,0.0,13,26,19,6,49,Matches
+697,Raúl Ruidíaz,pe PER,FW,Seattle Sounders,32,1990,11.7,213,264,80.7,3205,454,119,138,73,87,12,14,1,1.0,0.7,0.0,5,12,4,1,23,Matches
+698,David Ruíz,hn HON,MF,Inter Miami,18,2004,13.2,512,587,87.2,7904,1739,272,301,197,214,24,36,1,0.5,0.7,+0.5,6,45,5,0,43,Matches
+699,Pablo Ruíz,ar ARG,MF,Real Salt Lake,24,1998,15.3,746,919,81.2,16408,5048,241,263,321,360,175,259,4,3.8,3.7,+0.2,35,96,16,2,104,Matches
+700,Albert Rusnák,sk SVK,"MF,FW",Seattle Sounders,28,1994,29.1,1332,1541,86.4,23394,5581,624,679,508,553,158,228,0,2.7,3.6,-2.7,37,135,31,2,179,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+701,Johnny Russell,sct SCO,FW,Sporting KC,32,1990,18.7,475,686,69.2,8504,2268,224,263,165,227,66,140,3,2.8,3.1,+0.2,27,44,17,2,65,Matches
+702,Jacen Russell-Rowe,ca CAN,"FW,MF",Columbus Crew,20,2002,6.0,122,168,72.6,1644,455,75,93,38,48,3,7,2,1.9,0.7,+0.1,12,6,13,1,27,Matches
+703,Ryan Sailor,us USA,"DF,FW",Inter Miami,24,1998,3.4,82,100,82.0,1746,669,26,31,38,42,18,27,0,0.0,0.0,0.0,1,2,0,0,3,Matches
+704,Nathan Saliba,ca CAN,MF,CF Montréal,18,2004,19.7,598,768,77.9,10230,2498,295,353,241,287,52,82,0,0.4,1.1,-0.4,8,72,8,2,80,Matches
+705,Abdi Salim,so SOM,DF,Orlando City,21,2001,1.6,41,48,85.4,755,258,12,14,28,31,1,2,0,0.0,0.0,0.0,0,0,1,1,3,Matches
+706,Dániel Sallói,hu HUN,FW,Sporting KC,26,1996,31.9,831,1119,74.3,13241,3547,465,544,268,355,73,141,8,7.2,8.1,+0.8,60,54,51,16,113,Matches
+707,Gaoussou Samaké,ci CIV,"MF,DF",D.C. United,25,1997,4.0,126,169,74.6,1941,677,68,81,44,58,9,17,0,0.4,0.6,-0.4,4,4,6,5,10,Matches
+708,Ilie Sánchez,es ESP,MF,LAFC,32,1990,28.8,1392,1615,86.2,24541,8630,574,638,656,727,122,179,3,1.7,1.8,+1.3,21,180,19,0,164,Matches
+709,James Sands,us USA,"MF,DF",NYCFC,22,2000,24.1,1258,1416,88.8,22818,6960,511,555,594,639,135,172,0,0.2,0.6,-0.2,6,111,5,0,107,Matches
+710,William Sands,us USA,"DF,MF",Columbus Crew,22,2000,5.4,193,243,79.4,2715,681,119,144,63,76,6,11,1,0.6,0.3,+0.4,3,9,3,0,16,Matches
+711,Jeong Sangbin,kr KOR,"FW,MF",Minnesota Utd,20,2002,10.7,171,273,62.6,2634,839,94,118,55,93,12,40,1,2.3,1.3,-1.3,14,10,11,4,16,Matches
+712,Sergio Santos Gomes,br BRA,"FW,MF",FC Cincinnati,28,1994,10.0,165,237,69.6,2249,393,96,122,48,68,6,13,1,2.1,0.8,-1.1,11,10,3,0,22,Matches
+713,Nuno Santos,pt POR,MF,Charlotte,23,1999,2.4,93,126,73.8,1835,722,27,35,48,56,15,28,0,0.1,0.6,-0.1,1,14,6,2,22,Matches
+714,Pedro Santos,pt POR,"DF,MF",D.C. United,34,1988,16.7,530,778,68.1,8877,3706,266,324,213,296,42,117,1,0.9,1.7,+0.1,13,49,24,9,62,Matches
+715,Rafael Santos,br BRA,DF,Orlando City,24,1998,22.1,961,1264,76.0,16792,7041,449,499,403,499,93,205,2,1.7,2.0,+0.3,15,80,28,15,128,Matches
+716,C.J. Sapong,us USA,FW,Toronto FC,34,1988,14.1,161,241,66.8,2317,323,85,113,62,91,5,15,0,0.6,1.1,-0.6,9,11,6,0,26,Matches
+717,C.J. Sapong,us USA,FW,Nashville SC,34,1988,4.2,69,102,67.6,1038,188,39,51,27,39,3,4,0,0.0,0.2,0.0,1,5,5,1,12,Matches
+718,Hayden Sargis,us USA,DF,D.C. United,20,2002,0.2,4,6,66.7,62,23,2,3,2,2,0,1,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+719,Jefferson Savarino,ve VEN,"MF,FW",Real Salt Lake,26,1996,21.6,616,860,71.6,10614,3418,312,352,202,277,75,161,3,4.2,4.9,-1.2,48,75,38,12,116,Matches
+720,Rodrigo Schlegel,ar ARG,DF,Orlando City,25,1997,21.9,822,974,84.4,15432,5542,277,306,468,519,71,126,0,0.2,0.2,-0.2,3,45,0,0,46,Matches
+721,Tate Schmitt,us USA,DF,Houston Dynamo,25,1997,4.4,204,258,79.1,3765,1078,94,106,84,95,24,43,0,0.4,0.4,-0.4,6,11,8,3,19,Matches
+722,Alessandro Schöpf,at AUT,MF,Vancouver W'caps,28,1994,19.7,662,762,86.9,10267,2487,373,407,230,259,43,54,0,0.6,1.4,-0.6,14,53,15,2,83,Matches
+723,Patrick Schulte,us USA,GK,Columbus Crew,21,2001,31.0,898,1134,79.2,19652,13856,282,285,452,469,160,370,1,0.1,0.0,+0.9,1,15,0,0,1,Matches
+724,Dante Sealy,tt TRI,"MF,DF",FC Dallas,19,2003,3.2,85,118,72.0,1259,426,52,62,23,36,9,16,0,0.1,0.2,-0.1,3,8,5,1,10,Matches
+725,Gabe Segal,us USA,FW,NYCFC,21,2001,4.6,91,125,72.8,1078,194,58,68,27,40,0,2,0,0.5,0.3,-0.5,5,4,3,0,6,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+726,Amar Sejdic,us USA,MF,Atlanta Utd,26,1996,11.8,428,500,85.6,7771,1605,185,200,181,203,48,67,0,0.2,0.3,-0.2,4,50,5,1,43,Matches
+727,Brandon Servania,us USA,"MF,FW",Toronto FC,23,1999,18.9,677,815,83.1,10354,3365,369,416,229,259,48,82,1,1.8,1.4,-0.8,21,67,10,2,68,Matches
+728,Jacob Shaffelburg,ca CAN,"FW,MF",Nashville SC,23,1999,14.6,192,343,56.0,3217,1071,108,147,57,100,24,46,1,2.5,1.3,-1.5,17,17,19,8,30,Matches
+729,Xherdan Shaqiri,ch SUI,MF,Chicago Fire,31,1991,22.8,773,1086,71.2,13498,4981,393,451,248,337,107,213,4,6.0,6.7,-2.0,39,110,52,8,162,Matches
+730,Billy Sharp,eng ENG,FW,LA Galaxy,36,1986,7.9,76,103,73.8,1002,161,46,56,23,33,3,5,1,0.5,0.5,+0.5,5,5,3,0,7,Matches
+731,Khiry Shelton,us USA,"FW,MF",Sporting KC,29,1993,9.4,237,306,77.5,3435,1034,143,165,78,99,10,12,0,1.4,0.7,-1.4,11,13,10,2,43,Matches
+732,Andre Shinyashiki,br BRA,"MF,FW",Charlotte,27,1995,2.1,57,80,71.3,998,229,22,27,26,34,6,12,0,0.2,0.5,-0.2,3,5,2,0,10,Matches
+733,Marcelo Silva,uy URU,DF,Real Salt Lake,33,1989,16.0,671,745,90.1,13398,4330,194,213,389,420,77,96,0,0.2,0.1,-0.2,1,20,0,0,22,Matches
+734,Xande Silva,pt POR,FW,Atlanta Utd,25,1997,7.1,206,257,80.2,2708,695,124,143,54,65,11,18,2,2.0,1.9,0.0,12,9,10,1,25,Matches
+735,Jonathan Sirois,ca CAN,GK,CF Montréal,21,2001,32.1,807,1119,72.1,20321,14817,223,224,363,377,214,504,0,0.0,0.0,0.0,1,9,0,0,3,Matches
+736,Pablo Sisniega,mx MEX,GK,Charlotte,27,1995,3.0,47,69,68.1,1245,975,12,12,24,26,11,31,0,0.0,0.0,0.0,0,2,0,0,0,Matches
+737,Jack Skahan,us USA,"FW,MF",SJ Earthquakes,24,1998,4.0,89,109,81.7,1439,354,47,52,34,40,8,12,1,0.4,0.4,+0.6,5,9,6,1,17,Matches
+738,Brad Smith,au AUS,"DF,FW",Houston Dynamo,28,1994,5.3,158,223,70.9,2620,859,85,96,59,82,14,29,2,0.9,1.0,+1.1,4,9,4,1,12,Matches
+739,Collin Smith,us USA,"DF,MF",FC Dallas,19,2003,1.2,20,27,74.1,273,91,13,16,7,8,0,2,0,0.0,0.0,0.0,0,1,1,0,2,Matches
+740,Kyle Smith,us USA,DF,Orlando City,31,1992,16.6,709,911,77.8,11846,4463,360,399,289,359,51,95,2,1.3,1.5,+0.7,11,57,15,5,68,Matches
+741,Jan Sobociński,pl POL,DF,Charlotte,23,1999,7.2,353,422,83.6,7258,2706,118,128,187,207,45,82,0,0.0,0.1,0.0,0,25,1,0,19,Matches
+742,Santiago Sosa,ar ARG,MF,Atlanta Utd,23,1999,10.2,503,591,85.1,9717,2565,200,234,209,242,79,88,1,0.2,0.3,+0.8,6,70,4,1,66,Matches
+743,Arnaud Souquet,fr FRA,DF,Chicago Fire,30,1992,20.3,735,957,76.8,11490,4886,381,437,293,354,43,100,3,1.2,1.7,+1.8,13,68,25,14,80,Matches
+744,Ryan Spaulding,us USA,DF,NE Revolution,24,1998,6.9,306,373,82.0,4634,1336,163,178,118,140,13,29,0,0.1,0.1,-0.1,3,22,1,0,21,Matches
+745,Dayne St. Clair,ca CAN,GK,Minnesota Utd,25,1997,30.0,706,929,76.0,17949,12206,130,131,404,410,171,384,1,0.1,0.1,+0.9,1,8,0,0,0,Matches
+746,Mason Stajduhar,us USA,GK,Orlando City,25,1997,4.0,78,114,68.4,2201,1716,21,22,25,27,31,64,1,0.0,0.0,+1.0,1,0,0,0,0,Matches
+747,Nicolás Stefanelli,ar ARG,"FW,MF",Inter Miami,28,1994,14.8,418,566,73.9,6388,1328,226,272,148,185,25,47,0,0.7,1.3,-0.7,15,32,9,5,46,Matches
+748,Lazar Stefanovic,ca CAN,DF,Toronto FC,16,2006,0.9,26,29,89.7,426,194,14,14,9,11,3,4,0,0.0,0.0,0.0,0,3,0,0,1,Matches
+749,Daniel Steres,us USA,DF,Houston Dynamo,32,1990,20.7,820,978,83.8,15866,5834,301,336,412,458,102,165,2,1.4,1.0,+0.6,7,59,7,3,39,Matches
+750,Benjamin Stitz,us USA,FW,FC Cincinnati,22,2000,0.2,4,4,100.0,35,14,4,4,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+751,Jared Stroud,us USA,"MF,FW",St. Louis,26,1996,21.9,440,671,65.6,7380,2211,202,266,184,247,37,78,5,2.0,1.9,+3.0,23,35,23,13,50,Matches
+752,Peter Stroud,us USA,MF,NY Red Bulls,20,2002,11.3,391,490,79.8,5869,1411,217,244,139,168,22,41,0,0.3,0.6,-0.3,6,30,3,1,36,Matches
+753,Brad Stuver,us USA,GK,Austin,31,1991,34.0,1048,1401,74.8,25992,18962,243,245,560,568,242,577,0,0.0,0.1,0.0,0,20,0,0,4,Matches
+754,Yekeson Subah,lr LBR,FW,LAFC,18,2004,0.2,1,1,100.0,11,6,1,1,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,1,Matches
+755,Quinn Sullivan,us USA,"FW,MF",Philadelphia Union,18,2004,7.7,177,221,80.1,2463,347,110,126,51,67,8,13,1,0.7,0.6,+0.3,9,8,4,1,11,Matches
+756,Lawson Sunderland,us USA,"MF,FW",Inter Miami,21,2001,0.7,25,32,78.1,330,90,16,19,8,11,0,0,0,0.0,0.0,0.0,1,1,0,0,2,Matches
+757,Sam Surridge,eng ENG,FW,Nashville SC,24,1998,5.5,74,112,66.1,1261,330,34,51,26,31,8,14,0,0.9,0.6,-0.9,8,7,1,0,12,Matches
+758,Erik Sviatchenko,dk DEN,DF,Houston Dynamo,31,1991,15.0,559,693,80.7,11836,3805,159,179,304,341,88,157,0,0.2,0.5,-0.2,3,49,3,0,41,Matches
+759,Ben Sweat,us USA,DF,NE Revolution,31,1991,3.7,138,188,73.4,2215,903,70,79,59,75,7,27,0,0.1,0.2,-0.1,2,7,1,0,14,Matches
+760,Ben Sweat,us USA,DF,Sporting KC,31,1991,3.5,179,231,77.5,2987,1260,90,101,69,82,16,37,0,0.1,0.3,-0.1,2,23,4,1,18,Matches
+761,Karol Świderski,pl POL,"FW,MF",Charlotte,26,1997,26.8,522,763,68.4,8231,1755,282,354,176,243,39,86,4,3.7,4.7,+0.3,28,42,26,4,69,Matches
+762,Nkosi Tafari,us USA,DF,FC Dallas,25,1997,27.7,1322,1579,83.7,26561,10749,443,495,707,777,167,288,3,1.9,0.9,+1.1,7,84,3,2,85,Matches
+763,Ismael Tajouri-Shradi,ly LBY,FW,Minnesota Utd,28,1994,3.9,138,159,86.8,2073,526,83,89,40,45,10,12,2,1.1,1.0,+0.9,5,15,4,0,19,Matches
+764,Yohei Takaoka,jp JPN,GK,Vancouver W'caps,26,1996,33.0,702,984,71.3,19405,13480,140,141,347,347,210,488,0,0.0,0.1,0.0,0,12,1,0,0,Matches
+765,Miguel Tapias,mx MEX,DF,Minnesota Utd,26,1997,31.8,1245,1469,84.8,26230,10118,386,426,644,724,209,294,0,1.1,0.3,-1.1,4,64,3,1,92,Matches
+766,Andrew Tarbell,us USA,GK,Houston Dynamo,29,1993,1.0,24,24,100.0,500,280,8,8,12,12,4,4,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+767,Sidnei Tavares,,MF,Colorado Rapids,21,2001,3.3,84,104,80.8,1412,426,38,48,36,40,7,11,0,0.1,0.2,-0.1,2,11,2,0,15,Matches
+768,D.J. Taylor,us USA,DF,Minnesota Utd,25,1997,27.9,1027,1441,71.3,17736,8082,509,580,393,549,104,226,0,1.8,2.4,-1.8,22,90,38,16,130,Matches
+769,Robert Taylor,fi FIN,"FW,DF",Inter Miami,28,1994,16.2,615,791,77.7,9476,2470,355,398,210,253,38,94,5,2.2,2.4,+2.8,29,40,30,5,73,Matches
+770,Russell Teibert,ca CAN,MF,Vancouver W'caps,30,1992,1.7,61,73,83.6,815,140,39,42,21,26,1,2,0,0.0,0.0,0.0,0,5,0,0,3,Matches
+771,Carlos Terán,co COL,DF,Chicago Fire,22,2000,17.5,729,928,78.6,15769,5961,204,236,393,454,130,220,0,0.2,0.2,-0.2,4,34,2,1,40,Matches
+772,Dylan Teves,us USA,FW,Seattle Sounders,22,2000,4.3,124,166,74.7,1711,278,81,96,39,52,3,8,0,0.2,0.5,-0.2,1,8,1,0,13,Matches
+773,Thiago,br BRA,"FW,MF",NYCFC,22,2000,1.5,35,40,87.5,427,28,19,22,10,11,1,1,0,0.1,0.2,-0.1,3,2,0,0,0,Matches
+774,Jamal Thiaré,sn SEN,FW,Atlanta Utd,29,1993,0.6,1,9,11.1,12,11,1,4,0,3,0,0,0,0.0,0.0,0.0,0,1,0,0,1,Matches
+775,Erik Thommy,de GER,"MF,FW",Sporting KC,28,1994,28.7,1117,1365,81.8,19716,4143,533,580,422,494,128,196,5,3.3,3.1,+1.7,43,106,30,5,154,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+776,Kosi Thompson,ca CAN,"MF,FW",Toronto FC,20,2003,6.5,200,237,84.4,2986,623,108,122,78,88,9,13,0,0.9,0.8,-0.9,5,21,0,0,13,Matches
+777,Tommy Thompson,us USA,"MF,DF",SJ Earthquakes,27,1995,3.9,152,175,86.9,2152,604,84,88,54,60,6,11,0,0.2,0.5,-0.2,6,9,3,1,18,Matches
+778,Timmy Tillman,de GER,MF,LAFC,24,1999,18.3,703,817,86.0,11781,3044,333,360,275,304,64,89,1,1.0,1.7,0.0,20,79,21,1,101,Matches
+779,John Tolkin,us USA,DF,NY Red Bulls,20,2002,26.4,1056,1508,70.0,19523,7755,473,555,426,569,140,316,6,4.4,4.6,+1.6,44,91,24,9,109,Matches
+780,Nouhou Tolo,cm CMR,DF,Seattle Sounders,25,1997,22.8,1098,1307,84.0,18609,6026,557,603,431,505,91,150,0,0.6,0.9,-0.6,9,122,9,7,116,Matches
+781,Facundo Torres,uy URU,"FW,MF",Orlando City,22,2000,26.3,831,1041,79.8,13309,3278,493,539,240,300,80,134,3,4.2,4.6,-1.2,50,78,46,13,140,Matches
+782,Jairo Torres,mx MEX,"MF,FW",Chicago Fire,22,2000,8.5,255,324,78.7,4081,1117,147,162,80,97,22,41,0,0.5,0.4,-0.5,9,20,5,3,32,Matches
+783,Joaquín Torres,ar ARG,"MF,FW",Philadelphia Union,26,1997,3.9,84,131,64.1,1539,469,40,50,28,38,15,29,1,0.7,0.9,+0.3,9,7,10,5,16,Matches
+784,Mason Toye,us USA,FW,CF Montréal,24,1998,7.5,101,154,65.6,1711,208,56,76,34,49,11,15,0,0.4,0.2,-0.4,8,2,4,0,9,Matches
+785,Wil Trapp,us USA,MF,Minnesota Utd,30,1993,26.9,1175,1389,84.6,21816,7317,495,560,511,577,150,202,0,1.5,2.4,-1.5,21,159,20,3,167,Matches
+786,Miguel Trauco,pe PER,DF,SJ Earthquakes,30,1992,22.3,1048,1343,78.0,19527,8861,496,546,406,499,135,242,0,1.3,2.4,-1.3,19,110,37,5,120,Matches
+787,Niko Tsakiris,us USA,MF,SJ Earthquakes,17,2005,6.8,316,380,83.2,4641,1089,178,201,104,116,21,34,0,0.7,0.6,-0.7,6,22,9,0,39,Matches
+788,Bill Tuiloma,nz NZL,DF,Charlotte,27,1995,15.0,694,828,83.8,13977,5635,220,250,394,432,76,131,0,0.1,0.1,-0.1,2,44,3,0,60,Matches
+789,Stephen Turnbull,us USA,"DF,MF",NYCFC,24,1998,5.4,183,247,74.1,2757,862,110,124,67,88,5,20,0,0.8,0.7,-0.8,9,11,5,1,19,Matches
+790,Ema Twumasi,gh GHA,DF,FC Dallas,25,1997,17.5,756,898,84.2,11379,3087,425,456,272,312,39,84,0,0.8,1.2,-0.8,8,38,16,7,61,Matches
+791,Marinos Tzionis,cy CYP,"FW,MF",Sporting KC,21,2001,8.1,217,272,79.8,2824,642,141,159,58,72,9,23,1,0.2,0.4,+0.8,3,11,9,0,26,Matches
+792,Mikael Uhre,dk DEN,FW,Philadelphia Union,28,1994,23.8,249,409,60.9,3380,715,147,204,75,120,7,20,4,3.3,2.7,+0.7,29,15,16,5,27,Matches
+793,Þorleifur Úlfarsson,is ISL,"FW,MF",Houston Dynamo,22,2000,5.3,61,94,64.9,771,81,42,58,11,20,3,6,1,1.1,0.5,-0.1,10,2,3,1,6,Matches
+794,Victor Ulloa,us USA,MF,Inter Miami,30,1992,1.8,75,84,89.3,1130,334,49,54,21,23,4,6,0,0.0,0.0,0.0,1,10,0,0,9,Matches
+795,Jere Uronen,fi FIN,DF,Charlotte,28,1994,6.8,286,348,82.2,4545,1523,163,176,102,119,17,41,0,0.3,1.0,-0.3,3,29,1,0,34,Matches
+796,Maximiliano Urruti,ar ARG,FW,Austin,31,1991,10.8,95,130,73.1,1446,318,53,64,28,37,8,16,0,0.2,0.8,-0.2,7,7,9,0,16,Matches
+797,Júnior Urso,br BRA,"MF,FW",Orlando City,33,1989,2.8,90,116,77.6,1287,164,59,66,25,30,4,8,0,0.0,0.1,0.0,0,3,0,0,2,Matches
+798,Leo Väisänen,fi FIN,DF,Austin,25,1997,19.6,1011,1152,87.8,19001,7335,363,407,542,590,93,136,1,0.5,0.6,+0.5,6,40,6,2,54,Matches
+799,Jhojan Valencia,co COL,MF,Austin,26,1996,15.9,648,743,87.2,11760,2969,278,304,286,310,72,96,1,0.5,0.7,+0.5,7,49,4,1,63,Matches
+800,Zarek Valentin,pr PUR,DF,Minnesota Utd,31,1991,14.7,481,672,71.6,9045,3896,197,211,217,307,62,124,2,1.1,1.2,+0.9,10,52,10,3,52,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+801,Gerardo Valenzuela,us USA,MF,FC Cincinnati,18,2004,0.1,4,5,80.0,32,0,4,4,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+802,Gustavo Vallecilla,ec ECU,DF,Columbus Crew,23,1999,9.4,507,615,82.4,9139,3691,203,224,265,302,37,75,0,0.0,0.3,0.0,1,68,2,1,60,Matches
+803,Dante Vanzeir,be BEL,"FW,MF",NY Red Bulls,24,1998,8.3,102,174,58.6,1491,369,52,66,34,59,10,18,1,1.3,1.2,-0.3,13,10,14,3,16,Matches
+804,Kerwin Vargas,co COL,"FW,MF",Charlotte,21,2002,16.5,528,716,73.7,8401,2623,288,324,183,238,42,115,3,3.6,3.4,-0.6,27,35,35,19,65,Matches
+805,Marlon Vargas,sv SLV,MF,Colorado Rapids,22,2001,0.1,6,9,66.7,97,21,4,4,2,3,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+806,Obed Vargas,mx MEX,MF,Seattle Sounders,17,2005,14.7,617,708,87.1,9556,2327,332,361,231,256,39,49,1,0.6,0.7,+0.4,6,48,4,1,66,Matches
+807,Indiana Vassilev,us USA,MF,St. Louis,21,2001,23.5,570,786,72.5,9987,3215,278,328,210,274,69,141,4,2.6,2.8,+1.4,38,65,24,6,89,Matches
+808,Brandon Vazquez,us USA,FW,FC Cincinnati,24,1998,26.4,426,613,69.5,6514,1163,247,313,120,172,34,51,2,3.1,1.5,-1.1,21,21,18,2,46,Matches
+809,Víctor Vázquez,es ESP,"MF,FW",Toronto FC,36,1987,2.7,186,212,87.7,3220,1046,77,80,70,76,25,37,0,0.1,0.5,-0.1,3,20,4,0,21,Matches
+810,Carlos Vela,mx MEX,FW,LAFC,33,1989,23.0,677,939,72.1,12536,4681,271,326,293,356,90,187,7,5.6,5.6,+1.4,67,80,66,8,165,Matches
+811,Alan Velasco,ar ARG,"FW,MF",FC Dallas,20,2002,25.1,703,925,76.0,12223,2967,343,386,239,303,95,163,2,2.9,3.7,-0.9,34,70,21,5,93,Matches
+812,Brayan Vera,co COL,DF,Real Salt Lake,24,1999,22.7,921,1160,79.4,20511,8819,268,302,460,523,188,313,1,0.6,0.6,+0.4,14,84,9,3,76,Matches
+813,Ranko Veselinović,rs SRB,DF,Vancouver W'caps,23,1999,31.4,1506,1714,87.9,31278,10621,337,371,1018,1065,141,247,2,1.3,1.3,+0.7,7,78,6,0,82,Matches
+814,Jules-Anthony Vilsaint,ca CAN,FW,CF Montréal,20,2003,4.6,43,67,64.2,736,178,18,25,18,28,5,8,1,0.5,0.2,+0.5,4,5,3,0,9,Matches
+815,Pedro Vite,ec ECU,"MF,FW",Vancouver W'caps,20,2002,23.9,944,1145,82.4,15981,5552,467,515,371,427,84,133,0,2.8,4.5,-2.8,29,120,42,8,171,Matches
+816,Gino Vivi,cr CRC,"MF,DF",LA Galaxy,22,2000,0.9,35,40,87.5,403,44,24,25,9,12,0,0,0,0.0,0.0,0.0,1,0,0,0,1,Matches
+817,Robert Voloder,ba BIH,DF,Sporting KC,21,2001,11.4,561,681,82.4,11207,3142,172,194,311,356,75,116,0,0.0,0.1,0.0,0,32,0,0,33,Matches
+818,Giacomo Vrioni,al ALB,FW,NE Revolution,24,1998,14.6,147,206,71.4,2392,328,77,101,52,69,14,16,1,0.4,0.3,+0.6,8,6,4,0,16,Matches
+819,Kai Wagner,de GER,DF,Philadelphia Union,25,1997,27.1,1159,1677,69.1,23278,9341,445,521,505,647,194,446,7,7.1,6.6,-0.1,70,93,39,18,103,Matches
+820,Rémi Walter,fr FRA,MF,Sporting KC,27,1995,30.4,1306,1443,90.5,24265,5049,597,638,529,569,164,191,2,0.8,1.4,+1.2,18,148,12,4,158,Matches
+821,Victor Wanyama,ke KEN,MF,CF Montréal,31,1991,19.9,699,850,82.2,12641,3471,304,345,317,353,74,129,0,0.3,0.5,-0.3,10,78,2,0,89,Matches
+822,Taylor Washington,us USA,"DF,MF",Nashville SC,29,1993,5.4,207,260,79.6,3245,1065,110,127,88,107,8,19,0,0.0,0.2,0.0,0,11,3,2,18,Matches
+823,Joel Waterman,ca CAN,DF,CF Montréal,27,1996,26.4,1473,1716,85.8,31675,13067,427,464,788,853,251,362,1,0.9,1.1,+0.1,5,118,7,1,130,Matches
+824,Akil Watts,us USA,"DF,MF",St. Louis,22,2000,9.8,293,403,72.7,4559,1719,147,173,116,146,16,52,1,0.7,0.6,+0.3,9,31,6,3,32,Matches
+825,Quentin Westberg,us USA,GK,Atlanta Utd,36,1986,5.5,178,202,88.1,4190,2668,37,37,103,106,38,59,0,0.0,0.0,0.0,0,1,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+826,Ashley Westwood,eng ENG,MF,Charlotte,32,1990,28.1,1333,1660,80.3,22952,7751,631,679,548,641,129,280,2,3.1,4.0,-1.1,35,160,43,7,220,Matches
+827,Brian White,us USA,FW,Vancouver W'caps,26,1996,28.2,399,571,69.9,5299,768,253,326,111,153,14,23,4,4.5,3.1,-0.5,36,22,12,0,39,Matches
+828,Caleb Wiley,us USA,"DF,FW",Atlanta Utd,18,2004,25.9,982,1219,80.6,14582,5063,545,613,347,402,49,102,3,2.2,1.8,+0.8,21,53,21,5,81,Matches
+829,Derrick Williams,ie IRL,DF,D.C. United,30,1993,20.5,910,1077,84.5,18520,7270,271,303,516,565,117,191,0,0.4,0.6,-0.4,6,74,6,0,67,Matches
+830,Eryk Williamson,us USA,MF,Portland Timbers,25,1997,5.9,167,230,72.6,2876,1104,80,93,56,71,21,35,1,0.5,0.5,+0.5,8,21,7,0,31,Matches
+831,Joe Willis,us USA,GK,Nashville SC,34,1988,32.0,634,966,65.6,19276,14866,120,120,245,249,266,587,0,0.0,0.1,0.0,0,19,0,0,1,Matches
+832,Danny Wilson,sct SCO,DF,Colorado Rapids,31,1991,25.7,1011,1276,79.2,22608,9724,271,293,545,595,191,366,1,1.0,0.8,0.0,6,80,8,1,78,Matches
+833,Owen Wolff,us USA,MF,Austin,18,2004,20.9,588,717,82.0,10289,2795,266,299,264,302,50,73,2,0.9,1.3,+1.1,15,70,10,3,78,Matches
+834,Tyler Wolff,us USA,"FW,MF",Atlanta Utd,19,2003,7.2,176,200,88.0,2735,673,94,104,64,70,10,12,1,0.8,0.5,+0.2,6,12,5,2,24,Matches
+835,Bobby Wood,us USA,FW,NE Revolution,30,1992,16.5,203,287,70.7,2583,357,120,151,67,88,3,9,5,0.9,0.7,+4.1,11,18,1,0,22,Matches
+836,Karifa Yao,ca CAN,MF,Vancouver W'caps,22,2000,0.0,0,0,,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,0,Matches
+837,Darren Yapi,us USA,"FW,MF",Colorado Rapids,18,2004,9.9,112,175,64.0,1588,284,56,85,39,53,6,12,1,1.6,0.6,-0.6,10,5,5,1,9,Matches
+838,William Yarbrough,us USA,GK,Colorado Rapids,33,1989,20.0,484,656,73.8,12180,8394,125,125,209,211,146,311,0,0.0,0.0,0.0,0,6,0,0,1,Matches
+839,Joshua Yaro,gh GHA,DF,St. Louis,28,1994,10.1,345,419,82.3,6851,2518,97,108,215,236,31,63,0,0.1,0.1,-0.1,2,27,0,0,29,Matches
+840,Dru Yearwood,eng ENG,MF,NY Red Bulls,22,2000,9.2,196,307,63.8,3660,1196,85,116,80,115,27,55,0,1.1,0.7,-1.1,10,35,8,2,40,Matches
+841,Yaw Yeboah,gh GHA,"DF,MF",Columbus Crew,25,1997,22.0,855,1054,81.1,13072,3602,485,552,312,369,40,66,4,4.4,4.1,-0.4,36,53,27,10,83,Matches
+842,DeAndre Yedlin,us USA,DF,Inter Miami,29,1993,25.8,1124,1382,81.3,17861,5655,572,638,468,557,60,116,2,1.0,1.7,+1.0,13,56,18,6,79,Matches
+843,Maya Yoshida,jp JPN,DF,LA Galaxy,34,1988,12.0,671,739,90.8,12317,4886,252,265,369,392,48,75,1,0.1,0.1,+0.9,2,17,0,0,23,Matches
+844,Jackson Yueill,us USA,MF,SJ Earthquakes,25,1997,30.2,1620,1848,87.7,26557,10223,807,867,645,703,120,190,4,2.2,2.4,+1.8,29,211,25,3,221,Matches
+845,Gyasi Zardes,us USA,FW,Austin,31,1991,16.3,185,258,71.7,2551,445,103,123,58,89,10,18,2,1.8,1.6,+0.2,13,11,3,0,27,Matches
+846,Eriq Zavaleta,sv SLV,DF,LA Galaxy,30,1992,5.4,256,286,89.5,4612,1361,99,106,140,151,16,27,0,0.0,0.1,0.0,0,6,0,0,9,Matches
+847,Sean Zawadzki,us USA,"DF,MF",Columbus Crew,22,2000,17.5,925,1034,89.5,15397,5520,424,457,432,464,54,82,0,0.2,0.4,-0.2,5,83,2,0,78,Matches
+848,Lucas Zelarayán,am ARM,"MF,FW",Columbus Crew,30,1992,18.9,752,1008,74.6,13885,4475,359,411,251,310,124,221,6,5.1,5.3,+0.9,55,110,43,11,175,Matches
+849,Walker Zimmerman,us USA,DF,Nashville SC,29,1993,20.5,899,1065,84.4,19034,7275,237,274,542,596,117,176,1,1.4,1.0,-0.4,9,47,1,0,43,Matches
+850,Rida Zouhir,ca CAN,"MF,FW",CF Montréal,19,2003,2.5,77,97,79.4,1370,188,32,35,37,42,6,14,0,0.1,0.1,-0.1,1,5,2,1,5,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Cmp,Att,Cmp%,TotDist,PrgDist,Cmp,Att,Cmp,Att,Cmp,Att,Ast,xAG,xA,A-xAG,KP,1/3,PPA,CrsPA,PrgP,Matches
+851,Ethan Zubak,us USA,FW,Nashville SC,24,1998,1.6,36,56,64.3,485,113,18,23,14,23,0,1,0,0.1,0.1,-0.1,2,3,1,0,4,Matches
+852,Dario Župarić,ba BIH,DF,Portland Timbers,30,1992,31.0,983,1228,80.0,21314,7234,271,309,528,622,177,271,1,0.3,0.3,+0.7,5,58,2,0,75,Matches
+853,Graham Zusi,us USA,DF,Sporting KC,36,1986,9.6,492,667,73.8,9694,3821,183,210,236,291,69,145,1,1.3,1.5,-0.3,12,68,14,5,66,Matches
+854,Nökkvi Þórisson,is ISL,"FW,MF",St. Louis,23,1999,3.0,57,76,75.0,805,172,36,42,19,21,1,7,0,0.0,0.1,0.0,2,3,2,0,5,Matches
+855,Róbert Þorkelsson,is ISL,DF,CF Montréal,20,2002,2.5,110,131,84.0,1816,734,47,53,55,64,5,11,0,0.0,0.0,0.0,0,8,0,0,10,Matches

@@ -1,0 +1,35 @@
+rk,player,nation,pos,squad,age,born,mp,starts,min,90s,ga,ga90,sota,saves,save,w,d,l,cs,cs_perf,pkatt,pka,pksv,pkm,save_penalt,matches
+1,Nawaf Al Aqidi,sa KSA,GK,Al-Nassr,22,2000,11,11,989,11.0,6,0.55,25,21,84.0,8,1,2,6,54.5,2,2,0,0,0.0,Matches
+2,Abdulquddus Atiah,sa KSA,GK,Al-Wehda,25,1997,8,8,720,8.0,15,1.87,39,26,66.7,2,2,4,1,12.5,2,2,0,0,0.0,Matches
+3,Ameen Bokhari,sa KSA,GK,Al-Nassr,25,1997,1,0,1,0.0,0,0.00,0,0,,0,0,0,1,,0,0,0,0,,Matches
+4,Victor Braga,br BRA,GK,Al-Ta'ee,30,1992,30,30,2700,30.0,43,1.43,122,82,68.9,10,4,16,7,23.3,6,5,1,0,16.7,Matches
+5,Martín Campaña,uy URU,GK,Al-Batin,33,1989,23,23,2001,22.2,38,1.71,99,71,69.7,5,3,15,5,21.7,10,8,2,0,20.0,Matches
+6,Devis Epassy,cm CMR,GK,Abha,29,1993,29,29,2610,29.0,40,1.38,120,87,72.5,10,3,16,3,10.3,8,7,1,0,12.5,Matches
+7,Moslem Al Freej,sa KSA,GK,Al-Fayha,34,1988,5,3,328,3.6,6,1.65,14,8,57.1,0,1,2,1,33.3,0,0,0,0,,Matches
+8,Douglas Friedrich,br BRA,GK,Al-Khaleej,33,1988,20,20,1800,20.0,25,1.25,53,32,60.4,5,2,13,5,25.0,7,4,1,2,20.0,Matches
+9,Marcelo Grohe,br BRA,GK,Al-Ittihad,35,1987,30,30,2664,29.6,13,0.44,60,51,81.7,22,6,2,19,63.3,4,2,2,0,50.0,Matches
+10,Marwan Al Haidari,sa KSA,GK,Al-Khaleej,26,1996,10,10,900,10.0,13,1.30,35,24,65.7,4,2,4,2,20.0,2,1,1,0,50.0,Matches
+11,Abdulbasit Hawsawi,sa KSA,GK,Damac,25,1996,1,1,90,1.0,3,3.00,5,3,60.0,0,0,1,0,0.0,1,1,0,0,0.0,Matches
+12,Meshaal Huriss,sa KSA,GK,Al-Batin,,,8,7,697,7.7,12,1.55,29,20,65.5,0,2,5,0,0.0,4,2,2,0,50.0,Matches
+13,Abdullah Al Jadani,sa KSA,GK,Al-Ittihad,30,1991,1,0,36,0.4,0,0.00,2,2,100.0,0,0,0,1,,0,0,0,0,,Matches
+14,Ahmed Al Jubaya,sa KSA,GK,Al-Hilal,20,2001,1,0,45,0.5,2,4.00,4,2,50.0,0,0,0,0,,0,0,0,0,,Matches
+15,Silviu Lung Jr.,ro ROU,GK,Al-Raed,33,1989,27,27,2430,27.0,42,1.56,103,63,62.1,9,5,13,4,14.8,4,3,1,0,25.0,Matches
+16,Mohammed Al-Mahasneh,sa KSA,GK,Damac,,,1,1,90,1.0,4,4.00,10,6,60.0,0,0,1,0,0.0,0,0,0,0,,Matches
+17,Mailson,br BRA,GK,Al-Taawoun,25,1996,28,28,2468,27.4,29,1.06,95,69,71.6,14,7,7,6,21.4,3,2,1,0,33.3,Matches
+18,Mustafa Malayekah,sa KSA,GK,Al-Fateh,36,1986,4,3,315,3.5,6,1.71,11,5,45.5,1,0,2,1,33.3,0,0,0,0,,Matches
+19,Abdullah Al-Mayouf,sa KSA,GK,Al-Hilal,35,1987,23,23,2070,23.0,18,0.78,65,47,72.3,13,7,3,12,52.2,0,0,0,0,,Matches
+20,Milan Mijatović,me MNE,GK,Al-Adalah,35,1987,30,30,2700,30.0,52,1.73,124,79,62.1,7,7,16,4,13.3,7,5,2,0,28.6,Matches
+21,Munir,ma MAR,GK,Al-Wehda,33,1989,22,22,1980,22.0,22,1.00,68,50,73.5,6,6,10,5,22.7,4,4,0,0,0.0,Matches
+22,Raghid Najjar,sa KSA,GK,Al-Taawoun,25,1996,3,2,232,2.6,2,0.78,18,16,88.9,2,0,0,1,50.0,0,0,0,0,,Matches
+23,David Ospina,co COL,GK,Al-Nassr,33,1988,13,13,1169,13.0,4,0.31,12,8,83.3,9,3,1,8,61.5,2,2,0,0,0.0,Matches
+24,Mohammed Al-Owais,sa KSA,GK,Al-Hilal,30,1991,5,5,405,4.5,5,1.11,19,14,73.7,3,1,1,1,20.0,0,0,0,0,,Matches
+25,Ahmed Al-Rehaili,sa KSA,GK,Al-Raed,27,1994,3,3,270,3.0,4,1.33,11,8,72.7,0,2,1,1,33.3,1,1,0,0,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+26,Jacob Rinne,se SWE,GK,Al-Fateh,29,1993,27,27,2385,26.5,35,1.32,94,66,68.1,12,4,11,8,29.6,7,5,2,0,28.6,Matches
+27,Agustín Rossi,ar ARG,GK,Al-Nassr,26,1995,7,6,541,6.0,6,1.00,17,11,70.6,3,3,0,3,50.0,1,1,0,0,0.0,Matches
+28,Kim Seung-gyu,kr KOR,GK,Al-Shabab,31,1990,30,30,2700,30.0,32,1.07,88,62,70.5,17,5,8,11,36.7,7,6,1,0,14.3,Matches
+29,Abdullah Al-Shammeri,sa KSA,GK,Abha,30,1991,1,1,90,1.0,3,3.00,7,4,57.1,0,0,1,0,0.0,0,0,0,0,,Matches
+30,Vladimir Stojković,rs SRB,GK,Al-Fayha,39,1983,27,27,2372,26.4,30,1.14,67,41,58.2,8,8,11,7,25.9,4,2,2,0,50.0,Matches
+31,Paulo Victor Vidotti,br BRA,GK,Al-Ettifaq,35,1987,30,30,2700,30.0,33,1.10,114,86,75.4,10,7,13,10,33.3,5,5,0,0,0.0,Matches
+32,Habib Al Watyan,sa KSA,GK,Al-Hilal,25,1996,2,2,180,2.0,2,1.00,4,3,75.0,1,0,1,1,50.0,1,1,0,0,0.0,Matches
+33,Moustapha Zeghba,dz ALG,GK,Damac,31,1990,28,28,2520,28.0,32,1.14,77,49,63.6,9,9,10,8,28.6,4,4,0,0,0.0,Matches

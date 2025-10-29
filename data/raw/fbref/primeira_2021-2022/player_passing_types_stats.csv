@@ -1,0 +1,605 @@
+rk,player,nation,pos,squad,age,born,90s,att,live,dead,fk,tb,sw,crs,ti,ck,in,out,str,cmp,off,blocks,matches
+1,Rodrigo Abascal,uy URU,DF,Boavista,27,1994,26.5,1425,1323,95,50,3,29,9,43,0,0,0,0,1080,7,22,Matches
+2,Giorgi Aburjania,ge GEO,MF,Gil Vicente FC,26,1995,8.6,416,387,27,20,5,3,8,1,6,2,3,0,339,2,11,Matches
+3,Antonio Adán,es ESP,GK,Sporting CP,34,1987,33.0,1099,826,272,82,0,1,0,1,0,0,0,0,925,1,0,Matches
+4,João Afonso Crispim,br BRA,MF,Gil Vicente FC,26,1995,0.2,22,21,1,1,0,0,0,0,0,0,0,0,21,0,1,Matches
+5,João Afonso,pt POR,DF,Santa Clara,31,1990,12.4,483,466,15,14,0,7,2,0,0,0,0,0,387,2,5,Matches
+6,Lucas Áfrico,br BRA,DF,Estoril,26,1995,10.7,512,487,24,24,1,7,0,0,0,0,0,0,460,1,6,Matches
+7,Salvador Agra,pt POR,"FW,MF",Tondela,29,1991,29.0,949,794,147,57,10,10,142,19,71,32,28,1,615,8,26,Matches
+8,Mohamed Aidara,ci CIV,DF,Vizela,24,1996,15.0,572,538,31,31,0,4,2,0,0,0,0,0,449,3,8,Matches
+9,Chima Akas,ng NGA,DF,B-SAD,27,1994,19.5,776,595,174,20,1,1,27,151,3,1,0,0,541,7,18,Matches
+10,Alex,br BRA,DF,Famalicão,22,1999,16.4,710,683,25,24,0,8,0,0,0,0,0,0,621,2,6,Matches
+11,Ali Alipour,ir IRN,FW,Marítimo,25,1995,20.0,359,325,33,0,0,1,10,0,0,0,0,0,248,1,10,Matches
+12,Allano,br BRA,"FW,MF",Santa Clara,26,1995,12.1,449,425,20,6,2,3,24,11,3,2,0,0,325,4,11,Matches
+13,André Almeida,pt POR,DF,Benfica,30,1990,8.9,609,519,90,16,1,3,38,74,0,0,0,0,481,0,13,Matches
+14,Domingos André Ribeiro Almeida,pt POR,"MF,FW",Vitória,21,2000,20.2,784,722,53,27,6,20,16,8,0,0,0,0,655,9,17,Matches
+15,Baptiste Aloé,fr FRA,DF,Arouca,27,1994,0.7,33,33,0,0,0,0,0,0,0,0,0,0,31,0,1,Matches
+16,Omri Altman,il ISR,MF,Arouca,27,1994,1.5,48,39,9,5,0,1,4,0,3,1,1,0,39,0,1,Matches
+17,Alejandro Alvarado Jr.,us USA,"MF,FW",Vizela,18,2003,0.7,24,24,0,0,0,1,0,0,0,0,0,0,13,0,1,Matches
+18,Marcelo Alves,br BRA,DF,Tondela,23,1998,8.1,303,291,12,10,0,0,0,1,0,0,0,0,267,0,2,Matches
+19,Ricardo Miguel Martins Alves,pt POR,"DF,MF",Tondela,30,1991,9.2,385,351,30,22,0,2,4,8,0,0,0,0,303,4,2,Matches
+20,Pedro Amador,pt POR,"MF,DF",Moreirense,22,1998,13.3,527,385,141,23,0,2,66,98,20,10,10,0,340,1,12,Matches
+21,Amarildo,br BRA,DF,Famalicão,22,1999,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+22,André Amaro,pt POR,DF,Vitória,18,2002,6.3,320,309,11,11,0,2,0,0,0,0,0,0,280,0,2,Matches
+23,Artur Jorge Marques Amorim,pt POR,DF,Moreirense,26,1994,22.2,816,774,37,34,0,5,4,3,0,0,0,0,617,5,3,Matches
+24,Anderson,br BRA,"FW,MF",Portimonense,23,1998,11.4,350,327,20,5,0,0,12,12,2,1,1,0,274,3,15,Matches
+25,Léo Andrade,br BRA,DF,Marítimo,23,1998,14.3,737,704,33,31,0,8,0,2,0,0,0,0,614,0,8,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+26,Rodri Andrade,pt POR,MF,Marítimo,19,2001,0.1,6,6,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+27,André André,pt POR,MF,Vitória,31,1989,10.4,469,439,28,26,3,1,6,1,1,1,0,0,404,2,6,Matches
+28,Mauro Andrés Caballero,py PAR,FW,Arouca,26,1994,0.0,3,2,1,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+29,Andrew,br BRA,GK,Gil Vicente FC,20,2001,10.0,292,182,109,19,0,1,0,0,0,0,0,0,220,1,0,Matches
+30,Iván Angulo,co COL,"FW,MF",Portimonense,22,1999,26.2,658,630,24,6,3,2,24,18,0,0,0,0,528,4,20,Matches
+31,Antony,br BRA,"FW,MF",Arouca,19,2001,7.4,238,233,5,0,0,1,12,3,0,0,0,0,168,0,9,Matches
+32,Vitorino Antunes,pt POR,DF,Paços de Ferreira,34,1987,28.2,1633,1145,477,113,0,26,203,273,91,50,28,1,1102,11,42,Matches
+33,Bilel Aouacheria,fr FRA,"FW,MF",Gil Vicente FC,27,1994,7.1,239,229,9,1,0,0,24,5,3,0,1,0,168,1,8,Matches
+34,Wilinton Aponzá,co COL,"FW,MF",Portimonense,21,2000,8.3,138,119,18,1,0,1,3,0,0,0,0,0,97,1,3,Matches
+35,Brian Araújo,fr FRA,GK,Gil Vicente FC,21,2000,1.0,29,13,16,7,0,0,0,0,0,0,0,0,20,0,0,Matches
+36,Henrique Araújo,pt POR,FW,Benfica,19,2002,1.4,28,26,2,0,0,0,0,0,0,0,0,0,27,0,0,Matches
+37,Guilherme Araújo Soares,pt POR,DF,Braga,20,2001,0.5,29,29,0,0,0,0,0,0,0,0,0,0,21,0,0,Matches
+38,Tiago Araújo,pt POR,"DF,FW",Arouca,20,2001,5.3,223,174,49,9,0,1,34,29,11,4,5,0,152,0,7,Matches
+39,Tomás Araújo,pt POR,DF,Benfica,19,2002,1.1,61,57,4,4,0,1,0,0,0,0,0,0,55,0,0,Matches
+40,Telmo Arcanjo,cv CPV,"MF,FW",Tondela,20,2001,1.4,68,62,6,1,0,4,8,3,2,2,0,0,54,0,1,Matches
+41,Arthur,br BRA,"FW,MF",Estoril,23,1998,24.4,676,601,70,16,3,4,97,2,52,28,17,1,489,5,28,Matches
+42,Gustavo Assuncao,pt POR,MF,Famalicão,21,2000,6.7,322,300,21,21,1,3,1,0,0,0,0,0,266,1,4,Matches
+43,Javier Avilés,es ESP,"MF,FW",Tondela,23,1997,1.7,51,45,6,1,0,1,9,5,0,0,0,0,27,0,3,Matches
+44,Chidozie Awaziem,ng NGA,DF,Boavista,24,1997,3.0,123,120,3,3,0,3,0,0,0,0,0,0,105,0,0,Matches
+45,Abdoulaye Ba,sn SEN,DF,Arouca,30,1991,14.9,737,691,45,45,1,20,0,0,0,0,0,0,611,1,6,Matches
+46,Abdoulaye Ba,sn SEN,DF,Moreirense,30,1991,1.0,50,48,1,1,0,2,0,0,0,0,0,0,36,1,0,Matches
+47,Marco Baixinho,pt POR,DF,Paços de Ferreira,32,1989,24.3,1187,1145,39,38,0,24,1,1,0,0,0,0,1010,3,5,Matches
+48,Ibrahima Bamba,ci CIV,MF,Vitória,19,2002,3.3,140,136,4,4,0,7,0,0,0,0,0,0,120,0,2,Matches
+49,Daniel Bandeira,pt POR,MF,Vitória,21,2000,0.2,11,10,1,1,0,0,0,0,0,0,0,0,10,0,0,Matches
+50,Simon Banza,cd COD,FW,Famalicão,24,1996,25.9,465,417,41,2,1,7,17,1,0,0,0,0,305,7,9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+51,Yves Baraye,sn SEN,"FW,MF",B-SAD,29,1992,11.8,284,264,20,9,3,1,26,7,3,2,0,0,189,0,16,Matches
+52,Rafael Barbosa,pt POR,"MF,FW",Tondela,25,1996,19.2,708,640,65,33,3,15,51,14,11,6,5,0,498,3,21,Matches
+53,Romário Baró,pt POR,MF,Estoril,21,2000,4.3,116,114,2,2,1,1,1,0,0,0,0,0,83,0,6,Matches
+54,Oscar Barreto,co COL,"FW,MF",Santa Clara,28,1993,3.9,119,112,5,1,0,0,6,0,4,2,0,0,78,2,5,Matches
+55,Gil Bastião Dias,pt POR,"DF,FW",Benfica,24,1996,7.3,406,356,49,3,0,2,14,44,2,1,0,0,340,1,8,Matches
+56,Luís Bastos,pt POR,DF,Paços de Ferreira,19,2001,3.4,205,165,39,9,0,1,17,21,9,4,4,0,163,1,3,Matches
+57,Dylan Batubinsika,cd COD,DF,Famalicão,25,1996,16.7,714,687,26,25,0,10,1,1,0,0,0,0,619,1,5,Matches
+58,Clésio Baúque,mz MOZ,"DF,FW",Marítimo,26,1994,5.3,174,154,20,2,0,2,15,18,0,0,0,0,127,0,6,Matches
+59,Bebeto,br BRA,"DF,MF",Tondela,31,1990,15.4,706,551,151,20,0,4,45,126,5,1,3,0,513,4,17,Matches
+60,Alireza Beiranvand,ir IRN,GK,Boavista,28,1992,7.5,277,200,77,20,0,0,0,0,0,0,0,0,174,0,0,Matches
+61,Stefano Beltrame,it ITA,MF,Marítimo,28,1993,15.4,638,563,75,43,1,6,56,1,30,7,19,0,525,0,5,Matches
+62,Gilson Benchimol,cv CPV,FW,Estoril,19,2001,0.1,5,4,1,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+63,Berna,pt POR,MF,Braga,18,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+64,Paulo Bernardo,pt POR,MF,Benfica,19,2002,8.7,432,410,22,8,1,1,11,6,3,1,2,0,365,0,5,Matches
+65,Beto,gw GNB,FW,Portimonense,23,1998,3.0,40,35,4,0,0,0,3,0,0,0,0,0,25,1,0,Matches
+66,Aylton Boa Morte,pt POR,"FW,MF",Portimonense,27,1993,12.3,256,246,7,0,1,2,15,7,0,0,0,0,181,3,9,Matches
+67,Kennedy Boateng,tg TOG,DF,Santa Clara,24,1996,23.3,915,872,38,37,0,5,0,1,0,0,0,0,757,5,4,Matches
+68,Kiko Bondoso,pt POR,FW,Vizela,25,1995,30.2,928,904,19,11,10,4,44,5,0,0,0,0,698,5,42,Matches
+69,Trova Boni,bf BFA,MF,B-SAD,21,1999,4.9,114,106,8,1,1,1,0,5,0,0,0,0,80,0,6,Matches
+70,Toni Borevkovic,hr CRO,DF,Vitória,24,1997,22.1,1129,1079,46,45,0,21,0,1,0,0,0,0,957,4,4,Matches
+71,Gonçalo Borges,pt POR,MF,Porto,20,2001,0.1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+72,Neto Borges,br BRA,"DF,MF",Tondela,24,1996,23.7,1101,845,248,22,2,0,51,226,0,0,0,0,813,8,23,Matches
+73,Pedro Borges,br BRA,MF,Tondela,24,1997,22.1,801,770,26,26,5,6,2,0,0,0,0,0,642,5,16,Matches
+74,Mohamed Bouldini,ma MAR,FW,Santa Clara,25,1995,1.7,43,42,1,0,0,0,0,0,1,0,0,0,25,0,0,Matches
+75,Rafael Bracalli,br BRA,GK,Boavista,40,1981,26.5,835,557,272,67,0,2,0,0,0,0,0,0,527,6,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+76,Victor Braga,br BRA,GK,Arouca,29,1992,23.1,771,536,231,68,0,2,0,0,0,0,0,0,475,4,0,Matches
+77,Daniel Bragança,pt POR,MF,Sporting CP,22,1999,8.7,604,594,10,9,5,11,6,1,0,0,0,0,548,0,6,Matches
+78,Pedro Brazão,pt POR,"MF,FW",Famalicão,18,2002,4.2,109,102,6,1,2,2,2,3,1,1,0,0,78,1,3,Matches
+79,Brunão,br BRA,MF,Arouca,24,1997,0.2,7,6,1,1,0,0,0,0,0,0,0,0,6,0,0,Matches
+80,David Bruno,pt POR,DF,Estoril,29,1992,13.5,656,518,135,12,0,2,45,123,0,0,0,0,479,3,14,Matches
+81,Matheus Bueno,br BRA,"MF,FW",Gil Vicente FC,23,1998,7.3,305,283,22,9,2,3,26,4,8,4,4,0,226,0,8,Matches
+82,André Bukia,cd COD,"FW,MF",Arouca,26,1995,28.5,634,607,24,7,5,4,64,11,6,2,4,0,442,3,26,Matches
+83,Leonardo Buta,pt POR,DF,Braga,19,2002,1.5,79,70,9,3,0,0,4,6,0,0,0,0,59,0,4,Matches
+84,Adrián Butzke,es ESP,FW,Paços de Ferreira,22,1999,6.4,166,151,15,0,2,3,2,0,0,0,0,0,136,0,5,Matches
+85,Jovane Cabral,cv CPV,"MF,FW",Sporting CP,23,1998,3.8,123,115,7,4,1,1,11,1,2,2,0,0,87,1,4,Matches
+86,Paulo Henrique Rodrigues Cabral,pt POR,DF,Santa Clara,24,1996,13.9,624,481,142,30,1,9,17,112,0,0,0,0,464,1,18,Matches
+87,Jhonder Cádiz,ve VEN,"FW,DF",Famalicão,26,1995,5.0,131,127,4,1,0,1,3,1,0,0,0,0,73,0,2,Matches
+88,João Caiado,pt POR,FW,Gil Vicente FC,22,1999,0.0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+89,Juan Calero,co COL,FW,Gil Vicente FC,22,1998,1.6,53,46,7,0,0,0,0,2,0,0,0,0,44,0,4,Matches
+90,Diogo Calila,mz MOZ,"DF,MF",B-SAD,22,1998,21.3,881,648,229,30,0,1,82,187,12,1,9,0,643,4,27,Matches
+91,Rafael Camacho,pt POR,"FW,MF",B-SAD,21,2000,9.8,243,221,21,4,2,0,23,8,7,3,1,0,180,1,11,Matches
+92,Abel Camará,gw GNB,FW,B-SAD,31,1990,17.3,313,297,13,0,1,1,18,1,0,0,0,0,203,3,16,Matches
+93,Ibrahima Camará,gn GUI,MF,Moreirense,22,1999,18.9,767,683,82,45,1,11,59,3,23,10,12,0,541,2,14,Matches
+94,Gastón Campi,ar ARG,DF,Arouca,30,1991,4.0,171,165,6,6,0,6,0,0,0,0,0,0,124,0,1,Matches
+95,Fali Candé,gw GNB,DF,Portimonense,23,1998,14.6,734,543,186,20,0,0,70,139,27,15,9,0,503,5,18,Matches
+96,Francis Cann,gh GHA,"FW,MF",Vizela,23,1998,2.4,66,63,3,0,0,1,7,1,0,0,0,0,44,0,3,Matches
+97,Reggie Cannon,us USA,DF,Boavista,23,1998,19.0,955,856,98,28,0,3,11,69,0,0,0,0,796,1,22,Matches
+98,Fábio Cardoso,pt POR,DF,Porto,27,1994,12.0,709,695,12,11,0,1,0,0,0,0,0,0,648,2,0,Matches
+99,Carlinhos,br BRA,MF,Portimonense,27,1994,25.4,1313,1156,148,78,5,27,75,14,56,24,21,0,1077,9,21,Matches
+100,Carlos,br BRA,FW,Santa Clara,25,1995,2.0,45,40,5,1,0,0,3,2,1,0,0,0,35,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+101,Luíz Carlos,br BRA,MF,Paços de Ferreira,36,1985,28.9,1274,1200,72,69,0,11,17,3,0,0,0,0,1099,2,15,Matches
+102,João Carlos Teixeira,pt POR,"FW,MF",Famalicão,28,1993,8.8,356,320,30,7,2,5,11,7,0,0,0,0,290,6,4,Matches
+103,Zé Carlos,pt POR,DF,Gil Vicente FC,23,1998,27.3,1867,1494,362,46,2,7,65,316,0,0,0,0,1450,11,52,Matches
+104,David Carmo,ao ANG,DF,Braga,22,1999,11.0,721,706,14,13,0,8,1,1,0,0,0,0,599,1,3,Matches
+105,Carraça,pt POR,"DF,MF",B-SAD,28,1993,24.5,1546,1169,372,108,0,23,157,216,48,11,27,0,1101,5,26,Matches
+106,Anderson Carvalho,br BRA,MF,Santa Clara,31,1990,21.1,704,675,26,21,5,4,9,0,0,0,0,0,527,3,16,Matches
+107,Duarte Carvalho,pt POR,MF,Estoril,19,2002,0.2,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+108,Vitor Carvalho,br BRA,MF,Gil Vicente FC,24,1997,24.8,1250,1212,35,32,2,7,1,3,0,0,0,0,1002,3,17,Matches
+109,Cassiano,br BRA,FW,Vizela,32,1989,17.7,300,263,35,0,0,0,19,2,0,0,0,0,181,2,9,Matches
+110,Mateo Cassierra,co COL,FW,B-SAD,24,1997,1.9,37,37,0,0,0,1,0,0,0,0,0,0,30,0,1,Matches
+111,Moises Castillo,co COL,"DF,FW",Marítimo,20,2001,0.2,4,4,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+112,André Castro,pt POR,MF,Braga,33,1988,12.8,568,548,18,11,4,12,5,6,1,0,0,0,446,2,8,Matches
+113,Fernando Castro,br BRA,GK,Arouca,24,1997,6.9,247,166,81,19,0,0,0,0,0,0,0,0,163,0,0,Matches
+114,Tomás Castro,pt POR,MF,B-SAD,22,1999,0.6,36,33,3,0,0,0,3,0,3,2,1,0,22,0,3,Matches
+115,Geny Catamo,mz MOZ,DF,Sporting CP,20,2001,0.3,22,18,4,0,0,0,1,4,0,0,0,0,17,0,0,Matches
+116,Geny Catamo,mz MOZ,"FW,MF",Vitória,20,2001,2.5,85,84,1,1,1,0,5,0,0,0,0,0,63,0,2,Matches
+117,Charles,br BRA,GK,Vizela,27,1994,14.0,407,241,163,37,0,0,0,0,0,0,0,0,280,3,0,Matches
+118,Francisco Chico,pt POR,"MF,FW",B-SAD,23,1998,6.1,212,183,28,8,1,1,33,6,14,7,4,0,153,1,5,Matches
+119,Fábio China,pt POR,DF,Marítimo,29,1992,6.4,365,283,81,14,1,5,17,67,0,0,0,0,279,1,8,Matches
+120,Chiquinho,pt POR,FW,Estoril,21,2000,9.3,164,159,5,2,1,3,39,3,0,0,0,0,92,0,7,Matches
+121,Chiquinho,pt POR,"MF,FW",Braga,26,1995,2.3,85,81,2,1,0,0,3,1,0,0,0,0,70,2,1,Matches
+122,André Clóvis,br BRA,FW,Estoril,23,1997,9.7,142,125,15,0,1,2,5,0,0,0,0,0,99,2,5,Matches
+123,Sebastián Coates,uy URU,DF,Sporting CP,30,1990,29.3,2024,1953,59,57,5,6,0,2,0,0,0,0,1763,12,11,Matches
+124,Racine Coly,sn SEN,DF,Estoril,25,1995,1.9,94,68,26,1,0,0,4,25,0,0,0,0,71,0,2,Matches
+125,Francisco Conceição,pt POR,"MF,FW",Porto,18,2002,5.5,241,235,5,0,1,0,12,3,2,1,0,0,202,1,7,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+126,Rodrigo Conceição,pt POR,"DF,MF",Moreirense,21,2000,4.3,201,160,41,6,0,1,32,33,2,0,2,0,143,0,5,Matches
+127,Abdu Conté,pt POR,"DF,MF",Moreirense,23,1998,15.3,757,581,172,19,0,3,62,147,6,4,0,0,566,4,28,Matches
+128,Jeriel Córdova,ve VEN,"FW,MF",Boavista,19,2002,2.3,58,55,3,0,0,0,1,0,0,0,0,0,39,0,2,Matches
+129,Jesús Corona,mx MEX,"DF,MF",Porto,28,1993,4.3,296,268,24,4,1,3,18,20,0,0,0,0,237,4,4,Matches
+130,Rui Filipe Cunha Correia,pt POR,MF,Santa Clara,26,1995,13.4,579,566,12,12,2,12,4,0,0,0,0,0,482,1,15,Matches
+131,Bruno Xavier Almeida Costa,pt POR,"MF,DF",Porto,24,1997,7.5,495,443,52,29,0,2,17,14,9,2,5,1,441,0,2,Matches
+132,Diogo Costa,pt POR,GK,Porto,21,1999,33.0,1226,991,233,68,0,4,0,0,0,0,0,0,936,2,0,Matches
+133,Edgar Costa,pt POR,"MF,FW",Marítimo,34,1987,14.4,590,480,102,45,1,15,79,13,41,21,17,0,400,8,9,Matches
+134,Matheus Costa,br BRA,DF,Marítimo,26,1995,21.1,1147,1096,51,46,1,6,1,5,0,0,0,0,1000,0,15,Matches
+135,Murilo Costa,br BRA,"FW,MF",Gil Vicente FC,26,1994,9.4,358,318,40,13,1,1,37,6,20,5,12,0,261,0,7,Matches
+136,Diogo Costa Rodrigues,pt POR,MF,Portimonense,21,1999,0.1,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+137,Rui Costa,pt POR,FW,Santa Clara,25,1996,21.8,414,376,35,2,3,9,34,1,1,0,0,0,270,3,20,Matches
+138,Tomás Costa Silva,pt POR,"FW,MF",Vizela,21,1999,0.4,19,19,0,0,0,0,1,0,0,0,0,0,11,0,0,Matches
+139,Vitor Costa,br BRA,DF,Marítimo,27,1994,28.4,1564,1278,277,53,3,12,61,218,5,1,4,0,1196,9,23,Matches
+140,Costinha,pt POR,FW,Santa Clara,28,1992,0.9,34,26,7,2,1,0,5,2,3,1,1,0,25,1,1,Matches
+141,Filipe Couto,pt POR,MF,Marítimo,27,1994,0.2,18,18,0,0,0,0,0,0,0,0,0,0,17,0,0,Matches
+142,Yan Couto,br BRA,"DF,MF",Braga,19,2002,20.0,1281,1076,201,14,2,5,81,187,0,0,0,0,995,4,24,Matches
+143,Crespo,pt POR,"MF,FW",Estoril,24,1996,2.9,65,54,9,3,1,0,9,0,6,5,0,0,45,2,2,Matches
+144,Sandro Cruz,ao ANG,DF,Benfica,20,2001,1.8,88,74,13,4,0,3,3,9,0,0,0,0,75,1,1,Matches
+145,Crysan,br BRA,FW,Santa Clara,25,1996,15.9,487,475,8,3,2,4,13,1,0,0,0,0,341,4,17,Matches
+146,Lucas Cunha,br BRA,DF,Gil Vicente FC,24,1997,32.0,2205,2102,101,96,4,57,2,5,0,0,0,0,1913,2,11,Matches
+147,Sessi D'Almeida,bj BEN,MF,Tondela,25,1995,2.4,65,63,2,2,0,0,0,0,0,0,0,0,56,0,1,Matches
+148,Oday Dabbagh,ps PLE,"FW,MF",Arouca,22,1998,7.6,202,189,12,0,0,0,6,1,1,0,1,0,148,1,7,Matches
+149,Julien Dacosta,fr FRA,"DF,MF",Portimonense,25,1996,4.4,120,98,21,4,1,1,6,17,0,0,0,0,83,1,5,Matches
+150,Renat Dadaşov,az AZE,FW,Tondela,22,1999,16.0,318,266,49,0,2,3,1,1,0,0,0,0,206,3,9,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+151,Dalberson,br BRA,GK,Famalicão,24,1997,2.0,60,39,21,6,0,0,0,0,0,0,0,0,45,0,0,Matches
+152,Daniel,br BRA,FW,Tondela,25,1996,17.7,374,327,46,6,1,0,7,2,0,0,0,0,264,1,19,Matches
+153,Tiago Dantas,pt POR,MF,Tondela,20,2000,12.2,583,553,27,23,4,6,10,2,2,1,1,0,497,3,12,Matches
+154,Or Dasa,il ISR,"MF,FW",Arouca,22,1998,0.6,29,28,0,0,0,0,0,0,0,0,0,0,25,1,1,Matches
+155,Hernán De La Fuente,ar ARG,"DF,MF",Famalicão,24,1997,10.3,438,325,111,4,0,0,17,107,0,0,0,0,326,2,20,Matches
+156,Juan Delgado,cl CHI,"DF,FW",Paços de Ferreira,28,1993,21.9,896,769,122,21,0,8,79,97,3,0,2,0,679,5,26,Matches
+157,Denílson,br BRA,FW,Paços de Ferreira,26,1995,20.1,351,312,36,1,2,0,9,1,0,0,0,0,248,3,11,Matches
+158,Jordan van der Gaag,nl NED,"MF,FW",B-SAD,22,1999,2.0,38,32,4,1,0,1,1,0,0,0,0,0,26,2,0,Matches
+159,Lamine Diaby,fr FRA,"MF,FW",Paços de Ferreira,24,1996,2.5,106,104,2,2,0,1,0,0,0,0,0,0,77,0,2,Matches
+160,Luis Díaz,co COL,"MF,FW",Porto,24,1997,16.6,672,644,24,2,3,4,22,16,6,0,0,0,536,4,16,Matches
+161,Marcelo Djaló,gw GNB,DF,Boavista,27,1993,0.6,22,21,1,1,0,0,0,0,0,0,0,0,17,0,1,Matches
+162,Matchoi Djaló,pt POR,"MF,FW",Paços de Ferreira,18,2003,7.9,209,179,30,10,2,4,23,4,15,9,5,0,151,0,2,Matches
+163,Ivan Dolček,hr CRO,"DF,MF",Famalicão,21,2000,2.2,79,58,21,3,0,0,5,18,0,0,0,0,61,0,1,Matches
+164,Bruno Duarte,br BRA,"FW,MF",Vitória,25,1996,11.2,236,219,16,1,3,1,11,2,1,0,0,0,159,1,3,Matches
+165,Marcus Edwards,eng ENG,"MF,FW",Sporting CP,22,1998,5.8,207,188,16,0,1,0,19,1,15,3,7,0,165,3,6,Matches
+166,Marcus Edwards,eng ENG,FW,Vitória,22,1998,14.3,379,368,10,3,6,5,23,2,5,2,2,0,296,1,5,Matches
+167,Ricardo Esgaio,pt POR,"DF,MF",Sporting CP,28,1993,16.3,1005,827,175,18,1,3,54,157,0,0,0,0,795,3,22,Matches
+168,Tiago Esgaio,pt POR,DF,Arouca,25,1995,10.2,524,450,73,11,3,6,20,62,0,0,0,0,381,1,7,Matches
+169,Tiago Esgaio,pt POR,DF,Braga,25,1995,0.8,47,37,10,0,0,0,2,9,0,0,0,0,34,0,1,Matches
+170,Dario Essugo,pt POR,MF,Sporting CP,16,2005,0.5,20,18,2,2,0,0,0,0,0,0,0,0,17,0,0,Matches
+171,Gonçalo Esteves,pt POR,"DF,FW",Sporting CP,17,2004,1.6,66,53,13,4,0,0,4,9,0,0,0,0,57,0,0,Matches
+172,Luís Esteves,pt POR,MF,Vitória,23,1998,0.4,35,28,6,4,0,1,3,0,2,2,0,0,25,1,1,Matches
+173,Paulo Estrela Moreira,pt POR,MF,Portimonense,22,1999,0.1,5,4,1,1,0,0,0,0,0,0,0,0,5,0,0,Matches
+174,Oscar Estupiñan,co COL,FW,Vitória,24,1996,24.1,326,304,21,1,0,2,5,0,0,0,0,0,207,1,8,Matches
+175,Friday Etim,ng NGA,"FW,MF",Vizela,19,2002,0.2,3,2,1,0,0,0,0,0,0,0,0,0,1,0,1,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+176,Stephen Eustáquio,ca CAN,MF,Porto,24,1996,1.0,85,81,4,1,0,1,3,1,2,1,0,0,70,0,4,Matches
+177,Stephen Eustáquio,ca CAN,MF,Paços de Ferreira,24,1996,16.4,850,806,42,30,1,10,19,3,9,5,3,0,710,2,6,Matches
+178,Evanilson,br BRA,FW,Porto,21,1999,22.5,488,469,18,2,4,0,4,4,0,0,0,0,371,1,21,Matches
+179,Ewerton,br BRA,MF,Portimonense,28,1992,8.1,366,353,11,10,2,0,0,1,0,0,0,0,301,2,8,Matches
+180,Miguel Falé,pt POR,"FW,MF",Braga,17,2004,2.8,87,85,2,0,0,0,9,0,1,0,0,0,64,0,3,Matches
+181,Zouhair Feddal,ma MAR,DF,Sporting CP,32,1989,11.2,829,798,30,26,0,4,3,4,0,0,0,0,741,1,7,Matches
+182,Luiz Felipe,br BRA,GK,B-SAD,24,1997,32.0,1072,692,377,94,0,0,0,0,0,0,0,0,673,3,1,Matches
+183,Volnei Feltes,br BRA,DF,Estoril,21,2000,1.7,71,67,3,3,0,2,0,0,0,0,0,0,64,1,0,Matches
+184,Gedson Fernandes,pt POR,MF,Benfica,22,1999,0.6,41,38,3,3,0,0,0,0,0,0,0,0,36,0,0,Matches
+185,Ivanildo Fernandes,cv CPV,DF,Vizela,25,1996,15.1,649,631,15,14,1,2,1,1,0,0,0,0,531,3,3,Matches
+186,Jorge Filipe Oliveira Fernandes,pt POR,DF,Vitória,24,1997,13.6,664,626,37,34,0,21,1,3,0,0,0,0,530,1,6,Matches
+187,Lucas Fernandes,br BRA,MF,Portimonense,23,1997,15.8,740,678,61,38,0,6,40,0,23,12,11,0,641,1,9,Matches
+188,Ricardo Fernandes,pt POR,GK,Santa Clara,26,1994,5.9,192,136,56,17,0,0,0,0,0,0,0,0,118,0,1,Matches
+189,Roger Fernandes,pt POR,"MF,DF",Braga,15,2005,1.3,53,50,3,0,0,0,11,3,0,0,0,0,37,0,2,Matches
+190,Rúben Fernandes,pt POR,DF,Gil Vicente FC,35,1986,32.8,1935,1840,92,89,2,20,2,3,0,0,0,0,1716,3,10,Matches
+191,Fernando,br BRA,FW,Porto,28,1993,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+192,Nahuel Ferraresi,ve VEN,DF,Estoril,22,1998,22.1,1429,1374,50,48,4,14,3,2,0,0,0,0,1264,5,9,Matches
+193,André Ferreira,pt POR,GK,Paços de Ferreira,25,1996,32.0,999,601,395,107,0,2,0,0,0,0,0,0,650,3,0,Matches
+194,Filipe Ferreira,pt POR,"DF,MF",Boavista,30,1990,15.8,739,603,132,13,0,4,43,115,4,3,1,0,539,4,23,Matches
+195,Fernando Ferreira Fonseca,pt POR,DF,Paços de Ferreira,24,1997,16.6,836,633,199,27,0,10,29,172,0,0,0,0,602,4,23,Matches
+196,Hélder Ferreira,pt POR,"FW,MF",Paços de Ferreira,24,1997,17.5,696,657,33,8,2,4,49,22,2,0,1,0,483,6,24,Matches
+197,João Ferreira,pt POR,DF,Vitória,20,2001,10.9,562,448,113,15,0,8,25,98,0,0,0,0,403,1,11,Matches
+198,Joel Ferreira,pt POR,DF,Arouca,29,1992,0.5,30,26,4,0,0,0,4,4,0,0,0,0,23,0,3,Matches
+199,Daniel Figueira,pt POR,GK,Estoril,23,1998,24.0,1089,789,296,54,0,2,0,0,0,0,0,0,879,4,2,Matches
+200,Diogo Figueiras,pt POR,DF,Famalicão,30,1991,14.1,671,500,169,25,2,6,47,144,0,0,0,0,478,2,15,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+201,Tiago Fonseca Morais,pt POR,"MF,FW",Boavista,17,2003,3.4,82,74,8,2,0,1,8,0,5,4,1,0,54,0,4,Matches
+202,Rui Fonte,pt POR,FW,Estoril,31,1990,14.2,298,260,37,3,0,2,6,1,0,0,0,0,223,1,8,Matches
+203,Rui Fonte,pt POR,DF,Braga,31,1990,0.1,7,7,0,0,0,0,1,0,0,0,0,0,3,0,0,Matches
+204,André Franco,pt POR,MF,Estoril,23,1998,28.0,855,722,122,48,9,9,113,4,69,33,17,0,593,11,10,Matches
+205,Gonçalo Franco,pt POR,MF,Moreirense,20,2000,12.7,402,376,23,6,1,8,14,6,0,0,0,0,299,3,13,Matches
+206,Fransérgio,br BRA,MF,Braga,30,1990,1.6,69,63,6,6,0,0,0,0,0,0,0,0,60,0,2,Matches
+207,Žiga Frelih,si SVN,GK,Gil Vicente FC,23,1998,19.0,607,399,208,53,1,1,0,0,0,0,0,0,442,0,1,Matches
+208,Godfried Frimpong,nl NED,"DF,MF",Moreirense,22,1999,6.5,307,217,88,15,0,0,46,64,9,2,5,0,196,2,13,Matches
+209,Kanya Fujimoto,jp JPN,"MF,FW",Gil Vicente FC,22,1999,26.6,1034,978,54,8,9,8,52,9,36,11,17,0,835,2,24,Matches
+210,Rodolfo Furtado,pt POR,GK,Santa Clara,23,1997,0.1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+211,Nicolás Gaitán,ar ARG,MF,Paços de Ferreira,33,1988,3.3,102,96,4,1,3,2,7,0,3,0,3,0,65,2,3,Matches
+212,Jefferson Galego,br BRA,"MF,FW",Moreirense,24,1997,1.0,28,26,2,0,0,1,2,2,0,0,0,0,24,0,0,Matches
+213,Galeno,br BRA,"MF,FW",Porto,23,1997,3.5,112,104,8,0,1,3,6,8,0,0,0,0,80,0,4,Matches
+214,Galeno,br BRA,"MF,DF",Braga,23,1997,10.6,400,371,29,3,4,6,23,26,0,0,0,0,295,0,7,Matches
+215,Nino Galović,hr CRO,DF,Arouca,29,1992,10.3,514,489,25,21,0,1,0,4,0,0,0,0,458,0,2,Matches
+216,João Gamboa,pt POR,MF,Estoril,24,1996,23.5,886,844,34,34,2,7,7,0,0,0,0,0,705,8,10,Matches
+217,Pedro Ganchas,pt POR,DF,Paços de Ferreira,21,2000,1.6,74,70,4,4,0,0,0,0,0,0,0,0,65,0,0,Matches
+218,Javi García,es ESP,"DF,MF",Boavista,34,1987,13.8,488,452,35,35,1,2,0,0,0,0,0,0,422,1,6,Matches
+219,Geovani,br BRA,"FW,MF",Famalicão,20,2001,0.8,17,17,0,0,0,0,1,0,0,0,0,0,12,0,1,Matches
+220,Francisco Geraldes,pt POR,MF,Estoril,26,1995,18.2,637,592,39,21,5,2,29,1,15,8,2,1,479,6,13,Matches
+221,Gilberto,br BRA,"DF,MF",Benfica,28,1993,15.0,1027,839,179,8,1,3,55,170,1,0,1,0,807,9,34,Matches
+222,Henrique Gomes,pt POR,DF,Gil Vicente FC,25,1995,2.6,152,124,28,2,0,0,2,26,0,0,0,0,118,0,1,Matches
+223,Rodrigo Gomes,pt POR,"MF,DF",Braga,18,2003,8.2,250,243,6,2,0,3,10,4,0,0,0,0,175,1,14,Matches
+224,Sana Gomes,gw GNB,DF,Portimonense,19,2002,4.1,157,110,47,1,0,0,8,46,0,0,0,0,98,0,2,Matches
+225,Luis Gómez,co COL,"MF,FW",Santa Clara,21,1999,0.7,15,14,1,0,0,0,0,1,0,0,0,0,9,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+226,Nuno Gonçalo Moreira,pt POR,FW,Vizela,22,1999,18.8,617,533,79,23,1,4,97,6,50,20,19,0,406,5,23,Matches
+227,Diogo Gonçalves,pt POR,"MF,FW",Benfica,24,1997,9.6,471,397,72,11,3,0,46,52,9,8,1,0,365,2,13,Matches
+228,Ivo Gonçalves,pt POR,GK,Vizela,37,1984,1.0,15,8,6,1,0,0,0,0,0,0,0,0,8,1,0,Matches
+229,Jota Gonçalves,pt POR,DF,Tondela,21,2000,4.1,184,177,6,4,0,2,0,2,0,0,0,0,155,1,2,Matches
+230,Pedro Gonçalves,pt POR,"MF,FW",Sporting CP,23,1998,22.4,723,669,46,6,6,7,71,1,38,10,23,1,545,8,17,Matches
+231,Cristian González,uy URU,DF,Santa Clara,25,1996,14.9,600,562,37,17,0,3,1,20,0,0,0,0,491,1,3,Matches
+232,Mario González,es ESP,FW,Braga,25,1996,6.2,115,105,10,0,1,0,2,0,0,0,0,0,84,0,1,Matches
+233,Jean Gorby,fr FRA,MF,Braga,19,2002,2.3,163,157,3,3,0,0,0,0,0,0,0,0,139,3,3,Matches
+234,Kenji Gorré,cw CUW,"FW,MF",Boavista,26,1994,18.5,428,398,29,10,4,8,32,7,10,6,1,0,313,1,18,Matches
+235,Tiago Gouveia,pt POR,"FW,MF",Benfica,20,2001,1.0,33,32,1,0,1,0,6,0,1,0,1,0,22,0,2,Matches
+236,Álex Grimaldo,es ESP,"DF,MF",Benfica,25,1995,25.8,1910,1518,387,55,9,10,170,257,75,44,20,0,1546,5,39,Matches
+237,Marko Grujić,rs SRB,MF,Porto,25,1996,9.9,558,548,8,8,0,6,0,0,0,0,0,0,463,2,6,Matches
+238,Gui Guedes,pt POR,MF,Vitória,19,2002,0.7,28,27,1,1,0,0,0,0,0,0,0,0,21,0,1,Matches
+239,Rafik Guitane,fr FRA,"FW,MF",Marítimo,22,1999,21.2,707,686,15,11,11,2,13,3,1,0,0,0,550,6,21,Matches
+240,Raphael Guzzo,pt POR,MF,Vizela,26,1995,9.1,503,466,34,20,1,1,15,7,6,1,1,0,399,3,9,Matches
+241,Emmanuel Hackman,tg TOG,DF,Gil Vicente FC,26,1995,7.4,507,420,87,13,0,0,11,74,0,0,0,0,386,0,14,Matches
+242,Yanis Hamache,dz ALG,"MF,DF",Boavista,22,1999,20.5,1016,739,268,39,2,8,124,213,16,7,9,0,694,9,29,Matches
+243,Tomás Händel,pt POR,MF,Vitória,20,2000,11.5,514,495,16,16,0,7,2,0,0,0,0,0,422,3,7,Matches
+244,Boubacar Hanne,pt POR,"FW,MF",Gil Vicente FC,22,1999,2.8,119,109,8,1,3,0,9,1,6,3,1,0,91,2,3,Matches
+245,Norbert Haymamba,cm CMR,GK,Arouca,22,1999,3.0,97,73,23,6,0,0,0,0,0,0,0,0,73,1,0,Matches
+246,Henrique,br BRA,"FW,MF",Marítimo,27,1993,8.9,220,213,6,0,1,1,10,4,2,0,0,0,161,1,7,Matches
+247,Danny Henriques,nl NED,DF,B-SAD,24,1997,21.9,920,848,68,46,0,8,8,14,3,0,0,0,719,4,6,Matches
+248,Manu Hernando,es ESP,DF,Tondela,23,1998,17.8,801,753,46,44,0,6,0,2,0,0,0,0,668,2,9,Matches
+249,Lukáš Horníček,cz CZE,GK,Braga,19,2002,1.0,35,22,13,1,0,0,0,0,0,0,0,0,29,0,0,Matches
+250,André Horta,pt POR,MF,Braga,24,1996,17.4,1150,1116,30,18,4,27,18,3,9,2,4,1,998,4,10,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+251,Ricardo Horta,pt POR,"FW,MF",Braga,26,1994,31.0,1157,1002,152,41,14,4,110,27,82,38,26,1,883,3,23,Matches
+252,Abbas Ibrahim,ng NGA,"MF,FW",Paços de Ferreira,23,1998,2.0,94,93,1,1,0,0,0,0,0,0,0,0,84,0,2,Matches
+253,Abdulwahab Ibrahim,gh GHA,MF,Famalicão,22,1999,0.0,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+254,Tiago Ilori,pt POR,DF,Boavista,28,1993,5.6,282,267,15,15,0,2,0,0,0,0,0,0,244,0,1,Matches
+255,Giannelli Imbula,cd COD,"MF,FW",Portimonense,28,1992,1.5,98,94,4,3,0,0,3,0,1,1,0,0,88,0,1,Matches
+256,Gonçalo Inácio,pt POR,DF,Sporting CP,19,2001,27.5,2137,2069,65,62,2,19,4,3,0,0,0,0,1936,3,12,Matches
+257,Ismael,pt POR,"MF,DF",Moreirense,22,1999,4.2,204,181,23,5,0,3,1,18,0,0,0,0,156,0,6,Matches
+258,Ivan Jaime Pajuelo,es ESP,"MF,FW",Famalicão,20,2000,14.0,461,399,52,18,9,1,38,10,22,9,6,0,353,10,15,Matches
+259,Nikola Jambor,hr CRO,MF,Moreirense,25,1995,1.1,53,43,9,4,0,0,8,0,5,5,0,0,43,1,2,Matches
+260,Nicolas Janvier,fr FRA,MF,Vitória,22,1998,12.1,670,628,38,20,0,32,29,5,8,4,1,0,552,4,9,Matches
+261,Jean,br BRA,MF,Gil Vicente FC,26,1994,0.1,9,8,1,1,0,1,0,0,0,0,0,0,8,0,0,Matches
+262,Jefferson,br BRA,MF,Moreirense,27,1994,11.0,446,427,17,9,0,11,5,6,0,0,0,0,355,2,8,Matches
+263,Jeimes,br BRA,GK,Paços de Ferreira,20,2001,1.9,77,52,25,8,0,0,0,0,0,0,0,0,51,0,0,Matches
+264,Anderson Jesus,br BRA,DF,Vizela,26,1995,17.0,611,586,20,20,0,6,1,0,0,0,0,0,480,5,5,Matches
+265,Joãozinho,pt POR,DF,Estoril,32,1989,32.1,1722,1326,388,67,1,12,114,321,0,0,0,0,1291,8,50,Matches
+266,Henrique Jocú,pt POR,MF,Portimonense,19,2001,6.6,261,248,12,10,0,0,0,2,0,0,0,0,204,1,3,Matches
+267,Diederrick Joel,cm CMR,FW,Marítimo,27,1993,16.9,310,282,26,3,0,0,13,0,0,0,0,0,225,2,12,Matches
+268,Jójó,cv CPV,DF,B-SAD,20,2001,0.5,19,12,7,0,0,0,0,7,0,0,0,0,11,0,1,Matches
+269,Igor Julião,br BRA,DF,Vizela,26,1994,11.1,428,302,124,11,0,3,27,113,0,0,0,0,295,2,24,Matches
+270,Luiz Lúcio Reis Júnior,br BRA,GK,Famalicão,20,2001,31.0,951,669,277,61,0,1,0,0,0,0,0,0,682,5,3,Matches
+271,Renato Junior,br BRA,FW,Portimonense,19,2002,3.8,71,57,13,1,0,0,1,0,0,0,0,0,49,1,2,Matches
+272,Welinton Júnior,br BRA,FW,Portimonense,28,1993,9.3,151,136,14,1,0,0,9,3,1,0,0,0,100,1,8,Matches
+273,Zainadine Júnior,mz MOZ,DF,Marítimo,33,1988,31.8,1782,1684,92,89,1,14,7,3,0,0,0,0,1523,6,13,Matches
+274,Junior Kadile,fr FRA,"MF,FW",Famalicão,18,2002,0.5,9,9,0,0,0,0,2,0,0,0,0,0,4,0,1,Matches
+275,Eduardo Kau,br BRA,DF,B-SAD,22,1999,1.0,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+276,Kewin,br BRA,GK,Moreirense,25,1995,15.0,477,313,161,55,0,1,0,0,0,0,0,0,276,3,0,Matches
+277,Hamidou Keyta,fr FRA,"FW,MF",Santa Clara,26,1994,0.8,18,17,1,0,0,0,0,0,0,0,0,0,13,0,1,Matches
+278,Naoufel Khacef,dz ALG,"DF,FW",Tondela,23,1997,9.6,372,306,63,13,0,0,18,50,0,0,0,0,276,3,8,Matches
+279,Kobamelo Kodisang,za RSA,FW,Braga,21,1999,0.2,4,4,0,0,0,0,1,0,0,0,0,0,3,0,0,Matches
+280,Philippe Koffi,ci CIV,FW,Paços de Ferreira,19,2002,0.3,8,6,1,0,0,0,0,0,0,0,0,0,5,1,0,Matches
+281,Koffi Kouao,ci CIV,DF,Vizela,23,1998,21.0,925,728,196,18,0,5,67,178,0,0,0,0,678,1,34,Matches
+282,Eboue Kouassi,ci CIV,MF,Arouca,23,1997,16.3,719,691,28,27,1,4,1,1,0,0,0,0,598,0,9,Matches
+283,Stanislav Kritsyuk,ru RUS,GK,Gil Vicente FC,30,1990,4.0,166,118,48,9,0,1,0,0,0,0,0,0,118,0,0,Matches
+284,Matías Lacava,ve VEN,"FW,MF",Tondela,18,2002,0.2,12,12,0,0,0,0,0,0,0,0,0,0,11,0,0,Matches
+285,Derik Lacerda,br BRA,"FW,MF",Moreirense,21,1999,8.7,195,188,7,0,0,0,3,4,0,0,0,0,128,0,8,Matches
+286,Rúben Lameiras,pt POR,"FW,MF",Vitória,26,1994,17.0,436,415,20,3,0,8,42,15,2,2,0,0,301,1,21,Matches
+287,Achraf Lazaar,ma MAR,DF,Portimonense,29,1992,2.7,69,58,10,3,0,0,5,6,1,1,0,0,42,1,1,Matches
+288,Valentino Lazaro,at AUT,"DF,MF",Benfica,25,1996,11.4,705,606,99,17,1,3,40,80,2,0,1,0,572,0,10,Matches
+289,Antoine Léautey,fr FRA,FW,Gil Vicente FC,25,1996,16.2,498,490,7,0,1,9,46,4,3,0,1,0,407,1,17,Matches
+290,Diogo Leite,pt POR,DF,Braga,22,1999,20.6,1574,1416,153,44,0,12,4,109,0,0,0,0,1331,5,14,Matches
+291,Helton Leite,br BRA,GK,Benfica,30,1990,2.0,43,26,17,3,0,0,0,0,0,0,0,0,33,0,0,Matches
+292,André Filipe Rio Liberal,pt POR,FW,Gil Vicente FC,18,2002,0.1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+293,Licá,pt POR,"FW,DF",B-SAD,32,1988,4.6,70,67,3,0,1,0,5,1,0,0,0,0,45,0,2,Matches
+294,Nuno Lima,pt POR,DF,Paços de Ferreira,20,2001,10.8,557,534,23,21,0,2,0,2,0,0,0,0,468,0,5,Matches
+295,Rúben Lima,pt POR,"DF,MF",Famalicão,31,1989,6.1,288,223,64,13,1,3,22,51,0,0,0,0,195,1,5,Matches
+296,Lincoln,br BRA,MF,Santa Clara,22,1998,30.5,1473,1240,218,109,9,18,167,11,81,43,21,0,1082,15,37,Matches
+297,Samuel Lino,br BRA,"FW,MF",Gil Vicente FC,21,1999,32.9,1162,1140,21,9,11,6,26,11,0,0,0,0,892,1,36,Matches
+298,Danny Loader,cm CMR,FW,Porto,20,2000,0.1,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+299,André Lopes,pt POR,DF,B-SAD,19,2001,1.0,11,8,3,0,0,0,1,2,1,1,0,0,6,0,1,Matches
+300,Bruno Lourenço,pt POR,"FW,MF",Estoril,23,1998,12.7,322,309,8,4,2,2,7,2,1,0,0,0,236,5,11,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+301,André Luis,br BRA,"FW,MF",Moreirense,27,1994,14.8,409,397,8,1,0,1,7,1,0,0,0,0,253,4,13,Matches
+302,Andrija Luković,rs SRB,MF,B-SAD,26,1994,9.9,367,316,50,23,1,4,33,3,21,12,5,0,259,1,8,Matches
+303,Luquinha,br BRA,"MF,FW",Portimonense,20,2000,6.1,287,257,29,16,2,3,37,0,13,6,7,0,212,1,6,Matches
+304,Rúben Macedo,pt POR,"FW,DF",Marítimo,25,1996,0.7,24,20,4,1,0,0,5,3,0,0,0,0,15,0,2,Matches
+305,Miguel Maga,pt POR,DF,Vitória,18,2002,12.0,617,467,147,7,0,1,21,140,0,0,0,0,483,3,8,Matches
+306,Gaius Makouta,cg CGO,MF,Boavista,24,1997,28.0,1087,1045,38,17,1,4,30,4,13,8,2,0,856,4,21,Matches
+307,Pedro Malheiro,pt POR,"MF,DF",Boavista,20,2001,9.9,415,304,108,9,0,1,27,89,10,1,8,0,296,3,10,Matches
+308,Wilson Manafá,pt POR,DF,Porto,27,1994,2.9,175,139,36,1,1,1,4,35,0,0,0,0,146,0,7,Matches
+309,Sori Mané,gw GNB,MF,Moreirense,25,1996,5.5,255,243,11,10,2,18,3,1,0,0,0,0,205,1,2,Matches
+310,Mansur,br BRA,DF,Santa Clara,28,1993,22.1,1016,794,219,24,1,11,35,195,0,0,0,0,784,3,18,Matches
+311,Juan Manuel Boselli,uy URU,"FW,MF",Tondela,21,1999,9.5,223,185,35,7,1,1,32,5,15,11,3,0,141,3,6,Matches
+312,José Manuel Velázquez,ve VEN,DF,Arouca,30,1990,4.0,139,131,8,8,0,1,0,0,0,0,0,0,116,0,0,Matches
+313,Maracás,br BRA,DF,Paços de Ferreira,27,1994,23.0,946,918,27,27,0,7,0,0,0,0,0,0,802,1,7,Matches
+314,Iván Marcano,es ESP,DF,Porto,34,1987,7.3,453,423,30,6,1,2,10,24,0,0,0,0,390,0,2,Matches
+315,Marcelo,br BRA,"FW,MF",Gil Vicente FC,24,1997,0.1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,Matches
+316,Agustín Marchesín,ar ARG,GK,Porto,33,1988,0.0,10,6,4,2,0,0,0,0,0,0,0,0,4,0,0,Matches
+317,Abraham Marcus,ng NGA,FW,Portimonense,21,2000,0.9,21,20,1,0,0,0,0,1,0,0,0,0,19,0,0,Matches
+318,Adrián Marín,es ESP,"DF,MF",Famalicão,24,1997,25.5,1238,966,269,34,2,6,75,234,1,0,1,0,935,3,25,Matches
+319,João Mário,pt POR,MF,Benfica,28,1993,19.3,1280,1154,117,45,9,11,86,9,61,14,26,2,1086,9,12,Matches
+320,João Mário Lopes,pt POR,DF,Porto,21,2000,22.9,1343,1122,219,15,2,3,77,204,0,0,0,0,1093,2,23,Matches
+321,Bruno Marques,br BRA,FW,Arouca,22,1999,3.3,53,47,5,0,0,0,1,1,0,0,0,0,24,1,5,Matches
+322,Pedro David Rosendo Marques,pt POR,"FW,MF",Famalicão,23,1998,3.5,60,53,7,0,0,0,0,1,0,0,0,0,39,0,1,Matches
+323,José Marsà,es ESP,DF,Sporting CP,19,2002,0.1,14,14,0,0,0,0,0,0,0,0,0,0,12,0,0,Matches
+324,Toni Martínez,es ESP,FW,Porto,24,1997,5.3,113,112,0,0,0,0,6,0,0,0,0,0,63,1,5,Matches
+325,Fábio Martins,pt POR,"MF,FW",Braga,28,1993,4.6,170,145,23,6,1,2,20,6,11,1,5,2,128,2,3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+326,Rafael Martins,br BRA,FW,Moreirense,32,1989,26.6,490,462,27,0,1,2,8,2,0,0,0,0,309,1,11,Matches
+327,Matheus,br BRA,GK,Braga,29,1992,32.0,1268,949,314,87,0,2,0,0,0,0,0,0,938,5,3,Matches
+328,Yan Matheus,br BRA,"FW,MF",Moreirense,22,1998,19.8,650,534,113,16,8,3,50,63,18,15,0,0,438,3,21,Matches
+329,Ricardo Matos,pt POR,"FW,MF",Portimonense,21,2000,2.5,33,28,5,0,1,0,0,0,0,0,0,0,25,0,1,Matches
+330,Nor Maviram,ng NGA,DF,Vizela,20,2001,0.3,13,8,5,1,0,0,0,4,0,0,0,0,8,0,0,Matches
+331,Chancel Mbemba,cd COD,DF,Porto,26,1994,30.9,1905,1853,50,48,3,9,4,2,0,0,0,0,1719,2,9,Matches
+332,Jordi Mboula,es ESP,"FW,MF",Estoril,22,1999,10.7,214,212,1,0,0,2,33,1,0,0,0,0,154,1,6,Matches
+333,Iuri Medeiros,pt POR,"MF,FW",Braga,27,1994,15.8,663,572,88,27,9,19,72,11,50,20,17,2,491,3,12,Matches
+334,Soualiho Meïté,fr FRA,MF,Benfica,27,1994,9.8,599,579,18,10,3,6,1,0,0,0,0,0,533,2,4,Matches
+335,Francisco Meixedo,pt POR,GK,Porto,20,2001,0.0,3,2,1,1,0,0,0,0,0,0,0,0,3,0,0,Matches
+336,Tiago Melo Almeida,pt POR,"DF,MF",Tondela,19,2001,20.6,819,619,199,22,3,2,20,177,0,0,0,0,616,1,25,Matches
+337,Diogo Mendes,cv CPV,MF,Marítimo,23,1998,20.4,818,765,52,50,0,6,3,2,0,0,0,0,699,1,6,Matches
+338,Edmilson Mendes,gw GNB,"FW,MF",Paços de Ferreira,18,2003,0.2,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+339,João Mendes,pt POR,DF,Porto,21,2000,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+340,Nuno Mendes,pt POR,DF,Sporting CP,19,2002,1.3,86,69,17,3,0,0,5,12,2,0,2,0,69,0,1,Matches
+341,Alex Mendez,us USA,"MF,FW",Vizela,20,2000,16.2,596,518,76,25,1,3,70,6,44,16,17,0,432,2,18,Matches
+342,Ryotaro Meshino,jp JPN,"FW,MF",Estoril,23,1998,1.3,40,38,2,0,0,0,1,2,0,0,0,0,31,0,1,Matches
+343,Fabrício dos Santos Messias,br BRA,"FW,MF",Portimonense,31,1990,14.8,298,280,16,0,1,2,2,2,0,0,0,0,173,2,7,Matches
+344,Milson,ao ANG,MF,Marítimo,21,1999,0.2,8,8,0,0,0,0,1,0,0,0,0,0,5,0,1,Matches
+345,Lucas Mineiro,br BRA,MF,Braga,25,1996,6.2,277,265,11,11,3,5,0,0,0,0,0,0,245,1,1,Matches
+346,Kevin Mirallas,be BEL,"FW,MF",Moreirense,33,1987,3.3,102,98,4,4,0,2,5,0,0,0,0,0,79,0,5,Matches
+347,Mohammad Mohebbi,ir IRN,"FW,MF",Santa Clara,22,1998,5.0,126,117,7,0,0,0,5,3,0,0,0,0,84,2,4,Matches
+348,João Monteiro,pt POR,MF,B-SAD,20,2001,1.0,8,3,5,0,0,0,0,0,0,0,0,0,7,0,0,Matches
+349,António Montez,pt POR,MF,B-SAD,19,2001,1.0,3,3,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+350,Morato,br BRA,DF,Benfica,20,2001,11.2,757,730,25,23,1,3,0,2,0,0,0,0,684,2,5,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+351,Diego Moreira,be BEL,FW,Benfica,16,2004,0.3,6,6,0,0,0,0,1,0,0,0,0,0,5,0,0,Matches
+352,Pedro Filipe Barbosa Moreira,pt POR,MF,Gil Vicente FC,28,1992,32.0,1875,1665,195,95,11,62,141,5,95,39,53,0,1445,15,31,Matches
+353,Hidemasa Morita,jp JPN,MF,Santa Clara,26,1995,25.3,1260,1216,39,28,6,15,13,8,0,0,0,0,1022,5,22,Matches
+354,Mosquito,br BRA,GK,Estoril,25,1996,10.0,397,292,103,14,0,4,0,0,0,0,0,0,309,2,1,Matches
+355,Luís Mota,pt POR,"FW,MF",B-SAD,17,2003,1.2,21,20,1,0,0,0,2,0,0,0,0,0,15,0,1,Matches
+356,Fahd Moufi,ma MAR,DF,Portimonense,25,1996,30.6,1467,1068,395,41,0,5,109,354,0,0,0,0,1057,4,39,Matches
+357,Moura,pt POR,"DF,MF",Braga,21,1999,16.5,698,640,57,11,1,2,41,46,0,0,0,0,513,1,20,Matches
+358,Abdul Mumin,gh GHA,DF,Vitória,23,1998,24.7,1186,1155,29,26,0,9,3,3,0,0,0,0,1000,2,4,Matches
+359,Simone Muratore,it ITA,MF,Tondela,23,1998,0.3,17,17,0,0,0,0,0,0,0,0,0,0,14,0,1,Matches
+360,Jhon Murillo,ve VEN,FW,Tondela,25,1995,11.9,303,293,9,0,1,1,17,9,0,0,0,0,231,1,5,Matches
+361,Petar Musa,hr CRO,FW,Boavista,23,1998,25.7,555,488,63,2,2,2,7,0,0,0,0,0,355,4,6,Matches
+362,Almoatasem Al Musrati,ly LBY,MF,Braga,25,1996,28.5,1757,1704,44,44,9,30,3,0,0,0,0,0,1472,9,22,Matches
+363,Herculano Nabian,pt POR,FW,Vitória,17,2004,0.7,8,7,1,0,0,0,0,0,0,0,0,0,5,0,1,Matches
+364,Shoya Nakajima,jp JPN,"MF,FW",Portimonense,26,1994,19.6,542,469,67,19,2,2,58,3,28,17,9,0,390,6,13,Matches
+365,Kosuke Nakamura,jp JPN,GK,Portimonense,26,1995,2.0,78,54,24,7,0,0,0,0,0,0,0,0,59,0,0,Matches
+366,Manuel Namora,pt POR,"MF,DF",Boavista,23,1998,0.2,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+367,Bruno Nascimento,br BRA,"FW,MF",Famalicão,24,1997,21.7,592,539,50,10,4,14,42,27,9,6,1,0,434,3,21,Matches
+368,Nathan,br BRA,"DF,MF",Boavista,19,2001,25.8,1052,863,187,25,1,6,34,162,0,0,0,0,821,2,32,Matches
+369,Fran Navarro,es ESP,FW,Gil Vicente FC,23,1998,28.9,406,344,61,1,0,1,1,0,0,0,0,0,320,1,14,Matches
+370,Flávio Nazinho,pt POR,"DF,MF",Sporting CP,18,2003,1.1,55,40,15,1,1,0,2,14,0,0,0,0,47,0,3,Matches
+371,Alioune Ndour,sn SEN,FW,B-SAD,20,2001,9.2,122,113,8,1,1,0,5,0,0,0,0,0,77,1,5,Matches
+372,Christian Neiva Afonso,pt POR,DF,Vizela,26,1994,19.9,1084,839,239,49,2,3,107,154,36,4,24,1,734,6,21,Matches
+373,Nelson,ao ANG,"FW,MF",Vitória,23,1998,3.8,97,95,2,0,0,1,4,2,0,0,0,0,75,0,3,Matches
+374,Wellington Nem,br BRA,DF,Arouca,29,1992,0.0,2,2,0,0,0,0,0,0,0,0,0,0,1,0,0,Matches
+375,João Neto,br BRA,"MF,FW",Famalicão,18,2003,0.7,16,16,0,0,1,0,0,0,0,0,0,0,11,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+376,Luís Neto,pt POR,DF,Sporting CP,33,1988,15.5,1143,1095,46,43,0,9,2,3,0,0,0,0,1060,2,2,Matches
+377,Martim Neto,pt POR,MF,Benfica,18,2003,0.2,18,18,0,0,1,0,0,0,0,0,0,0,15,0,1,Matches
+378,Babacar Niasse,mr MTN,GK,Tondela,24,1996,5.1,197,143,54,14,0,0,0,0,0,0,0,0,134,0,0,Matches
+379,Payam Niazmand,ir IRN,GK,Portimonense,26,1995,2.0,72,47,25,5,0,2,0,0,0,0,0,0,42,0,0,Matches
+380,Yusupha Njie,gm GAM,"FW,MF",Boavista,27,1994,17.4,351,334,17,1,0,4,7,3,0,0,0,0,266,0,5,Matches
+381,Paul-Georges Ntep,cm CMR,"FW,MF",Boavista,29,1992,5.6,151,147,3,0,0,1,12,2,0,0,0,0,94,1,15,Matches
+382,Arsénio Martins Lafuente Nunes,pt POR,"FW,MF",Arouca,31,1989,24.3,735,644,86,32,1,3,105,11,43,26,12,0,515,5,16,Matches
+383,Matheus Nunes,pt POR,MF,Sporting CP,22,1998,28.4,1443,1400,33,27,9,28,28,6,0,0,0,0,1216,10,20,Matches
+384,Darwin Núñez,uy URU,"FW,MF",Benfica,22,1999,22.0,469,458,10,2,2,6,51,4,1,0,0,0,293,1,23,Matches
+385,Pedro Nuno,pt POR,"MF,FW",B-SAD,26,1995,15.8,456,411,43,16,1,3,38,0,15,3,10,0,342,2,16,Matches
+386,Lawrence Ofori,gh GHA,MF,Famalicão,23,1998,1.7,79,76,2,2,0,1,1,0,0,0,0,0,70,1,1,Matches
+387,Richard Ofori,gh GHA,DF,Vizela,28,1993,19.0,895,726,166,17,0,4,53,149,0,0,0,0,639,3,18,Matches
+388,Thales Oleques,br BRA,DF,Arouca,27,1994,30.2,1620,1189,427,51,1,11,88,369,7,1,5,0,1171,4,23,Matches
+389,Hugo Oliveira,pt POR,DF,Vizela,19,2002,0.1,4,3,1,0,0,0,0,1,0,0,0,0,4,0,0,Matches
+390,Paulo Oliveira,pt POR,DF,Braga,29,1992,26.1,1561,1525,33,28,0,12,2,5,0,0,0,0,1266,3,18,Matches
+391,Rúben Alexandre Gomes Oliveira,pt POR,"MF,FW",Santa Clara,26,1994,2.1,76,75,0,0,1,0,0,0,0,0,0,0,59,1,0,Matches
+392,Sérgio Oliveira,pt POR,MF,Porto,29,1992,4.4,306,250,56,22,1,5,36,9,24,11,8,1,234,0,6,Matches
+393,Nicolás Otamendi,ar ARG,DF,Benfica,33,1988,27.4,2093,2011,77,74,1,9,4,3,0,0,0,0,1895,5,8,Matches
+394,Otávio,pt POR,"MF,FW",Porto,26,1995,29.5,1766,1600,159,46,28,8,74,48,40,8,16,0,1371,7,41,Matches
+395,João Othavio Basso,br BRA,DF,Arouca,24,1997,32.5,1856,1759,97,93,0,15,8,4,0,0,0,0,1532,0,10,Matches
+396,Pablo,br BRA,FW,Famalicão,17,2004,2.0,22,18,3,0,0,0,0,0,0,0,0,0,18,1,0,Matches
+397,Fábio Pacheco,pt POR,MF,Moreirense,33,1988,20.6,609,593,14,13,3,3,1,0,0,0,0,0,454,2,9,Matches
+398,João Palhinha,pt POR,MF,Sporting CP,26,1995,20.8,1075,1028,44,44,1,34,7,0,0,0,0,0,936,3,13,Matches
+399,Mateus Pasinato,br BRA,GK,Moreirense,29,1992,19.0,538,335,202,53,0,5,0,0,0,0,0,0,326,1,0,Matches
+400,Jean Patric,br BRA,"FW,MF",Santa Clara,24,1997,6.3,126,117,8,2,0,1,5,1,0,0,0,0,98,1,3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+401,Patrick,br BRA,DF,Estoril,24,1997,11.5,793,766,25,24,0,10,2,1,0,0,0,0,686,2,11,Matches
+402,Patrick,br BRA,MF,Santa Clara,22,1998,0.0,6,6,0,0,2,0,0,0,0,0,0,0,4,0,0,Matches
+403,Paulinho,pt POR,"FW,MF",Sporting CP,28,1992,26.4,628,582,42,3,2,4,14,2,0,0,0,0,465,4,16,Matches
+404,André Paulo,pt POR,GK,Sporting CP,24,1996,0.1,7,6,1,0,0,0,0,0,0,0,0,0,6,0,0,Matches
+405,Marcos Paulo,br BRA,"FW,MF",Famalicão,20,2001,7.6,195,185,8,4,1,1,4,2,0,0,0,0,140,2,2,Matches
+406,Marcos Paulo,br BRA,MF,Vizela,33,1988,18.8,582,553,27,22,1,3,22,2,3,1,2,0,448,2,9,Matches
+407,Pedrão,br BRA,DF,Portimonense,24,1997,27.8,1459,1398,53,51,1,14,0,2,0,0,0,0,1179,8,6,Matches
+408,João Pedro,pt POR,MF,Tondela,28,1993,21.3,841,748,89,49,4,14,30,26,13,4,5,0,560,4,35,Matches
+409,Pedro Pelágio,pt POR,MF,Marítimo,21,2000,11.1,419,390,26,11,0,5,10,15,0,0,0,0,308,3,15,Matches
+410,Alexandre Penetra,pt POR,DF,Famalicão,19,2001,28.9,1484,1405,73,45,0,33,14,27,0,0,0,0,1179,6,8,Matches
+411,Pepe,pt POR,DF,Porto,38,1983,19.9,1302,1252,46,44,1,17,3,2,0,0,0,0,1156,4,6,Matches
+412,Pepê,br BRA,"MF,DF",Porto,24,1997,15.1,648,595,52,4,4,4,19,46,2,0,0,0,536,1,14,Matches
+413,Francisco Pereira,pt POR,MF,Boavista,19,2002,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+414,Marco André Rocha Pereira,pt POR,GK,Santa Clara,34,1987,28.0,1019,695,322,98,0,11,0,0,0,0,0,0,644,2,1,Matches
+415,Sebastián Pérez Cardona,co COL,MF,Boavista,28,1993,25.1,1227,1145,77,75,4,19,6,0,2,0,2,0,1022,5,16,Matches
+416,Luiz Phellype,br BRA,FW,Santa Clara,27,1993,3.1,37,27,10,0,0,1,0,0,0,0,0,0,29,0,3,Matches
+417,Thibang Phete,za RSA,"MF,DF",B-SAD,27,1994,20.5,641,603,37,37,0,2,3,0,0,0,0,0,523,1,6,Matches
+418,Lucas Piazon,br BRA,"MF,FW",Braga,27,1994,4.0,165,157,8,4,1,1,6,3,1,0,1,0,128,0,3,Matches
+419,Charles Pickel,cd COD,MF,Famalicão,24,1997,26.3,1049,995,46,40,1,11,12,6,0,0,0,0,866,8,14,Matches
+420,Rodrigo Pinho,br BRA,FW,Benfica,30,1991,0.9,14,14,0,0,0,0,1,0,0,0,0,0,9,0,2,Matches
+421,Dinis Pinto,pt POR,MF,Braga,20,2000,0.3,14,9,5,0,0,0,0,5,0,0,0,0,11,0,0,Matches
+422,Felipe Pires,br BRA,"FW,MF",Moreirense,26,1995,12.9,485,380,101,14,0,2,56,58,28,12,7,0,344,4,6,Matches
+423,Rui Pires,pt POR,MF,Paços de Ferreira,23,1998,13.4,601,576,22,22,0,4,1,0,0,0,0,0,506,3,5,Matches
+424,Pité,pt POR,MF,Arouca,26,1994,10.8,347,337,6,2,2,2,10,3,0,0,0,0,249,4,8,Matches
+425,Pizzi,pt POR,"MF,FW",Benfica,31,1989,3.6,243,220,22,4,3,2,18,3,15,3,5,0,188,1,11,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+426,Jackson Porozo,ec ECU,DF,Boavista,20,2000,23.8,998,963,33,33,0,2,0,0,0,0,0,0,841,2,10,Matches
+427,Pedro Porro,es ESP,"DF,MF",Sporting CP,21,1999,18.2,1056,789,263,33,2,13,167,189,41,5,35,0,727,4,35,Matches
+428,Samuel Portugal,br BRA,GK,Portimonense,27,1994,30.0,1267,863,396,83,0,5,0,0,0,0,0,0,819,8,0,Matches
+429,Lucas Possignolo,pt POR,DF,Portimonense,27,1994,22.9,1143,1054,85,43,0,12,0,42,0,0,0,0,962,4,7,Matches
+430,Quaresma,br BRA,DF,Arouca,24,1996,27.0,1438,1147,288,26,0,7,60,262,0,0,0,0,1048,3,36,Matches
+431,Eduardo Quaresma,pt POR,DF,Tondela,19,2002,17.1,762,724,36,34,0,6,1,2,0,0,0,0,652,2,4,Matches
+432,Ricardo Quaresma,pt POR,"FW,MF",Vitória,37,1983,10.9,417,336,81,30,0,3,123,9,42,6,16,0,284,0,11,Matches
+433,Diogo Queirós,pt POR,DF,Famalicão,22,1999,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+434,Nemanja Radonjić,rs SRB,"DF,MF",Benfica,25,1996,1.5,75,64,10,0,0,0,6,10,0,0,0,0,54,1,5,Matches
+435,Álvaro Ramalho,pt POR,GK,B-SAD,22,1999,2.0,52,31,21,8,0,0,0,0,0,0,0,0,30,0,0,Matches
+436,Cláudio Ramos,pt POR,GK,Porto,29,1991,1.0,35,30,5,1,1,0,0,0,0,0,0,0,26,0,0,Matches
+437,Flávio Ramos,br BRA,DF,Paços de Ferreira,27,1994,8.7,349,336,13,13,0,4,0,0,0,0,0,0,270,0,5,Matches
+438,Gonçalo Ramos,pt POR,"FW,MF",Benfica,20,2001,17.9,505,492,8,4,2,1,4,2,0,0,0,0,399,5,12,Matches
+439,Rafael Ramos,pt POR,DF,Santa Clara,26,1995,20.7,908,649,256,35,0,8,79,179,42,32,1,0,637,3,30,Matches
+440,Osama Rashid,iq IRQ,MF,Vizela,29,1992,6.5,289,264,24,12,1,1,22,1,9,4,2,0,217,1,5,Matches
+441,Bruno Reis,pt POR,MF,Portimonense,22,1999,0.7,21,20,1,1,0,0,0,0,0,0,0,0,18,0,1,Matches
+442,Matheus Reis,br BRA,DF,Sporting CP,26,1995,23.0,1731,1590,132,54,2,4,39,78,0,0,0,0,1518,9,16,Matches
+443,Miguel Reisinho,pt POR,"FW,MF",Boavista,22,1999,0.5,13,12,1,0,0,1,1,0,1,0,1,0,11,0,1,Matches
+444,Filipe Relvas,pt POR,DF,Portimonense,21,1999,17.9,818,702,111,19,0,6,24,92,0,0,0,0,641,5,4,Matches
+445,Tomás Reymão,pt POR,MF,Boavista,23,1998,3.8,164,156,5,5,0,1,2,0,0,0,0,0,130,3,0,Matches
+446,Eduardo Ribeiro,pt POR,MF,Braga,20,2001,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+447,Henrique Ribeiro,pt POR,DF,B-SAD,19,2002,1.0,6,6,0,0,0,0,0,0,0,0,0,0,2,0,0,Matches
+448,Rodrigo Ribeiro,pt POR,FW,Sporting CP,16,2005,0.5,7,7,0,0,0,0,0,0,0,0,0,0,6,0,0,Matches
+449,Tomás Ribeiro,pt POR,DF,B-SAD,22,1999,17.0,897,785,107,59,0,25,6,45,1,0,0,0,714,5,3,Matches
+450,Ricardinho,br BRA,FW,Marítimo,20,2001,5.1,102,92,10,1,0,0,2,0,0,0,0,0,69,0,7,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+451,Ricardinho,pt POR,"FW,MF",Santa Clara,22,1998,24.0,538,520,12,1,6,2,13,6,1,0,0,0,414,6,16,Matches
+452,André Ricardo,pt POR,"FW,MF",Famalicão,20,2000,0.8,18,15,2,0,0,1,1,1,0,0,0,0,11,1,0,Matches
+453,Riccieli,br BRA,DF,Famalicão,22,1998,24.2,991,955,33,33,0,14,1,0,0,0,0,0,868,3,3,Matches
+454,Rochinha,pt POR,"FW,MF",Vitória,26,1995,21.7,528,465,57,16,2,17,39,22,16,8,4,0,338,6,20,Matches
+455,Bruno Rodrigues,pt POR,DF,Braga,20,2001,6.4,370,359,11,9,0,2,0,2,0,0,0,0,313,0,3,Matches
+456,Ivo Rodrigues,pt POR,"FW,MF",Famalicão,26,1995,20.7,885,725,159,42,6,11,88,89,25,3,19,0,647,1,22,Matches
+457,Pedro Rodrigues,pt POR,MF,Famalicão,24,1997,30.6,1811,1536,267,141,10,28,149,28,97,40,40,1,1469,8,20,Matches
+458,Julio Romão,br BRA,"MF,DF",Santa Clara,23,1998,4.0,136,119,16,10,0,0,0,6,0,0,0,0,116,1,1,Matches
+459,Lazar Rosić,rs SRB,DF,Moreirense,28,1993,28.0,1259,1187,67,63,0,26,6,4,0,0,0,0,963,5,12,Matches
+460,Loreintz Rosier,fr FRA,MF,Estoril,22,1998,25.5,981,958,19,18,2,11,13,1,0,0,0,0,746,4,19,Matches
+461,Iván Rossi,ar ARG,MF,Marítimo,27,1993,19.1,850,798,50,48,3,4,2,2,0,0,0,0,740,2,13,Matches
+462,Abel Ruiz,es ESP,"FW,MF",Braga,21,2000,15.4,349,324,25,0,4,1,13,1,0,0,0,0,275,0,13,Matches
+463,Alan Ruiz,ar ARG,MF,Arouca,27,1993,5.2,270,230,39,21,1,2,31,1,17,10,6,0,210,1,3,Matches
+464,Leonardo Ruíz,co COL,FW,Estoril,25,1996,9.7,248,224,24,0,0,3,3,0,0,0,0,0,173,0,3,Matches
+465,Helder Sá,pt POR,DF,Vitória,18,2002,5.6,285,223,61,2,0,0,18,59,0,0,0,0,221,1,8,Matches
+466,Pedro Sá,pt POR,MF,Portimonense,27,1993,12.0,480,458,18,16,1,8,1,2,0,0,0,0,394,4,5,Matches
+467,Tiago Sá,pt POR,GK,Braga,26,1995,1.0,49,40,9,0,0,0,0,0,0,0,0,0,38,0,0,Matches
+468,Falaye Sacko,ml MLI,DF,Vitória,26,1995,10.3,570,439,128,12,0,2,33,116,0,0,0,0,433,3,13,Matches
+469,Jorge Sáenz,es ESP,DF,Marítimo,24,1996,4.4,178,169,9,8,0,3,0,0,0,0,0,0,124,0,5,Matches
+470,Safira,br BRA,FW,B-SAD,26,1995,16.1,327,316,5,0,0,1,13,2,0,0,0,0,191,6,14,Matches
+471,Pierre Sagna,sn SEN,DF,Santa Clara,30,1990,11.5,510,368,137,20,0,2,42,94,23,13,7,0,367,5,6,Matches
+472,Modibo Sagnan,ml MLI,DF,Tondela,22,1999,25.0,1038,980,58,51,1,10,0,3,0,0,0,0,825,0,9,Matches
+473,Braima Sambú,pt POR,MF,B-SAD,20,2001,7.9,240,234,5,3,0,4,2,1,0,0,0,0,197,1,5,Matches
+474,Samu,pt POR,MF,Vizela,25,1996,27.4,1231,1117,104,37,3,8,93,26,34,11,14,1,884,10,40,Matches
+475,Sandro,br BRA,"MF,FW",B-SAD,32,1989,0.8,32,31,1,1,0,0,0,0,0,0,0,0,17,0,3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+476,Elder Santana,br BRA,"FW,MF",Gil Vicente FC,28,1993,3.7,51,43,6,0,0,0,0,0,0,0,0,0,31,2,1,Matches
+477,Adílio Santos,br BRA,FW,Arouca,28,1993,1.7,40,38,2,0,0,1,1,0,0,0,0,0,27,0,1,Matches
+478,Jeferson Santos,br BRA,MF,Portimonense,29,1992,0.2,5,3,2,0,0,0,0,2,0,0,0,0,3,0,1,Matches
+479,Luís Santos,pt POR,"MF,DF",Boavista,21,2000,6.2,215,192,22,1,0,0,17,21,0,0,0,0,149,1,12,Matches
+480,Nuno Santos,pt POR,"DF,MF",Sporting CP,26,1995,23.4,1333,1133,193,13,2,11,143,165,15,2,13,0,1028,7,31,Matches
+481,Nuno Santos,pt POR,"MF,FW",Paços de Ferreira,22,1999,25.9,1134,1038,86,43,8,21,72,8,35,15,10,1,889,10,16,Matches
+482,Pablo Santos,br BRA,DF,Moreirense,29,1992,13.6,566,535,29,22,1,5,1,6,1,0,0,0,457,2,4,Matches
+483,Rafael Santos,pt POR,MF,B-SAD,24,1997,1.1,9,9,0,0,0,0,0,0,0,0,0,0,6,0,1,Matches
+484,Zaidu Sanusi,ng NGA,DF,Porto,24,1997,19.0,1064,870,193,13,0,4,42,179,1,0,0,0,842,1,16,Matches
+485,Adewele Sapara,ng NGA,"MF,DF",Portimonense,26,1995,0.6,19,19,0,0,0,0,1,0,0,0,0,0,16,0,0,Matches
+486,Pablo Sarabia,es ESP,"MF,FW",Sporting CP,29,1992,23.0,953,815,128,35,13,5,142,7,80,23,41,0,652,10,26,Matches
+487,Andrés Sarmiento,co COL,FW,Vizela,23,1998,1.6,28,27,1,0,0,0,0,1,0,0,0,0,20,0,0,Matches
+488,Gustavo Sauer,br BRA,"FW,MF",Boavista,28,1993,25.5,711,561,144,59,6,16,115,8,77,27,33,4,507,6,13,Matches
+489,Guilherme Schettine,br BRA,FW,Vizela,25,1995,16.9,367,318,47,2,2,7,11,6,0,0,0,0,259,2,13,Matches
+490,Schürrle,pt POR,FW,Braga,19,2001,0.1,4,4,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+491,Haris Seferović,ch SUI,FW,Benfica,29,1992,4.4,89,83,5,0,0,1,6,3,0,0,0,0,57,1,5,Matches
+492,Alfa Semedo,gw GNB,MF,Vitória,23,1997,16.4,811,771,38,36,0,7,6,2,0,0,0,0,658,2,11,Matches
+493,Rúben Semedo,pt POR,DF,Porto,27,1994,0.1,4,4,0,0,0,0,0,0,0,0,0,0,4,0,0,Matches
+494,Nuno Sequeira,pt POR,DF,Braga,30,1990,4.9,415,354,60,14,0,0,21,46,0,0,0,0,333,1,5,Matches
+495,Paulo Sérgio Mota,pt POR,"DF,MF",Moreirense,30,1991,25.7,1051,729,319,35,3,13,154,244,40,10,28,0,662,3,29,Matches
+496,André Silva,br BRA,FW,Arouca,24,1997,28.1,750,678,65,1,6,2,28,3,0,0,0,0,504,7,28,Matches
+497,Benny Silva,pt POR,DF,Famalicão,20,2001,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+498,Diogo Silva,br BRA,DF,Gil Vicente FC,26,1995,2.5,166,161,4,4,0,5,0,0,0,0,0,0,156,1,0,Matches
+499,João Miguel Macedo Silva,pt POR,GK,Marítimo,26,1995,4.0,139,99,40,3,0,0,0,0,0,0,0,0,111,0,0,Matches
+500,João Pedro Sousa Silva,gw GNB,"FW,MF",Paços de Ferreira,24,1996,5.6,137,122,13,1,1,0,1,0,0,0,0,0,84,2,3,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+501,Jorge Fernando Santos Silva,pt POR,DF,Paços de Ferreira,25,1996,4.5,214,142,71,6,0,2,26,58,7,2,5,0,119,1,11,Matches
+502,Leandro Miguel Pereira Silva,pt POR,MF,Arouca,27,1994,24.4,1248,1130,108,69,10,9,59,17,21,13,8,0,900,10,18,Matches
+503,Lucas Silva,br BRA,"FW,MF",Paços de Ferreira,23,1998,21.1,435,413,21,4,0,0,20,6,0,0,0,0,343,1,22,Matches
+504,Matheus Silva,br BRA,"DF,MF",Moreirense,23,1997,5.3,222,170,51,12,0,2,12,39,0,0,0,0,152,1,13,Matches
+505,Pedro Manuel da Silva Moreira,pt POR,MF,Arouca,32,1989,19.1,659,633,23,20,0,2,10,1,1,0,1,0,545,3,19,Matches
+506,Pedro Silva,pt POR,GK,Vizela,24,1997,18.0,461,244,214,41,0,0,0,0,0,0,0,0,310,3,1,Matches
+507,Rafa Silva,pt POR,"MF,FW",Benfica,28,1993,22.6,846,818,19,2,9,3,31,15,1,0,1,0,678,9,23,Matches
+508,Raul Silva,br BRA,DF,Estoril,31,1989,5.6,337,320,16,15,0,2,0,1,0,0,0,0,297,1,3,Matches
+509,Raul Silva,br BRA,DF,Braga,31,1989,5.7,400,390,10,7,0,0,0,3,0,0,0,0,347,0,2,Matches
+510,Tiago Silva,pt POR,MF,Vitória,28,1993,21.9,1110,979,126,54,1,16,83,2,54,23,19,1,883,5,15,Matches
+511,Sílvio,pt POR,DF,Vitória,33,1987,0.3,6,5,1,0,0,0,0,1,0,0,0,0,5,0,0,Matches
+512,David Simão,pt POR,MF,Arouca,31,1990,12.5,611,541,69,31,3,9,60,2,33,17,16,0,478,1,6,Matches
+513,Sphephelo Sithole,za RSA,MF,B-SAD,22,1999,16.6,747,728,16,14,0,9,4,2,0,0,0,0,608,3,12,Matches
+514,Islam Slimani,dz ALG,FW,Sporting CP,33,1988,4.8,114,105,8,0,1,0,2,0,0,0,0,0,78,1,0,Matches
+515,Everton Soares,br BRA,"MF,FW",Benfica,25,1996,17.8,695,625,62,7,9,0,64,17,38,19,9,0,523,8,27,Matches
+516,Filipe Soares,pt POR,MF,Moreirense,22,1999,11.2,382,363,18,6,1,6,6,4,0,0,0,0,296,1,12,Matches
+517,Marco Soares,cv CPV,"FW,MF",Arouca,37,1984,0.4,18,14,4,1,0,0,4,0,3,1,2,0,15,0,0,Matches
+518,Rafa Soares,pt POR,DF,Vitória,26,1995,28.2,1461,1110,345,25,0,11,163,289,31,13,13,0,1039,6,27,Matches
+519,Tim Söderström,se SWE,DF,Marítimo,27,1994,0.8,28,23,5,1,0,0,1,4,0,0,0,0,23,0,0,Matches
+520,Carles Soria,es ESP,DF,Estoril,24,1996,20.2,1031,815,213,28,0,13,54,185,0,0,0,0,836,3,18,Matches
+521,Afonso Sousa,pt POR,"MF,FW",B-SAD,21,2000,25.1,931,852,72,33,6,17,23,6,0,0,0,0,767,7,19,Matches
+522,César Sousa,ao ANG,MF,B-SAD,21,2000,5.4,178,177,1,0,2,0,4,1,0,0,0,0,136,0,3,Matches
+523,Miguel Sousa,pt POR,MF,Marítimo,22,1998,3.1,170,134,34,12,0,2,28,4,17,6,9,0,120,2,4,Matches
+524,Claudemir de Souza,br BRA,MF,Vizela,33,1988,22.3,1262,1121,134,47,1,6,8,86,1,0,0,0,1019,7,12,Matches
+525,Fabiano Souza,br BRA,"DF,MF",Braga,21,2000,15.8,797,611,185,11,1,3,46,174,0,0,0,0,594,1,23,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+526,Adel Taarabt,ma MAR,MF,Benfica,32,1989,9.6,569,532,34,15,10,7,20,2,13,3,5,0,463,3,9,Matches
+527,Bruno Tabata,br BRA,"FW,MF",Sporting CP,24,1997,4.5,230,198,31,10,0,3,28,7,11,3,7,0,174,1,2,Matches
+528,Kyosuke Tagawa,jp JPN,"FW,MF",Santa Clara,22,1999,5.4,55,50,3,0,0,0,0,0,0,0,0,0,39,2,2,Matches
+529,Afonso Taira,pt POR,MF,B-SAD,29,1992,0.2,15,15,0,0,0,0,0,0,0,0,0,0,10,0,0,Matches
+530,Talocha,pt POR,DF,Gil Vicente FC,31,1989,30.9,1682,1379,294,35,4,19,48,259,0,0,0,0,1300,9,30,Matches
+531,Douglas Tanque,br BRA,FW,Paços de Ferreira,27,1993,1.6,42,40,2,0,0,0,0,0,0,0,0,0,27,0,1,Matches
+532,Mehdi Taremi,ir IRN,FW,Porto,29,1992,26.9,692,668,20,2,16,2,3,10,3,0,0,0,503,4,28,Matches
+533,David Tavares,cv CPV,MF,Famalicão,22,1999,5.0,183,175,8,6,0,2,1,1,0,0,0,0,154,0,2,Matches
+534,Heriberto Tavares,cv CPV,"FW,MF",Famalicão,24,1997,8.4,236,219,16,2,3,3,36,10,1,0,0,0,143,1,9,Matches
+535,Yohan Tavares,pt POR,DF,B-SAD,33,1988,28.0,1384,1311,66,64,1,5,2,2,0,0,0,0,1156,7,9,Matches
+536,André Teles,pt POR,MF,Marítimo,24,1997,1.2,73,73,0,0,0,0,1,0,0,0,0,0,66,0,1,Matches
+537,Guo Tianyu,cn CHN,FW,Vizela,22,1999,0.4,6,5,1,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+538,Tiago Tomás,pt POR,"MF,FW",Sporting CP,19,2002,1.9,39,37,2,0,0,0,1,0,0,0,0,0,26,0,4,Matches
+539,Vítor Tormena,br BRA,DF,Braga,25,1996,20.7,1419,1257,157,47,1,2,5,110,0,0,0,0,1172,5,7,Matches
+540,Pedro Trigueira,pt POR,GK,Tondela,33,1988,28.9,1043,659,382,94,0,1,0,1,0,0,0,0,681,2,3,Matches
+541,Matouš Trmal,cz CZE,GK,Vitória,22,1998,9.0,297,190,107,26,0,0,0,0,0,0,0,0,196,0,0,Matches
+542,Manuel Ugarte,uy URU,MF,Sporting CP,20,2001,12.3,707,682,25,25,2,13,2,0,0,0,0,0,647,0,5,Matches
+543,Zé Uilton,br BRA,"FW,DF",Paços de Ferreira,29,1992,21.0,618,573,44,8,0,7,43,34,2,1,0,0,456,1,18,Matches
+544,Iker Undabarrena,es ESP,MF,Tondela,26,1995,22.3,1236,1190,45,40,3,22,9,1,3,1,2,0,1051,1,27,Matches
+545,Mateus Uribe,co COL,MF,Porto,30,1991,22.1,1342,1279,61,33,3,16,14,26,0,0,0,0,1150,2,11,Matches
+546,Eugeni Valderrama,es ESP,MF,Arouca,27,1994,5.9,222,180,42,20,1,7,29,0,22,7,10,1,167,0,5,Matches
+547,Rodrigo Valente,pt POR,"MF,FW",Estoril,20,2001,0.5,17,17,0,0,0,0,0,0,0,0,0,0,13,0,1,Matches
+548,Bruno Varela,cv CPV,GK,Vitória,26,1994,25.0,781,503,276,81,0,3,0,0,0,0,0,0,516,2,0,Matches
+549,Nilton Varela,pt POR,"DF,MF",B-SAD,20,2001,8.7,238,187,49,3,0,0,19,46,0,0,0,0,153,2,13,Matches
+550,Luciano Vega,ar ARG,MF,Estoril,22,1999,1.2,38,38,0,0,0,0,0,0,0,0,0,0,28,0,2,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+551,Igor Vekič,si SVN,GK,Paços de Ferreira,23,1998,0.0,3,3,0,0,0,0,0,0,0,0,0,0,3,0,0,Matches
+552,Calvin Verdonk,id IDN,FW,Famalicão,24,1997,0.2,4,4,0,0,0,0,1,0,0,0,0,0,3,0,0,Matches
+553,Lucas Veríssimo,br BRA,DF,Benfica,26,1995,9.3,677,646,31,24,1,7,1,7,0,0,0,0,599,0,6,Matches
+554,Jan Vertonghen,be BEL,DF,Benfica,34,1987,27.6,1899,1823,68,62,2,17,3,6,0,0,0,0,1681,8,10,Matches
+555,Paulo Victor Vidotti,br BRA,GK,Marítimo,34,1987,30.0,1105,746,356,88,0,2,0,0,0,0,0,0,771,3,1,Matches
+556,André Vidigal,ao ANG,"FW,MF",Marítimo,22,1998,23.9,592,563,27,5,0,9,58,20,1,0,0,0,433,2,21,Matches
+557,Fabio Vieira,pt POR,"MF,FW",Porto,21,2000,14.8,822,709,104,32,17,8,93,12,50,24,16,1,619,9,11,Matches
+558,Mikel Villanueva,ve VEN,DF,Santa Clara,28,1993,19.8,1021,931,88,67,0,6,1,20,0,0,0,0,882,2,5,Matches
+559,Rúben Vinagre,pt POR,"DF,MF",Sporting CP,22,1999,6.0,392,317,74,6,1,0,38,67,1,0,1,0,292,1,15,Matches
+560,Carlos Vinícius,br BRA,FW,Benfica,26,1995,0.1,2,2,0,0,0,0,1,0,0,0,0,0,1,0,0,Matches
+561,João Virgínia,pt POR,GK,Sporting CP,21,1999,0.9,24,20,4,2,0,0,0,0,0,0,0,0,21,0,0,Matches
+562,Bernardo Vital,pt POR,DF,Estoril,20,2000,15.4,734,687,46,45,0,8,0,1,0,0,0,0,630,1,3,Matches
+563,Vitinha,pt POR,MF,Porto,21,2000,25.0,1963,1797,162,78,10,25,94,5,79,45,17,2,1709,4,22,Matches
+564,Vitinha,pt POR,FW,Braga,21,2000,16.4,359,317,41,1,3,5,19,11,1,0,0,0,248,1,13,Matches
+565,Steven Vitória,ca CAN,DF,Moreirense,34,1987,15.8,512,489,22,22,0,5,1,0,0,0,0,0,402,1,1,Matches
+566,Odysseas Vlachodimos,gr GRE,GK,Benfica,27,1994,32.0,997,745,252,45,0,1,0,0,0,0,0,0,848,0,1,Matches
+567,Ilija Vukotić,me MNE,MF,Boavista,22,1999,9.0,317,302,14,12,2,1,1,1,0,0,0,0,234,1,5,Matches
+568,Luca Waldschmidt,de GER,"FW,MF",Benfica,25,1996,1.6,51,46,4,0,1,0,4,0,4,3,0,0,39,1,0,Matches
+569,Walterson,br BRA,"FW,MF",Moreirense,26,1994,15.8,449,422,26,4,1,6,40,18,4,2,2,0,286,1,31,Matches
+570,Julian Weigl,de GER,MF,Benfica,25,1995,26.8,1837,1737,93,55,1,32,4,3,0,0,0,0,1670,7,9,Matches
+571,Wendell,br BRA,DF,Porto,28,1993,10.6,730,624,105,20,2,3,27,82,3,3,0,0,627,1,12,Matches
+572,Willyan,br BRA,"DF,MF",Portimonense,26,1995,23.7,1177,1123,52,49,1,19,4,3,0,0,0,0,935,2,8,Matches
+573,Bruno Wilson,pt POR,DF,Vizela,24,1996,15.8,628,595,31,30,0,13,2,1,0,0,0,0,493,2,5,Matches
+574,Cláudio Winck,br BRA,DF,Marítimo,27,1994,28.6,1278,931,341,48,2,11,77,288,5,0,4,0,883,6,40,Matches
+575,Xadas,pt POR,"MF,FW",Marítimo,23,1997,14.6,549,441,103,43,0,8,85,8,46,23,22,0,380,5,14,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,90s,Att,Live,Dead,FK,TB,Sw,Crs,TI,CK,In,Out,Str,Cmp,Off,Blocks,Matches
+576,António Xavier,pt POR,"FW,MF",Estoril,29,1992,7.2,192,176,14,6,0,1,24,3,5,4,1,0,129,2,6,Matches
+577,Roman Yaremchuk,ua UKR,FW,Benfica,25,1995,11.9,214,212,1,0,3,1,7,0,0,0,0,0,171,1,8,Matches
+578,Hugues Zagbayou,ci CIV,MF,Vizela,31,1990,4.3,126,122,4,3,0,1,2,1,0,0,0,0,111,0,3,Matches
+579,Ivan Zlobin,ru RUS,GK,Famalicão,24,1997,1.0,28,21,7,0,0,0,0,0,0,0,0,0,21,0,0,Matches
+580,Kévin Zohi,ml MLI,FW,Vizela,24,1996,9.2,197,192,4,0,0,0,8,2,0,0,0,0,132,1,10,Matches
+581,Emilijus Zubas,lt LTU,GK,Arouca,31,1990,1.0,50,39,11,4,0,0,0,0,0,0,0,0,40,0,0,Matches

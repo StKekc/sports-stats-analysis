@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import time
+import random
 from playwright.sync_api import Page, sync_playwright, TimeoutError as PWTimeout
-
 
 class FBrefScraper:
     # класс для загрузки страниц FBref через Playwright
@@ -64,13 +64,15 @@ class FBrefScraper:
         # ждем таблицы stats_table
         try:
             self.page.wait_for_selector("table.stats_table", timeout=90_000)
-            time.sleep(5)
+            # time.sleep(5)
         except PWTimeout:
             print(f"[WARN] Timeout waiting for tables on {url}, saving anyway")
         
-        time.sleep(2.5)  # пауза чтобы не забанили
-        return self.page.content()
+        # имитация человеческого чтения страницы
+        human_delay = random.uniform(3.0, 6.0)
+        time.sleep(human_delay)
 
+        return self.page.content()
 
 def get_page_html(page: Page, url: str, wait_selector: str = "table") -> str:
     # вспомогательная функция для загрузки
@@ -84,4 +86,3 @@ def get_page_html(page: Page, url: str, wait_selector: str = "table") -> str:
     
     time.sleep(2.5)
     return page.content()
-
