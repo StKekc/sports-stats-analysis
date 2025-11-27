@@ -1,0 +1,379 @@
+# ============================================================================
+# ETL Configuration для миграции данных в PostgreSQL
+# ============================================================================
+
+# Настройки подключения к PostgreSQL
+database:
+  host: "localhost"
+  port: 5432
+  database: "sports_stats"
+  user: "postgres"
+  password: "postgres" 
+  
+# Пути к данным
+paths:
+  raw_data: "data/raw/fbref"
+  processed_data: "data/processed"
+  logs: "logs/etl"
+  
+# Настройки ETL
+etl:
+  # Размер батча для вставки данных
+  batch_size: 1000
+  
+  # Количество потоков для параллельной обработки
+  num_workers: 4
+  
+  # Таймаут подключения к БД (секунды)
+  connection_timeout: 30
+  
+  # Режим обработки ошибок: 'strict' (остановка при ошибке) или 'continue' (логировать и продолжить)
+  error_mode: "strict"
+  
+  # Очищать ли таблицы перед загрузкой (ОСТОРОЖНО!)
+  truncate_before_load: false
+  
+  # Создавать ли индексы до загрузки (false = быстрее) или после (true)
+  create_indexes_first: false
+
+# Маппинг полей из CSV в таблицы БД
+field_mappings:
+  # Matches (schedule_results.csv)
+  matches:
+    wk: "match_week"
+    day: "day_of_week"
+    date: "match_date"
+    time: "match_time"
+    home: "home_team_name"
+    away: "away_team_name"
+    score: "score"
+    xg: "home_xg"
+    xg_1: "away_xg"
+    venue: "venue"
+    referee: "referee"
+    attendance: "attendance"
+    match_report: "match_report_url"
+    notes: "notes"
+  
+  # Standings
+  standings:
+    rk: "rank"
+    squad: "team_name"
+    mp: "matches_played"
+    w: "wins"
+    d: "draws"
+    l: "losses"
+    gf: "goals_for"
+    ga: "goals_against"
+    gd: "goal_difference"
+    pts: "points"
+    pts_mp: "points_per_match"
+    xg: "xg"
+    xga: "xga"
+    xgd: "xgd"
+    xgd_90: "xgd_per_90"
+    attendance: "attendance"
+    top_team_scorer: "top_scorer"
+    goalkeeper: "goalkeeper"
+    notes: "notes"
+  
+  # Team Stats
+  team_stats:
+    squad: "team_name"
+    pl: "players_used"
+    age: "avg_age"
+    poss: "possession_pct"
+    mp: "matches_played"
+    starts: "starts"
+    min: "minutes"
+    "90s": "ninety_s"
+    gls: "goals"
+    ast: "assists"
+    g_plus_a: "goals_assists"
+    g_pk: "goals_non_penalty"
+    pk: "penalties"
+    pkatt: "penalty_attempts"
+    crdy: "yellow_cards"
+    crdr: "red_cards"
+    xg: "xg"
+    npxg: "npxg"
+    xag: "xag"
+    npxg_xag: "npxg_xag"
+    prgc: "progressive_carries"
+    prgp: "progressive_passes"
+    gls_per90: "goals_per_90"
+    ast_per90: "assists_per_90"
+    g_plus_a_per90: "goals_assists_per_90"
+    g_pk_per90: "goals_non_penalty_per_90"
+    g_plus_a_pk_per90: "goals_assists_non_penalty_per_90"
+    xg_per90: "xg_per_90"
+    xag_per90: "xag_per_90"
+    xg_xag_per90: "xg_xag_per_90"
+    npxg_per90: "npxg_per_90"
+    npxg_xag_per90: "npxg_xag_per_90"
+  
+  # Player Standard Stats
+  player_standard:
+    rk: "rank"
+    player: "player_name"
+    nation: "nation"
+    pos: "position"
+    squad: "team_name"
+    age: "age"
+    born: "born"
+    mp: "matches_played"
+    starts: "starts"
+    min: "minutes"
+    "90s": "ninety_s"
+    gls: "goals"
+    ast: "assists"
+    g_plus_a: "goals_assists"
+    g_pk: "goals_non_penalty"
+    pk: "penalties"
+    pkatt: "penalty_attempts"
+    crdy: "yellow_cards"
+    crdr: "red_cards"
+    xg: "xg"
+    npxg: "npxg"
+    xag: "xag"
+    npxg_xag: "npxg_xag"
+    prgc: "progressive_carries"
+    prgp: "progressive_passes"
+    prgr: "progressive_receptions"
+    gls_per90: "goals_per_90"
+    ast_per90: "assists_per_90"
+    g_plus_a_per90: "goals_assists_per_90"
+    g_pk_per90: "goals_non_penalty_per_90"
+    g_plus_a_pk_per90: "goals_assists_non_penalty_per_90"
+    xg_per90: "xg_per_90"
+    xag_per90: "xag_per_90"
+    xg_xag_per90: "xg_xag_per_90"
+    npxg_per90: "npxg_per_90"
+    npxg_xag_per90: "npxg_xag_per_90"
+  
+  # Player Shooting Stats
+  player_shooting:
+    "90s": "ninety_s"
+    gls: "goals"
+    sh: "shots"
+    sot: "shots_on_target"
+    sot_standa: "sot_pct"
+    sh_90: "shots_per_90"
+    sot_90: "sot_per_90"
+    g_sh: "goals_per_shot"
+    g_sot: "goals_per_sot"
+    dist: "avg_distance"
+    fk: "free_kicks"
+    pk: "penalties"
+    pkatt: "penalty_attempts"
+    xg: "xg"
+    npxg: "npxg"
+    npxg_sh: "npxg_per_shot"
+    g_xg: "goals_minus_xg"
+    np_g_xg: "np_goals_minus_xg"
+  
+  # Player Passing Stats
+  player_passing:
+    "90s": "ninety_s"
+    cmp: "passes_completed"
+    att: "passes_attempted"
+    cmp_total: "passes_pct"
+    totdist: "total_distance"
+    prgdist: "progressive_distance"
+    cmp_short: "short_completed"
+    att_short: "short_attempted"
+    cmp_medium: "medium_completed"
+    att_medium: "medium_attempted"
+    cmp_long: "long_completed"
+    att_long: "long_attempted"
+    ast: "assists"
+    xag: "xag"
+    xa: "xa"
+    a_xag: "assists_minus_xag"
+    kp: "key_passes"
+    "1_3": "passes_into_final_third"
+    ppa: "passes_into_penalty_area"
+    crspa: "crosses_into_penalty_area"
+    prgp: "progressive_passes"
+  
+  # Player Defense Stats
+  player_defense:
+    "90s": "ninety_s"
+    tkl: "tackles"
+    tklw: "tackles_won"
+    def_3rd: "tackles_def_3rd"
+    mid_3rd: "tackles_mid_3rd"
+    att_3rd: "tackles_att_3rd"
+    tkl_challe: "challenges"
+    att: "challenges_pct"
+    lost: "challenges_lost"
+    blocks: "blocks"
+    sh: "shots_blocked"
+    pass: "passes_blocked"
+    int: "interceptions"
+    tkl_int: "tackles_interceptions"
+    clr: "clearances"
+    err: "errors"
+  
+  # Player Possession Stats
+  player_possession:
+    "90s": "ninety_s"
+    touches: "touches"
+    def_pen: "touches_def_pen"
+    def_3rd: "touches_def_3rd"
+    mid_3rd: "touches_mid_3rd"
+    att_3rd: "touches_att_3rd"
+    att_pen: "touches_att_pen"
+    live: "touches_live"
+    att: "take_ons_attempted"
+    succ: "take_ons_successful"
+    succ_take_o: "take_ons_pct"
+    tkld: "tackled_during_take_on"
+    tkld_take_o: "tackled_during_take_on_pct"
+    carries: "carries"
+    totdist: "total_carrying_distance"
+    prgdist: "progressive_carrying_distance"
+    prgc: "progressive_carries"
+    "1_3": "carries_into_final_third"
+    cpa: "carries_into_penalty_area"
+    mis: "miscontrols"
+    dis: "dispossessed"
+    rec: "passes_received"
+    prgr: "progressive_receptions"
+  
+  # Player Misc Stats
+  player_misc:
+    "90s": "ninety_s"
+    crdy: "yellow_cards"
+    crdr: "red_cards"
+    "2crdy": "second_yellow"
+    fls: "fouls_committed"
+    fld: "fouls_drawn"
+    "off": "offsides"
+    crs: "crosses"
+    "int": "interceptions"
+    tklw: "tackles_won"
+    pkwon: "penalties_won"
+    pkcon: "penalties_conceded"
+    og: "own_goals"
+    recov: "ball_recoveries"
+    won: "aerials_won"
+    lost: "aerials_lost"
+    won_aerial: "aerials_won_pct"
+  
+  # Player Passing Types Stats  
+  player_passing_types:
+    "90s": "ninety_s"
+    att: "passes_attempted"
+    live: "passes_live"
+    dead: "passes_dead"
+    fk: "free_kicks"
+    tb: "through_balls"
+    sw: "switches"
+    crs: "crosses"
+    ti: "throw_ins"
+    ck: "corner_kicks"
+    "in": "inswinging"
+    "out": "outswinging"
+    "str": "straight"
+    cmp: "passes_completed"
+    "off": "passes_offsides"
+    blocks: "passes_blocked"
+  
+  # Player Keeper Stats
+  player_keeper:
+    "90s": "ninety_s"
+    ga: "goals_against"
+    sota: "shots_on_target_against"
+    saves: "saves"
+    save: "save_pct"
+    w: "wins"
+    d: "draws"
+    l: "losses"
+    cs: "clean_sheets"
+    cs_perf: "clean_sheet_pct"
+    pkatt: "penalties_attempted"
+    pka: "penalties_allowed"
+    pksv: "penalties_saved"
+    pkm: "penalties_missed"
+    save_penalt: "penalties_save_pct"
+  
+  # Player Keeper Advanced Stats
+  player_keeper_adv:
+    "90s": "ninety_s"
+    ga: "goals_against"
+    pka: "penalties_allowed"
+    fk: "free_kick_goals_against"
+    ck: "corner_kick_goals_against"
+    og: "own_goals_against"
+    psxg: "post_shot_xg"
+    psxg_sot: "post_shot_xg_per_shot"
+    psxg_exp: "post_shot_xg_minus_goals"
+    cmp: "launched_completed"
+    att: "launched_attempted"
+    thr: "throws_attempted"
+    launch: "launch_pct"
+    avglen: "avg_pass_length"
+    att_gk: "goal_kicks"
+    launch_goal_k: "goal_kick_launch_pct"
+    avglen_goal_k: "avg_goal_kick_length"
+    opp: "crosses_faced"
+    stp: "crosses_stopped"
+    stp_crosse: "crosses_stopped_pct"
+    opa: "def_actions_outside_pen"
+    opa_90: "def_actions_outside_pen_per_90"
+    avgdist: "avg_distance_def_actions"
+
+# Файлы для обработки в каждой папке лиги-сезона
+files_to_process:
+  matches: "schedule_results.csv"
+  standings: "standings.csv"
+  team_stats: "team_standard_stats.csv"
+  player_stats:
+    standard: "player_standard_stats.csv"
+    shooting: "player_shooting_stats.csv"
+    passing: "player_passing_stats.csv"
+    passing_types: "player_passing_types_stats.csv"
+    defense: "player_defense_stats.csv"
+    possession: "player_possession_stats.csv"
+    misc: "player_misc_stats.csv"
+    keepers: "player_keepers_stats.csv"
+    keepers_adv: "player_keepers_adv_stats.csv"
+
+# Настройки логирования
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/etl/migration_{timestamp}.log"
+  console: true
+
+# Валидация данных
+validation:
+  # Проверять ли даты на корректность
+  validate_dates: true
+  
+  # Минимальный и максимальный год для дат матчей
+  min_year: 2019
+  max_year: 2026
+  
+  # Минимальный год рождения игроков (для validate_player_data)
+  min_birth_year: 1950
+  
+  # Проверять ли отрицательные значения в статистике
+  check_negative_stats: true
+  
+  # Максимальное допустимое значение для некоторых метрик (для выявления аномалий)
+  max_goals_per_match: 20
+  max_possession_pct: 100
+  max_xg_per_match: 10
+
+# Обработка специальных значений
+special_values:
+  # Значения, которые считаются NULL/пустыми
+  null_values: ["", "nan", "NaN", "null", "NULL", "None", "-"]
+  
+  # Замена для некоторых значений
+  replacements:
+    "—": null
+    "–": null
+
