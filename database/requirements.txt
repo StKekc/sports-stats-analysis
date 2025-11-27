@@ -1,0 +1,19 @@
+# Database Migration Requirements
+# ================================
+
+# PostgreSQL adapter
+psycopg2-binary>=2.9.0
+
+# Data processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Configuration
+pyyaml>=5.4.0
+
+# Progress bars
+tqdm>=4.62.0
+
+# Optional: for better performance
+# pyarrow>=6.0.0  # For faster CSV reading with pandas
+
