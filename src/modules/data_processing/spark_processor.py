@@ -3,10 +3,12 @@
 """
 
 import logging
-from typing import Dict, Optional
+from pathlib import Path
+from typing import Dict, List, Optional
 import pandas as pd
 from pyspark.sql import DataFrame, SparkSession
 from pyspark.sql import functions as F
+from pyspark.sql.window import Window
 from .spark_config import SparkConfig
 
 
@@ -212,6 +214,215 @@ class SparkProcessor:
         pandas_df = result_df.toPandas()
         
         logger.info(f"✅ Обработка завершена. Найдено команд: {len(pandas_df)}")
+        
+        return pandas_df
+    
+    def calculate_team_dynamics(
+        self,
+        league_filter: Optional[str] = None,
+        season_filter: Optional[str] = None,
+        team_names: Optional[List[str]] = None,
+        output_parquet_path: Optional[str] = None
+    ) -> pd.DataFrame:
+        """
+        ЗАДАЧА 3: Динамика результатов по сезонам/месяцам
+        
+        Рассчитывает кумулятивные метрики для каждой команды по ходу сезона
+        с использованием оконных функций Spark.
+        
+        Args:
+            league_filter: Фильтр по коду лиги (например, 'epl')
+            season_filter: Фильтр по сезону (например, '2023-2024')
+            team_names: Список названий команд для фильтрации (если None — все команды)
+            output_parquet_path: Путь для сохранения результата в Parquet
+        
+        Returns:
+            pd.DataFrame с колонками:
+                - team_id, team_name, league_name, season_code
+                - match_date, match_number
+                - points, goal_diff (за матч)
+                - cumulative_points, cumulative_goal_diff (накопительные)
+                - goals_for, goals_against (за матч)
+        """
+        self.initialize_spark()
+        
+        logger.info("=" * 70)
+        logger.info("ЗАДАЧА 3: Динамика результатов по сезонам (Spark Window Functions)")
+        logger.info("=" * 70)
+        
+        # Читаем необходимые таблицы из PostgreSQL
+        matches_df = self.read_table_from_postgres("matches")
+        teams_df = self.read_table_from_postgres("teams")
+        leagues_df = self.read_table_from_postgres("leagues")
+        seasons_df = self.read_table_from_postgres("seasons")
+        
+        # Регистрируем таблицы для Spark SQL
+        matches_df.createOrReplaceTempView("matches")
+        teams_df.createOrReplaceTempView("teams")
+        leagues_df.createOrReplaceTempView("leagues")
+        seasons_df.createOrReplaceTempView("seasons")
+        
+        # Формируем WHERE условия
+        where_conditions = ["m.home_goals IS NOT NULL", "m.away_goals IS NOT NULL"]
+        
+        if league_filter:
+            where_conditions.append(f"l.league_code = '{league_filter}'")
+        
+        if season_filter:
+            where_conditions.append(f"s.season_code = '{season_filter}'")
+        
+        where_clause = " AND ".join(where_conditions)
+        
+        # Дополнительный фильтр по командам (если указан)
+        team_filter_clause = ""
+        if team_names:
+            team_names_str = ", ".join([f"'{name}'" for name in team_names])
+            team_filter_clause = f"AND t.team_name IN ({team_names_str})"
+        
+        logger.info(f"Фильтры: лига={league_filter or 'все'}, сезон={season_filter or 'все'}")
+        if team_names:
+            logger.info(f"Команды: {', '.join(team_names)}")
+        
+        # Spark SQL запрос: объединяем домашние и гостевые матчи
+        # и рассчитываем метрики для каждой команды
+        spark_sql_query = f"""
+        WITH all_team_matches AS (
+            -- Домашние матчи
+            SELECT 
+                t.team_id,
+                t.team_name,
+                l.league_id,
+                l.league_name,
+                l.league_code,
+                s.season_id,
+                s.season_code,
+                m.match_id,
+                m.match_date,
+                m.home_goals as goals_for,
+                m.away_goals as goals_against,
+                CASE 
+                    WHEN m.home_goals > m.away_goals THEN 3
+                    WHEN m.home_goals = m.away_goals THEN 1
+                    ELSE 0
+                END as points,
+                (m.home_goals - m.away_goals) as goal_diff,
+                'home' as venue_type
+            FROM matches m
+            JOIN teams t ON m.home_team_id = t.team_id
+            JOIN leagues l ON m.league_id = l.league_id
+            JOIN seasons s ON m.season_id = s.season_id
+            WHERE {where_clause} {team_filter_clause}
+            
+            UNION ALL
+            
+            -- Гостевые матчи
+            SELECT 
+                t.team_id,
+                t.team_name,
+                l.league_id,
+                l.league_name,
+                l.league_code,
+                s.season_id,
+                s.season_code,
+                m.match_id,
+                m.match_date,
+                m.away_goals as goals_for,
+                m.home_goals as goals_against,
+                CASE 
+                    WHEN m.away_goals > m.home_goals THEN 3
+                    WHEN m.away_goals = m.home_goals THEN 1
+                    ELSE 0
+                END as points,
+                (m.away_goals - m.home_goals) as goal_diff,
+                'away' as venue_type
+            FROM matches m
+            JOIN teams t ON m.away_team_id = t.team_id
+            JOIN leagues l ON m.league_id = l.league_id
+            JOIN seasons s ON m.season_id = s.season_id
+            WHERE {where_clause} {team_filter_clause}
+        )
+        SELECT 
+            team_id,
+            team_name,
+            league_id,
+            league_name,
+            league_code,
+            season_id,
+            season_code,
+            match_id,
+            match_date,
+            goals_for,
+            goals_against,
+            points,
+            goal_diff,
+            venue_type
+        FROM all_team_matches
+        ORDER BY team_id, season_id, match_date
+        """
+        
+        logger.info("Выполнение Spark SQL запроса для получения данных матчей...")
+        base_df = self.spark.sql(spark_sql_query)
+        
+        # Применяем оконные функции для кумулятивных метрик
+        logger.info("Применение оконных функций для расчета кумулятивных метрик...")
+        
+        # Определяем окно: партиционирование по команде и сезону, сортировка по дате
+        window_spec = Window.partitionBy("team_id", "season_id").orderBy("match_date")
+        
+        # Добавляем кумулятивные метрики
+        result_df = base_df \
+            .withColumn("match_number", F.row_number().over(window_spec)) \
+            .withColumn("cumulative_points", F.sum("points").over(window_spec)) \
+            .withColumn("cumulative_goal_diff", F.sum("goal_diff").over(window_spec)) \
+            .withColumn("cumulative_goals_for", F.sum("goals_for").over(window_spec)) \
+            .withColumn("cumulative_goals_against", F.sum("goals_against").over(window_spec))
+        
+        # Показываем результаты в консоли
+        logger.info(f"\n📊 Пример данных динамики команд:")
+        result_df.show(20, truncate=False)
+        
+        # Сохраняем в Parquet если указан путь
+        if output_parquet_path:
+            parquet_path = Path(output_parquet_path)
+            parquet_path.parent.mkdir(parents=True, exist_ok=True)
+            
+            logger.info(f"Сохранение данных в Parquet: {output_parquet_path}")
+            result_df.write.mode("overwrite").parquet(str(parquet_path))
+            logger.info(f"✅ Данные сохранены в Parquet: {output_parquet_path}")
+        
+        # Конвертируем в pandas для визуализации
+        pandas_df = result_df.toPandas()
+        
+        # Статистика
+        unique_teams = pandas_df['team_name'].nunique()
+        unique_seasons = pandas_df['season_code'].nunique()
+        total_records = len(pandas_df)
+        
+        logger.info(f"\n✅ Обработка завершена:")
+        logger.info(f"   - Команд: {unique_teams}")
+        logger.info(f"   - Сезонов: {unique_seasons}")
+        logger.info(f"   - Всего записей: {total_records}")
+        
+        return pandas_df
+    
+    def load_dynamics_from_parquet(self, parquet_path: str) -> pd.DataFrame:
+        """
+        Загружает данные динамики из Parquet файла
+        
+        Args:
+            parquet_path: Путь к Parquet файлу
+        
+        Returns:
+            pd.DataFrame с данными динамики
+        """
+        self.initialize_spark()
+        
+        logger.info(f"Загрузка данных из Parquet: {parquet_path}")
+        
+        df = self.spark.read.parquet(parquet_path)
+        pandas_df = df.toPandas()
+        
+        logger.info(f"✅ Загружено {len(pandas_df)} записей")
         
         return pandas_df
     

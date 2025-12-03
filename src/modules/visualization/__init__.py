@@ -4,6 +4,7 @@
 """
 
 from .win_rate_visualizer import WinRateVisualizer
+from .team_dynamics_visualizer import TeamDynamicsVisualizer
 
-__all__ = ['WinRateVisualizer']
+__all__ = ['WinRateVisualizer', 'TeamDynamicsVisualizer']
 
