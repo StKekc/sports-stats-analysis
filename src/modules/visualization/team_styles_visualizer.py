@@ -464,8 +464,7 @@ class TeamStylesVisualizer:
             texttemplate='%{text}',
             textfont={"size": 10},
             colorbar=dict(
-                title="Значение",
-                titleside="right"
+                title="Значение"
             )
         ))
 
@@ -700,7 +699,7 @@ class TeamStylesVisualizer:
                 '🎯 Ключевые показатели',
                 '⚖️ Баланс характеристик'
             ),
-            specs=[[{"type": "radar"}, {"type": "bar"}],
+            specs=[[{"type": "polar"}, {"type": "bar"}],
                    [{"type": "scatter"}, {"type": "funnelarea"}]],
             vertical_spacing=0.15,
             horizontal_spacing=0.1
@@ -974,8 +973,7 @@ class TeamStylesVisualizer:
                 y=top_teams['attacking_power'],
                 marker_color=[self._get_cluster_color(c) for c in top_teams['cluster']],
                 text=top_teams['playing_style'],
-                textposition='auto',
-                showlegend=False
+                textposition='auto'
             ),
             row=2, col=3
         )
@@ -992,8 +990,7 @@ class TeamStylesVisualizer:
                         size=10,
                         color='#FFD166'
                     ),
-                    text=changes_df['team_name'] + ': ' + changes_df['change_description'],
-                    showlegend=False
+                    text=changes_df['team_name'] + ': ' + changes_df['change_description']
                 ),
                 row=3, col=1
             )
@@ -1014,8 +1011,7 @@ class TeamStylesVisualizer:
                         x=1.02
                     )
                 ),
-                text=teams_df['team_name'],
-                showlegend=False
+                text=teams_df['team_name']
             ),
             row=3, col=2
         )
@@ -1033,19 +1029,23 @@ class TeamStylesVisualizer:
         fig.add_trace(
             go.Table(
                 header=dict(
-                    values=['Метрика', 'Значение'],
+                    values=[  # ← передаем оба столбца как список списков
+                        list(zip(*summary_stats))[0][1:],  # Столбец 1: Метрики
+                        list(zip(*summary_stats))[1][1:]  # Столбец 2: Значения
+                    ],
                     fill_color='#2d3a4f',
                     align='left',
                     font=dict(color='white', size=12)
                 ),
                 cells=dict(
-                    values=list(zip(*summary_stats))[0][1:],
-                    values2=list(zip(*summary_stats))[1][1:],
+                    values=[  # ← передаем оба столбца как список списков
+                        list(zip(*summary_stats))[0][1:],  # Столбец 1: Метрики
+                        list(zip(*summary_stats))[1][1:]  # Столбец 2: Значения
+                    ],
                     fill_color='#16213e',
                     align='left',
                     font=dict(color='white', size=11)
                 ),
-                showlegend=False
             ),
             row=3, col=3
         )

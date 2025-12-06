@@ -18,12 +18,29 @@
 """
 
 import sys
+import os
 import logging
 import argparse
 from pathlib import Path
 from datetime import datetime
 from typing import List, Optional
 import yaml
+
+# Настройка Java ДО импорта PySpark
+if sys.platform == 'win32':
+    # Добавляем путь к модулям проекта для импорта java_setup
+    project_root = Path(__file__).parent
+    sys.path.insert(0, str(project_root))
+    try:
+        from modules.data_processing.java_setup import setup_java_for_spark
+        setup_java_for_spark()
+    except ImportError:
+        # Если модуль не найден, используем простую настройку
+        if 'JAVA_HOME' not in os.environ:
+            java_home = "C:\\Program Files\\Java\\jdk-17"
+            if os.path.exists(java_home):
+                os.environ['JAVA_HOME'] = java_home
+                print(f"✅ Установлен JAVA_HOME: {java_home}")
 
 # Добавляем путь к модулям проекта
 project_root = Path(__file__).parent
@@ -47,6 +64,8 @@ def setup_logging(log_level: str = "INFO") -> logging.Logger:
     Returns:
         Logger instance
     """
+    import sys
+    
     # Создаём директорию для логов
     logs_dir = Path('logs')
     logs_dir.mkdir(exist_ok=True)
@@ -54,14 +73,30 @@ def setup_logging(log_level: str = "INFO") -> logging.Logger:
     # Формат логов
     log_format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
     
+    # Создаем StreamHandler с обработкой ошибок кодировки для Windows
+    stream_handler = logging.StreamHandler()
+    # На Windows устанавливаем обработку ошибок кодировки
+    if sys.platform == 'win32':
+        # Переопределяем метод emit для обработки Unicode ошибок
+        original_emit = stream_handler.emit
+        def safe_emit(record):
+            try:
+                original_emit(record)
+            except UnicodeEncodeError:
+                # Если не удается закодировать, заменяем проблемные символы
+                record.msg = str(record.msg).encode('ascii', errors='replace').decode('ascii')
+                original_emit(record)
+        stream_handler.emit = safe_emit
+    
     # Настройка
     logging.basicConfig(
         level=getattr(logging, log_level.upper()),
         format=log_format,
         handlers=[
-            logging.StreamHandler(),
+            stream_handler,
             logging.FileHandler(
-                logs_dir / f'task3_dynamics_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
+                logs_dir / f'task3_dynamics_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log',
+                encoding='utf-8'
             )
         ]
     )
@@ -73,20 +108,29 @@ def setup_logging(log_level: str = "INFO") -> logging.Logger:
 # ЗАГРУЗКА КОНФИГУРАЦИИ
 # ============================================================================
 
-def load_config(config_path: str = "database/config.yaml") -> dict:
+def load_config(config_path: str = None) -> dict:
     """
     Загружает конфигурацию из YAML файла
     
     Args:
-        config_path: Путь к файлу конфигурации
+        config_path: Путь к файлу конфигурации (если None, используется путь относительно скрипта)
     
     Returns:
         dict: Конфигурация
     """
-    config_file = Path(config_path)
+    # Если путь не указан, используем путь относительно расположения скрипта
+    if config_path is None:
+        script_dir = Path(__file__).parent
+        config_file = script_dir.parent / "database" / "config.yaml"
+    else:
+        config_file = Path(config_path)
+        # Если путь относительный и файл не найден, пробуем относительно скрипта
+        if not config_file.exists() and not config_file.is_absolute():
+            script_dir = Path(__file__).parent
+            config_file = script_dir.parent / config_path
     
     if not config_file.exists():
-        raise FileNotFoundError(f"Файл конфигурации не найден: {config_path}")
+        raise FileNotFoundError(f"Файл конфигурации не найден: {config_file.absolute()}")
     
     with open(config_file, 'r', encoding='utf-8') as f:
         config = yaml.safe_load(f)
@@ -112,8 +156,8 @@ def run_task3_analysis(
     Выполняет полный анализ динамики результатов команд (Задача 3)
     
     Pipeline:
-    1. ETL: Spark SQL + Window Functions → Parquet
-    2. Визуализация: Parquet → Plotly HTML
+    1. ETL: Spark SQL + Window Functions -> Parquet
+    2. Визуализация: Parquet -> Plotly HTML
     
     Args:
         db_config: Конфигурация подключения к БД
@@ -131,9 +175,9 @@ def run_task3_analysis(
     logger = logging.getLogger(__name__)
     
     logger.info("=" * 80)
-    logger.info("🏆 ЗАДАЧА 3: ДИНАМИКА РЕЗУЛЬТАТОВ ПО СЕЗОНАМ")
+    logger.info(" ЗАДАЧА 3: ДИНАМИКА РЕЗУЛЬТАТОВ ПО СЕЗОНАМ")
     logger.info("=" * 80)
-    logger.info("📋 Параметры анализа:")
+    logger.info(" Параметры анализа:")
     logger.info(f"   • Лига: {league_filter or 'все'}")
     logger.info(f"   • Сезон: {season_filter or 'все'}")
     logger.info(f"   • Команды: {', '.join(team_names) if team_names else 'топ по очкам'}")
@@ -159,7 +203,7 @@ def run_task3_analysis(
         # ====================================================================
         
         if not skip_etl:
-            logger.info("\n📊 Шаг 1/2: ETL - Spark SQL + Window Functions → Parquet")
+            logger.info("\n Шаг 1/2: ETL - Spark SQL + Window Functions -> Parquet")
             logger.info("-" * 60)
             
             with SparkProcessor(db_config) as processor:
@@ -174,11 +218,11 @@ def run_task3_analysis(
             results['etl_records'] = len(dynamics_df)
             results['parquet_path'] = str(parquet_path)
             
-            logger.info(f"✅ ETL завершён. Записей: {len(dynamics_df)}")
+            logger.info(f" ETL завершён. Записей: {len(dynamics_df)}")
             logger.info(f"   Parquet: {parquet_path}")
             
         else:
-            logger.info("\n⏭️  Шаг 1/2: ETL пропущен (skip_etl=True)")
+            logger.info("\n  Шаг 1/2: ETL пропущен (skip_etl=True)")
             
             # Загружаем существующие данные
             if not parquet_path.exists():
@@ -206,7 +250,7 @@ def run_task3_analysis(
         # ====================================================================
         
         if not skip_visualizations:
-            logger.info("\n📈 Шаг 2/2: Создание визуализаций (Plotly)")
+            logger.info("\n Шаг 2/2: Создание визуализаций (Plotly)")
             logger.info("-" * 60)
             
             visualizer = TeamDynamicsVisualizer(output_dir=output_dir)
@@ -215,7 +259,7 @@ def run_task3_analysis(
             viz_teams = team_names
             
             # 1. График накопленных очков
-            logger.info("   → Создание графика накопленных очков...")
+            logger.info("   -> Создание графика накопленных очков...")
             fig1 = visualizer.plot_cumulative_points(
                 dynamics_df,
                 team_names=viz_teams,
@@ -225,7 +269,7 @@ def run_task3_analysis(
             results['visualizations'].append('task3_cumulative_points.html')
             
             # 2. График разницы мячей
-            logger.info("   → Создание графика разницы мячей...")
+            logger.info("   -> Создание графика разницы мячей...")
             fig2 = visualizer.plot_cumulative_goal_diff(
                 dynamics_df,
                 team_names=viz_teams,
@@ -235,7 +279,7 @@ def run_task3_analysis(
             results['visualizations'].append('task3_goal_diff_dynamics.html')
             
             # 3. График очков по месяцам
-            logger.info("   → Создание графика очков по месяцам...")
+            logger.info("   -> Создание графика очков по месяцам...")
             fig3 = visualizer.plot_monthly_aggregation(
                 dynamics_df,
                 team_names=viz_teams,
@@ -245,7 +289,7 @@ def run_task3_analysis(
             results['visualizations'].append('task3_monthly_points.html')
             
             # 4. Комплексный dashboard
-            logger.info("   → Создание комплексного dashboard...")
+            logger.info("   -> Создание комплексного dashboard...")
             fig4 = visualizer.create_comprehensive_dashboard(
                 dynamics_df,
                 team_names=viz_teams,
@@ -255,7 +299,7 @@ def run_task3_analysis(
             results['visualizations'].append('task3_comprehensive_dashboard.html')
             
             # 5. Сводная статистика в CSV
-            logger.info("   → Генерация сводной статистики...")
+            logger.info("   -> Генерация сводной статистики...")
             summary_df = visualizer.generate_summary_stats(
                 dynamics_df,
                 season_filter=season_filter
@@ -264,51 +308,51 @@ def run_task3_analysis(
             summary_df.to_csv(summary_path, index=False, encoding='utf-8')
             results['visualizations'].append('task3_summary_stats.csv')
             
-            logger.info(f"✅ Визуализации созданы: {len(results['visualizations'])} файлов")
+            logger.info(f" Визуализации созданы: {len(results['visualizations'])} файлов")
             
         else:
-            logger.info("\n⏭️  Шаг 2/2: Визуализация пропущена (skip_visualizations=True)")
+            logger.info("\n  Шаг 2/2: Визуализация пропущена (skip_visualizations=True)")
         
         # ====================================================================
         # ИТОГИ
         # ====================================================================
         
         logger.info("\n" + "=" * 80)
-        logger.info("✅ АНАЛИЗ УСПЕШНО ЗАВЕРШЁН!")
+        logger.info(" АНАЛИЗ УСПЕШНО ЗАВЕРШЁН!")
         logger.info("=" * 80)
         
-        logger.info("\n📁 Созданные файлы:")
-        logger.info(f"   📦 Parquet: {results['parquet_path']}")
+        logger.info("\n Созданные файлы:")
+        logger.info(f"    Parquet: {results['parquet_path']}")
         
         if results['visualizations']:
-            logger.info(f"   📊 Визуализации ({output_dir}/):")
+            logger.info(f"    Визуализации ({output_dir}/):")
             for viz in results['visualizations']:
                 logger.info(f"      • {viz}")
         
         # Основные выводы
         if len(dynamics_df) > 0:
-            logger.info("\n📊 ОСНОВНЫЕ ВЫВОДЫ:")
+            logger.info("\n ОСНОВНЫЕ ВЫВОДЫ:")
             
             # Топ команда по очкам
             final_points = dynamics_df.groupby(['team_name', 'season_code'])['cumulative_points'].max()
             if len(final_points) > 0:
                 top_team = final_points.idxmax()
                 top_points = final_points.max()
-                logger.info(f"   🥇 Лидер по очкам: {top_team[0]} ({top_team[1]}) — {top_points} очков")
+                logger.info(f"    Лидер по очкам: {top_team[0]} ({top_team[1]}) — {top_points} очков")
             
             # Лучшая разница мячей
             final_gd = dynamics_df.groupby(['team_name', 'season_code'])['cumulative_goal_diff'].max()
             if len(final_gd) > 0:
                 best_gd_team = final_gd.idxmax()
                 best_gd = final_gd.max()
-                logger.info(f"   ⚽ Лучшая разница мячей: {best_gd_team[0]} ({best_gd_team[1]}) — {best_gd:+d}")
+                logger.info(f"    Лучшая разница мячей: {best_gd_team[0]} ({best_gd_team[1]}) — {best_gd:+d}")
         
         logger.info("\n" + "=" * 80)
         
         return results
         
     except Exception as e:
-        logger.error(f"❌ Ошибка при выполнении анализа: {e}", exc_info=True)
+        logger.error(f" Ошибка при выполнении анализа: {e}", exc_info=True)
         results['status'] = 'error'
         results['error'] = str(e)
         raise
@@ -351,8 +395,8 @@ def main():
     parser.add_argument(
         '--config',
         type=str,
-        default='database/config.yaml',
-        help='Путь к файлу конфигурации (default: database/config.yaml)'
+        default=None,
+        help='Путь к файлу конфигурации (default: ../database/config.yaml относительно скрипта)'
     )
     parser.add_argument(
         '--league',
@@ -415,7 +459,7 @@ def main():
     
     try:
         # Загрузка конфигурации
-        logger.info(f"📂 Загрузка конфигурации: {args.config}")
+        logger.info(f" Загрузка конфигурации: {args.config}")
         config = load_config(args.config)
         db_config = config.get('database', {})
         
@@ -441,14 +485,14 @@ def main():
             skip_visualizations=args.skip_viz
         )
         
-        logger.info("🎉 Программа успешно завершена!")
+        logger.info(" Программа успешно завершена!")
         return 0
         
     except KeyboardInterrupt:
-        logger.warning("\n⚠️  Программа прервана пользователем")
+        logger.warning("\n Программа прервана пользователем")
         return 130
     except Exception as e:
-        logger.error(f"❌ Критическая ошибка: {e}", exc_info=True)
+        logger.error(f" Критическая ошибка: {e}", exc_info=True)
         return 1
 
 

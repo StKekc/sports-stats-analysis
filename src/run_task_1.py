@@ -20,12 +20,30 @@
 """
 
 import sys
+import os
 import logging
 import argparse
 from pathlib import Path
 from datetime import datetime
 from typing import List, Optional
 import yaml
+import pandas as pd
+
+# Настройка Java ДО импорта PySpark
+if sys.platform == 'win32':
+    # Добавляем путь к модулям проекта для импорта java_setup
+    project_root = Path(__file__).parent
+    sys.path.insert(0, str(project_root))
+    try:
+        from modules.data_processing.java_setup import setup_java_for_spark
+        setup_java_for_spark()
+    except ImportError:
+        # Если модуль не найден, используем простую настройку
+        if 'JAVA_HOME' not in os.environ:
+            java_home = "C:\\Program Files\\Java\\jdk-17"
+            if os.path.exists(java_home):
+                os.environ['JAVA_HOME'] = java_home
+                print(f"✅ Установлен JAVA_HOME: {java_home}")
 
 # Добавляем путь к модулям проекта
 project_root = Path(__file__).parent
@@ -49,6 +67,8 @@ def setup_logging(log_level: str = "INFO") -> logging.Logger:
     Returns:
         Logger instance
     """
+    import sys
+    
     # Создаём директорию для логов
     logs_dir = Path('logs')
     logs_dir.mkdir(exist_ok=True)
@@ -56,14 +76,30 @@ def setup_logging(log_level: str = "INFO") -> logging.Logger:
     # Формат логов
     log_format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 
+    # Создаем StreamHandler с обработкой ошибок кодировки для Windows
+    stream_handler = logging.StreamHandler()
+    # На Windows устанавливаем обработку ошибок кодировки
+    if sys.platform == 'win32':
+        # Переопределяем метод emit для обработки Unicode ошибок
+        original_emit = stream_handler.emit
+        def safe_emit(record):
+            try:
+                original_emit(record)
+            except UnicodeEncodeError:
+                # Если не удается закодировать, заменяем проблемные символы
+                record.msg = str(record.msg).encode('ascii', errors='replace').decode('ascii')
+                original_emit(record)
+        stream_handler.emit = safe_emit
+
     # Настройка
     logging.basicConfig(
         level=getattr(logging, log_level.upper()),
         format=log_format,
         handlers=[
-            logging.StreamHandler(),
+            stream_handler,
             logging.FileHandler(
-                logs_dir / f'task1_styles_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
+                logs_dir / f'task1_styles_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log',
+                encoding='utf-8'
             )
         ]
     )
@@ -75,20 +111,29 @@ def setup_logging(log_level: str = "INFO") -> logging.Logger:
 # ЗАГРУЗКА КОНФИГУРАЦИИ
 # ============================================================================
 
-def load_config(config_path: str = "database/config.yaml") -> dict:
+def load_config(config_path: str = None) -> dict:
     """
     Загружает конфигурацию из YAML файла
 
     Args:
-        config_path: Путь к файлу конфигурации
+        config_path: Путь к файлу конфигурации (если None, используется путь относительно скрипта)
 
     Returns:
         dict: Конфигурация
     """
-    config_file = Path(config_path)
+    # Если путь не указан, используем путь относительно расположения скрипта
+    if config_path is None:
+        script_dir = Path(__file__).parent
+        config_file = script_dir.parent / "database" / "config.yaml"
+    else:
+        config_file = Path(config_path)
+        # Если путь относительный и файл не найден, пробуем относительно скрипта
+        if not config_file.exists() and not config_file.is_absolute():
+            script_dir = Path(__file__).parent
+            config_file = script_dir.parent / config_path
 
     if not config_file.exists():
-        raise FileNotFoundError(f"Файл конфигурации не найден: {config_path}")
+        raise FileNotFoundError(f"Файл конфигурации не найден: {config_file.absolute()}")
 
     with open(config_file, 'r', encoding='utf-8') as f:
         config = yaml.safe_load(f)
@@ -172,29 +217,50 @@ def run_task1_analysis(
             logger.info("\n🔍 Шаг 1/2: Анализ игровых стилей (K-means кластеризация)")
             logger.info("-" * 60)
 
-            with SparkProcessor(db_config) as processor:
-                # Выполняем анализ стилей
-                analysis_results = processor.analyze_team_playing_styles(
-                    league_filter=league_filter,
-                    season_filter=season_filter,
-                    min_matches=min_matches,
-                    n_clusters=n_clusters
-                )
+            try:
+                with SparkProcessor(db_config) as processor:
+                    # Выполняем анализ стилей
+                    analysis_results = processor.analyze_team_playing_styles(
+                        league_filter=league_filter,
+                        season_filter=season_filter,
+                        min_matches=min_matches,
+                        n_clusters=n_clusters
+                    )
 
-                # Сохраняем результаты в атрибуте для последующего использования
-                processor.last_style_analysis = analysis_results
+                    # Сохраняем результаты в атрибуте для последующего использования
+                    processor.last_style_analysis = analysis_results
 
-            results['analysis_results'] = analysis_results
-            results['analysis_data_path'] = str(analysis_path)
+                results['analysis_results'] = analysis_results
+                results['analysis_data_path'] = str(analysis_path)
 
-            logger.info(f"✅ Анализ завершён. Определено {analysis_results['n_clusters']} стилей игры")
-            logger.info(f"   Проанализировано команд: {len(analysis_results['teams_with_styles'])}")
-            logger.info(f"   Качество кластеризации (силуэт): {analysis_results['silhouette_score']:.3f}")
+                logger.info(f"[OK] Анализ завершён. Определено {analysis_results['n_clusters']} стилей игры")
+                logger.info(f"   Проанализировано команд: {len(analysis_results['teams_with_styles'])}")
+                logger.info(f"   Качество кластеризации (силуэт): {analysis_results['silhouette_score']:.3f}")
 
-            # Выводим информацию о найденных стилях
-            logger.info("\n🎭 Обнаруженные стили игры:")
-            for _, row in analysis_results['cluster_analysis'].iterrows():
-                logger.info(f"   • {row['style_name']}: {row['team_count']} команд ({row['percentage']:.1f}%)")
+                # Выводим информацию о найденных стилях
+                logger.info("\n🎭 Обнаруженные стили игры:")
+                for _, row in analysis_results['cluster_analysis'].iterrows():
+                    logger.info(f"   • {row['style_name']}: {row['team_count']} команд ({row['percentage']:.1f}%)")
+            except Exception as e:
+                error_msg = str(e)
+                if "JAVA_GATEWAY_EXITED" in error_msg or "Java gateway" in error_msg:
+                    logger.error(f"\n❌ Ошибка Java gateway при создании Spark сессии: {error_msg}")
+                    logger.error("\n💡 Система уже пыталась использовать минимальную конфигурацию.")
+                    logger.error("\n💡 Дополнительные решения:")
+                    logger.error("   1. Убедитесь, что Java JDK 8, 11, 17 или 21 установлена")
+                    logger.error("   2. Проверьте, что JAVA_HOME установлена правильно:")
+                    if 'JAVA_HOME' in os.environ:
+                        logger.error(f"      Текущая JAVA_HOME: {os.environ['JAVA_HOME']}")
+                    else:
+                        logger.error("      JAVA_HOME не установлена!")
+                    logger.error("   3. Перезапустите терминал/IDE после установки Java")
+                    logger.error("   4. Закройте другие приложения, использующие Java")
+                    logger.error("   5. Проверьте, что порты не заняты другими процессами")
+                    logger.error("   6. Попробуйте перезагрузить компьютер")
+                else:
+                    # Для других ошибок просто логируем
+                    logger.error(f"\n❌ Ошибка при выполнении анализа: {error_msg}")
+                raise
 
         else:
             logger.info("\n⏭️  Шаг 1/2: Анализ пропущен (skip_analysis=True)")
@@ -250,7 +316,7 @@ def run_task1_analysis(
             results['analysis_results'] = analysis_results
             results['analysis_data_path'] = str(analysis_path)
 
-            logger.info(f"✅ Данные загружены. Определено {analysis_results['n_clusters']} стилей игры")
+            logger.info(f"[OK] Данные загружены. Определено {analysis_results['n_clusters']} стилей игры")
             logger.info(f"   Команд: {len(teams_df)}")
 
         # ====================================================================
@@ -271,8 +337,8 @@ def run_task1_analysis(
 
             results['visualizations'] = viz_results['visualizations']
 
-            logger.info(f"✅ Визуализации созданы: {len(results['visualizations'])} файлов")
-            logger.info(f"   📂 Директория: {viz_results['output_dir']}")
+            logger.info(f"[OK] Визуализации созданы: {len(results['visualizations'])} файлов")
+            logger.info(f"   Директория: {viz_results['output_dir']}")
 
             # Детальный анализ конкретной команды если указана
             if team_name:
@@ -352,11 +418,11 @@ def run_task1_analysis(
         # ====================================================================
 
         logger.info("\n" + "=" * 80)
-        logger.info("✅ АНАЛИЗ УСПЕШНО ЗАВЕРШЁН!")
+        logger.info("[OK] АНАЛИЗ УСПЕШНО ЗАВЕРШЁН!")
         logger.info("=" * 80)
 
         logger.info("\n📁 Созданные файлы:")
-        logger.info(f"   📂 Данные анализа: {results['analysis_data_path']}")
+        logger.info(f"   Данные анализа: {results['analysis_data_path']}")
 
         if results['visualizations']:
             logger.info(f"   📊 Визуализации ({output_dir}/):")
@@ -405,7 +471,7 @@ def run_task1_analysis(
         return results
 
     except Exception as e:
-        logger.error(f"❌ Ошибка при выполнении анализа: {e}", exc_info=True)
+        logger.error(f"[ERROR] Ошибка при выполнении анализа: {e}", exc_info=True)
         results['status'] = 'error'
         results['error'] = str(e)
         raise
@@ -447,8 +513,8 @@ def main():
     parser.add_argument(
         '--config',
         type=str,
-        default='database/config.yaml',
-        help='Путь к файлу конфигурации (default: database/config.yaml)'
+        default=None,
+        help='Путь к файлу конфигурации (default: ../database/config.yaml относительно скрипта)'
     )
     parser.add_argument(
         '--league',
@@ -523,7 +589,7 @@ def main():
 
     try:
         # Загрузка конфигурации
-        logger.info(f"📂 Загрузка конфигурации: {args.config}")
+        logger.info(f"Загрузка конфигурации: {args.config}")
         config = load_config(args.config)
         db_config = config.get('database', {})
 
@@ -533,10 +599,6 @@ def main():
 
         if missing:
             raise ValueError(f"Отсутствуют параметры БД: {missing}")
-
-        # Импорт pandas для загрузки данных при пропуске анализа
-        if args.skip_analysis:
-            import pandas as pd
 
         # Запуск анализа
         results = run_task1_analysis(
@@ -559,7 +621,7 @@ def main():
         logger.warning("\n⚠️  Программа прервана пользователем")
         return 130
     except Exception as e:
-        logger.error(f"❌ Критическая ошибка: {e}", exc_info=True)
+        logger.error(f"[ERROR] Критическая ошибка: {e}", exc_info=True)
         return 1
 
 

@@ -11,7 +11,6 @@ scipy>=1.11.0
 # База данных
 psycopg2-binary>=2.9.0
 pyyaml>=6.0
-SQLAlchemy>=2.0.0
 
 # Apache Spark
 pyspark>=3.5.0

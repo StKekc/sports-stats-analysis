@@ -13,11 +13,28 @@
 """
 
 import sys
+import os
 import logging
 from pathlib import Path
 from datetime import datetime
 import yaml
 import argparse
+
+# Настройка Java ДО импорта PySpark
+if sys.platform == 'win32':
+    # Добавляем путь к модулям проекта для импорта java_setup
+    project_root = Path(__file__).parent
+    sys.path.insert(0, str(project_root))
+    try:
+        from modules.data_processing.java_setup import setup_java_for_spark
+        setup_java_for_spark()
+    except ImportError:
+        # Если модуль не найден, используем простую настройку
+        if 'JAVA_HOME' not in os.environ:
+            java_home = "C:\\Program Files\\Java\\jdk-17"
+            if os.path.exists(java_home):
+                os.environ['JAVA_HOME'] = java_home
+                print(f"✅ Установлен JAVA_HOME: {java_home}")
 
 # Добавляем путь к модулям проекта
 project_root = Path(__file__).parent
@@ -28,40 +45,71 @@ from modules.visualization.win_rate_visualizer import WinRateVisualizer
 
 
 # Настройка логирования
-def setup_logging(log_level: str = "INFO"):
+def setup_logging(log_level: str = "INFO", log_dir: str = "logs"):
     """Настраивает систему логирования"""
+    import sys
+    
+    # Создаем директорию для логов, если её нет
+    log_path = Path(log_dir)
+    log_path.mkdir(parents=True, exist_ok=True)
+    
+    log_file = log_path / f'task2_analysis_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
+    
+    # Создаем StreamHandler с обработкой ошибок кодировки для Windows
+    stream_handler = logging.StreamHandler()
+    # На Windows устанавливаем обработку ошибок кодировки
+    if sys.platform == 'win32':
+        # Переопределяем метод emit для обработки Unicode ошибок
+        original_emit = stream_handler.emit
+        def safe_emit(record):
+            try:
+                original_emit(record)
+            except UnicodeEncodeError:
+                # Если не удается закодировать, заменяем проблемные символы
+                record.msg = str(record.msg).encode('ascii', errors='replace').decode('ascii')
+                original_emit(record)
+        stream_handler.emit = safe_emit
+    
     logging.basicConfig(
         level=getattr(logging, log_level.upper()),
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
         handlers=[
-            logging.StreamHandler(),
-            logging.FileHandler(
-                f'logs/task2_analysis_{datetime.now().strftime("%Y%m%d_%H%M%S")}.log'
-            )
+            stream_handler,
+            logging.FileHandler(str(log_file), encoding='utf-8')
         ]
     )
 
 
-def load_config(config_path: str = "database/config.yaml") -> dict:
+def load_config(config_path: str = None) -> dict:
     """
     Загружает конфигурацию из YAML файла
     
     Args:
-        config_path: Путь к файлу конфигурации
+        config_path: Путь к файлу конфигурации (если None, используется путь относительно скрипта)
     
     Returns:
         dict: Конфигурация
     """
     logger = logging.getLogger(__name__)
     
-    config_file = Path(config_path)
+    # Если путь не указан, используем путь относительно расположения скрипта
+    if config_path is None:
+        script_dir = Path(__file__).parent
+        config_file = script_dir.parent / "database" / "config.yaml"
+    else:
+        config_file = Path(config_path)
+        # Если путь относительный и файл не найден, пробуем относительно скрипта
+        if not config_file.exists() and not config_file.is_absolute():
+            script_dir = Path(__file__).parent
+            config_file = script_dir.parent / config_path
+    
     if not config_file.exists():
-        raise FileNotFoundError(f"Файл конфигурации не найден: {config_path}")
+        raise FileNotFoundError(f"Файл конфигурации не найден: {config_file.absolute()}")
     
     with open(config_file, 'r', encoding='utf-8') as f:
         config = yaml.safe_load(f)
     
-    logger.info(f"✅ Конфигурация загружена из {config_path}")
+    logger.info(f" Конфигурация загружена из {config_file.absolute()}")
     return config
 
 
@@ -87,7 +135,7 @@ def run_task2_analysis(
     logger = logging.getLogger(__name__)
     
     logger.info("=" * 80)
-    logger.info("🏆 ЗАДАЧА 2: ПРОЦЕНТ ПОБЕД (ДОМА/В ГОСТЯХ)")
+    logger.info(" ЗАДАЧА 2: ПРОЦЕНТ ПОБЕД (ДОМА/В ГОСТЯХ)")
     logger.info("=" * 80)
     logger.info(f"Параметры анализа:")
     logger.info(f"  - Лига: {league_filter or 'все'}")
@@ -98,7 +146,7 @@ def run_task2_analysis(
     
     try:
         # Шаг 1: Инициализация Spark и обработка данных
-        logger.info("\n📊 Шаг 1/3: Обработка данных через Apache Spark SQL...")
+        logger.info("\n Шаг 1/3: Обработка данных через Apache Spark SQL...")
         
         with SparkProcessor(db_config) as processor:
             # Выполнение Spark SQL запроса
@@ -108,59 +156,59 @@ def run_task2_analysis(
                 top_n=top_n
             )
         
-        logger.info(f"✅ Обработка завершена. Получено записей: {len(results_df)}")
+        logger.info(f" Обработка завершена. Получено записей: {len(results_df)}")
         
         # Шаг 2: Сохранение результатов в CSV
-        logger.info("\n💾 Шаг 2/3: Сохранение результатов...")
+        logger.info("\n Шаг 2/3: Сохранение результатов...")
         
         output_path = Path(output_dir)
         output_path.mkdir(parents=True, exist_ok=True)
         
         csv_file = output_path / f"task2_home_away_win_rate_top{top_n}.csv"
         results_df.to_csv(csv_file, index=False, encoding='utf-8')
-        logger.info(f"✅ Результаты сохранены в CSV: {csv_file}")
+        logger.info(f" Результаты сохранены в CSV: {csv_file}")
         
         # Вывод результатов в консоль
-        logger.info("\n📋 Топ команды по проценту побед:")
+        logger.info("\n Топ команды по проценту побед:")
         print("\n" + "=" * 100)
         print(results_df.to_string(index=False))
         print("=" * 100 + "\n")
         
         # Шаг 3: Визуализация
         if not skip_visualizations:
-            logger.info("\n📈 Шаг 3/3: Создание визуализаций...")
+            logger.info("\n Шаг 3/3: Создание визуализаций...")
             
             visualizer = WinRateVisualizer(output_dir=output_dir)
             
             # График 1: Столбчатая диаграмма
-            logger.info("  → Создание столбчатой диаграммы...")
+            logger.info("  -> Создание столбчатой диаграммы...")
             visualizer.plot_home_away_comparison_bar(results_df)
             
             # График 2: Разница между дома и в гостях
-            logger.info("  → Создание графика разницы...")
+            logger.info("  -> Создание графика разницы...")
             visualizer.plot_home_away_difference(results_df)
             
             # График 3: Интерактивный Plotly график
-            logger.info("  → Создание интерактивного графика...")
+            logger.info("  -> Создание интерактивного графика...")
             visualizer.plot_interactive_plotly(results_df)
             
             # График 4: Комплексный dashboard
-            logger.info("  → Создание комплексного dashboard...")
+            logger.info("  -> Создание комплексного dashboard...")
             visualizer.plot_comprehensive_dashboard(results_df)
             
             # График 5: Таблица результатов
-            logger.info("  → Создание таблицы результатов...")
+            logger.info("  -> Создание таблицы результатов...")
             visualizer.generate_summary_table(results_df)
             
-            logger.info(f"✅ Все визуализации созданы и сохранены в: {output_dir}/")
+            logger.info(f" Все визуализации созданы и сохранены в: {output_dir}/")
         else:
-            logger.info("\n⏭️  Шаг 3/3: Визуализация пропущена (skip_visualizations=True)")
+            logger.info("\n  Шаг 3/3: Визуализация пропущена (skip_visualizations=True)")
         
         # Итоговая статистика
         logger.info("\n" + "=" * 80)
-        logger.info("✅ АНАЛИЗ УСПЕШНО ЗАВЕРШЕН!")
+        logger.info(" АНАЛИЗ УСПЕШНО ЗАВЕРШЕН!")
         logger.info("=" * 80)
-        logger.info("📁 Созданные файлы:")
+        logger.info(" Созданные файлы:")
         logger.info(f"   • CSV: {csv_file}")
         if not skip_visualizations:
             logger.info(f"   • Графики: {output_path}/*.png")
@@ -168,26 +216,26 @@ def run_task2_analysis(
         logger.info("=" * 80)
         
         # Основные выводы
-        logger.info("\n📊 ОСНОВНЫЕ ВЫВОДЫ:")
+        logger.info("\n ОСНОВНЫЕ ВЫВОДЫ:")
         if len(results_df) > 0:
             best_home = results_df.iloc[0]
-            logger.info(f"   🏠 Лучший результат дома: {best_home['team_name']} ({best_home['home_win_pct']:.1f}%)")
+            logger.info(f"    Лучший результат дома: {best_home['team_name']} ({best_home['home_win_pct']:.1f}%)")
             
             best_away_idx = results_df['away_win_pct'].idxmax()
             best_away = results_df.loc[best_away_idx]
-            logger.info(f"   ✈️  Лучший результат в гостях: {best_away['team_name']} ({best_away['away_win_pct']:.1f}%)")
+            logger.info(f"     Лучший результат в гостях: {best_away['team_name']} ({best_away['away_win_pct']:.1f}%)")
             
             results_df['diff'] = results_df['home_win_pct'] - results_df['away_win_pct']
             biggest_diff_idx = results_df['diff'].abs().idxmax()
             biggest_diff = results_df.loc[biggest_diff_idx]
-            logger.info(f"   📈 Наибольшая разница дома/гости: {biggest_diff['team_name']} ({biggest_diff['diff']:.1f}%)")
+            logger.info(f"    Наибольшая разница дома/гости: {biggest_diff['team_name']} ({biggest_diff['diff']:.1f}%)")
         
         logger.info("=" * 80 + "\n")
         
         return results_df
         
     except Exception as e:
-        logger.error(f"❌ Ошибка при выполнении анализа: {e}", exc_info=True)
+        logger.error(f" Ошибка при выполнении анализа: {e}", exc_info=True)
         raise
 
 
@@ -201,8 +249,8 @@ def main():
     parser.add_argument(
         '--config',
         type=str,
-        default='database/config.yaml',
-        help='Путь к файлу конфигурации (default: database/config.yaml)'
+        default=None,
+        help='Путь к файлу конфигурации (default: ../database/config.yaml относительно скрипта)'
     )
     parser.add_argument(
         '--league',
@@ -243,8 +291,7 @@ def main():
     
     args = parser.parse_args()
     
-    # Настройка логирования
-    Path('logs').mkdir(exist_ok=True)
+    # Настройка логирования (директория создается внутри setup_logging)
     setup_logging(args.log_level)
     
     logger = logging.getLogger(__name__)
@@ -273,14 +320,14 @@ def main():
             skip_visualizations=args.skip_viz
         )
         
-        logger.info("🎉 Программа успешно завершена!")
+        logger.info(" Программа успешно завершена!")
         return 0
         
     except KeyboardInterrupt:
-        logger.warning("\n⚠️  Программа прервана пользователем")
+        logger.warning("\n  Программа прервана пользователем")
         return 130
     except Exception as e:
-        logger.error(f"❌ Критическая ошибка: {e}", exc_info=True)
+        logger.error(f" Критическая ошибка: {e}", exc_info=True)
         return 1
 
 

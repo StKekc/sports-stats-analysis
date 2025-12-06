@@ -8,7 +8,7 @@ database:
   port: 5432
   database: "sports_stats"
   user: "postgres"
-  password: "postgres" 
+  password: "postgres"
   
 # Пути к данным
 paths:

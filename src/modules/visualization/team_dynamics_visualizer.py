@@ -203,7 +203,7 @@ class TeamDynamicsVisualizer:
         
         # Применяем тему
         season_text = f" ({season_filter})" if season_filter else ""
-        title = f"📈 Динамика накопления очков{season_text}<br>"
+        title = f" Динамика накопления очков{season_text}<br>"
         fig = self._apply_layout_theme(fig, title)
         
         fig.update_layout(height=600)
@@ -213,7 +213,7 @@ class TeamDynamicsVisualizer:
             save_path = self.output_dir / "task3_cumulative_points.html"
         
         fig.write_html(str(save_path))
-        logger.info(f"✅ График сохранён: {save_path}")
+        logger.info(f" График сохранён: {save_path}")
         
         if show:
             fig.show()
@@ -285,7 +285,7 @@ class TeamDynamicsVisualizer:
         fig.update_yaxes(title_text='Накопленная разница мячей')
         
         season_text = f" ({season_filter})" if season_filter else ""
-        title = f"⚽ Динамика разницы мячей{season_text}<br><sub>Положительное значение = забито больше, чем пропущено</sub>"
+        title = f" Динамика разницы мячей{season_text}<br><sub>Положительное значение = забито больше, чем пропущено</sub>"
         fig = self._apply_layout_theme(fig, title)
         
         fig.update_layout(height=600)
@@ -294,7 +294,7 @@ class TeamDynamicsVisualizer:
             save_path = self.output_dir / "task3_goal_diff_dynamics.html"
         
         fig.write_html(str(save_path))
-        logger.info(f"✅ График сохранён: {save_path}")
+        logger.info(f" График сохранён: {save_path}")
         
         if show:
             fig.show()
@@ -369,7 +369,7 @@ class TeamDynamicsVisualizer:
         fig.update_yaxes(title_text='Очки за месяц')
         
         season_text = f" ({season_filter})" if season_filter else ""
-        title = f"📅 Очки по месяцам{season_text}<br><sub>Агрегация результатов по календарным месяцам</sub>"
+        title = f" Очки по месяцам{season_text}<br><sub>Агрегация результатов по календарным месяцам</sub>"
         fig = self._apply_layout_theme(fig, title)
         
         fig.update_layout(
@@ -381,7 +381,7 @@ class TeamDynamicsVisualizer:
             save_path = self.output_dir / "task3_monthly_points.html"
         
         fig.write_html(str(save_path))
-        logger.info(f"✅ График сохранён: {save_path}")
+        logger.info(f" График сохранён: {save_path}")
         
         if show:
             fig.show()
@@ -426,10 +426,10 @@ class TeamDynamicsVisualizer:
         fig = make_subplots(
             rows=2, cols=2,
             subplot_titles=(
-                '📈 Накопленные очки',
-                '⚽ Накопленная разница мячей',
-                '🎯 Забитые голы (накопительно)',
-                '🛡️ Пропущенные голы (накопительно)'
+                ' Накопленные очки',
+                ' Накопленная разница мячей',
+                ' Забитые голы (накопительно)',
+                '🛡 Пропущенные голы (накопительно)'
             ),
             vertical_spacing=0.12,
             horizontal_spacing=0.08
@@ -508,7 +508,7 @@ class TeamDynamicsVisualizer:
         
         # Применяем тему
         season_text = f" — {season_filter}" if season_filter else ""
-        title = f"🏆 Комплексный анализ динамики команд{season_text}<br>"
+        title = f" Комплексный анализ динамики команд{season_text}<br>"
         fig = self._apply_layout_theme(fig, title)
         
         fig.update_layout(
@@ -530,7 +530,7 @@ class TeamDynamicsVisualizer:
             save_path = self.output_dir / "task3_comprehensive_dashboard.html"
         
         fig.write_html(str(save_path))
-        logger.info(f"✅ Dashboard сохранён: {save_path}")
+        logger.info(f" Dashboard сохранён: {save_path}")
         
         if show:
             fig.show()
@@ -590,7 +590,7 @@ class TeamDynamicsVisualizer:
         fig.update_xaxes(title_text='Номер матча в сезоне')
         fig.update_yaxes(title_text='Накопленные очки')
         
-        title = f"📊 {team_name}: Сравнение сезонов<br><sub>Динамика набора очков в разные годы</sub>"
+        title = f" {team_name}: Сравнение сезонов<br><sub>Динамика набора очков в разные годы</sub>"
         fig = self._apply_layout_theme(fig, title)
         
         fig.update_layout(height=600)
@@ -600,7 +600,7 @@ class TeamDynamicsVisualizer:
             save_path = self.output_dir / f"task3_season_comparison_{safe_name}.html"
         
         fig.write_html(str(save_path))
-        logger.info(f"✅ График сохранён: {save_path}")
+        logger.info(f" График сохранён: {save_path}")
         
         if show:
             fig.show()
@@ -646,7 +646,7 @@ class TeamDynamicsVisualizer:
         
         summary = summary.sort_values(['Сезон', 'Очки'], ascending=[True, False])
         
-        logger.info(f"✅ Сводная статистика: {len(summary)} записей")
+        logger.info(f" Сводная статистика: {len(summary)} записей")
         
         return summary
 
