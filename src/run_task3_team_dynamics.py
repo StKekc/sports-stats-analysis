@@ -32,7 +32,7 @@ if sys.platform == 'win32':
     project_root = Path(__file__).parent
     sys.path.insert(0, str(project_root))
     try:
-        from modules.data_processing.java_setup import setup_java_for_spark
+        from modules.utils.java_setup import setup_java_for_spark
         setup_java_for_spark()
     except ImportError:
         # Если модуль не найден, используем простую настройку

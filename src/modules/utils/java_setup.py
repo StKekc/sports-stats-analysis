@@ -155,3 +155,4 @@ def _setup_spark_env():
     os.environ['HADOOP_HOME'] = os.environ.get('HADOOP_HOME', '')
     os.environ['HADOOP_OPTS'] = os.environ.get('HADOOP_OPTS', '') + ' -Djava.library.path='
     os.environ['SPARK_LOCAL_DIRS'] = 'C:/temp/spark/tmp'
+
