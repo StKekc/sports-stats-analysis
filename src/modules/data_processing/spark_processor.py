@@ -5,11 +5,39 @@
 import logging
 from pathlib import Path
 from typing import Dict, List, Optional
+from datetime import datetime
 import pandas as pd
+import numpy as np
 from pyspark.sql import DataFrame, SparkSession
 from pyspark.sql import functions as F
 from pyspark.sql.window import Window
+from pyspark.sql.types import IntegerType, FloatType
+from pyspark.ml import Pipeline
+from pyspark.ml.feature import (
+    VectorAssembler, StringIndexer,
+    OneHotEncoder, StandardScaler)
+from pyspark.ml.classification import (
+    RandomForestClassifier,
+    LogisticRegression,
+    GBTClassifier)
+from pyspark.ml.evaluation import MulticlassClassificationEvaluator
+from pyspark.ml.tuning import ParamGridBuilder, CrossValidator
 from .spark_config import SparkConfig
+
+# Опциональный импорт sklearn (требуется только для кластеризации)
+try:
+    from sklearn.preprocessing import StandardScaler
+    from sklearn.cluster import KMeans
+    from sklearn.metrics import silhouette_score
+    SKLEARN_AVAILABLE = True
+except ImportError as e:
+    SKLEARN_AVAILABLE = False
+    StandardScaler = None
+    KMeans = None
+    silhouette_score = None
+    # Логируем предупреждение только если это действительно ImportError
+    import warnings
+    warnings.warn(f"scikit-learn не доступен: {e}. Функции кластеризации будут недоступны.", ImportWarning)
 
 
 logger = logging.getLogger(__name__)
@@ -40,7 +68,7 @@ class SparkProcessor:
         if self.spark is None:
             logger.info("Инициализация Spark сессии...")
             self.spark = self.spark_config.create_spark_session()
-            logger.info("✅ Spark сессия создана")
+            logger.info(" Spark сессия создана")
     
     def read_table_from_postgres(self, table_name: str) -> DataFrame:
         """
@@ -63,7 +91,7 @@ class SparkProcessor:
         )
         
         count = df.count()
-        logger.info(f"✅ Загружено {count} записей из таблицы '{table_name}'")
+        logger.info(f" Загружено {count} записей из таблицы '{table_name}'")
         
         return df
     
@@ -88,6 +116,774 @@ class SparkProcessor:
         )
         
         return df
+
+    def analyze_team_playing_styles(
+            self,
+            league_filter: Optional[str] = None,
+            season_filter: Optional[str] = None,
+            min_matches: int = 10,
+            n_clusters: Optional[int] = None
+    ) -> Dict:
+        """
+        ЗАДАЧА 1: Анализ игровых стилей команд через кластеризацию
+        Анализирует статистику команд и определяет их игровые стили
+        с использованием кластеризации K-means на основе Spark SQL.
+        Args:
+            league_filter: Фильтр по лиге (например, 'epl')
+            season_filter: Фильтр по сезону (например, '2023-2024')
+            min_matches: Минимальное количество матчей для включения команды
+            n_clusters: Количество кластеров (если None, определяется автоматически)
+        Returns:
+            Dict: Словарь с результатами анализа, включая:
+                - teams_with_styles: DataFrame с командами и их игровыми стилями
+                - n_clusters: Количество кластеров
+                - silhouette_score: Качество кластеризации
+                - cluster_analysis: DataFrame с анализом кластеров
+                - league_distribution: DataFrame с распределением по лигам
+                - style_changes: DataFrame с изменениями стилей
+        """
+        self.initialize_spark()
+
+        logger.info("=" * 70)
+        logger.info("ЗАДАЧА 1: Анализ игровых стилей команд через Spark и кластеризацию")
+        logger.info("=" * 70)
+
+        # 1. Загружаем и подготавливаем данные через Spark SQL
+        logger.info("📥 Загрузка данных статистики команд...")
+        prepared_data = self._prepare_team_style_data(
+            league_filter, season_filter, min_matches
+        )
+
+        # 2. Создаем метрики для кластеризации
+        logger.info("📊 Подготовка метрик для анализа стилей...")
+        metrics_df = self._create_style_metrics(prepared_data)
+
+        # 3. Выполняем кластеризацию
+        logger.info("🔍 Выполнение кластеризации K-means...")
+        clustering_result = self._perform_team_clustering(metrics_df, n_clusters)
+
+        # 4. Анализируем кластеры
+        logger.info("📈 Анализ характеристик кластеров...")
+        final_result = self._analyze_cluster_styles(clustering_result)
+
+        # 5. Сохраняем результаты
+        logger.info("💾 Сохранение результатов...")
+        self._save_style_analysis_results(final_result)
+
+        logger.info(f"[OK] Анализ завершен. Определено {final_result['n_clusters']} стилей игры")
+
+        # Возвращаем весь результат, а не только teams_with_styles
+        return final_result
+
+    def _prepare_team_style_data(
+            self,
+            league_filter: Optional[str],
+            season_filter: Optional[str],
+            min_matches: int
+    ) -> DataFrame:
+        """
+        Подготавливает данные статистики команд через Spark SQL
+        Returns:
+            DataFrame: Подготовленные данные команд
+        """
+        # Читаем таблицы из PostgreSQL
+        team_stats_df = self.read_table_from_postgres("team_season_stats")
+        teams_df = self.read_table_from_postgres("teams")
+        leagues_df = self.read_table_from_postgres("leagues")
+        seasons_df = self.read_table_from_postgres("seasons")
+
+        # Регистрируем таблицы для Spark SQL
+        team_stats_df.createOrReplaceTempView("team_season_stats")
+        teams_df.createOrReplaceTempView("teams")
+        leagues_df.createOrReplaceTempView("leagues")
+        seasons_df.createOrReplaceTempView("seasons")
+
+        # Формируем условия фильтрации
+        where_conditions = ["tss.matches_played > 0"]
+
+        if league_filter:
+            where_conditions.append(f"l.league_code = '{league_filter}'")
+
+        if season_filter:
+            where_conditions.append(f"s.season_code = '{season_filter}'")
+
+        where_clause = " AND ".join(where_conditions)
+
+        # SQL запрос для получения очищенных данных
+        sql_query = f"""
+        WITH team_stats_clean AS (
+            SELECT 
+                tss.*,
+                t.team_name,
+                l.league_name,
+                l.league_code,
+                s.season_code,
+                -- Заполняем пропущенные значения
+                COALESCE(tss.goals_per_90, 0) as goals_per_90_clean,
+                COALESCE(tss.xg_per_90, 0.1) as xg_per_90_clean,
+                COALESCE(tss.assists_per_90, 0) as assists_per_90_clean,
+                COALESCE(tss.possession_pct, 0) as possession_pct_clean,
+                COALESCE(tss.progressive_passes, 0) as progressive_passes_clean,
+                COALESCE(tss.yellow_cards, 0) as yellow_cards_clean,
+                COALESCE(tss.avg_age, 25.0) as avg_age_clean,
+                COALESCE(tss.players_used, 20) as players_used_clean
+            FROM team_season_stats tss
+            LEFT JOIN teams t ON tss.team_id = t.team_id
+            LEFT JOIN leagues l ON tss.league_id = l.league_id
+            LEFT JOIN seasons s ON tss.season_id = s.season_id
+            WHERE {where_clause} 
+                AND tss.matches_played >= {min_matches}
+                AND tss.minutes > 0
+        )
+        SELECT 
+            team_id,
+            team_name,
+            league_name,
+            league_code,
+            season_code,
+            season_id,
+            matches_played,
+            minutes,
+            -- Основные метрики
+            goals_per_90_clean as goals_per_90,
+            xg_per_90_clean as xg_per_90,
+            assists_per_90_clean as assists_per_90,
+            possession_pct_clean as possession_pct,
+            progressive_passes_clean as progressive_passes,
+            yellow_cards_clean as yellow_cards,
+            avg_age_clean as avg_age,
+            players_used_clean as players_used
+        FROM team_stats_clean
+        """
+
+        logger.info(f"Фильтры: лига={league_filter or 'все'}, "
+                    f"сезон={season_filter or 'все'}, мин.матчей={min_matches}")
+
+        result_df = self.spark.sql(sql_query)
+        count = result_df.count()
+        logger.info(f"✅ Подготовлено {count} записей статистики команд")
+
+        return result_df
+
+    def _create_style_metrics(self, team_data: DataFrame) -> DataFrame:
+        """
+        Создает метрики для анализа игровых стилей
+        Args:
+            team_data: DataFrame с базовой статистикой
+        Returns:
+            DataFrame: DataFrame с рассчитанными метриками стиля
+        """
+        from pyspark.sql import functions as F
+
+        logger.info("Создание метрик игрового стиля...")
+
+        # Рассчитываем дополнительные метрики
+        metrics_df = team_data.select(
+            F.col("team_id"),
+            F.col("team_name"),
+            F.col("league_name"),
+            F.col("season_code"),
+            F.col("season_id"),
+
+            # 1. Атакующий потенциал (базовые метрики)
+            F.col("goals_per_90").alias("attacking_power"),
+            F.col("xg_per_90").alias("expected_attacking"),
+
+            # 2. Эффективность атаки (голы / xG)
+            (F.col("goals_per_90") /
+             F.when(F.col("xg_per_90") > 0.1, F.col("xg_per_90"))
+             .otherwise(0.1)).alias("attack_efficiency"),
+
+            # 3. Креативность и создание моментов
+            F.col("assists_per_90").alias("creativity"),
+            F.col("progressive_passes").alias("progressive_actions"),
+
+            # 4. Контроль и владение мячом
+            F.col("possession_pct").alias("possession_control"),
+
+            # 5. Агрессивность и физическая игра
+            F.col("yellow_cards").alias("aggressiveness"),
+
+            # 6. Возрастная структура
+            F.col("avg_age").alias("team_age_profile"),
+
+            # 7. Широта использования состава
+            F.col("players_used").alias("squad_rotation"),
+
+            # 8. Разнообразие атаки (прогрессивные действия на гол)
+            (F.col("progressive_passes") /
+             F.when(F.col("goals_per_90") > 0.5, F.col("goals_per_90"))
+             .otherwise(0.5)).alias("attack_variety"),
+
+            # 9. Интенсивность атаки (голы на владение)
+            (F.col("goals_per_90") * 100 /
+             F.when(F.col("possession_pct") > 10, F.col("possession_pct"))
+             .otherwise(10)).alias("attack_intensity")
+        )
+
+        # Фильтруем некорректные данные
+        metrics_df = metrics_df.filter(
+            (F.col("attacking_power") >= 0) &
+            (F.col("possession_control") >= 0) &
+            (F.col("possession_control") <= 100) &
+            (F.col("team_age_profile") >= 18) &
+            (F.col("team_age_profile") <= 40)
+        )
+
+        # Заполняем оставшиеся пропуски
+        metrics_df = metrics_df.fillna(0)
+
+        final_count = metrics_df.count()
+        logger.info(f"✅ Создано {final_count} записей с {len(metrics_df.columns)} метриками стиля")
+
+        return metrics_df
+
+    def _perform_team_clustering(
+            self,
+            metrics_df: DataFrame,
+            n_clusters: Optional[int] = None
+    ) -> Dict:
+        """
+        Выполняет кластеризацию команд по стилям игры
+        Args:
+            metrics_df: DataFrame с метриками стиля
+            n_clusters: Количество кластеров (None для автоопределения)
+        Returns:
+            Dict: Результаты кластеризации
+        """
+        if not SKLEARN_AVAILABLE:
+            raise ImportError(
+                "scikit-learn не установлен. Установите его командой: pip install scikit-learn\n"
+                "Или используйте: pip install -r requirements.txt"
+            )
+        
+        logger.info("Выполнение кластеризации K-means...")
+
+        # Список метрик для кластеризации
+        feature_columns = [
+            "attacking_power",
+            "attack_efficiency",
+            "creativity",
+            "possession_control",
+            "aggressiveness",
+            "team_age_profile",
+            "squad_rotation",
+            "attack_variety",
+            "attack_intensity"
+        ]
+
+        # Конвертируем в pandas для scikit-learn
+        logger.info("Конвертация Spark DataFrame в pandas для ML...")
+        pandas_df = metrics_df.select(
+            "team_id", "team_name", "league_name", "season_code", *feature_columns
+        ).toPandas()
+
+        # Проверяем достаточно ли данных
+        if len(pandas_df) < 10:
+            logger.warning(f"Слишком мало данных для кластеризации: {len(pandas_df)} записей")
+            return {"data": pandas_df, "labels": np.zeros(len(pandas_df), dtype=int)}
+
+        # Подготавливаем данные для кластеризации
+        X = pandas_df[feature_columns].values
+
+        # Стандартизация
+        scaler = StandardScaler()
+        X_scaled = scaler.fit_transform(X)
+
+        # Определяем оптимальное количество кластеров
+        if n_clusters is None:
+            optimal_k = self._find_optimal_cluster_count(X_scaled)
+            n_clusters = optimal_k
+            logger.info(f"Автоопределение: оптимальное количество кластеров = {n_clusters}")
+
+        # Ограничиваем максимальное количество кластеров
+        n_clusters = min(n_clusters, max(2, len(pandas_df) // 10))
+
+        # Выполняем кластеризацию K-means
+
+        kmeans = KMeans(
+            n_clusters=n_clusters,
+            random_state=42,
+            n_init=20,
+            max_iter=300
+        )
+
+        cluster_labels = kmeans.fit_predict(X_scaled)
+
+        # Вычисляем метрики качества
+        if n_clusters > 1:
+            silhouette_avg = silhouette_score(X_scaled, cluster_labels)
+        else:
+            silhouette_avg = 0
+
+        logger.info(f"Кластеризация завершена:")
+        logger.info(f"  • Количество кластеров: {n_clusters}")
+        logger.info(f"  • Средний силуэтный коэффициент: {silhouette_avg:.3f}")
+        logger.info(f"  • Inertia: {kmeans.inertia_:.2f}")
+
+        # Распределение по кластерам
+        cluster_counts = pd.Series(cluster_labels).value_counts().sort_index()
+        for cluster_id, count in cluster_counts.items():
+            logger.info(f"  • Кластер {cluster_id}: {count} команд ({count / len(pandas_df) * 100:.1f}%)")
+
+        return {
+            "data": pandas_df,
+            "features": feature_columns,
+            "labels": cluster_labels,
+            "centers": kmeans.cluster_centers_,
+            "scaler": scaler,
+            "model": kmeans,
+            "silhouette_score": silhouette_avg,
+            "n_clusters": n_clusters,
+            "cluster_counts": cluster_counts.to_dict()
+        }
+
+    def _find_optimal_cluster_count(self, X_scaled: np.ndarray, max_k: int = 8) -> int:
+        """
+        Находит оптимальное количество кластеров
+        Args:
+            X_scaled: Масштабированные данные
+            max_k: Максимальное количество кластеров для проверки
+        Returns:
+            int: Оптимальное количество кластеров
+        """
+        if not SKLEARN_AVAILABLE:
+            raise ImportError(
+                "scikit-learn не установлен. Установите его командой: pip install scikit-learn"
+            )
+
+        logger.info("Поиск оптимального количества кластеров...")
+
+        n_samples = len(X_scaled)
+        max_k = min(max_k, n_samples // 3)  # Не больше чем n_samples/3
+
+        if max_k < 2:
+            return 2
+
+        inertia_values = []
+        silhouette_values = []
+        k_range = range(2, max_k + 1)
+
+        for k in k_range:
+            kmeans = KMeans(n_clusters=k, random_state=42, n_init=10)
+            labels = kmeans.fit_predict(X_scaled)
+
+            inertia_values.append(kmeans.inertia_)
+
+            if len(set(labels)) > 1:  # Не вычисляем силуэт для одного кластера
+                silhouette_values.append(silhouette_score(X_scaled, labels))
+            else:
+                silhouette_values.append(0)
+
+        # Метод локтя: находим точку наибольшего изгиба
+        if len(inertia_values) > 1:
+            diffs = np.diff(inertia_values)
+            diff_ratios = diffs[1:] / diffs[:-1] if len(diffs) > 1 else [0]
+
+            if len(diff_ratios) > 0:
+                elbow_k = np.argmax(diff_ratios) + 3  # +3 потому что начинаем с k=2
+            else:
+                elbow_k = 2
+        else:
+            elbow_k = 2
+
+        # Метод силуэта: выбираем k с максимальным силуэтом
+        if len(silhouette_values) > 0:
+            silhouette_k = k_range[np.argmax(silhouette_values)]
+        else:
+            silhouette_k = 2
+
+        # Комбинируем оба метода
+        optimal_k = min(elbow_k, silhouette_k, 3)
+
+        logger.info(f"Оптимальное количество кластеров: {optimal_k}")
+        logger.info(f"  • Метод локтя: {elbow_k}")
+        logger.info(f"  • Метод силуэта: {silhouette_k}")
+
+        return optimal_k
+
+    def _analyze_cluster_styles(self, clustering_result: Dict) -> Dict:
+        """
+        Анализирует кластеры и определяет игровые стили
+        Args:
+            clustering_result: Результаты кластеризации
+        Returns:
+            Dict: Результаты анализа с определенными стилями
+        """
+        logger.info("Анализ характеристик кластеров...")
+
+        pandas_df = clustering_result["data"]
+        cluster_labels = clustering_result["labels"]
+        cluster_centers = clustering_result["centers"]
+        n_clusters = clustering_result["n_clusters"]
+        scaler = clustering_result["scaler"]
+
+        # Добавляем метки кластеров в данные
+        pandas_df["cluster"] = cluster_labels
+
+        # Анализируем каждый кластер
+        cluster_analysis = []
+        style_mapping = {}
+
+        # Конвертируем числовые колонки в правильные типы
+        numeric_columns = [
+            "attacking_power", "attack_efficiency", "creativity", 
+            "possession_control", "aggressiveness", "team_age_profile",
+            "squad_rotation", "attack_variety"
+        ]
+        
+        for col in numeric_columns:
+            if col in pandas_df.columns:
+                pandas_df[col] = pd.to_numeric(pandas_df[col], errors='coerce').fillna(0)
+
+        for cluster_id in range(n_clusters):
+            # Фильтруем данные кластера
+            cluster_data = pandas_df[pandas_df["cluster"] == cluster_id].copy()
+
+            if len(cluster_data) == 0:
+                continue
+
+            # Вычисляем средние значения метрик (колонки уже конвертированы выше)
+            cluster_means = cluster_data[numeric_columns].mean(numeric_only=True)
+
+            # Определяем стиль игры на основе характеристик
+            style_name = self._determine_playing_style_from_metrics(
+                attacking=float(cluster_means.get("attacking_power", 0)),
+                possession=float(cluster_means.get("possession_control", 0)),
+                efficiency=float(cluster_means.get("attack_efficiency", 0)),
+                creativity=float(cluster_means.get("creativity", 0)),
+                aggressiveness=float(cluster_means.get("aggressiveness", 0)),
+                age=float(cluster_means.get("team_age_profile", 0))
+            )
+
+            # Характеристики кластера
+            # attacking_power уже конвертирован в числовой тип выше, поэтому nlargest должен работать
+            top_teams = cluster_data.nlargest(3, "attacking_power")["team_name"].tolist()
+            
+            cluster_info = {
+                "cluster_id": cluster_id,
+                "style_name": style_name,
+                "team_count": len(cluster_data),
+                "percentage": len(cluster_data) / len(pandas_df) * 100,
+                "avg_attacking": float(cluster_means.get("attacking_power", 0)),
+                "avg_possession": float(cluster_means.get("possession_control", 0)),
+                "avg_efficiency": float(cluster_means.get("attack_efficiency", 0)),
+                "avg_creativity": float(cluster_means.get("creativity", 0)),
+                "avg_aggressiveness": float(cluster_means.get("aggressiveness", 0)),
+                "avg_age": float(cluster_means.get("team_age_profile", 0)),
+                "top_teams": top_teams
+            }
+
+            cluster_analysis.append(cluster_info)
+            style_mapping[cluster_id] = style_name
+
+            logger.info(f"Кластер {cluster_id}: {style_name}")
+            logger.info(f"  • Команд: {cluster_info['team_count']} ({cluster_info['percentage']:.1f}%)")
+            logger.info(f"  • Средняя атака: {cluster_info['avg_attacking']:.2f}")
+            logger.info(f"  • Среднее владение: {cluster_info['avg_possession']:.1f}%")
+            logger.info(f"  • Топ команды: {', '.join(cluster_info['top_teams'])}")
+
+        # Присваиваем стили командам
+        pandas_df["playing_style"] = pandas_df["cluster"].map(style_mapping)
+
+        # Анализируем распределение по лигам
+        league_distribution = pandas_df.groupby(["league_name", "playing_style"]).size().unstack(fill_value=0)
+
+        # Анализируем изменения стилей по сезонам
+        style_changes = self._analyze_style_changes_over_time(pandas_df)
+
+        return {
+            "teams_with_styles": pandas_df,
+            "cluster_analysis": pd.DataFrame(cluster_analysis),
+            "league_distribution": league_distribution,
+            "style_changes": style_changes,
+            "style_mapping": style_mapping,
+            "n_clusters": n_clusters,
+            "silhouette_score": clustering_result["silhouette_score"]
+        }
+
+    def _determine_playing_style_from_metrics(
+            self,
+            attacking: float,
+            possession: float,
+            efficiency: float,
+            creativity: float,
+            aggressiveness: float,
+            age: float
+    ) -> str:
+        """
+        Определяет название игрового стиля на основе метрик
+        Returns:
+            str: Название стиля игры
+        """
+        # Определяем основные характеристики
+        is_attacking = attacking > 1.4
+        is_possession = possession > 55
+        is_efficient = efficiency > 1.05
+        is_creative = creativity > 0.8
+        is_aggressive = aggressiveness > 70
+        is_young = age < 26
+
+        # Определяем стиль на основе комбинации характеристик
+        if is_attacking:
+            if is_possession:
+                if is_efficient:
+                    return "Доминирующие эффективные"
+                else:
+                    return "Контролирующие атакующие"
+            else:
+                if is_efficient:
+                    return "Эффективные контратакующие"
+                else:
+                    return "Прямые атакующие"
+        else:
+            if is_possession:
+                if is_aggressive:
+                    return "Агрессивные контроллеры"
+                else:
+                    return "Пассивные контроллеры"
+            else:
+                if is_aggressive:
+                    return "Агрессивные оборонительные"
+                elif is_young:
+                    return "Молодые перспективные"
+                else:
+                    return "Сбалансированные оборонительные"
+
+    def _analyze_style_changes_over_time(self, teams_df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Анализирует изменения стилей команд по сезонам
+        Args:
+            teams_df: DataFrame с командами и стилями
+        Returns:
+            DataFrame: Анализ изменений стилей
+        """
+        logger.info("Анализ изменений стилей по сезонам...")
+
+        # Проверяем наличие необходимых колонок
+        required_columns = ["team_id", "playing_style"]
+        missing_columns = [col for col in required_columns if col not in teams_df.columns]
+        if missing_columns:
+            logger.warning(f"Отсутствуют необходимые колонки для анализа изменений: {missing_columns}")
+            return pd.DataFrame()
+
+        # Определяем колонку для сезона (может быть season_id или season_code)
+        season_col = None
+        if "season_id" in teams_df.columns:
+            season_col = "season_id"
+        elif "season_code" in teams_df.columns:
+            season_col = "season_code"
+        else:
+            logger.warning("Не найдена колонка сезона (season_id или season_code)")
+            return pd.DataFrame()
+
+        # Сортируем по команде и сезону
+        sort_columns = ["team_id", season_col]
+        teams_sorted = teams_df.sort_values(sort_columns)
+
+        # Находим команды с несколькими сезонами
+        team_season_counts = teams_sorted.groupby("team_id").size()
+        teams_with_multiple = team_season_counts[team_season_counts > 1].index
+
+        if len(teams_with_multiple) == 0:
+            logger.info("Нет команд с несколькими сезонами для анализа изменений")
+            return pd.DataFrame()
+
+        style_changes = []
+
+        for team_id in teams_with_multiple:
+            team_data = teams_sorted[teams_sorted["team_id"] == team_id]
+
+            # Проверяем изменения стиля
+            for i in range(1, len(team_data)):
+                prev_season = team_data.iloc[i - 1]
+                curr_season = team_data.iloc[i]
+
+                if prev_season["playing_style"] != curr_season["playing_style"]:
+                    # Используем season_code если есть, иначе season_col
+                    prev_season_val = prev_season.get("season_code", prev_season.get(season_col, ""))
+                    curr_season_val = curr_season.get("season_code", curr_season.get(season_col, ""))
+                    
+                    style_changes.append({
+                        "team_id": team_id,
+                        "team_name": team_data.iloc[0].get("team_name", ""),
+                        "league_name": team_data.iloc[0].get("league_name", ""),
+                        "from_season": prev_season_val,
+                        "to_season": curr_season_val,
+                        "from_style": prev_season["playing_style"],
+                        "to_style": curr_season["playing_style"],
+                        "change_description": f"{prev_season['playing_style']} -> {curr_season['playing_style']}"
+                    })
+
+        if style_changes:
+            changes_df = pd.DataFrame(style_changes)
+            logger.info(f"Найдено {len(changes_df)} изменений стилей")
+
+            # Анализ частых переходов
+            common_changes = changes_df["change_description"].value_counts().head(5)
+            logger.info("Самые частые изменения стилей:")
+            for change, count in common_changes.items():
+                logger.info(f"  • {change}: {count} команд")
+
+            return changes_df
+        else:
+            logger.info("Изменений стилей не обнаружено")
+            return pd.DataFrame()
+
+    def _save_style_analysis_results(self, analysis_results: Dict):
+        """
+        Сохраняет результаты анализа стилей
+        Args:
+            analysis_results: Результаты анализа
+        """
+        import os
+        from datetime import datetime
+
+        # Создаем папку для результатов
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        results_dir = f"data/team_styles_analysis_{timestamp}"
+        os.makedirs(results_dir, exist_ok=True)
+
+        logger.info(f"Сохранение результатов в {results_dir}")
+
+        # 1. Сохраняем команды со стилями
+        teams_path = os.path.join(results_dir, "teams_with_playing_styles.csv")
+        analysis_results["teams_with_styles"].to_csv(teams_path, index=False, encoding='utf-8-sig')
+        logger.info(f"✅ Команды со стилями: {teams_path}")
+
+        # 2. Сохраняем анализ кластеров
+        clusters_path = os.path.join(results_dir, "cluster_analysis.csv")
+        analysis_results["cluster_analysis"].to_csv(clusters_path, index=False, encoding='utf-8-sig')
+        logger.info(f"✅ Анализ кластеров: {clusters_path}")
+
+        # 3. Сохраняем распределение по лигам
+        leagues_path = os.path.join(results_dir, "league_distribution.csv")
+        analysis_results["league_distribution"].to_csv(leagues_path, encoding='utf-8-sig')
+        logger.info(f"✅ Распределение по лигам: {leagues_path}")
+
+        # 4. Сохраняем изменения стилей (если есть)
+        if len(analysis_results["style_changes"]) > 0:
+            changes_path = os.path.join(results_dir, "style_changes.csv")
+            analysis_results["style_changes"].to_csv(changes_path, index=False, encoding='utf-8-sig')
+            logger.info(f"✅ Изменения стилей: {changes_path}")
+
+        # 5. Сохраняем сводный отчет
+        report_path = os.path.join(results_dir, "analysis_report.txt")
+        with open(report_path, 'w', encoding='utf-8') as f:
+            f.write("=" * 70 + "\n")
+            f.write("АНАЛИЗ ИГРОВЫХ СТИЛЕЙ КОМАНД\n")
+            f.write("=" * 70 + "\n\n")
+
+            f.write(f"Дата анализа: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write(f"Всего команд проанализировано: {len(analysis_results['teams_with_styles'])}\n")
+            f.write(f"Количество стилей: {analysis_results['n_clusters']}\n")
+            f.write(f"Качество кластеризации (силуэт): {analysis_results['silhouette_score']:.3f}\n\n")
+
+            f.write("СТИЛИ ИГРЫ:\n")
+            f.write("-" * 50 + "\n")
+            for _, row in analysis_results["cluster_analysis"].iterrows():
+                f.write(f"\n{row['style_name']} (Кластер {row['cluster_id']}):\n")
+                f.write(f"  • Команд: {row['team_count']} ({row['percentage']:.1f}%)\n")
+                f.write(f"  • Атака: {row['avg_attacking']:.2f} гол/90 мин\n")
+                f.write(f"  • Владение: {row['avg_possession']:.1f}%\n")
+                f.write(f"  • Эффективность: {row['avg_efficiency']:.2f}\n")
+                f.write(f"  • Примеры команд: {', '.join(row['top_teams'][:3])}\n")
+
+        logger.info(f"✅ Отчет: {report_path}")
+        logger.info(f"📁 Все результаты сохранены в папку: {os.path.abspath(results_dir)}")
+
+    def get_team_style_recommendations(
+            self,
+            team_name: str,
+            season: Optional[str] = None
+    ) -> Dict:
+        """
+        Получает рекомендации по игровому стилю для конкретной команды
+        Args:
+            team_name: Название команды
+            season: Сезон (если не указан - последний доступный)
+        Returns:
+            Dict: Рекомендации и анализ команды
+        """
+        self.initialize_spark()
+
+        logger.info(f"🔍 Анализ рекомендаций для команды: {team_name}")
+
+        # Пытаемся найти команду в последних результатах анализа
+        if hasattr(self, 'last_style_analysis'):
+            teams_df = self.last_style_analysis['teams_with_styles']
+
+            # Фильтруем по названию команды
+            team_data = teams_df[teams_df['team_name'] == team_name]
+
+            if not team_data.empty:
+                if season:
+                    team_data = team_data[team_data['season_code'] == season]
+
+                if not team_data.empty:
+                    team_row = team_data.iloc[0]
+
+                    # Получаем рекомендации
+                    recommendations = self._generate_team_recommendations(team_row)
+
+                    return {
+                        'team_name': team_name,
+                        'season': team_row['season_code'],
+                        'league': team_row['league_name'],
+                        'current_style': team_row['playing_style'],
+                        'cluster': team_row['cluster'],
+                        'attacking_power': float(team_row['attacking_power']),
+                        'possession_control': float(team_row['possession_control']),
+                        'attack_efficiency': float(team_row['attack_efficiency']),
+                        'recommendations': recommendations
+                    }
+
+        logger.warning(f"Команда {team_name} не найдена в результатах анализа")
+        return {}
+
+    def _generate_team_recommendations(self, team_row: pd.Series) -> List[str]:
+        """
+        Генерирует рекомендации для команды на основе её метрик
+        Args:
+            team_row: Данные команды
+        Returns:
+            List[str]: Список рекомендаций
+        """
+        recommendations = []
+
+        attacking = team_row['attacking_power']
+        possession = team_row['possession_control']
+        efficiency = team_row['attack_efficiency']
+        creativity = team_row.get('creativity', 0)
+        aggressiveness = team_row.get('aggressiveness', 0)
+
+        # Анализируем атакующий потенциал
+        if attacking < 1.0:
+            recommendations.append("Увеличить атакующий потенциал: больше создавать опасных моментов")
+        elif attacking > 1.8:
+            recommendations.append("Улучшить реализацию: больше голов из созданных моментов")
+
+        # Анализируем владение мячом
+        if possession < 45:
+            recommendations.append("Увеличить владение мячом: больше контроля и точных передач")
+        elif possession > 60:
+            recommendations.append("Сделать владение более эффективным: больше опасных действий при владении")
+
+        # Анализируем эффективность
+        if efficiency < 0.9:
+            recommendations.append("Повысить эффективность атаки: улучшить качество завершения моментов")
+
+        # Анализируем креативность
+        if creativity < 0.5:
+            recommendations.append("Развивать креативность: больше голевых передач и ключевых пасов")
+
+        # Анализируем агрессивность
+        if aggressiveness > 80:
+            recommendations.append("Снизить агрессивность: меньше фолов и желтых карточек")
+        elif aggressiveness < 40:
+            recommendations.append("Увеличить агрессивность в обороне: больше прессинга")
+
+        return recommendations
     
     def calculate_home_away_win_rate(
         self, 
@@ -207,14 +1003,14 @@ class SparkProcessor:
         result_df = self.spark.sql(spark_sql_query)
         
         # Показываем результаты в консоли
-        logger.info(f"\n🏆 Топ-{top_n} команд по проценту побед:")
+        logger.info(f"\n Топ-{top_n} команд по проценту побед:")
         result_df.show(truncate=False)
         
         # Конвертируем в pandas для дальнейшей визуализации
         pandas_df = result_df.toPandas()
         
-        logger.info(f"✅ Обработка завершена. Найдено команд: {len(pandas_df)}")
-        
+        logger.info(f" Обработка завершена. Найдено команд: {len(pandas_df)}")
+
         return pandas_df
     
     def calculate_team_dynamics(
@@ -378,8 +1174,11 @@ class SparkProcessor:
             .withColumn("cumulative_goals_against", F.sum("goals_against").over(window_spec))
         
         # Показываем результаты в консоли
-        logger.info(f"\n📊 Пример данных динамики команд:")
+        logger.info(f"\n Пример данных динамики команд:")
         result_df.show(20, truncate=False)
+        
+        # Конвертируем в pandas для дальнейшей обработки
+        pandas_df = result_df.toPandas()
         
         # Сохраняем в Parquet если указан путь
         if output_parquet_path:
@@ -387,18 +1186,33 @@ class SparkProcessor:
             parquet_path.parent.mkdir(parents=True, exist_ok=True)
             
             logger.info(f"Сохранение данных в Parquet: {output_parquet_path}")
-            result_df.write.mode("overwrite").parquet(str(parquet_path))
-            logger.info(f"✅ Данные сохранены в Parquet: {output_parquet_path}")
-        
-        # Конвертируем в pandas для визуализации
-        pandas_df = result_df.toPandas()
+            try:
+                # Пробуем сохранить через Spark (может не работать на Windows из-за Hadoop)
+                result_df.write.mode("overwrite").parquet(str(parquet_path))
+                logger.info(f" Данные сохранены в Parquet через Spark: {output_parquet_path}")
+            except Exception as e:
+                # Если не получилось через Spark (проблема с Hadoop на Windows),
+                # используем альтернативный способ через pandas/pyarrow
+                logger.warning(f" Не удалось сохранить через Spark ({type(e).__name__}: {str(e)[:100]}...), используем альтернативный способ...")
+                try:
+                    pandas_df.to_parquet(parquet_path, engine='pyarrow', index=False)
+                    logger.info(f" Данные сохранены в Parquet через pandas/pyarrow: {output_parquet_path}")
+                except ImportError:
+                    # Если pyarrow не установлен, сохраняем в CSV как запасной вариант
+                    logger.warning(" PyArrow не установлен, сохраняем в CSV вместо Parquet")
+                    csv_path = parquet_path.with_suffix('.csv')
+                    pandas_df.to_csv(csv_path, index=False, encoding='utf-8')
+                    logger.info(f" Данные сохранены в CSV: {csv_path}")
+                except Exception as e2:
+                    logger.error(f" Не удалось сохранить данные: {e2}")
+                    raise
         
         # Статистика
         unique_teams = pandas_df['team_name'].nunique()
         unique_seasons = pandas_df['season_code'].nunique()
         total_records = len(pandas_df)
         
-        logger.info(f"\n✅ Обработка завершена:")
+        logger.info(f"\n Обработка завершена:")
         logger.info(f"   - Команд: {unique_teams}")
         logger.info(f"   - Сезонов: {unique_seasons}")
         logger.info(f"   - Всего записей: {total_records}")
@@ -422,7 +1236,7 @@ class SparkProcessor:
         df = self.spark.read.parquet(parquet_path)
         pandas_df = df.toPandas()
         
-        logger.info(f"✅ Загружено {len(pandas_df)} записей")
+        logger.info(f" Загружено {len(pandas_df)} записей")
         
         return pandas_df
     
@@ -463,14 +1277,1183 @@ class SparkProcessor:
         
         result_df = self.read_query_from_postgres(query)
         return result_df.toPandas()
+
+    def initialize_spark_for_task4(self):
+        """Инициализирует Spark сессию специально для задачи 4 (RDD)"""
+        if self.spark is None:
+            logger.info("Инициализация Spark сессии для RDD операций (Задача 4)...")
+            # Используем специальную конфигурацию для RDD
+            self.spark = self.spark_config.create_spark_session_for_rdd()
+            logger.info(" Spark сессия для RDD создана")
+
+            # Применяем дополнительные настройки для Windows
+            import platform
+            if platform.system() == "Windows":
+                self.spark_config.configure_for_windows_rdd()
+    def find_toughest_opponents(
+            self,
+            league_filter: Optional[str] = None,
+            season_filter: Optional[str] = None,
+            min_matches: int = 5,
+            top_teams: int = 100
+    ) -> Dict:
+        """
+        ЗАДАЧА 4: Определение «самого неудобного соперника»
+        Гибридный подход: SQL для подготовки + RDD для демонстрации операций
+
+        Используемые RDD операции для демонстрации:
+        - flatMap(): преобразование матчей в пары команд-результатов
+        - reduceByKey(): агрегация статистики по парам команд
+        - filter(): отбор пар с достаточным количеством матчей
+        - map(): расчет процента побед
+        - collect(): сбор результатов (ограниченный)
+
+        Args:
+            league_filter: Фильтр по лиге (например, 'epl')
+            season_filter: Фильтр по сезону (например, '2023-2024')
+            min_matches: Минимальное количество матчей между командами
+            top_teams: Количество команд для вывода (если 0 - все)
+
+        Returns:
+            Dict: Результаты анализа с самыми неудобными соперниками
+        """
+        self.initialize_spark_for_task4()
+
+        logger.info("=" * 70)
+        logger.info("ЗАДАЧА 4: Определение 'самого неудобного соперника' (Гибридный подход)")
+        logger.info("=" * 70)
+        logger.info("📋 Используемые RDD операции:")
+        logger.info("  • flatMap(): преобразование матчей в пары")
+        logger.info("  • reduceByKey(): агрегация статистики")
+        logger.info("  • filter(): отбор пар с достаточным количеством матчей")
+        logger.info("  • map(): расчет процента побед")
+        logger.info("  • collect(): сбор результатов")
+        logger.info("=" * 70)
+
+        try:
+            # 1. Подготавливаем данные через SQL (надежная часть)
+            logger.info("📥 Шаг 1: Загрузка и фильтрация данных через Spark SQL...")
+
+            matches_df = self.read_table_from_postgres("matches")
+            teams_df = self.read_table_from_postgres("teams")
+
+            # Проверяем наличие данных
+            if matches_df.count() == 0:
+                logger.error("❌ В таблице 'matches' нет данных!")
+                return {
+                    'toughest_opponents': pd.DataFrame(),
+                    'detailed_pair_stats': pd.DataFrame(),
+                    'stats': {
+                        'error': 'Нет данных в таблице matches',
+                        'total_teams': 0
+                    }
+                }
+
+            # Регистрируем таблицы
+            matches_df.createOrReplaceTempView("matches")
+            teams_df.createOrReplaceTempView("teams")
+
+            # Формируем базовые условия фильтрации
+            where_conditions = ["m.home_goals IS NOT NULL", "m.away_goals IS NOT NULL"]
+
+            # Получаем отфильтрованные данные
+            where_clause = " AND ".join(where_conditions)
+            filtered_df = self.spark.sql(f"""
+                SELECT 
+                    m.home_team_id,
+                    ht.team_name as home_team_name,
+                    m.away_team_id,
+                    at.team_name as away_team_name,
+                    m.home_goals,
+                    m.away_goals
+                FROM matches m
+                JOIN teams ht ON m.home_team_id = ht.team_id
+                JOIN teams at ON m.away_team_id = at.team_id
+                WHERE {where_clause}
+            """)
+
+            match_count = filtered_df.count()
+            logger.info(f"✅ Загружено {match_count} матчей")
+
+            if match_count == 0:
+                logger.warning("⚠️ Нет данных после фильтрации")
+                return {
+                    'toughest_opponents': pd.DataFrame(),
+                    'detailed_pair_stats': pd.DataFrame(),
+                    'stats': {'total_teams': 0}
+                }
+
+            # 2. Демонстрация RDD операций (ограниченная сложность)
+            logger.info("🔧 Шаг 2: Демонстрация RDD операций...")
+
+            # Преобразуем в RDD (одна операция)
+            matches_rdd = filtered_df.rdd
+
+            # flatMap: создаем пары команд (демонстрация операции)
+            logger.info("  → flatMap(): создание пар команд...")
+            pairs_rdd = matches_rdd.flatMap(lambda row: [
+                ((row.home_team_id, row.home_team_name, row.away_team_id, row.away_team_name),
+                 (1, 1 if row.home_goals > row.away_goals else 0)),
+                ((row.away_team_id, row.away_team_name, row.home_team_id, row.home_team_name),
+                 (1, 1 if row.away_goals > row.home_goals else 0))
+            ])
+
+            # reduceByKey: агрегируем статистику (демонстрация операции)
+            logger.info("  → reduceByKey(): агрегация статистики...")
+            aggregated_rdd = pairs_rdd.reduceByKey(lambda x, y: (x[0] + y[0], x[1] + y[1]))
+
+            # filter: по минимальному количеству матчей (демонстрация операции)
+            logger.info(f"  → filter(): отбор пар с ≥{min_matches} матчами...")
+            filtered_rdd = aggregated_rdd.filter(lambda x: x[1][0] >= min_matches)
+
+            # map: рассчитываем проценты побед (демонстрация операции)
+            logger.info("  → map(): расчет процентов побед...")
+            percentage_rdd = filtered_rdd.map(lambda x: (
+                x[0][0],  # team_id
+                x[0][1],  # team_name
+                x[0][2],  # opponent_id
+                x[0][3],  # opponent_name
+                x[1][0],  # total_matches
+                x[1][1],  # wins
+                (x[1][1] / x[1][0]) * 100 if x[1][0] > 0 else 0  # win_percentage
+            ))
+
+            # collect: собираем результаты (ограничиваем для безопасности)
+            logger.info("  → collect(): сбор результатов...")
+            try:
+                # Пробуем собрать все результаты, но ограничиваем на случай проблем
+                if match_count < 30000:  # Если данных не слишком много
+                    results_list = percentage_rdd.collect()
+                else:
+                    # Для больших данных собираем только топ
+                    results_list = percentage_rdd.take(5000)
+                    logger.info(f"  ⚠️  Ограничено 5000 записей из соображений производительности")
+            except Exception as rdd_error:
+                logger.error(f"❌ Ошибка при сборе RDD результатов: {rdd_error}")
+                # Возвращаем пустой результат
+                results_list = []
+
+            if not results_list:
+                logger.warning("⚠️ Не удалось получить результаты из RDD")
+                return {
+                    'toughest_opponents': pd.DataFrame(),
+                    'detailed_pair_stats': pd.DataFrame(),
+                    'stats': {'total_teams': 0}
+                }
+
+            logger.info(f"✅ Получено {len(results_list)} пар команд")
+
+            # 3. Обработка результатов в pandas (безопасно)
+            logger.info("📊 Шаг 3: Обработка результатов...")
+
+            results_data = []
+            detailed_data = []
+
+            for item in results_list:
+                team_info = {
+                    'team_id': item[0],
+                    'team_name': item[1],
+                    'opponent_id': item[2],
+                    'opponent_name': item[3],
+                    'total_matches': item[4],
+                    'wins': item[5],
+                    'win_percentage': round(item[6], 2),
+                    'league': league_filter or 'Все',
+                    'season': season_filter or 'Все'
+                }
+
+                results_data.append(team_info)
+                detailed_data.append(team_info)
+
+            # Преобразуем в DataFrame
+            all_pairs_df = pd.DataFrame(results_data)
+
+            if all_pairs_df.empty:
+                logger.warning("⚠️ Нет данных для анализа")
+                return {
+                    'toughest_opponents': pd.DataFrame(),
+                    'detailed_pair_stats': pd.DataFrame(),
+                    'stats': {'total_teams': 0}
+                }
+
+            # Находим самого неудобного соперника для каждой команды
+            logger.info("🔍 Поиск самого неудобного соперника...")
+
+            # Используем pandas для группировки (без RDD)
+            idx = all_pairs_df.groupby('team_id')['win_percentage'].idxmin()
+            toughest_df = all_pairs_df.loc[idx].copy()
+
+            # Переименовываем колонки
+            toughest_df = toughest_df.rename(columns={
+                'opponent_id': 'toughest_opponent_id',
+                'opponent_name': 'toughest_opponent_name',
+                'wins': 'wins_against'
+            })
+
+            # Сортируем по проценту побед (от худшего к лучшему)
+            toughest_df = toughest_df.sort_values('win_percentage', ascending=True)
+
+            # Ограничиваем количество если нужно
+            if top_teams > 0:  # 0 означает все команды
+                toughest_df = toughest_df.head(top_teams)
+
+            # Добавляем ранжирование
+            toughest_df['rank'] = range(1, len(toughest_df) + 1)
+
+            # Подробная статистика (все пары)
+            detailed_df = pd.DataFrame(detailed_data)
+
+            logger.info(f"✅ Анализ завершен. Найдено {len(toughest_df)} команд")
+
+            # 4. Сохраняем результаты
+            logger.info("💾 Сохранение результатов...")
+
+            import os
+            from datetime import datetime
+
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            results_dir = f"data/toughest_opponents_{timestamp}"
+            os.makedirs(results_dir, exist_ok=True)
+
+            if len(toughest_df) > 0:
+                csv_path = os.path.join(results_dir, "toughest_opponents.csv")
+                toughest_df.to_csv(csv_path, index=False, encoding='utf-8-sig')
+                logger.info(f"✅ Основные результаты: {csv_path}")
+
+            if len(detailed_df) > 0:
+                detailed_path = os.path.join(results_dir, "team_pair_stats.csv")
+                detailed_df.to_csv(detailed_path, index=False, encoding='utf-8-sig')
+                logger.info(f"✅ Подробная статистика: {detailed_path}")
+
+            # 5. Статистика анализа
+            stats = {
+                'total_teams': len(toughest_df),
+                'avg_win_percentage': toughest_df['win_percentage'].mean() if len(toughest_df) > 0 else 0,
+                'min_matches_threshold': min_matches,
+                'league_filter': league_filter,
+                'season_filter': season_filter,
+                'total_matches_analyzed': match_count,
+                'rdd_operations_used': ['flatMap', 'reduceByKey', 'filter', 'map', 'collect'],
+                'method': 'hybrid'
+            }
+
+            # Выводим топ результатов
+            if len(toughest_df) > 0:
+                logger.info("\n🏆 Топ-5 самых неудобных соперников:")
+                for i, row in toughest_df.head(5).iterrows():
+                    logger.info(f"   {row['rank']}. {row['team_name']} vs {row['toughest_opponent_name']}")
+                    logger.info(f"      → {row['win_percentage']:.1f}% побед в {row['total_matches']} матчах")
+
+            logger.info("\n" + "=" * 70)
+            logger.info("✅ Гибридный анализ успешно завершен!")
+            logger.info("=" * 70)
+
+            return {
+                'toughest_opponents': toughest_df,
+                'detailed_pair_stats': detailed_df,
+                'stats': stats
+            }
+
+        except Exception as e:
+            logger.error(f"❌ Критическая ошибка в гибридном анализе: {e}", exc_info=True)
+            return {
+                'toughest_opponents': pd.DataFrame(),
+                'detailed_pair_stats': pd.DataFrame(),
+                'stats': {
+                    'error': str(e),
+                    'total_teams': 0,
+                    'method': 'hybrid'
+                }
+            }
+
+    def predict_match_outcomes(
+            self,
+            league_filter: str = 'epl',
+            train_seasons_end: str = None,
+            test_season: str = None,
+            test_seasons_count: int = 1,
+            include_features: List[str] = None
+    ) -> Dict:
+        """
+        ЗАДАЧА 5: Прогноз исхода матча через машинное обучение
+
+        Комплексная предиктивная модель с полным циклом:
+        1. Feature Engineering (оконные функции, таблицы, личные встречи)
+        2. ML Pipeline (VectorAssembler, RandomForest)
+        3. Time-based train/test split
+        4. Оценка модели (accuracy, f1-score)
+
+        Args:
+            league_filter: Фильтр по лиге (default: 'epl')
+            train_seasons_end: Последний сезон для обучения (включительно). 
+                              Если None, используется автоматическое определение на основе всех доступных сезонов
+            test_season: Сезон для тестирования. Если None, автоматически используются последние test_seasons_count сезонов
+            test_seasons_count: Количество последних сезонов для тестирования (используется если test_season=None)
+            include_features: Список признаков для включения
+
+        Returns:
+            Dict: Результаты моделирования с метриками и прогнозами
+        """
+        self.initialize_spark()
+
+        logger.info("=" * 80)
+        logger.info("ЗАДАЧА 5: ПРОГНОЗ ИСХОДА МАТЧА (ML КЛАССИФИКАЦИЯ)")
+        logger.info("=" * 80)
+        logger.info("📋 План выполнения:")
+        logger.info("  1. Feature Engineering (оконные функции, таблицы)")
+        logger.info("  2. Подготовка целевой переменной")
+        logger.info("  3. Построение ML Pipeline")
+        logger.info("  4. Time-based train/test split")
+        logger.info("  5. Обучение и оценка модели")
+        logger.info("=" * 80)
+
+        try:
+            # 1. Загрузка и подготовка данных
+            logger.info("📥 Шаг 1: Загрузка и подготовка данных...")
+
+            # Читаем таблицы из PostgreSQL
+            matches_df = self.read_table_from_postgres("matches")
+            teams_df = self.read_table_from_postgres("teams")
+            leagues_df = self.read_table_from_postgres("leagues")
+            seasons_df = self.read_table_from_postgres("seasons")
+
+            # Регистрируем таблицы для Spark SQL
+            matches_df.createOrReplaceTempView("matches")
+            teams_df.createOrReplaceTempView("teams")
+            leagues_df.createOrReplaceTempView("leagues")
+            seasons_df.createOrReplaceTempView("seasons")
+
+            # Фильтруем по лиге
+            logger.info(f"Фильтр: лига={league_filter}")
+
+            # 2. Feature Engineering
+            logger.info("🔧 Шаг 2: Feature Engineering...")
+
+            # Получаем базовые данные матчей с сезонами
+            base_query = f"""
+            SELECT 
+                m.match_id,
+                m.match_date,
+                m.home_team_id,
+                m.away_team_id,
+                m.home_goals,
+                m.away_goals,
+                s.season_code,
+                l.league_code,
+                ht.team_name as home_team_name,
+                at.team_name as away_team_name,
+                CASE 
+                    WHEN m.home_goals > m.away_goals THEN 'H'
+                    WHEN m.home_goals < m.away_goals THEN 'A'
+                    ELSE 'D'
+                END as result
+            FROM matches m
+            JOIN teams ht ON m.home_team_id = ht.team_id
+            JOIN teams at ON m.away_team_id = at.team_id
+            JOIN leagues l ON m.league_id = l.league_id
+            JOIN seasons s ON m.season_id = s.season_id
+            WHERE l.league_code = '{league_filter}'
+                AND m.home_goals IS NOT NULL
+                AND m.away_goals IS NOT NULL
+            ORDER BY m.match_date
+            """
+
+            matches_base = self.spark.sql(base_query)
+
+            # Создаем расширенные признаки
+            features_df = self._create_match_features(matches_base)
+
+            # 3. Подготовка целевой переменной
+            logger.info("🎯 Шаг 3: Подготовка целевой переменной...")
+
+            # Добавляем числовой результат
+            result_mapping = {'H': 0, 'D': 1, 'A': 2}
+            result_expr = "CASE result WHEN 'H' THEN 0 WHEN 'D' THEN 1 ELSE 2 END"
+            features_df = features_df.withColumn("result_numeric", F.expr(result_expr))
+
+            # 4. Разделение на train/test по времени
+            logger.info("✂️  Шаг 4: Time-based train/test split...")
+            
+            # Получаем все доступные сезоны
+            # Сезоны в формате "YYYY-YYYY", поэтому строковое сравнение работает корректно
+            all_seasons_df = features_df.select("season_code").distinct().orderBy("season_code")
+            all_seasons = [row.season_code for row in all_seasons_df.collect()]
+            
+            if not all_seasons:
+                raise ValueError("Не найдено ни одного сезона в данных")
+            
+            logger.info(f"  Всего доступно сезонов: {len(all_seasons)} ({', '.join(all_seasons)})")
+            
+            # Определяем тестовые сезоны
+            if test_season is None:
+                # Автоматически используем последние test_seasons_count сезонов для теста
+                if len(all_seasons) <= test_seasons_count:
+                    raise ValueError(f"Недостаточно сезонов для разделения: всего {len(all_seasons)}, требуется минимум {test_seasons_count + 1}")
+                test_seasons = all_seasons[-test_seasons_count:]
+                logger.info(f"  Автоматически выбраны тестовые сезоны: {', '.join(test_seasons)}")
+            else:
+                # Используем указанный сезон для теста
+                if test_season not in all_seasons:
+                    raise ValueError(f"Тестовый сезон '{test_season}' не найден в данных. Доступные сезоны: {', '.join(all_seasons)}")
+                test_seasons = [test_season]
+                logger.info(f"  Используется указанный тестовый сезон: {test_season}")
+            
+            # Обучающие сезоны - все остальные
+            train_seasons = [s for s in all_seasons if s not in test_seasons]
+            
+            if not train_seasons:
+                raise ValueError("Не найдено сезонов для обучения")
+            
+            # Если указан train_seasons_end, дополнительно фильтруем обучающие сезоны
+            if train_seasons_end is not None:
+                train_seasons = [s for s in train_seasons if s <= train_seasons_end]
+                if not train_seasons:
+                    logger.warning(f"  После фильтрации по train_seasons_end='{train_seasons_end}' не осталось сезонов для обучения")
+                    raise ValueError(f"Нет сезонов для обучения после фильтрации по train_seasons_end='{train_seasons_end}'")
+                logger.info(f"  После фильтрации по train_seasons_end='{train_seasons_end}': {len(train_seasons)} сезонов")
+            
+            # Создаем train и test датафреймы
+            logger.info(f"  Обучающая выборка: сезоны {', '.join(train_seasons)} ({len(train_seasons)} сезонов)")
+            train_df = features_df.filter(F.col("season_code").isin(train_seasons))
+            
+            logger.info(f"  Тестовая выборка: сезоны {', '.join(test_seasons)} ({len(test_seasons)} сезонов)")
+            test_df = features_df.filter(F.col("season_code").isin(test_seasons))
+
+            logger.info(f"  Размер обучающей выборки: {train_df.count()} матчей")
+            logger.info(f"  Размер тестовой выборки: {test_df.count()} матчей")
+
+            if train_df.count() == 0 or test_df.count() == 0:
+                raise ValueError("Недостаточно данных для train/test split")
+
+            # 5. Построение и обучение ML Pipeline
+            logger.info("🤖 Шаг 5: Построение ML Pipeline...")
+
+            ml_results = self._build_and_train_ml_pipeline(
+                train_df=train_df,
+                test_df=test_df,
+                include_features=include_features
+            )
+
+            # 6. Сохранение результатов
+            logger.info("💾 Шаг 6: Сохранение результатов...")
+
+            # Формируем строку для названия файла из тестовых сезонов
+            test_seasons_str = '_'.join(test_seasons) if len(test_seasons) > 1 else test_seasons[0]
+            
+            output_data = self._save_prediction_results(
+                predictions=ml_results['predictions'],
+                test_df=test_df,
+                model_info=ml_results['model_info'],
+                league=league_filter,
+                test_season=test_seasons_str,
+                test_seasons=test_seasons
+            )
+
+            # 7. Анализ и выводы
+            logger.info("📊 Шаг 7: Анализ результатов...")
+            self._analyze_prediction_results(output_data)
+
+            logger.info("\n" + "=" * 80)
+            logger.info("✅ МОДЕЛЬ ПРОГНОЗА УСПЕШНО ОБУЧЕНА И ПРОТЕСТИРОВАНА!")
+            logger.info("=" * 80)
+
+            return output_data
+
+        except Exception as e:
+            logger.error(f"❌ Ошибка при прогнозировании: {e}", exc_info=True)
+            raise
+
+    def _create_match_features(self, matches_df: DataFrame) -> DataFrame:
+        """
+        Создает признаки для прогнозирования матчей
+
+        Args:
+            matches_df: DataFrame с базовыми данными матчей
+
+        Returns:
+            DataFrame с признаками
+        """
+        logger.info("Создание признаков...")
+
+        # 2.1. Форма команд за последние 5 матчей (оконные функции)
+        logger.info("  → Форма команд (последние 5 матчей)...")
+
+        # Создаем представление всех матчей команды
+        home_matches = matches_df.select(
+            F.col("match_id"),
+            F.col("match_date"),
+            F.col("home_team_id").alias("team_id"),
+            F.col("season_code"),
+            F.col("home_goals").alias("goals_for"),
+            F.col("away_goals").alias("goals_against"),
+            F.lit("home").alias("venue"),
+            F.col("result")
+        )
+
+        away_matches = matches_df.select(
+            F.col("match_id"),
+            F.col("match_date"),
+            F.col("away_team_id").alias("team_id"),
+            F.col("season_code"),
+            F.col("away_goals").alias("goals_for"),
+            F.col("home_goals").alias("goals_against"),
+            F.lit("away").alias("venue"),
+            F.when(F.col("result") == "H", "A")
+            .when(F.col("result") == "A", "H")
+            .otherwise("D").alias("result")
+        )
+
+        # Объединяем домашние и гостевые матчи
+        all_team_matches = home_matches.union(away_matches)
+
+        # Определяем окно для последних 5 матчей
+        window_spec = Window.partitionBy("team_id").orderBy("match_date") \
+            .rowsBetween(-5, -1)
+
+        # Рассчитываем признаки формы
+        team_form = all_team_matches \
+            .withColumn("points",
+                        F.when(F.col("result") == "H", 3)
+                        .when(F.col("result") == "D", 1)
+                        .otherwise(0)) \
+            .withColumn("last_5_points",
+                        F.sum("points").over(window_spec)) \
+            .withColumn("last_5_goals_for",
+                        F.sum("goals_for").over(window_spec)) \
+            .withColumn("last_5_goals_against",
+                        F.sum("goals_against").over(window_spec)) \
+            .withColumn("last_5_wins",
+                        F.sum(F.when(F.col("result") == "H", 1).otherwise(0)).over(window_spec)) \
+            .withColumn("last_5_draws",
+                        F.sum(F.when(F.col("result") == "D", 1).otherwise(0)).over(window_spec))
+
+        # Собираем форму для домашних команд
+        home_form = team_form.filter(F.col("venue") == "home") \
+            .select(
+            F.col("match_id"),
+            F.col("last_5_points").alias("home_form_points"),
+            F.col("last_5_goals_for").alias("home_form_goals_for"),
+            F.col("last_5_goals_against").alias("home_form_goals_against"),
+            F.col("last_5_wins").alias("home_form_wins"),
+            F.col("last_5_draws").alias("home_form_draws")
+        )
+
+        # Собираем форму для гостевых команд
+        away_form = team_form.filter(F.col("venue") == "away") \
+            .select(
+            F.col("match_id"),
+            F.col("last_5_points").alias("away_form_points"),
+            F.col("last_5_goals_for").alias("away_form_goals_for"),
+            F.col("last_5_goals_against").alias("away_form_goals_against"),
+            F.col("last_5_wins").alias("away_form_wins"),
+            F.col("last_5_draws").alias("away_form_draws")
+        )
+
+        # 2.2. Позиция в таблице (загружаем из standings)
+        logger.info("  → Позиция в турнирной таблице...")
+
+        try:
+            standings_df = self.read_table_from_postgres("standings")
+            standings_df.createOrReplaceTempView("standings")
+
+            # Получаем позицию команды в турнирной таблице
+            # Примечание: standings содержит только финальные позиции на конец сезона
+            # Используем rank как текущую позицию команды
+            standings_query = """
+            SELECT 
+                s.team_id,
+                s.season_id,
+                s.rank as position,
+                l.league_code,
+                sc.season_code as season_code
+            FROM standings s
+            JOIN teams t ON s.team_id = t.team_id
+            JOIN leagues l ON s.league_id = l.league_id
+            JOIN seasons sc ON s.season_id = sc.season_id
+            """
+
+            team_positions = self.spark.sql(standings_query)
+            
+            # Переименовываем колонки в team_positions, чтобы избежать конфликтов при join
+            team_positions_renamed = team_positions.select(
+                F.col("team_id"),
+                F.col("season_id"),
+                F.col("position"),
+                F.col("league_code").alias("pos_league_code"),
+                F.col("season_code").alias("pos_season_code")
+            )
+
+            # Присоединяем позиции к матчам
+            # Используем join по team_id и season_code
+            # Если league_code доступен, добавляем его в условие join
+            if "league_code" in matches_df.columns:
+                home_join_cond = (
+                    (matches_df.home_team_id == F.col("hp.team_id")) &
+                    (matches_df.season_code == F.col("hp.pos_season_code")) &
+                    (matches_df.league_code == F.col("hp.pos_league_code"))
+                )
+                away_join_cond = (
+                    (matches_df.away_team_id == F.col("ap.team_id")) &
+                    (matches_df.season_code == F.col("ap.pos_season_code")) &
+                    (matches_df.league_code == F.col("ap.pos_league_code"))
+                )
+            else:
+                home_join_cond = (
+                    (matches_df.home_team_id == F.col("hp.team_id")) &
+                    (matches_df.season_code == F.col("hp.pos_season_code"))
+                )
+                away_join_cond = (
+                    (matches_df.away_team_id == F.col("ap.team_id")) &
+                    (matches_df.season_code == F.col("ap.pos_season_code"))
+                )
+            
+            matches_with_positions = matches_df \
+                .join(team_positions_renamed.alias("hp"), home_join_cond, "left") \
+                .join(team_positions_renamed.alias("ap"), away_join_cond, "left") \
+                .select(
+                matches_df["*"],
+                F.col("hp.position").alias("home_position"),
+                F.col("ap.position").alias("away_position")
+            )
+
+        except Exception as e:
+            logger.warning(f"  ⚠️  Не удалось загрузить таблицу standings: {e}")
+            matches_with_positions = matches_df \
+                .withColumn("home_position", F.lit(10)) \
+                .withColumn("away_position", F.lit(10))
+
+        # 2.3. История личных встреч
+        logger.info("  → История личных встреч...")
+
+        # Создаем окно для истории встреч до текущего матча
+        head_to_head_window = Window.partitionBy(
+            "home_team_id", "away_team_id"
+        ).orderBy("match_date").rowsBetween(Window.unboundedPreceding, -1)
+
+        matches_with_h2h = matches_with_positions \
+            .withColumn("prev_home_wins",
+                        F.sum(F.when(F.col("result") == "H", 1).otherwise(0))
+                        .over(head_to_head_window)) \
+            .withColumn("prev_away_wins",
+                        F.sum(F.when(F.col("result") == "A", 1).otherwise(0))
+                        .over(head_to_head_window)) \
+            .withColumn("prev_draws",
+                        F.sum(F.when(F.col("result") == "D", 1).otherwise(0))
+                        .over(head_to_head_window)) \
+            .withColumn("prev_total_matches",
+                        F.count("*").over(head_to_head_window)) \
+            .withColumn("home_h2h_win_pct",
+                        F.when(F.col("prev_total_matches") > 0,
+                               F.col("prev_home_wins") / F.col("prev_total_matches") * 100)
+                        .otherwise(50.0)) \
+            .withColumn("away_h2h_win_pct",
+                        F.when(F.col("prev_total_matches") > 0,
+                               F.col("prev_away_wins") / F.col("prev_total_matches") * 100)
+                        .otherwise(50.0))
+
+        # 2.4. Объединяем все признаки
+        logger.info("  → Объединение всех признаков...")
+
+        features_df = matches_with_h2h \
+            .join(home_form, "match_id", "left") \
+            .join(away_form, "match_id", "left") \
+            .fillna(0, subset=[
+            "home_form_points", "away_form_points",
+            "home_form_goals_for", "away_form_goals_for",
+            "home_form_goals_against", "away_form_goals_against",
+            "home_form_wins", "away_form_wins",
+            "home_form_draws", "away_form_draws",
+            "prev_home_wins", "prev_away_wins", "prev_draws",
+            "home_h2h_win_pct", "away_h2h_win_pct"
+        ]) \
+            .fillna(10, subset=["home_position", "away_position"])
+
+        # 2.5. Добавляем дополнительные признаки
+        features_df = features_df \
+            .withColumn("form_points_diff",
+                        F.col("home_form_points") - F.col("away_form_points")) \
+            .withColumn("position_diff",
+                        F.col("away_position") - F.col("home_position")) \
+            .withColumn("h2h_win_pct_diff",
+                        F.col("home_h2h_win_pct") - F.col("away_h2h_win_pct"))
+
+        logger.info(f"✅ Создано признаков: {len(features_df.columns)}")
+
+        return features_df
+
+    def _build_and_train_ml_pipeline(
+            self,
+            train_df: DataFrame,
+            test_df: DataFrame,
+            include_features: List[str] = None
+    ) -> Dict:
+        """
+        Строит и обучает ML pipeline
+
+        Args:
+            train_df: Обучающая выборка
+            test_df: Тестовая выборка
+            include_features: Признаки для включения
+
+        Returns:
+            Dict: Результаты моделирования
+        """
+        logger.info("Построение ML pipeline...")
+
+        # Определяем признаки по умолчанию
+        if include_features is None:
+            include_features = [
+                "home_form_points",
+                "away_form_points",
+                "home_form_goals_for",
+                "away_form_goals_for",
+                "home_form_goals_against",
+                "away_form_goals_against",
+                "home_form_wins",
+                "away_form_wins",
+                "home_position",
+                "away_position",
+                "home_h2h_win_pct",
+                "away_h2h_win_pct",
+                "form_points_diff",
+                "position_diff",
+                "h2h_win_pct_diff"
+            ]
+
+        logger.info(f"Используемые признаки ({len(include_features)}):")
+        for i, feat in enumerate(include_features, 1):
+            logger.info(f"  {i:2d}. {feat}")
+
+        # 1. Подготавливаем данные
+        # Удаляем строки с пропущенными значениями
+        train_clean = train_df.dropna(subset=include_features + ["result_numeric"])
+        test_clean = test_df.dropna(subset=include_features + ["result_numeric"])
+
+        logger.info(f"  Размеры после очистки:")
+        logger.info(f"    Обучающая: {train_clean.count()} матчей")
+        logger.info(f"    Тестовая: {test_clean.count()} матчей")
+
+        # 2. Создаем этапы pipeline
+        logger.info("  Создание этапов ML pipeline...")
+
+        # VectorAssembler для объединения признаков
+        assembler = VectorAssembler(
+            inputCols=include_features,
+            outputCol="features"
+        )
+
+        # Random Forest Classifier
+        rf = RandomForestClassifier(
+            labelCol="result_numeric",
+            featuresCol="features",
+            numTrees=100,
+            maxDepth=10,
+            seed=42,
+            featureSubsetStrategy="sqrt"
+        )
+
+        # 3. Создаем pipeline
+        pipeline = Pipeline(stages=[assembler, rf])
+
+        # 4. Обучаем модель
+        logger.info("  Обучение модели Random Forest...")
+        start_time = datetime.now()
+
+        model = pipeline.fit(train_clean)
+
+        training_time = (datetime.now() - start_time).total_seconds()
+        logger.info(f"  Обучение завершено за {training_time:.1f} секунд")
+
+        # 5. Делаем прогнозы
+        logger.info("  Прогнозирование на тестовой выборке...")
+        predictions = model.transform(test_clean)
+
+        # 6. Оценка модели
+        logger.info("  Оценка модели...")
+        evaluator = MulticlassClassificationEvaluator(
+            labelCol="result_numeric",
+            predictionCol="prediction"
+        )
+
+        accuracy = evaluator.evaluate(predictions, {evaluator.metricName: "accuracy"})
+        f1 = evaluator.evaluate(predictions, {evaluator.metricName: "f1"})
+        weighted_precision = evaluator.evaluate(predictions,
+                                                {evaluator.metricName: "weightedPrecision"})
+        weighted_recall = evaluator.evaluate(predictions,
+                                             {evaluator.metricName: "weightedRecall"})
+
+        logger.info(f"  Метрики модели:")
+        logger.info(f"    Accuracy: {accuracy:.3f}")
+        logger.info(f"    F1-Score: {f1:.3f}")
+        logger.info(f"    Precision: {weighted_precision:.3f}")
+        logger.info(f"    Recall: {weighted_recall:.3f}")
+
+        # 7. Анализ важности признаков
+        try:
+            rf_model = model.stages[-1]
+            feature_importance = list(zip(include_features,
+                                          rf_model.featureImportances.toArray()))
+            feature_importance.sort(key=lambda x: x[1], reverse=True)
+
+            logger.info(f"  Топ-5 важных признаков:")
+            for i, (feat, importance) in enumerate(feature_importance[:5], 1):
+                logger.info(f"    {i}. {feat}: {importance:.4f}")
+        except Exception as e:
+            logger.warning(f"  Не удалось получить важность признаков: {e}")
+            feature_importance = []
+
+        # 8. Анализ ошибок по классам
+        logger.info("  Анализ ошибок по классам...")
+
+        # Создаем confusion matrix
+        conf_matrix = predictions.groupBy("result_numeric", "prediction") \
+            .count() \
+            .orderBy("result_numeric", "prediction")
+
+        # Конвертируем в pandas для анализа
+        conf_pd = conf_matrix.toPandas()
+
+        if not conf_pd.empty:
+            # Результаты по классам
+            result_labels = {0: 'Home Win', 1: 'Draw', 2: 'Away Win'}
+
+            for true_class in [0, 1, 2]:
+                class_data = predictions.filter(F.col("result_numeric") == true_class)
+                if class_data.count() > 0:
+                    class_accuracy = evaluator.evaluate(class_data,
+                                                        {evaluator.metricName: "accuracy"})
+                    logger.info(f"    {result_labels[true_class]}: "
+                                f"{class_accuracy:.3f} "
+                                f"({class_data.count()} матчей)")
+
+        return {
+            'model': model,
+            'predictions': predictions,
+            'metrics': {
+                'accuracy': accuracy,
+                'f1_score': f1,
+                'precision': weighted_precision,
+                'recall': weighted_recall,
+                'training_time_seconds': training_time
+            },
+            'feature_importance': feature_importance,
+            'confusion_matrix': conf_pd,
+            'model_info': {
+                'algorithm': 'RandomForest',
+                'num_trees': 100,
+                'max_depth': 10,
+                'features_used': include_features
+            }
+        }
+
+    def _save_prediction_results(
+            self,
+            predictions: DataFrame,
+            test_df: DataFrame,
+            model_info: Dict,
+            league: str,
+            test_season: str,
+            test_seasons: List[str] = None
+    ) -> Dict:
+        """
+        Сохраняет результаты прогнозирования
+
+        Args:
+            predictions: DataFrame с прогнозами
+            test_df: Исходные тестовые данные
+            model_info: Информация о модели
+            league: Лига
+            test_season: Тестовый сезон (строка для имени файла)
+            test_seasons: Список тестовых сезонов (если несколько)
+
+        Returns:
+            Dict: Сохраненные результаты
+        """
+        import os
+        from datetime import datetime
+
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        results_dir = f"data/match_predictions_{league}_{test_season}_{timestamp}"
+        os.makedirs(results_dir, exist_ok=True)
+
+        logger.info(f"Сохранение результатов в {results_dir}")
+        
+        # Используем список сезонов, если передан, иначе один сезон
+        if test_seasons is None:
+            test_seasons = [test_season]
+
+        # 1. Сохраняем прогнозы с деталями
+        predictions_detail = predictions.select(
+            "match_id",
+            "match_date",
+            "home_team_name",
+            "away_team_name",
+            "home_goals",
+            "away_goals",
+            "result",
+            "result_numeric",
+            "prediction",
+            "probability"
+        )
+
+        # Конвертируем probability в читаемый формат
+        from pyspark.sql.functions import udf
+        from pyspark.sql.types import StringType
+
+        def format_probability(prob_vector):
+            try:
+                probs = prob_vector.toArray()
+                return f"H:{probs[0]:.2f}, D:{probs[1]:.2f}, A:{probs[2]:.2f}"
+            except:
+                return "N/A"
+
+        format_prob_udf = udf(format_probability, StringType())
+        predictions_detail = predictions_detail.withColumn(
+            "probabilities", format_prob_udf("probability")
+        )
+
+        # Сохраняем в CSV
+        csv_path = os.path.join(results_dir, "match_predictions.csv")
+        predictions_detail.toPandas().to_csv(csv_path, index=False, encoding='utf-8-sig')
+        logger.info(f"✅ Прогнозы: {csv_path}")
+
+        # 2. Сохраняем метрики модели
+        metrics_path = os.path.join(results_dir, "model_metrics.json")
+        import json
+
+        with open(metrics_path, 'w', encoding='utf-8') as f:
+            json.dump({
+                'league': league,
+                'test_season': test_season,
+                'test_seasons': test_seasons,
+                'model_info': model_info,
+                'test_size': predictions.count(),
+                'timestamp': timestamp
+            }, f, indent=2, ensure_ascii=False)
+
+        logger.info(f"✅ Метрики: {metrics_path}")
+
+        # 3. Сохраняем важность признаков
+        if 'feature_importance' in model_info:
+            fi_path = os.path.join(results_dir, "feature_importance.csv")
+            pd.DataFrame(
+                model_info['feature_importance'],
+                columns=['feature', 'importance']
+            ).to_csv(fi_path, index=False, encoding='utf-8-sig')
+            logger.info(f"✅ Важность признаков: {fi_path}")
+
+        # 4. Сохраняем анализ ошибок
+        error_analysis = predictions.filter(
+            F.col("result_numeric") != F.col("prediction")
+        ).count()
+
+        total_matches = predictions.count()
+        error_rate = error_analysis / total_matches if total_matches > 0 else 0
+
+        error_path = os.path.join(results_dir, "error_analysis.txt")
+        with open(error_path, 'w', encoding='utf-8') as f:
+            f.write("=" * 60 + "\n")
+            f.write("АНАЛИЗ ОШИБОК ПРОГНОЗИРОВАНИЯ\n")
+            f.write("=" * 60 + "\n\n")
+            f.write(f"Всего матчей: {total_matches}\n")
+            f.write(f"Неправильных прогнозов: {error_analysis}\n")
+            f.write(f"Процент ошибок: {error_rate:.1%}\n")
+            f.write(f"Процент точности: {(1 - error_rate):.1%}\n\n")
+
+            # Анализ по типам ошибок
+            error_types = predictions.filter(
+                F.col("result_numeric") != F.col("prediction")
+            ).groupBy("result_numeric", "prediction").count().collect()
+
+            if error_types:
+                f.write("Распределение ошибок:\n")
+                f.write("-" * 40 + "\n")
+                for row in error_types:
+                    # Преобразуем в int, так как значения могут быть float
+                    result_idx = int(row['result_numeric']) if row['result_numeric'] is not None else 0
+                    pred_idx = int(row['prediction']) if row['prediction'] is not None else 0
+                    actual = ['Home Win', 'Draw', 'Away Win'][result_idx]
+                    predicted = ['Home Win', 'Draw', 'Away Win'][pred_idx]
+                    f.write(f"{actual} → {predicted}: {row['count']} матчей\n")
+
+        logger.info(f"✅ Анализ ошибок: {error_path}")
+
+        # 5. Примеры прогнозов
+        sample_predictions = predictions_detail.limit(10).toPandas()
+        sample_path = os.path.join(results_dir, "sample_predictions.csv")
+        sample_predictions.to_csv(sample_path, index=False, encoding='utf-8-sig')
+
+        logger.info(f"✅ Примеры прогнозов: {sample_path}")
+
+        # 6. Сводный отчет
+        report_path = os.path.join(results_dir, "summary_report.txt")
+        with open(report_path, 'w', encoding='utf-8') as f:
+            f.write("=" * 70 + "\n")
+            f.write("ОТЧЕТ О ПРОГНОЗИРОВАНИИ ИСХОДОВ МАТЧЕЙ\n")
+            f.write("=" * 70 + "\n\n")
+
+            f.write(f"ЛИГА: {league.upper()}\n")
+            if len(test_seasons) > 1:
+                f.write(f"ТЕСТОВЫЕ СЕЗОНЫ: {', '.join(test_seasons)}\n")
+            else:
+                f.write(f"ТЕСТОВЫЙ СЕЗОН: {test_season}\n")
+            f.write(f"ДАТА АНАЛИЗА: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+
+            f.write("МОДЕЛЬ:\n")
+            f.write(f"  Алгоритм: {model_info.get('algorithm', 'N/A')}\n")
+            f.write(f"  Количество деревьев: {model_info.get('num_trees', 'N/A')}\n")
+            f.write(f"  Максимальная глубина: {model_info.get('max_depth', 'N/A')}\n")
+            f.write(f"  Признаков использовано: {len(model_info.get('features_used', []))}\n\n")
+
+            f.write("РЕЗУЛЬТАТЫ:\n")
+            if 'metrics' in model_info:
+                f.write(f"  Accuracy: {model_info['metrics'].get('accuracy', 0):.3f}\n")
+                f.write(f"  F1-Score: {model_info['metrics'].get('f1_score', 0):.3f}\n")
+                f.write(f"  Precision: {model_info['metrics'].get('precision', 0):.3f}\n")
+                f.write(f"  Recall: {model_info['metrics'].get('recall', 0):.3f}\n")
+
+            f.write(f"\nВсего проанализировано матчей: {total_matches}\n")
+            f.write(f"Время обучения: {model_info.get('training_time_seconds', 0):.1f} секунд\n\n")
+
+            f.write("РЕКОМЕНДАЦИИ:\n")
+            f.write("1. Для улучшения точности можно добавить больше исторических данных\n")
+            f.write("2. Рассмотреть дополнительные признаки (составы, травмы, погода)\n")
+            f.write("3. Попробовать ансамбль моделей или нейронные сети\n")
+            f.write("4. Учитывать мотивацию команд (турнирное положение)\n")
+
+        logger.info(f"✅ Сводный отчет: {report_path}")
+
+        return {
+            'predictions_df': predictions_detail.toPandas(),
+            'metrics': model_info.get('metrics', {}),
+            'model_info': model_info,
+            'results_dir': results_dir,
+            'error_rate': error_rate,
+            'total_matches': total_matches
+        }
+
+    def _analyze_prediction_results(self, results: Dict):
+        """
+        Анализирует результаты прогнозирования
+
+        Args:
+            results: Результаты моделирования
+        """
+        logger.info("Анализ результатов прогнозирования...")
+
+        predictions_df = results['predictions_df']
+        metrics = results['metrics']
+
+        # Анализ точности по типам исходов
+        if not predictions_df.empty:
+            predictions_df['correct'] = (
+                    predictions_df['result_numeric'] == predictions_df['prediction']
+            )
+
+            # Точность по классам
+            for result_type in ['H', 'D', 'A']:
+                mask = predictions_df['result'] == result_type
+                if mask.any():
+                    accuracy = predictions_df.loc[mask, 'correct'].mean()
+                    count = mask.sum()
+                    result_name = {
+                        'H': 'домашние победы',
+                        'D': 'ничьи',
+                        'A': 'выездные победы'
+                    }[result_type]
+
+                    logger.info(f"  Точность для {result_name}: "
+                                f"{accuracy:.1%} ({count} матчей)")
+
+            # Самые уверенные правильные прогнозы
+            correct_high_conf = predictions_df[
+                predictions_df['correct'] &
+                predictions_df['probabilities'].str.contains('H:0.[7-9]|D:0.[7-9]|A:0.[7-9]')
+                ]
+
+            if not correct_high_conf.empty:
+                logger.info(f"  Высокоуверенные правильные прогнозы: "
+                            f"{len(correct_high_conf)} матчей")
+
+            # Самые большие ошибки
+            errors = predictions_df[~predictions_df['correct']]
+            if not errors.empty:
+                logger.info(f"  Самые неожиданные результаты ({len(errors)} матчей):")
+                for _, row in errors.head(3).iterrows():
+                    logger.info(f"    {row['home_team_name']} - {row['away_team_name']}: "
+                                f"прогноз {row['prediction']}, факт {row['result']}")
+
+        # Сравнение с базовыми моделями
+        baseline_accuracy = self._calculate_baseline_accuracy(predictions_df)
+
+        logger.info(f"\n  Сравнение с базовыми моделями:")
+        logger.info(f"    Наша модель: {metrics.get('accuracy', 0):.3f}")
+        logger.info(f"    Всегда домашняя победа: {baseline_accuracy.get('always_home', 0):.3f}")
+        logger.info(f"    Случайный выбор: ~{baseline_accuracy.get('random', 0):.3f}")
+
+        improvement = metrics.get('accuracy', 0) - max(
+            baseline_accuracy.get('always_home', 0),
+            baseline_accuracy.get('random', 0)
+        )
+
+        if improvement > 0:
+            logger.info(f"  Улучшение над базовой моделью: +{improvement:.3f}")
+        else:
+            logger.warning(f"  Модель не превосходит базовые подходы!")
+
+    def _calculate_baseline_accuracy(self, predictions_df: pd.DataFrame) -> Dict:
+        """
+        Рассчитывает точность базовых моделей
+
+        Args:
+            predictions_df: DataFrame с прогнозами
+
+        Returns:
+            Dict: Точность базовых моделей
+        """
+        if predictions_df.empty:
+            return {'always_home': 0, 'random': 0.333}
+
+        # Базовая модель 1: Всегда предсказываем домашнюю победу
+        always_home_accuracy = (predictions_df['result'] == 'H').mean()
+
+        # Базовая модель 2: Случайный выбор (равномерное распределение)
+        random_accuracy = 0.333  # Теоретическая точность для 3 классов
+
+        # Базовая модель 3: Предсказываем наиболее частый исход
+        most_common = predictions_df['result'].mode()
+        if not most_common.empty:
+            most_common_accuracy = (predictions_df['result'] == most_common[0]).mean()
+        else:
+            most_common_accuracy = 0
+
+        return {
+            'always_home': always_home_accuracy,
+            'random': random_accuracy,
+            'most_common': most_common_accuracy
+        }
     
     def close(self):
         """Закрывает Spark сессию"""
         if self.spark is not None:
             logger.info("Закрытие Spark сессии...")
-            self.spark_config.stop_spark_session()
-            self.spark = None
-            logger.info("✅ Spark сессия закрыта")
+            try:
+                self.spark_config.stop_spark_session()
+                self.spark = None
+                logger.info(" Spark сессия закрыта")
+            except Exception as e:
+                error_msg = str(e).lower()
+                # Игнорируем ошибки удаления временных файлов на Windows (это нормально)
+                if any(keyword in error_msg for keyword in [
+                    "delete", "temp", "temporary", "cleanup", 
+                    "unable to delete", "exception while deleting"
+                ]):
+                    # Это нормально для Windows, просто логируем на уровне DEBUG
+                    logger.debug(f"Предупреждение при закрытии Spark сессии (игнорируется): {e}")
+                else:
+                    # Другие ошибки логируем как предупреждения
+                    logger.warning(f"Предупреждение при закрытии Spark сессии: {e}")
+                self.spark = None
     
     def __enter__(self):
         """Context manager: инициализирует Spark при входе"""

@@ -129,7 +129,7 @@ class WinRateVisualizer:
             save_path = self.output_dir / "task2_home_away_win_rate_bar.png"
         
         plt.savefig(save_path, dpi=300, bbox_inches='tight')
-        logger.info(f"✅ График сохранен: {save_path}")
+        logger.info(f" График сохранен: {save_path}")
         
         plt.show()
         plt.close()
@@ -200,7 +200,7 @@ class WinRateVisualizer:
             save_path = self.output_dir / "task2_home_away_difference.png"
         
         plt.savefig(save_path, dpi=300, bbox_inches='tight')
-        logger.info(f"✅ График сохранен: {save_path}")
+        logger.info(f" График сохранен: {save_path}")
         
         plt.show()
         plt.close()
@@ -283,7 +283,7 @@ class WinRateVisualizer:
             save_path = self.output_dir / "task2_home_away_win_rate_interactive.html"
         
         fig.write_html(save_path)
-        logger.info(f"✅ Интерактивный график сохранен: {save_path}")
+        logger.info(f" Интерактивный график сохранен: {save_path}")
         
         fig.show()
     
@@ -390,7 +390,7 @@ class WinRateVisualizer:
             save_path = self.output_dir / "task2_comprehensive_dashboard.html"
         
         fig.write_html(save_path)
-        logger.info(f"✅ Dashboard сохранен: {save_path}")
+        logger.info(f" Dashboard сохранен: {save_path}")
         
         fig.show()
     
@@ -480,7 +480,7 @@ class WinRateVisualizer:
             save_path = self.output_dir / "task2_results_table.png"
         
         plt.savefig(save_path, dpi=300, bbox_inches='tight')
-        logger.info(f"✅ Таблица сохранена: {save_path}")
+        logger.info(f" Таблица сохранена: {save_path}")
         
         plt.close()
 
